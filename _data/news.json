@@ -1,7 +1,823 @@
 {
- "updated": "2026-10-22T15:53:19+00:00",
- "count": 278,
+ "updated": "2026-10-22T19:18:00+00:00",
+ "count": 337,
  "items": [
+  {
+   "id": "c01d4284efc5e9cd",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/kilicdaroglundan-akpye-ulke-yangin-yeriyken-hangi-erken-secimi-yapacaksiniz-415293",
+   "date": "2026-10-22T19:15:15+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/22/kk.jpg.webp?itok=gOTeosYH",
+   "title": {
+    "orig": "Kılıçdaroğlu'ndan AKP'ye: 'Ülke yangın yeriyken hangi erken seçimi yapacaksınız?'"
+   },
+   "summary": {
+    "orig": "Haber Merkezi İktidar cephesinden gelen erken seçim açıklamalarını değerlendiren Kılıçdaroğlu, TBMM'nin böyle bir karara hazır olmadığını savundu. Türkiye'nin içinde bulunduğu tablo düzelmeden bir seçimin anlamı olmadığını söyleyen Kılıçdaroğlu, \"Beceremezlerse seçim zaten…"
+   }
+  },
+  {
+   "id": "cb3201c7315b70fc",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/noticias/2026/10/22/audiencia-publica-parlamentaria-cuba-no-es-una-amenaza-el-bloqueo-si-denuncia-los-efectos-del-bloqueo-de-ee-uu/",
+   "date": "2026-10-22T18:51:30+00:00",
+   "image": null,
+   "title": {
+    "orig": "Audiencia Pública Parlamentaria “Cuba no es una amenaza, el bloqueo sí” denuncia los efectos del bloqueo de EE.UU."
+   },
+   "summary": {
+    "orig": "La Audiencia Pública Parlamentaria se realizó en el Instituto Nacional de Oncología y Radiobiología, a pocos días de la votación en Naciones Unidas contra el cerco económico, comercial y financiero impuesto por Estados Unidos a la Isla. The post Audiencia Pública Parlamentaria…"
+   }
+  },
+  {
+   "id": "afbdc360c192f673",
+   "source": "nuevorumbo",
+   "name": "Nuevo Rumbo",
+   "country": "ES",
+   "lang": "es",
+   "url": "https://www.nuevo-rumbo.es/2026/10/22/la-condena-a-meta-una-reprimenda-que-no-cambiara-gran-cosa/",
+   "date": "2026-10-22T18:45:47+00:00",
+   "image": null,
+   "title": {
+    "orig": "La condena a Meta: una reprimenda que no cambiará gran cosa"
+   },
+   "summary": {
+    "orig": "Meta, condenada a pagar 18 mil millones de dólares por el diseño adictivo de sus aplicaciones y su impacto negativo en adolescentes. Este llamativo titular abrió hace varias semanas numerosos telediarios y periódicos en todo el mundo, incluido nuestro país, donde se señalaba sin…"
+   }
+  },
+  {
+   "id": "192eb2e4f28ed8bf",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/22/se-flavio-bolsonaro-nao-tem-nada-a-esconder-que-abra-suas-contas-afirma-cientista-politica/",
+   "date": "2026-10-22T18:45:16+00:00",
+   "image": null,
+   "title": {
+    "orig": "‘Se Flávio Bolsonaro não tem nada a esconder, que abra suas contas’, afirma cientista política"
+   },
+   "summary": {
+    "orig": "O ministro da Secretaria-Geral da Presidência, Guilherme Boulos, e o senador Camilo Santana (PT-CE), um dos coordenadores da campanha de Lula, protocolaram no Tribunal Superior Eleitoral (TSE) a abertura de sigilo bancário, fiscal e telefônico do presidente nos últimos oito…"
+   }
+  },
+  {
+   "id": "89d6d1bb575fb9bf",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/kuba-gercegi/abluka-gunlukleri-232-21-ekim-2026-carsamba-415292",
+   "date": "2026-10-22T18:38:42+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/22/kuba-1.jpg.webp?itok=IWZYt13w",
+   "title": {
+    "orig": "Abluka Günlükleri 232 | 21 Ekim 2026 Çarşamba"
+   },
+   "summary": {
+    "orig": "Haber Merkezi ABD'nin 28 Ekim'deki BM oylaması öncesi baskılarına ve Raúl Castro'yu hedef alan hamlelerine uluslararası tepkiler büyürken, Küba ise Ukrayna savaşına asker gönderdiğine yönelik iddiaları yalanladı. Abluka ve enerji krizine karşı direnişini sürdüren ada, eğitim ve…"
+   }
+  },
+  {
+   "id": "771f47a28b0cda71",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/22/apos-pressao-raquel-lyra-anuncia-gratuidade-nos-onibus-intermunicipais-de-pernambuco-para-votacao-do-2o-turno/",
+   "date": "2026-10-22T18:34:25+00:00",
+   "image": null,
+   "title": {
+    "orig": "Após pressão, Raquel Lyra anuncia gratuidade nos ônibus intermunicipais de Pernambuco para votação do 2º turno"
+   },
+   "summary": {
+    "orig": "Governadora foi cobrada nas redes nos últimos dias; ela ainda não explicou como eleitores podem acessar o direito Fonte"
+   }
+  },
+  {
+   "id": "e8f78b18e52ec55d",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/22/quem-define-o-orcamento-do-pais-na-venezuela-populacao-escolhe-projetos-prioritarios-para-receber-recursos-publicos/",
+   "date": "2026-10-22T18:30:10+00:00",
+   "image": null,
+   "title": {
+    "orig": "Quem define o orçamento do país? Na Venezuela, população escolhe projetos prioritários para receber recursos públicos"
+   },
+   "summary": {
+    "orig": "Oitava Consulta Nacional Popular foi realizada no domingo, 18 de outubro, e mobilizou mais de 5400 territórios Fonte"
+   }
+  },
+  {
+   "id": "2aa45ffcadd4e29b",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/noticias/2026/10/22/empresa-carnica-de-sancti-spiritus-avanza-en-la-aplicacion-de-las-nuevas-transformaciones-economicas/",
+   "date": "2026-10-22T18:27:57+00:00",
+   "image": null,
+   "title": {
+    "orig": "Empresa Cárnica de Sancti Spíritus avanza en la aplicación de las nuevas transformaciones económicas"
+   },
+   "summary": {
+    "orig": "Las nuevas transformaciones económicas para el sector empresarial centraron el intercambio en la Empresa Cárnica de Sancti Spíritus, con directores de entidades agroalimentarias de varios territorios. El encuentro tenía como objetivo evaluar el avance de las medidas aprobadas y…"
+   }
+  },
+  {
+   "id": "81a0fb76f8681d6b",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/noticias/2026/10/22/cuba-aprueba-programa-para-dotar-de-activos-productivos-a-personas-en-situacion-de-vulnerabilidad/",
+   "date": "2026-10-22T18:24:01+00:00",
+   "image": null,
+   "title": {
+    "orig": "Cuba aprueba programa para dotar de activos productivos a personas en situación de vulnerabilidad"
+   },
+   "summary": {
+    "orig": "Cuba aprobó el Acuerdo 10455, que establece el Programa de inclusión económica para la dotación de activos productivos de pequeña escala a personas en situación de vulnerabilidad multidimensional, una iniciativa que busca favorecer su incorporación a actividades económicas y…"
+   }
+  },
+  {
+   "id": "7db1f0e1e9fd0fad",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/22/paraguai-entrega-energia-de-itaipu-a-data-center-e-reforca-lacos-com-trump/?utm_source=rss&utm_medium=rss&utm_campaign=paraguai-entrega-energia-de-itaipu-a-data-center-e-reforca-lacos-com-trump",
+   "date": "2026-10-22T18:23:17+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-15.20.49-1024x683.jpeg",
+   "title": {
+    "orig": "Paraguai entrega energia de Itaipu a data center e reforça laços com Trump"
+   },
+   "summary": {
+    "orig": "Acordo entre Crusoe e Araico prevê estrutura para atender clientes nos EUA e na América Latina; pacote também inclui cooperação militar e escritório antidrogas em Assunção"
+   }
+  },
+  {
+   "id": "5ab0d79d7e5fb263",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/22/mobilizacoes-em-pernambuco-reunem-cultura-futebol-e-movimentos-populares-em-apoio-a-lula-antes-do-segundo-turno/",
+   "date": "2026-10-22T18:22:07+00:00",
+   "image": null,
+   "title": {
+    "orig": "Mobilizações em Pernambuco reúnem cultura, futebol e movimentos populares em apoio a Lula antes do segundo turno"
+   },
+   "summary": {
+    "orig": "Ações passam por exibição de filmes, confecção de camisas, atos com políticos e caminhadas até o próximo sábado (24) Fonte"
+   }
+  },
+  {
+   "id": "3de93b11756fd76e",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/podcast/bem-viver/2026/10/22/gog-dia-25-de-outubro-o-povo-brasileiro-vai-dizer-sim-a-democracia-e-nao-ao-viralatismo/",
+   "date": "2026-10-22T18:19:20+00:00",
+   "image": null,
+   "title": {
+    "orig": "GOG: ‘Dia 25 de outubro, o povo brasileiro vai dizer sim à democracia e não ao viralatismo’"
+   },
+   "summary": {
+    "orig": "GOG, pioneiro do movimento hip-hop no Brasil e conhecido como Poeta do Rap Nacional, entende que este momento de eleições presidenciais é possivelmente “a disputa mais importante dos últimos anos”. Durante o programa Conversa Bem Viver, da Rádio Brasil de Fato, o artista ainda…"
+   }
+  },
+  {
+   "id": "a614eb31f8d812f5",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/mekke-anlasmasinin-komisyonda-gorusulecegi-tarih-belli-oldu-415290",
+   "date": "2026-10-22T18:18:04+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/22/mekke-6.jpg.webp?itok=bpskHrEI",
+   "title": {
+    "orig": "Mekke Anlaşması'nın komisyonda görüşüleceği tarih belli oldu"
+   },
+   "summary": {
+    "orig": "Haber Merkezi TBMM Dışişleri Komisyonu Başkanı Fuat Oktay, Türkiye'yi Suudi Arabistan ve Pakistan'ın bölgesel savaşlarına ortak etme riski taşıyan Mekke Anlaşması'nın, 27 Ekim Salı günü komisyonda görüşülmeye başlanacağını belirtti. Türkiye, Suudi Arabistan ve Pakistan arasında…"
+   }
+  },
+  {
+   "id": "2bca7ff3b90b142a",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/colunista/larissa-melo/2026/10/22/os-servos-da-nuvem-e-o-feudo-algoritmico-da-meta-nas-eleicoes-brasileiras-de-2026/",
+   "date": "2026-10-22T18:17:22+00:00",
+   "image": null,
+   "title": {
+    "orig": "Os servos da nuvem e o feudo algorítmico da Meta nas eleições brasileiras de 2026"
+   },
+   "summary": {
+    "orig": "Nos anos 1980, quando a militância queria virar voto na reta final da eleição, pegava uma pilha de panfletos no sindicato, ia para a porta da fábrica ou para a fila do ônibus e conversava com o trabalhador. Se a polícia do regime militar não aparecesse para confiscar o material…"
+   }
+  },
+  {
+   "id": "f114a87f51b31a49",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/22/acordo-assinado-por-campanhas-de-lula-e-flavio-bolsonaro-preve-divulgacao-simultanea-de-sigilos-pelo-tse/",
+   "date": "2026-10-22T18:17:10+00:00",
+   "image": null,
+   "title": {
+    "orig": "Acordo assinado por Lula e Flávio Bolsonaro prevê divulgação simultânea de sigilos pelo TSE; Mendonça decide sobre liberação"
+   },
+   "summary": {
+    "orig": "As campanhas do presidente Luiz Inácio Lula da Silva (PT) e do senador Flávio Bolsonaro (PL) assinaram nesta quinta-feira (22), no Tribunal Superior Eleitoral (TSE), um documento conjunto que autoriza a abertura total e simultânea dos sigilos bancário, fiscal e telefônico dos…"
+   }
+  },
+  {
+   "id": "e83ec1228f499371",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/22/no-sertao-pernambucano-policia-e-militante-bolsonarista-entram-em-escola-para-intimidar-e-constranger-por-uso-de-broches-e-camisas-vermelhas/",
+   "date": "2026-10-22T18:13:04+00:00",
+   "image": null,
+   "title": {
+    "orig": "No Sertão pernambucano, polícia e militante bolsonarista entram em escola para intimidar e constranger por uso de broches e camisas vermelhas"
+   },
+   "summary": {
+    "orig": "Caso aconteceu em Salgueiro, na terça-feira (20); sindicato dos professores cobra pronunciamento da governadora Fonte"
+   }
+  },
+  {
+   "id": "016221cad9b0975f",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://mesaredonda.cubadebate.cu/noticias/2026/10/22/esta-tarde-en-la-mesa-redonda-audiencia-parlamentaria-contra-el-bloqueo/",
+   "date": "2026-10-22T18:12:28+00:00",
+   "image": null,
+   "title": {
+    "orig": "Esta tarde en la Mesa Redonda: Audiencia parlamentaria contra el bloqueo"
+   },
+   "summary": {
+    "orig": "La Mesa Redonda transmitirá en su espacio la audiencia parlamentaria contra el bloqueo “Cuba no es una amenaza, el bloqueo sí”, realizada en esta jornada en el Instituto Nacional de Oncología y Radiobiología. The post Esta tarde en la Mesa Redonda: Audiencia parlamentaria contra…"
+   }
+  },
+  {
+   "id": "14891e8c634604e4",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/22/exercito-do-lula-supera-8-milhoes-e-coloca-mobilizacao-no-centro-da-eleicao/?utm_source=rss&utm_medium=rss&utm_campaign=exercito-do-lula-supera-8-milhoes-e-coloca-mobilizacao-no-centro-da-eleicao",
+   "date": "2026-10-22T18:10:43+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/campanha-de-lula-nas-ruas-foto-ricardo-stuckert.jpeg",
+   "title": {
+    "orig": "Exército do Lula supera 8 milhões e coloca mobilização no centro da eleição"
+   },
+   "summary": {
+    "orig": "Canal de André Janones cresce às vésperas do segundo turno, enquanto participação nas urnas, direitos sociais e disputa nas redes ganham destaque na reta final"
+   }
+  },
+  {
+   "id": "caeb8c0d0b4d146e",
+   "source": "granma",
+   "name": "Granma",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.granma.cu/deportes/2026-10-22/las-medallas-de-dakar-2026-un-pedazo-de-la-historia-de-senegal-22-10-2026-14-10-36",
+   "date": "2026-10-22T18:10:36+00:00",
+   "image": null,
+   "title": {
+    "orig": "Las medallas de Dakar-2026, un pedazo de la historia de Senegal"
+   },
+   "summary": {
+    "orig": "El león y el árbol baobab, símbolos emblemáticos de la nación africana, aparecen en el centro de las preseas"
+   }
+  },
+  {
+   "id": "bc122de13c60cead",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/22/pec-da-tarifa-zero-e-um-marco-para-politica-de-mobilidade-e-reduz-desigualdade-diz-pesquisador/",
+   "date": "2026-10-22T18:10:03+00:00",
+   "image": null,
+   "title": {
+    "orig": "‘PEC da Tarifa Zero é um marco’ para política de mobilidade e reduz desigualdade, diz pesquisador"
+   },
+   "summary": {
+    "orig": "Daniel Santini relata benefícios de cidades que já têm tarifa zero e defende que há viabilidade econômica Fonte"
+   }
+  },
+  {
+   "id": "ba3e8913ce1f31be",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/22/zelensky-capitula-e-russia-pode-vencer-apos-quatro-anos-de-guerra-na-ucrania/?utm_source=rss&utm_medium=rss&utm_campaign=zelensky-capitula-e-russia-pode-vencer-apos-quatro-anos-de-guerra-na-ucrania",
+   "date": "2026-10-22T17:59:12+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-14.58.11-1024x576.jpeg",
+   "title": {
+    "orig": "Zelensky capitula e Rússia pode vencer após quatro anos de guerra na Ucrânia"
+   },
+   "summary": {
+    "orig": "Em entrevista à Fox News, Zelensky aceita manter sob controle russo os territórios ocupados desde 2014 por Moscou; Trump busca conter a inflação antes das midterms de novembro"
+   }
+  },
+  {
+   "id": "867eafb07b9b47ef",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/22/quem-controla-o-algoritmo-influencia-o-mundo/",
+   "date": "2026-10-22T17:49:00+00:00",
+   "image": null,
+   "title": {
+    "orig": "Quem controla o algoritmo influencia o mundo"
+   },
+   "summary": {
+    "orig": "Por Marco Túlio da Silva A recente proposta australiana intitulada My Feed, My Way permite que as pessoas escolham se querem ver conteúdo personalizado ou desligar o algoritmo e visualizar apenas o conteúdo das pessoas que seguem. A iniciativa busca oferecer ao usuário maior…"
+   }
+  },
+  {
+   "id": "62644e3feed94906",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/22/exposicao-ligne-deau-romance-pesadelo-e-tributo-a-wilson-ney-movimentam-o-rio-grande-do-sul/",
+   "date": "2026-10-22T17:37:56+00:00",
+   "image": null,
+   "title": {
+    "orig": "Exposição ‘Ligne d’eau’, ‘Romance Pesadelo’ e tributo a Wilson Ney movimentam o Rio Grande do Sul"
+   },
+   "summary": {
+    "orig": "Exposição, espetáculos de teatro, shows, mostra de cinema e lançamento de livro compõem a programação cultural da semana no Rio Grande do Sul. Várias atividades têm entrada gratuita. Maratona de Monólogos reúne mostra competitiva e homenagem a Sandra Dani em Canela A sexta…"
+   }
+  },
+  {
+   "id": "31740346120bbc8f",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/iletisim-emekcileri-24-ekimde-sokaga-cikiyor-artik-yeter-nefes-alamiyoruz-415289",
+   "date": "2026-10-22T17:33:03+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/22/iletisim.jpg.webp?itok=9DYeq6Kg",
+   "title": {
+    "orig": "İletişim emekçileri 24 Ekim'de sokağa çıkıyor: 'Artık yeter, nefes alamıyoruz!'"
+   },
+   "summary": {
+    "orig": "Haber Merkezi Patronların Ensesindeyiz İletişim Emekçileri Dayanışma Ağı, iktidarın artan baskı ve sansür politikalarına karşı tüm iletişim emekçilerini 24 Ekim Cumartesi günü sokağa çıkmaya çağırdı. İstanbul, Ankara ve İzmir'de yapılacak eylemler için, \"Artık yeter, nefes…"
+   }
+  },
+  {
+   "id": "c2ceb03ca70a1f24",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/22/condenado-por-powerpoint-falso-contra-lula-dallagnol-e-escolhido-por-flavio-bolsonaro-para-analisar-dados-de-sigilos-do-presidente/",
+   "date": "2026-10-22T17:32:05+00:00",
+   "image": null,
+   "title": {
+    "orig": "Condenado por PowerPoint falso contra Lula, Dallagnol é escolhido por Flávio Bolsonaro para analisar dados de sigilos do presidente"
+   },
+   "summary": {
+    "orig": "O ex-procurador e senador eleito pelo Paraná, Deltan Dallagnol (Novo), foi escolhido pela campanha de Flávio Bolsonaro (PL) para analisar os documentos da quebra de sigilos do presidente Luiz Inácio Lula da Silva (PT). Nesta quinta-feira (22), os dois candidatos formalizaram a…"
+   }
+  },
+  {
+   "id": "19e34715277f2253",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/noticias/2026/10/22/el-libro-y-en-eso-llego-fidel-llega-a-casa-de-las-americas/",
+   "date": "2026-10-22T17:15:47+00:00",
+   "image": null,
+   "title": {
+    "orig": "El libro “Y en eso llegó Fidel” llega a Casa de las Américas"
+   },
+   "summary": {
+    "orig": "La Casa de las Américas informó este miércoles sobre la llegada a su sede del libro “Y en eso llegó Fidel”, publicado por Ediciones La Estaca y dedicado al líder histórico de la Revolución Cubana. Inspirado en la canción del trovador Carlos Puebla, el volumen reúne cerca de…"
+   }
+  },
+  {
+   "id": "fe390cabbe8c6ea1",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/bir-cocugu-oldurup-birbirine-dustuler-cubbeli-ahmetten-ismailagaya-mahmudu-oldurttuler",
+   "date": "2026-10-22T17:03:43+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/22/fatih-1.webp?itok=AMEvnIRf",
+   "title": {
+    "orig": "Bir çocuğu öldürüp birbirine düştüler: 'Cübbeli Ahmet'ten İsmailağa'ya 'Mahmud'u öldürttüler' tepkisi"
+   },
+   "summary": {
+    "orig": "Haber Merkezi \"Cübbeli Ahmet\", eskiden mensubu olduğu İsmailağa Cemaati'nin işlettiği otoparkta elektrik akımına kapılan 14 yaşındaki Mahmut Işıldak'ın yaşamını yitirmesine ilişkin, \"500 liralık kaçak akım rölesi takmadılar, Mahmut Işıldak'ı öldürttüler\" dedi. İstanbul’da…"
+   }
+  },
+  {
+   "id": "8b746e2326dda118",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/-/-/cest-la-fin-de-ce-direct-4",
+   "date": "2026-10-22T17:02:05+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2024/04/9.jpg?w=672",
+   "title": {
+    "orig": "C’est la fin de ce direct"
+   },
+   "summary": {
+    "orig": "C’est la fin de notre direct consacré à l’après 17 octobre, merci de l’avoir suivi ! Retrouvez nos reportages et analyses sur l’humanite.fr Bonne soirée !"
+   }
+  },
+  {
+   "id": "456c7fadd274683d",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/politique/gouvernement/la-republique-ce-nest-pas-le-regime-de-la-matraque-la-gauche-refuse-la-lacrymocratie",
+   "date": "2026-10-22T16:59:51+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/p8-libertes-publiques_VEN.jpg?w=1200",
+   "title": {
+    "orig": "« La République, ce n’est pas le régime de la matraque » : la gauche refuse la lacrymocratie"
+   },
+   "summary": {
+    "orig": "Couvre-feu, possible interdiction d’accès aux réseaux sociaux, interdiction de manifester, les progressistes du pays s’inquiètent de voir le gouvernement s’enfermer dans une stratégie de « pourrissement » du conflit et de restriction des libertés."
+   }
+  },
+  {
+   "id": "c13053f98d22d85c",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/noticias/2026/10/22/inicia-en-la-habana-la-edicion-27-del-festival-de-cine-frances/",
+   "date": "2026-10-22T16:59:11+00:00",
+   "image": null,
+   "title": {
+    "orig": "Inicia en La Habana la edición 27 del Festival de Cine Francés"
+   },
+   "summary": {
+    "orig": "La edición 27 del Festival de Cine Francés comenzará hoy en La Habana con la proyección del filme “Los niños de la resistencia”, dirigido por el cineasta Christophe Barratier en el céntrico Cine Yara. El largometraje es un acercamiento a la historia de Francia, a través de las…"
+   }
+  },
+  {
+   "id": "4c56b81a4b4e997c",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/politique/emmanuel-macron/kanaky-en-voyant-le-17-octobre-on-ne-peut-pas-ne-pas-faire-le-parallele-avec-ce-qui-sest-passe-chez-nous",
+   "date": "2026-10-22T16:53:37+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/Frederique-Muliava-3-edited.jpg?w=1200",
+   "title": {
+    "orig": "Kanaky : en voyant le 17 octobre, « on ne peut pas ne pas faire le parallèle avec ce qui s’est passé chez nous »"
+   },
+   "summary": {
+    "orig": "Mai 2024 – octobre 2026 : à 30 mois d’intervalle, le parallèle est frappant entre les répressions orchestrées par le pouvoir macroniste à l’encontre des peuples kanak et français. Criminalisation du mouvement social, mesures liberticides, déploiement de force inouï, désignation…"
+   }
+  },
+  {
+   "id": "6ddd9c5ac29e1d42",
+   "source": "kprf",
+   "name": "KPRF",
+   "country": "RU",
+   "lang": "ru",
+   "url": "https://kprf.ru/export/rss/dep/gosduma/activities/248261.html",
+   "date": "2026-10-22T16:45:12+00:00",
+   "image": "https://static.kprf.ru/m/420/240/t/img/2026/10/img_6951.jpeg",
+   "title": {
+    "orig": "Нина Останина: Свободу Олегу Михайлову"
+   },
+   "summary": {
+    "orig": "Вчера в Москве был задержан наш товарищ Олег Михайлов – депутат Госдумы VIII созыва, член ЦК КПРФ, руководитель отделения КПРФ в Республике Коми, кандидат биологических наук. Он последовательно отстаивал социальные интересы граждан, защищал экологические права … Читать дальше →"
+   }
+  },
+  {
+   "id": "a31be45edeb5fdab",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/politique/emmanuel-macron/en-fin-de-course-emmanuel-macron-tente-dexister-en-sen-prenant-aux-libertes-publiques",
+   "date": "2026-10-22T16:42:30+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/macron-crise.jpg?w=1200",
+   "title": {
+    "orig": "En fin de course, Emmanuel Macron tente d’exister… En s’en prenant aux libertés publiques"
+   },
+   "summary": {
+    "orig": "Le chef de l’État a tenté d’organiser un nouveau « show » ce jeudi 22 octobre avec des services de renseignement défaillants le week-end dernier. Sans succès."
+   }
+  },
+  {
+   "id": "f18b408959330630",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/sports/cyclisme/terrains-de-jeu-inattendus-esprit-so-british-tout-savoir-des-parcours-des-tours-de-france-homme-et-femme-2027",
+   "date": "2026-10-22T16:41:25+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/Modele-redimension-Huma-1.jpg?w=1200",
+   "title": {
+    "orig": "Terrains de jeu inattendus, esprit « so british »… Tout savoir des parcours des Tours de France homme et femme 2027"
+   },
+   "summary": {
+    "orig": "Les parcours des Tours de France 2027, masculin et féminin, ont été dévoilés ce jeudi 22 octobre à Paris. Avec, pour les deux, des départs de Grande-Bretagne et des terrains de jeu plutôt inattendus…"
+   }
+  },
+  {
+   "id": "0141d0af309cb69f",
+   "source": "morningstar",
+   "name": "Morning Star",
+   "country": "GB",
+   "lang": "en",
+   "url": "https://morningstaronline.co.uk/article/brook-scores-double-century-odi-defeat-sri-lanka-chase-down-430",
+   "date": "2026-10-22T16:32:51+00:00",
+   "image": null,
+   "title": {
+    "orig": "Brook scores double-century in ODI defeat as Sri Lanka chase down 430"
+   },
+   "summary": {
+    "orig": "HARRY BROOK’S record-breaking 202 was put in the shade as Sri Lanka pulled off an unforgettable heist to leave England on the brink in the tri-series in Pakistan this evening. Brook’s double-hundred was the first by an England batter in one-day internationals and the fastest…"
+   }
+  },
+  {
+   "id": "e96539feb75287a7",
+   "source": "zeitungderarbeit",
+   "name": "Zeitung der Arbeit",
+   "country": "AT",
+   "lang": "de",
+   "url": "https://zeitungderarbeit.at/klassenkampf/handels-kv-keine-gespraechsbereitschaft-von-konzernen/",
+   "date": "2026-10-22T16:30:00+00:00",
+   "image": null,
+   "title": {
+    "orig": "Handels-KV: Keine Gesprächsbereitschaft von Konzernen"
+   },
+   "summary": {
+    "orig": "Die Kollektivvertragsverhandlungen für 420.000 Handelsangestellte und 19.000 Lehrlinge haben am Donnerstag begonnen. Die Gewerkschaft GPA fordert 3,8 Prozent mehr Gehalt und Verbesserungen bei den Arbeitsbedingungen. Die Konzernvertreter lehnen die Forderungen ab und legten in…"
+   }
+  },
+  {
+   "id": "4b4cd05256915a71",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/especiales/2026/10/22/sabor-y-tradicion-deshidratados-base-para-rollitos-y-pan-plano/",
+   "date": "2026-10-22T16:29:30+00:00",
+   "image": null,
+   "title": {
+    "orig": "Sabor y tradición: Deshidratados, base para rollitos y pan plano"
+   },
+   "summary": {
+    "orig": "Hoy retomaré el tema del pan. Me tomé el atrevimiento de tomarle una receta a un amigo, Manuel Cabrera. Se trata de un pan plano que, a primera vista, luce muy bien y parece sabroso. Espero que quienes puedan hacerlo lo disfruten. También les propongo una base para preparar…"
+   }
+  },
+  {
+   "id": "c727910d7b216b5e",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/opinion/2026/10/22/europa-la-neurosis-del-capital-el-tabu-de-la-violencia-y-la-juventud-rebelde-europea/",
+   "date": "2026-10-22T16:20:16+00:00",
+   "image": null,
+   "title": {
+    "orig": "Europa. La neurosis del capital: El tabú de la violencia y la juventud rebelde europea"
+   },
+   "summary": {
+    "orig": "En Italia, la creciente movilización juvenil contra la precarización laboral, la crisis de vivienda y la complicidad imperialista enfrenta una feroz campaña de criminalización estatal y mediática que apela al fantasma de los años ’70 para desarmar el conflicto social. The post…"
+   }
+  },
+  {
+   "id": "f37f132b903eca8e",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/22/ser-presidente-e-uma-forma-de-flavio-bolsonaro-enterrar-investigacoes/?utm_source=rss&utm_medium=rss&utm_campaign=ser-presidente-e-uma-forma-de-flavio-bolsonaro-enterrar-investigacoes",
+   "date": "2026-10-22T16:15:12+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/flavio-corrupto-band.jpg",
+   "title": {
+    "orig": "Flávio Bolsonaro quer a presidência para enterrar investigações"
+   },
+   "summary": {
+    "orig": "Senador busca, além de um projeto político autoritário e anti-povo, fugir dos vários inquéritos e suspeitas que pairam sobre ele e seu entorno"
+   }
+  },
+  {
+   "id": "2392862649fed02e",
+   "source": "granma",
+   "name": "Granma",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.granma.cu/cultura/2026-10-22/todas-las-voces-importan-22-10-2026-12-10-52",
+   "date": "2026-10-22T16:10:52+00:00",
+   "image": null,
+   "title": {
+    "orig": "Todas las voces importan"
+   },
+   "summary": {
+    "orig": "El espacio busca construir consensos, aportar desde la participación ciudadana y ser parte del análisis sobre temas de profundo impacto en la vida nacional"
+   }
+  },
+  {
+   "id": "e6bcb26d48d2e26e",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/social-et-economie/cgt/le-gouvernement-apporte-une-reponse-securitaire-a-une-crise-sociale-en-interdisant-des-manifestations-emmanuel-macron-passe-encore-un-cap-repressif",
+   "date": "2026-10-22T16:08:09+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/p9-macron-manifs_VEN.jpg?w=1200",
+   "title": {
+    "orig": "« Le gouvernement apporte une réponse sécuritaire à une crise sociale » : en interdisant des manifestations, Emmanuel Macron passe encore un cap répressif"
+   },
+   "summary": {
+    "orig": "Incapable de répondre aux urgences sociales qui s’expriment depuis la rentrée, le chef de l’État a annoncé l’interdiction des manifestations dont la demande ne serait pas déposée par les organisations syndicales, après les débordements du 17 octobre."
+   }
+  },
+  {
+   "id": "b489c17748353b63",
+   "source": "morningstar",
+   "name": "Morning Star",
+   "country": "GB",
+   "lang": "en",
+   "url": "https://morningstaronline.co.uk/article/barclays-using-ai-excuse-cut-5000-jobs-says-unite",
+   "date": "2026-10-22T16:08:06+00:00",
+   "image": null,
+   "title": {
+    "orig": "Barclays using AI as an excuse to cut 5,000 jobs, says Unite"
+   },
+   "summary": {
+    "orig": "BARCLAYS announced around 5,000 job cuts by the end of 2026 after turning to artificial intelligence (AI) for “efficiencies” today. The banking group said this is the equivalent of about 5 per cent of all its employees, which totalled around 93,000 globally at the end of 2025.…"
+   }
+  },
+  {
+   "id": "e76f293611b25f48",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/monde/donald-trump/elections-de-mi-mandat-aux-etats-unis-les-democrates-devancent-donald-trump-dans-les-sondages",
+   "date": "2026-10-22T16:05:59+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/democrates-USA.jpg?w=1200",
+   "title": {
+    "orig": "Élections de mi-mandat aux États-Unis : les démocrates devancent Donald Trump dans les sondages"
+   },
+   "summary": {
+    "orig": "Les élus démocrates sont donnés largement en tête au niveau national avant le scrutin du 3 novembre. Les derniers sondages publiés ce mercredi 21 octobre, évoquent jusqu’à 11 points d’avance sur les républicains, plombés par Donald Trump. Le président des États-Unis dispose…"
+   }
+  },
+  {
+   "id": "cc5d72a902002831",
+   "source": "morningstar",
+   "name": "Morning Star",
+   "country": "GB",
+   "lang": "en",
+   "url": "https://morningstaronline.co.uk/article/rushed-closure-asylum-hotels-puts-refugee-kids-education-risk-charities-warn",
+   "date": "2026-10-22T16:03:46+00:00",
+   "image": null,
+   "title": {
+    "orig": "Rushed closure of asylum hotels puts refugee kids’ education at risk, charities warn"
+   },
+   "summary": {
+    "orig": "MORE than 1,000 child refugees risk having education sacrificed by the rushed closure of asylum hotels, a coalition of charities warned today. More than a fifth of the 255 refugees housed in two Stockport hotels that are due to close this year after being targeted by the far…"
+   }
+  },
+  {
+   "id": "5edbff303ab3fcbc",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/-/-/draft-7",
+   "date": "2026-10-22T16:01:59+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2024/04/9.jpg?w=672",
+   "title": {
+    "orig": "« Nous n’avons eu aucune réponse sur les questions sociales » a réagi Fabien Roussel"
+   },
+   "summary": {
+    "orig": "« On est forcément, nous, extrêmement déçu » de la réunion à Matignon avec le premier ministre a déclaré le secrétaire national du Parti communiste français, Fabien Roussel, regrettant que le rendez-vous jeudi après-midi avec les partis politiques ait été seulement consacré à la…"
+   }
+  },
+  {
+   "id": "6cfba7549d7fbaff",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/-/-/draft-5",
+   "date": "2026-10-22T16:00:27+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2024/04/9.jpg?w=672",
+   "title": {
+    "orig": "Marine Tondelier : « On sort de cette réunion encore plus inquiets qu’on n’y était rentrés »"
+   },
+   "summary": {
+    "orig": "« On sort de cette réunion encore plus inquiets qu’on n’y était rentrés », a réagi la secrétaire nationale des Écologistes, Marine Tondelier, à la sortie de l’Hôtel de Matignon, regrettant l’absence de réponse aux revendications sociales. « J’ai le regret de vous annoncer qu’on…"
+   }
+  },
+  {
+   "id": "5fc473e4109586b9",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/ensarullahtan-aciklama-suudi-arabistan-savunma-bakanligi-ve-aramco-tesisleri-vuruldu-415287",
+   "date": "2026-10-22T15:58:06+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/22/ensarullah.jpg.webp?itok=4ojlgpsX",
+   "title": {
+    "orig": "Ensarullah'tan açıklama: 'Suudi Arabistan Savunma Bakanlığı ve Aramco tesisleri vuruldu'"
+   },
+   "summary": {
+    "orig": "Dış Haberler Ensarullah son 48 saatte Riyad'daki Savunma Bakanlığı, Kral Fahd Uluslararası Havalimanı ve Aramco petrol tesislerini balistik füze ve İHA'larla hedef aldığını duyurdu. Yemen'i 10 yılı aşkın süredir açlığa, yıkıma ve istikrarsızlığa mahkum eden Suudi Arabistan…"
+   }
+  },
+  {
+   "id": "6230dde9b872d5cd",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/noticias/2026/10/22/centro-educativo-en-nicaragua-rinde-homenaje-permanente-al-legado-de-fidel-castro/",
+   "date": "2026-10-22T15:55:58+00:00",
+   "image": null,
+   "title": {
+    "orig": "Centro educativo en Nicaragua rinde homenaje permanente al legado de Fidel Castro"
+   },
+   "summary": {
+    "orig": "El Centro Educativo Comandante Fidel Castro Ruz, que funciona hoy en Ciudad Sandino, constituye un homenaje permanente al legado del comandante en jefe, y a los lazos de hermandad entre Nicaragua y Cuba. The post Centro educativo en Nicaragua rinde homenaje permanente al legado…"
+   }
+  },
+  {
+   "id": "71603a43e5c62d63",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/social-et-economie/cancer-du-sein/octobre-rose-quand-lentreprise-imperial-chemical-industry-creee-la-campagne-de-sensibilisation-le-remede-et-le-poison",
+   "date": "2026-10-22T15:55:52+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/p13-Octobre-rose_VEN.jpg?w=1200",
+   "title": {
+    "orig": "Octobre rose : quand l’entreprise Imperial Chemical Industry créée la campagne de sensibilisation, le remède et le poison"
+   },
+   "summary": {
+    "orig": "Initiée aux États-Unis en 1985 avec le soutien financier d’un géant des pesticides et de l’industrie pharmaceutique, la campagne de sensibilisation au cancer du sein persiste à ignorer les possibles causes structurelles de l’incidence croissance de cette pathologie."
+   }
+  },
+  {
+   "id": "dd50b0642343d936",
+   "source": "proletarian",
+   "name": "Proletarian (CPGB-ML)",
+   "country": "GB",
+   "lang": "en",
+   "url": "https://thecommunists.org/2026/10/22/news/world/pawns-or-heroes-doctors-blockade-cuba/",
+   "date": "2026-10-22T15:52:10+00:00",
+   "image": null,
+   "title": {
+    "orig": "Pawns or heroes? Cuba’s proud tradition of international medical solidarity"
+   },
+   "summary": {
+    "orig": "This newsletter is reproduced from Chained in Paradise with thanks. ***** When I saw this video of Mia Mottley, I immediately began thinking of the differences between misinformation and disinformation, and how it relates to Cuba and its doctors. She’s discussing US efforts to…"
+   }
+  },
+  {
+   "id": "28545375c5af1279",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/-/-/marseille-toutes-les-manifestations-interdites-ce-samedi-dans-la-deuxieme-ville-du-pays",
+   "date": "2026-10-22T15:48:48+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2024/04/9.jpg?w=672",
+   "title": {
+    "orig": "Marseille : toutes les manifestations interdites ce samedi"
+   },
+   "summary": {
+    "orig": "Les interdictions se multiplient. Désormais, c’est la deuxième ville du pays qui est concernée. Toutes les manifestations sont interdites samedi à Marseille. La ville phocéenne a été particulièrement touchée le 17 octobre, par les pillages et les dégradations : sa propre mairie…"
+   }
+  },
   {
    "id": "469ce258dcd3805e",
    "source": "strugglelalucha",
@@ -40,6 +856,38 @@
     "orig": "Entre actividades y con la energía que caracteriza a las nuevas generaciones, se realizó este miércoles, en la capital, el lanzamiento oficial de la campaña “La talla, es hacer\", dando inicio a la jornada de celebración por los 65 años de la Unión de Jóvenes Comunistas (UJC), a…",
     "it": "Tra le attività e con l’energia che caratterizza le nuove generazioni, si è tenuto questo mercoledì nella capitale il lancio ufficiale della campagna “Sizing is making”, che dà il via alla giornata di celebrazione per i 65 anni dell’Unione dei Giovani Comunisti (UJC),…",
     "en": "Among activities and with the energy that characterizes the new generations, the official launch of the campaign “Sizing is doing” was held this Wednesday in the capital, kicking off the day of celebration for the 65 years of the Union of Young Communists (UJC),…"
+   }
+  },
+  {
+   "id": "2687f1f9d79f266b",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/world-news-in-brief-october-22-post168116.html",
+   "date": "2026-10-22T15:38:32+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/p2ez0OJodWakt2tDvENzIR_mmbTafomq4cPedDILROFWPAxDtNu_5O3M1PJJX09k/britain.png.avif",
+   "title": {
+    "orig": "World News in Brief: October 22"
+   },
+   "summary": {
+    "orig": "Russian President Vladimir Putin signed a series of decrees on Thursday appointing four deputy prime ministers, alongside a new minister of transport and a presidential aide. The appointments took effect on the day of signing, according to the documents. World News in Brief…"
+   }
+  },
+  {
+   "id": "be3189275ec1ea45",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/viet-nam-laos-eye-to-boost-strategic-agricultural-cooperation-post168115.html",
+   "date": "2026-10-22T15:36:48+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/2SCbORzcoyKs4n_YN1aDeWJ95vksTYQH_AyGT65MyhOyEJeaAjeElcZVFgkx8Y_M/1.jpg.avif",
+   "title": {
+    "orig": "Viet Nam, Laos eye to boost strategic agricultural cooperation"
+   },
+   "summary": {
+    "orig": "An agricultural investment promotion conference was held in Vientiane on October 22 to translate Viet Nam-Laos economic, trade and investment cooperation goals into concrete action, following Vietnamese Prime Minister Le Minh Hung’s official visit to Laos. Viet Nam, Laos to turn…"
    }
   },
   {
@@ -243,6 +1091,22 @@
    }
   },
   {
+   "id": "411df0b277fb7579",
+   "source": "granma",
+   "name": "Granma",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.granma.cu/cuba/2026-10-22/realizan-audiencia-parlamentaria-cubanoesunaamenaza-el-bloqueo-si-22-10-2026-11-10-11",
+   "date": "2026-10-22T15:10:11+00:00",
+   "image": null,
+   "title": {
+    "orig": "Celebran Audiencia Pública Parlamentaria Cuba no es una amenaza, el bloqueo sí"
+   },
+   "summary": {
+    "orig": "La Audiencia Pública Parlamentaria se realizó en el Instituto Nacional de Oncología y Radiobiología, a pocos días de la votación en Naciones Unidas contra el cerco económico, comercial y financiero impuesto por Estados Unidos a la Isla"
+   }
+  },
+  {
    "id": "b8230dfddcfe9e17",
    "source": "granma",
    "name": "Granma",
@@ -320,6 +1184,22 @@
     "orig": "No dia 25 de Outubro, domingo, irão realizar-se no Porto, uma manifestação e um comício sob o lema «Salários, direitos, paz».",
     "it": "Domenica 25 ottobre a Porto si svolgerà una manifestazione e un raduno con lo slogan “Salario, diritti, pace”.",
     "en": "On October 25th, Sunday, a demonstration and rally will take place in Porto under the slogan “Wages, rights, peace”."
+   }
+  },
+  {
+   "id": "d29e1fb7e43b449f",
+   "source": "morningstar",
+   "name": "Morning Star",
+   "country": "GB",
+   "lang": "en",
+   "url": "https://morningstaronline.co.uk/article/nearly-million-more-domestic-abuse-victims-puts-governments-aim-halve-violence-against",
+   "date": "2026-10-22T14:58:00+00:00",
+   "image": null,
+   "title": {
+    "orig": "Nearly million more domestic abuse victims puts government’s aim to halve violence against women and girls at risk"
+   },
+   "summary": {
+    "orig": "A MAJOR rise in domestic abuse victims has put the government’s aim to halve violence against women and girls (VAWG) within a decade at risk, Victim Support warned today. The number of domestic abuse victims rose from 3.8 million to 4.7 million people over the last financial…"
    }
   },
   {
@@ -1040,6 +1920,22 @@
     "orig": "Nossa história é feita por períodos fortes de retrocessos e alguns períodos de avanços. Não por acaso somos o décimo PIB (a soma de toda a produção nacional) do mundo e, ao mesmo tempo, somos a quinta pior nação em distribuição de renda, ou seja, em desenvolvimento humano. Nada…",
     "it": "La nostra storia è fatta di forti periodi di battute d’arresto e di alcuni periodi di progressi. Non è un caso che abbiamo il decimo Pil (la somma di tutta la produzione nazionale) del mondo e, allo stesso tempo, siamo la quinta peggior nazione nella distribuzione del reddito, cioè nello sviluppo umano. Niente…",
     "en": "Our history is made up of strong periods of setbacks and some periods of advances. It is no coincidence that we have the tenth GDP (the sum of all national production) in the world and, at the same time, we are the fifth worst nation in income distribution, that is, in human development. Nothing…"
+   }
+  },
+  {
+   "id": "bf61116dc48a701a",
+   "source": "morningstar",
+   "name": "Morning Star",
+   "country": "GB",
+   "lang": "en",
+   "url": "https://morningstaronline.co.uk/article/world-brief-october-22-2026",
+   "date": "2026-10-22T13:28:54+00:00",
+   "image": null,
+   "title": {
+    "orig": "World in brief: October 22, 2026"
+   },
+   "summary": {
+    "orig": "UKRAINE : Russian attacks on Ukraine’s capital Kiev with ballistic missiles and drones early today killed one person and wounded 22, Ukrainian authorities said. The attack damaged homes, transport infrastructure and other civilian sites in several districts of the city…"
    }
   },
   {
@@ -2703,6 +3599,22 @@
    }
   },
   {
+   "id": "942aa975d2342cf5",
+   "source": "granma",
+   "name": "Granma",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.granma.cu/mundo/2026-10-21/cuba-reitera-su-rechazo-a-los-intentos-de-estados-unidos-de-involucrarla-en-el-conflicto-en-ucrania-21-10-2026-15-10-38",
+   "date": "2026-10-21T19:10:38+00:00",
+   "image": null,
+   "title": {
+    "orig": "Cuba reitera su rechazo a los intentos de Estados Unidos de involucrarla en el conflicto en Ucrania"
+   },
+   "summary": {
+    "orig": "El Ministerio de Relaciones Exteriores reitera el firme compromiso de Cuba contra el mercenarismo, así como su disposición a evaluar vías de cooperación, en correspondencia con la legislación nacional y las obligaciones internacionales, para prevenir, enfrentar y sancionar este…"
+   }
+  },
+  {
    "id": "9659837e4b602421",
    "source": "kprf",
    "name": "KPRF",
@@ -2740,6 +3652,22 @@
     "orig": "Entre carpas, pupitres y cantos, estudiantes de universidades públicas y privadas se encontraron para compartir sus experiencias, debatir sobre el futuro de la educación y construir una hoja de ruta para el movimiento. Redacción Juvenil Los días 16, 17 y 18 de octubre, la…",
     "it": "Tra tende, banchi e canti, gli studenti delle università pubbliche e private si sono incontrati per condividere le loro esperienze, discutere sul futuro dell’istruzione e costruire una tabella di marcia per il movimento. Editoriale Giovani Il 16, 17 e 18 ottobre, il…",
     "en": "Between tents, desks and songs, students from public and private universities met to share their experiences, debate the future of education and build a roadmap for the movement. Youth Editorial On October 16, 17 and 18, the…"
+   }
+  },
+  {
+   "id": "2ad3f7f3966a8283",
+   "source": "granma",
+   "name": "Granma",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.granma.cu/cuba/2026-10-21/diaz-canel-llama-a-agilizar-la-atencion-a-la-poblacion-21-10-2026-14-10-19",
+   "date": "2026-10-21T18:10:19+00:00",
+   "image": null,
+   "title": {
+    "orig": "Díaz-Canel llama a agilizar la atención a la población"
+   },
+   "summary": {
+    "orig": "El Primer Secretario del Comité Central del Partido y Presidente de la República, Miguel Díaz-Canel Bermúdez, destacó la necesidad de atender con sensibilidad, agilidad y sin trabas burocráticas los problemas de la población"
    }
   },
   {
@@ -3120,6 +4048,22 @@
     "orig": "Magdalena Andersson röstades ner som statsminister den 15 oktober. Efteråt förklarade Elisabeth Thand Ringqvist återigen varför centern inte kan regera med Vänsterpartiet och pekade denna gång ut två saker: Natomotståndet och motståndet mot DCA-avtalet med USA. Vänsterpartiets…",
     "it": "Magdalena Andersson è stata deposta dalla carica di primo ministro il 15 ottobre. Elisabeth Thand Ringqvist ha poi spiegato ancora una volta perché il centro non può governare con il partito della Sinistra e questa volta ha sottolineato due cose: l'opposizione della NATO e l'opposizione all'accordo DCA con gli USA. Il Partito della Sinistra...",
     "en": "Magdalena Andersson was voted down as prime minister on 15 October. Afterwards, Elisabeth Thand Ringqvist explained again why the center cannot govern with the Left Party and this time pointed out two things: NATO opposition and opposition to the DCA agreement with the USA. The Left Party's…"
+   }
+  },
+  {
+   "id": "a464da17db4f24de",
+   "source": "kprf",
+   "name": "KPRF",
+   "country": "RU",
+   "lang": "ru",
+   "url": "https://kprf.ru/export/rss/party-live/opinion/248220.html",
+   "date": "2026-10-21T07:18:30+00:00",
+   "image": "https://static.kprf.ru/m/420/240/t/img/2026/10/l-536986-1.jpg",
+   "title": {
+    "orig": "Сергей Обухов – «Свободной прессе»: «Платёжка не должна расти быстрее инфляции, а 10% дохода — это предел, за которым должно помогать государство»"
+   },
+   "summary": {
+    "orig": "ЖКХ-катастрофа в регионах неуклонно назревает, и КПРФ требует от властей принять самые решительные меры. Тема тарифов ЖКХ к середине октября стала главной по числу упоминаний, говорится в свежем выпуске мониторинга ЦИПКР, опубликованном на сайте КПРФ. Люди жалуются, что платят…"
    }
   },
   {
