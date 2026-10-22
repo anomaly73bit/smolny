@@ -3,8 +3,8 @@
 {% for pair in site.data.countries %}
     {%- assign code = pair[0] -%}{%- assign c = pair[1] -%}
     {%- assign srcs = site.data.sources | where: 'country', code -%}
-    {%- if srcs.size == 0 -%}{%- continue -%}{%- endif -%}
     {%- assign n = items | where: 'country', code | size -%}
+    {%- if srcs.size == 0 or n == 0 -%}{%- continue -%}{%- endif -%}
     <a class="country-card" href="{{ u_home | relative_url }}#c={{ code }}">
         <span class="cc-flag">{{ c.flag }}</span>
         <span class="cc-name">{{ c[L] }}</span>
