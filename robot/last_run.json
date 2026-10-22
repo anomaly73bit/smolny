@@ -1,11 +1,11 @@
 {
- "run": "2026-10-22T15:47:06+00:00",
- "new": 277,
- "published": 277,
- "pending_translation": 117,
- "sources_ok": 31,
+ "run": "2026-10-22T15:53:19+00:00",
+ "new": 1,
+ "published": 278,
+ "pending_translation": 0,
+ "sources_ok": 30,
  "sources_total": 50,
- "translate_ok": 271,
+ "translate_ok": 176,
  "translate_fail": 0,
  "errors": {}
 }

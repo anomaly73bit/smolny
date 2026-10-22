@@ -1,7 +1,27 @@
 {
- "updated": "2026-10-22T15:47:06+00:00",
- "count": 277,
+ "updated": "2026-10-22T15:53:19+00:00",
+ "count": 278,
  "items": [
+  {
+   "id": "469ce258dcd3805e",
+   "source": "strugglelalucha",
+   "name": "Struggle – La Lucha",
+   "country": "US",
+   "lang": "en",
+   "url": "https://www.struggle-la-lucha.org/2026/10/22/from-the-million-worker-march-to-may-day-2027/",
+   "date": "2026-10-22T15:45:30+00:00",
+   "image": "https://www.struggle-la-lucha.org/wp-content/uploads/2026/10/MWM_panel-326x245.jpg",
+   "title": {
+    "orig": "From the Million Worker March to May Day 2027",
+    "it": "Dalla marcia di un milione di lavoratori al Primo Maggio 2027",
+    "en": "From the Million Worker March to May Day 2027"
+   },
+   "summary": {
+    "orig": "What are the qualities of a working-class leader that make their work endure and infuse labor with power long after we’ve lost them, as we did with Teamster principal officer Chris Silvera when he died",
+    "it": "Quali sono le qualità di un leader della classe operaia che fanno sì che il suo lavoro duri e infonda potere ai lavoratori molto tempo dopo che li abbiamo persi, come abbiamo fatto con l'ufficiale principale del Teamster Chris Silvera quando è morto",
+    "en": "What are the qualities of a working-class leader that make their work endure and infuse labor with power long after we’ve lost them, as we did with Teamster principal officer Chris Silvera when he died"
+   }
+  },
   {
    "id": "f80401a93680e0eb",
    "source": "cubadebate",
@@ -3212,10 +3232,14 @@
    "date": "2026-10-21T06:25:00+00:00",
    "image": null,
    "title": {
-    "orig": "Kampf ums Streikrecht"
+    "orig": "Kampf ums Streikrecht",
+    "it": "Lottare per il diritto di sciopero",
+    "en": "Fight for the right to strike"
    },
    "summary": {
-    "orig": "Es war eine spontane Entscheidung: Die Charité-Beschäftigten haben ihre Streikversammlung am 15. Oktober vor das Haus der Statistik am Alexanderplatz verlegt. Dort nämlich fanden Sondierungsgespräche zwischen ..."
+    "orig": "Es war eine spontane Entscheidung: Die Charité-Beschäftigten haben ihre Streikversammlung am 15. Oktober vor das Haus der Statistik am Alexanderplatz verlegt. Dort nämlich fanden Sondierungsgespräche zwischen ...",
+    "it": "È stata una decisione spontanea: i dipendenti della Charité hanno spostato il loro incontro di sciopero il 15 ottobre davanti alla Casa di statistica in Alexanderplatz. Ci sono stati colloqui esplorativi tra...",
+    "en": "It was a spontaneous decision: the Charité employees moved their strike meeting on October 15th in front of the House of Statistics on Alexanderplatz. There were exploratory talks between..."
    }
   },
   {
@@ -3228,10 +3252,14 @@
    "date": "2026-10-21T06:20:00+00:00",
    "image": null,
    "title": {
-    "orig": "Schwarzer Tag für Hollywoods Beschäftigte"
+    "orig": "Schwarzer Tag für Hollywoods Beschäftigte",
+    "it": "Giornata nera per i dipendenti di Hollywood",
+    "en": "Black day for Hollywood employees"
    },
    "summary": {
-    "orig": "„In den kommenden Jahren wird sich dieses Versäumnis – die Inte­ressen der Verbraucher über die finanziellen Inte­ressen der Unternehmensfusion zu stellen – als entscheidender Wendepunkt für die ..."
+    "orig": "„In den kommenden Jahren wird sich dieses Versäumnis – die Inte­ressen der Verbraucher über die finanziellen Inte­ressen der Unternehmensfusion zu stellen – als entscheidender Wendepunkt für die ...",
+    "it": "“Nei prossimi anni, questo fallimento nel mettere gli interessi dei consumatori al di sopra degli interessi finanziari delle fusioni aziendali si rivelerà un punto di svolta cruciale per...",
+    "en": "“In the coming years, this failure – to put the interests of consumers above the financial interests of corporate mergers – will prove to be a crucial turning point for..."
    }
   },
   {
@@ -3244,10 +3272,14 @@
    "date": "2026-10-21T06:15:00+00:00",
    "image": null,
    "title": {
-    "orig": "Chemie für die Ewigkeit"
+    "orig": "Chemie für die Ewigkeit",
+    "it": "Chimica per l'eternità",
+    "en": "Chemistry for eternity"
    },
    "summary": {
-    "orig": "Wer nach DDT, E 605, Asbest und PCB vielleicht gedacht hatte, so langsam reiche es, Wirtschaft und Politik sollten die Lektionen daraus gelernt haben, sieht ..."
+    "orig": "Wer nach DDT, E 605, Asbest und PCB vielleicht gedacht hatte, so langsam reiche es, Wirtschaft und Politik sollten die Lektionen daraus gelernt haben, sieht ...",
+    "it": "Chiunque avesse pensato che, dopo il DDT, l'E 605, l'amianto e il PCB, tutto procedeva abbastanza lentamente e che l'economia e la politica avrebbero dovuto trarne insegnamento, vede...",
+    "en": "Anyone who might have thought after DDT, E 605, asbestos and PCB that it was slowly enough and that business and politics should have learned the lessons from it, sees..."
    }
   },
   {
@@ -3260,10 +3292,14 @@
    "date": "2026-10-21T06:10:00+00:00",
    "image": null,
    "title": {
-    "orig": "Mehr Spekulation"
+    "orig": "Mehr Spekulation",
+    "it": "Altre speculazioni",
+    "en": "More speculation"
    },
    "summary": {
-    "orig": "Der Deutsche Bundestag hat am Freitag vergangener Woche die so genannte „Frühstartrente“ beschlossen. Ab dem Jahr 2020 geborene Kinder bekommen bis zu ihrem 18. Geburtstag ..."
+    "orig": "Der Deutsche Bundestag hat am Freitag vergangener Woche die so genannte „Frühstartrente“ beschlossen. Ab dem Jahr 2020 geborene Kinder bekommen bis zu ihrem 18. Geburtstag ...",
+    "it": "Venerdì scorso il Bundestag tedesco ha approvato la cosiddetta “pensione anticipata”. I bambini nati dal 2020 riceveranno fino al compimento dei 18 anni...",
+    "en": "The German Bundestag passed the so-called “early start pension” on Friday last week. Children born from 2020 will receive up to their 18th birthday..."
    }
   },
   {
@@ -3276,10 +3312,14 @@
    "date": "2026-10-21T06:08:00+00:00",
    "image": null,
    "title": {
-    "orig": "Höhere Mieten"
+    "orig": "Höhere Mieten",
+    "it": "Affitti più alti",
+    "en": "Higher rents"
    },
    "summary": {
-    "orig": "Im dritten Quartal des laufenden Jahres sind die Mieten in der BRD wieder deutlich gestiegen. Verglichen mit dem zweiten Quartal stiegen die Mieten nominal um ..."
+    "orig": "Im dritten Quartal des laufenden Jahres sind die Mieten in der BRD wieder deutlich gestiegen. Verglichen mit dem zweiten Quartal stiegen die Mieten nominal um ...",
+    "it": "Nel terzo trimestre dell'anno in corso gli affitti in Germania sono nuovamente aumentati in modo significativo. Rispetto al secondo trimestre gli affitti sono aumentati nominalmente del...",
+    "en": "In the third quarter of the current year, rents in Germany rose significantly again. Compared to the second quarter, rents rose nominally by..."
    }
   },
   {
@@ -3292,10 +3332,14 @@
    "date": "2026-10-21T06:06:00+00:00",
    "image": null,
    "title": {
-    "orig": "Weniger Jobs"
+    "orig": "Weniger Jobs",
+    "it": "Meno posti di lavoro",
+    "en": "Fewer jobs"
    },
    "summary": {
-    "orig": "Ende 2025 haben rund 496.000 Menschen weniger in Industriebetrieben der BRD gearbeitet als zu Beginn des Jahres 2019. Das entspricht einem Rückgang um 7,1 Prozent. ..."
+    "orig": "Ende 2025 haben rund 496.000 Menschen weniger in Industriebetrieben der BRD gearbeitet als zu Beginn des Jahres 2019. Das entspricht einem Rückgang um 7,1 Prozent. ...",
+    "it": "Alla fine del 2025 nelle aziende industriali tedesche lavoravano circa 496.000 persone in meno rispetto all’inizio del 2019. Ciò corrisponde a un calo del 7,1%. ...",
+    "en": "At the end of 2025, around 496,000 fewer people worked in industrial companies in Germany than at the beginning of 2019. This corresponds to a decline of 7.1 percent. ..."
    }
   },
   {
@@ -3308,10 +3352,14 @@
    "date": "2026-10-21T06:05:00+00:00",
    "image": null,
    "title": {
-    "orig": "Mehr Gift"
+    "orig": "Mehr Gift",
+    "it": "Altro veleno",
+    "en": "More poison"
    },
    "summary": {
-    "orig": "Ab 2027 möchte die Deutsche Bahn AG wieder Glyphosat einsetzen. Mit dem Umweltgift möchte der Staatskonzern Schienen von Unkraut befreien. Die Weltgesundheitsorganisation stuft das Pflanzengift ..."
+    "orig": "Ab 2027 möchte die Deutsche Bahn AG wieder Glyphosat einsetzen. Mit dem Umweltgift möchte der Staatskonzern Schienen von Unkraut befreien. Die Weltgesundheitsorganisation stuft das Pflanzengift ...",
+    "it": "La Deutsche Bahn AG vorrebbe utilizzare nuovamente il glifosato a partire dal 2027. L'azienda statale vuole utilizzare il veleno ambientale per eliminare le erbacce dalle rotaie. L'Organizzazione Mondiale della Sanità classifica il veleno vegetale...",
+    "en": "Deutsche Bahn AG would like to use glyphosate again from 2027. The state-owned company wants to use the environmental poison to clear weeds from rails. The World Health Organization classifies the plant poison..."
    }
   },
   {
@@ -3324,10 +3372,14 @@
    "date": "2026-10-21T05:02:00+00:00",
    "image": "https://www.marx21.it/wp-content/uploads/2012/04/poverta_mondo.jpg",
    "title": {
-    "orig": "Dramma planetario. Cresce la povertà figlia della disuguaglianza"
+    "orig": "Dramma planetario. Cresce la povertà figlia della disuguaglianza",
+    "it": "Dramma planetario. Cresce la povertà figlia della disuguaglianza",
+    "en": "Planetary drama. Poverty due to inequality is growing"
    },
    "summary": {
-    "orig": "di Sergio Ferrari Traduzione a cura del Gruppo Insegnanti di Geografia Autorganizzati Per la prima volta negli ultimi 15 anni i numeri non tornano in una società planetaria attraversata da crisi strutturali, esplosivo riscaldamento climatico e guerre moltiplicate. Nel 2025 la…"
+    "orig": "di Sergio Ferrari Traduzione a cura del Gruppo Insegnanti di Geografia Autorganizzati Per la prima volta negli ultimi 15 anni i numeri non tornano in una società planetaria attraversata da crisi strutturali, esplosivo riscaldamento climatico e guerre moltiplicate. Nel 2025 la…",
+    "it": "di Sergio Ferrari Traduzione a cura del Gruppo Insegnanti di Geografia Autorganizzati Per la prima volta negli ultimi 15 anni i numeri non tornano in una società planetaria attraversata da crisi strutturali, esplosivo riscaldamento climatico e guerre moltiplicate. Nel 2025 la…",
+    "en": "by Sergio Ferrari Translation by the Self-Organized Geography Teachers Group For the first time in the last 15 years the numbers do not add up in a planetary society crossed by structural crises, explosive climate warming and multiplied wars. In 2025 the…"
    }
   },
   {
@@ -3340,10 +3392,14 @@
    "date": "2026-10-21T05:01:00+00:00",
    "image": "https://www.marx21.it/wp-content/uploads/2022/08/flag-of-india-india-flag.jpeg",
    "title": {
-    "orig": "Proteste giovanili e contestazione delle falsificazioni nel censimento, l’India assedia Nerendra Modi"
+    "orig": "Proteste giovanili e contestazione delle falsificazioni nel censimento, l’India assedia Nerendra Modi",
+    "it": "Proteste giovanili e contestazione delle falsificazioni nel censimento, l’India assedia Nerendra Modi",
+    "en": "Youth protests and contestation of falsifications in the census, India besieges Nerendra Modi"
    },
    "summary": {
-    "orig": "di Davide Rossi da https://strategic-culture.su Nerendra Modi intende forgiare un nuovo cittadino indiano, un nazionalista di Bharat, il nuovo e al contempo antico nome che ha imposto all’immensa e plurale nazione, prima al mondo per abitanti e terza per capacità economica…"
+    "orig": "di Davide Rossi da https://strategic-culture.su Nerendra Modi intende forgiare un nuovo cittadino indiano, un nazionalista di Bharat, il nuovo e al contempo antico nome che ha imposto all’immensa e plurale nazione, prima al mondo per abitanti e terza per capacità economica…",
+    "it": "di Davide Rossi da https://strategic-culture.su Nerendra Modi intende forgiare un nuovo cittadino indiano, un nazionalista di Bharat, il nuovo e al contempo antico nome che ha imposto all’immensa e plurale nazione, prima al mondo per abitanti e terza per capacità economica…",
+    "en": "by Davide Rossi from https://strategic-culture.su Nerendra Modi intends to forge a new Indian citizen, a nationalist of Bharat, the new and at the same time ancient name that he has imposed on the immense and plural nation, first in the world for inhabitants and third for economic capacity..."
    }
   },
   {
@@ -3356,10 +3412,14 @@
    "date": "2026-10-21T05:00:00+00:00",
    "image": "https://www.marx21.it/wp-content/uploads/2025/12/serbia-bosnia1.png",
    "title": {
-    "orig": "Bosnia-Erzegovina: la Republika Srpska rafforza il proprio peso mentre cresce la pressione euro-atlantica"
+    "orig": "Bosnia-Erzegovina: la Republika Srpska rafforza il proprio peso mentre cresce la pressione euro-atlantica",
+    "it": "Bosnia-Erzegovina: la Republika Srpska rafforza il proprio peso mentre cresce la pressione euro-atlantica",
+    "en": "Bosnia-Herzegovina: Republika Srpska strengthens its weight as Euro-Atlantic pressure grows"
    },
    "summary": {
-    "orig": "di Giulio Chinappi Articolo pubblicato su Strategic Culture Foundation Le elezioni generali del 4 ottobre hanno confermato la centralità dello SNSD nella Republika Srpska e il peso politico del campo legato a Milorad Dodik. Il risultato complica ulteriormente i progetti di…"
+    "orig": "di Giulio Chinappi Articolo pubblicato su Strategic Culture Foundation Le elezioni generali del 4 ottobre hanno confermato la centralità dello SNSD nella Republika Srpska e il peso politico del campo legato a Milorad Dodik. Il risultato complica ulteriormente i progetti di…",
+    "it": "di Giulio Chinappi Articolo pubblicato su Strategic Culture Foundation Le elezioni generali del 4 ottobre hanno confermato la centralità dello SNSD nella Republika Srpska e il peso politico del campo legato a Milorad Dodik. Il risultato complica ulteriormente i progetti di…",
+    "en": "by Giulio Chinappi Article published on Strategic Culture Foundation The general elections of 4 October confirmed the centrality of the SNSD in Republika Srpska and the political weight of the camp linked to Milorad Dodik. The result further complicates plans for…"
    }
   },
   {
@@ -3372,10 +3432,14 @@
    "date": "2026-10-21T04:30:00+00:00",
    "image": null,
    "title": {
-    "orig": "Wiener Neustadt verscherbelt Großteil der Gemeindewohnungen"
+    "orig": "Wiener Neustadt verscherbelt Großteil der Gemeindewohnungen",
+    "it": "Wiener Neustadt svende la maggior parte delle sue abitazioni comunali",
+    "en": "Wiener Neustadt sells off most of its municipal housing"
    },
    "summary": {
-    "orig": "Wiener Neustadt, jahrzehntelang von der Sozialdemokratie regiert, die wie andernorts auch, vollkommen abgewirtschaftet hat, hatte aus der Nachkriegszeit und der ersten Republik einen ansehnlichen Bestand an Gemeindewohnungen. Dass diese jetzt zu drei Viertel von der ÖVP…"
+    "orig": "Wiener Neustadt, jahrzehntelang von der Sozialdemokratie regiert, die wie andernorts auch, vollkommen abgewirtschaftet hat, hatte aus der Nachkriegszeit und der ersten Republik einen ansehnlichen Bestand an Gemeindewohnungen. Dass diese jetzt zu drei Viertel von der ÖVP…",
+    "it": "Wiener Neustadt, governata per decenni dai socialdemocratici e che, come altrove, era completamente degradata, possedeva un notevole patrimonio di case comunali del dopoguerra e della prima repubblica. Il fatto che oggi tre quarti di questa proprietà siano di proprietà dell’ÖVP…",
+    "en": "Wiener Neustadt, ruled for decades by the social democrats, which, like elsewhere, was completely run down, had a considerable stock of municipal housing from the post-war period and the first republic. The fact that three quarters of this is now owned by the ÖVP…"
    }
   },
   {
@@ -3388,10 +3452,14 @@
    "date": "2026-10-21T03:00:00+00:00",
    "image": "https://arbejderen.dk/wp-content/uploads/2026/10/angreb-paa-rusland-778x1024.jpg",
    "title": {
-    "orig": "At spørge, om en trussel er bevist, er ikke at tage fjendens parti"
+    "orig": "At spørge, om en trussel er bevist, er ikke at tage fjendens parti",
+    "it": "Chiedersi se una minaccia è dimostrata non significa schierarsi dalla parte del nemico",
+    "en": "To ask if a threat is proven is not to take the side of the enemy"
    },
    "summary": {
-    "orig": "Søndag den 22. juni 1941 hang Berlingske Tidendes løbeseddel i Københavns gader: “Krig mellem Rusland og Tyskland”. Overskriften nævner ingen angriber. Krigen er bare brudt ud, som var den et uvejr. Neden under står den sætning, der bærer det hele: “Von Ribbentrop har i en…"
+    "orig": "Søndag den 22. juni 1941 hang Berlingske Tidendes løbeseddel i Københavns gader: “Krig mellem Rusland og Tyskland”. Overskriften nævner ingen angriber. Krigen er bare brudt ud, som var den et uvejr. Neden under står den sætning, der bærer det hele: “Von Ribbentrop har i en…",
+    "it": "Domenica 22 giugno 1941 nelle strade di Copenaghen affisse il volantino di Berlingske Tidende: \"Guerra tra Russia e Germania\". Il titolo non menziona alcun aggressore. La guerra è appena scoppiata come una tempesta. Di seguito la frase che racchiude tutto: \"Von Ribbentrop ha in a...",
+    "en": "On Sunday 22 June 1941 Berlingske Tidende's leaflet hung in the streets of Copenhagen: \"War between Russia and Germany\". The headline mentions no attacker. The war just broke out like a storm. Below is the sentence that carries it all: \"Von Ribbentrop has in a..."
    }
   },
   {
@@ -3404,10 +3472,14 @@
    "date": "2026-10-21T01:28:22+00:00",
    "image": "https://www.workers.org/wp-content/uploads/WWPEditorialSwoosh.jpg",
    "title": {
-    "orig": "Ukraine: Whose side should you be on?"
+    "orig": "Ukraine: Whose side should you be on?",
+    "it": "Ucraina: da che parte stare?",
+    "en": "Ukraine: Whose side should you be on?"
    },
    "summary": {
-    "orig": "Why has Workers World often used the words “proxy war” to describe the nearly five years of warfare between Russia and Ukraine? It’s because the Ukrainian soldiers are serving the interests of NATO imperialism. That is, they fight to advance the interests of the ruling class of…"
+    "orig": "Why has Workers World often used the words “proxy war” to describe the nearly five years of warfare between Russia and Ukraine? It’s because the Ukrainian soldiers are serving the interests of NATO imperialism. That is, they fight to advance the interests of the ruling class of…",
+    "it": "Perché Workers World ha spesso usato le parole “guerra per procura” per descrivere i quasi cinque anni di guerra tra Russia e Ucraina? È perché i soldati ucraini servono gli interessi dell’imperialismo della NATO. Cioè, combattono per promuovere gli interessi della classe dirigente di...",
+    "en": "Why has Workers World often used the words “proxy war” to describe the nearly five years of warfare between Russia and Ukraine? It’s because the Ukrainian soldiers are serving the interests of NATO imperialism. That is, they fight to advance the interests of the ruling class of…"
    }
   },
   {
@@ -3420,10 +3492,14 @@
    "date": "2026-10-20T23:51:43+00:00",
    "image": "https://www.workers.org/wp-content/uploads/French-students-jpg.jpeg",
    "title": {
-    "orig": "Books or bombs? Student uprisings go global!"
+    "orig": "Books or bombs? Student uprisings go global!",
+    "it": "Libri o bombe? Le rivolte studentesche diventano globali!",
+    "en": "Books or bombs? Student uprisings go global!"
    },
    "summary": {
-    "orig": "Protests by youth and students over failed education systems that began in late August in several former French colonies and then spread to continental France have now spilled out into a global struggle over failed public services, rising living costs and prioritized military…"
+    "orig": "Protests by youth and students over failed education systems that began in late August in several former French colonies and then spread to continental France have now spilled out into a global struggle over failed public services, rising living costs and prioritized military…",
+    "it": "Le proteste dei giovani e degli studenti per il fallimento dei sistemi educativi, iniziate alla fine di agosto in diverse ex colonie francesi e poi diffusesi nella Francia continentale, si sono ora riversate in una lotta globale per i servizi pubblici falliti, l’aumento del costo della vita e la priorità militare…",
+    "en": "Protests by youth and students over failed education systems that began in late August in several former French colonies and then spread to continental France have now spilled out into a global struggle over failed public services, rising living costs and prioritized military…"
    }
   },
   {
@@ -3436,10 +3512,14 @@
    "date": "2026-10-20T23:35:52+00:00",
    "image": "https://www.workers.org/wp-content/uploads/Cornell-demo-Washington-DC-10-8-2026-678x452.jpg",
    "title": {
-    "orig": "We are all Jane Doe! Smash the patriarchy!"
+    "orig": "We are all Jane Doe! Smash the patriarchy!",
+    "it": "Siamo tutti Jane Doe! Distruggi il patriarcato!",
+    "en": "We are all Jane Doe! Smash the patriarchy!"
    },
    "summary": {
-    "orig": "The struggle against rape culture is, at the moment, focused on Cornell University. There a rape survivor filed a lawsuit in September accusing the university, the chapter of the Chi Phi fraternity, seven individual fraternity members accused of raping her and other parties of…"
+    "orig": "The struggle against rape culture is, at the moment, focused on Cornell University. There a rape survivor filed a lawsuit in September accusing the university, the chapter of the Chi Phi fraternity, seven individual fraternity members accused of raping her and other parties of…",
+    "it": "La lotta contro la cultura dello stupro è, al momento, concentrata sulla Cornell University. Lì, una sopravvissuta allo stupro ha intentato una causa a settembre accusando l'università, il capitolo della confraternita Chi Phi, sette singoli membri della confraternita accusati di aver violentato lei e altri partiti di...",
+    "en": "The struggle against rape culture is, at the moment, focused on Cornell University. There a rape survivor filed a lawsuit in September accusing the university, the chapter of the Chi Phi fraternity, seven individual fraternity members accused of raping her and other parties of…"
    }
   },
   {
@@ -3452,10 +3532,14 @@
    "date": "2026-10-20T23:27:36+00:00",
    "image": "https://www.workers.org/wp-content/uploads/Colombian-strike-Oct-14.png",
    "title": {
-    "orig": "Nationwide strike in Colombia challenges right-wing regime"
+    "orig": "Nationwide strike in Colombia challenges right-wing regime",
+    "it": "Lo sciopero nazionale in Colombia sfida il regime di destra",
+    "en": "Nationwide strike in Colombia challenges right-wing regime"
    },
    "summary": {
-    "orig": "A nationwide strike erupted Oct. 14 in at least 10 cities in Colombia just two months after the far-right government of President Abelardo de la Espriella took office. Unions, teachers, student groups, opposition parties such as the Historical Pact, LGBTQIA+ collectives, labor…"
+    "orig": "A nationwide strike erupted Oct. 14 in at least 10 cities in Colombia just two months after the far-right government of President Abelardo de la Espriella took office. Unions, teachers, student groups, opposition parties such as the Historical Pact, LGBTQIA+ collectives, labor…",
+    "it": "Uno sciopero nazionale è scoppiato il 14 ottobre in almeno 10 città della Colombia, appena due mesi dopo l’insediamento del governo di estrema destra del presidente Abelardo de la Espriella. Sindacati, insegnanti, gruppi studenteschi, partiti di opposizione come il Patto Storico, collettivi LGBTQIA+, sindacati…",
+    "en": "A nationwide strike erupted Oct. 14 in at least 10 cities in Colombia just two months after the far-right government of President Abelardo de la Espriella took office. Unions, teachers, student groups, opposition parties such as the Historical Pact, LGBTQIA+ collectives, labor…"
    }
   },
   {
@@ -3468,10 +3552,14 @@
    "date": "2026-10-20T20:37:45+00:00",
    "image": "https://www.struggle-la-lucha.org/wp-content/uploads/2026/10/moghadishu-326x245.jpeg",
    "title": {
-    "orig": "From Mogadishu to Minneapolis, Somalis refuse partition and repression"
+    "orig": "From Mogadishu to Minneapolis, Somalis refuse partition and repression",
+    "it": "Da Mogadiscio a Minneapolis, i somali rifiutano la spartizione e la repressione",
+    "en": "From Mogadishu to Minneapolis, Somalis refuse partition and repression"
    },
    "summary": {
-    "orig": "The Pentagon wants bases on Somalia’s Gulf of Aden coast to command the Bab el-Mandeb, the strait at the mouth of the Red Sea, and the shipping lane between the Suez Canal and Asia that"
+    "orig": "The Pentagon wants bases on Somalia’s Gulf of Aden coast to command the Bab el-Mandeb, the strait at the mouth of the Red Sea, and the shipping lane between the Suez Canal and Asia that",
+    "it": "Il Pentagono vuole basi sulla costa somala del Golfo di Aden per controllare Bab el-Mandeb, lo stretto alla foce del Mar Rosso e la rotta marittima tra il Canale di Suez e l’Asia che",
+    "en": "The Pentagon wants bases on Somalia’s Gulf of Aden coast to command the Bab el-Mandeb, the strait at the mouth of the Red Sea, and the shipping lane between the Suez Canal and Asia that"
    }
   },
   {
@@ -3484,10 +3572,14 @@
    "date": "2026-10-20T20:05:41+00:00",
    "image": null,
    "title": {
-    "orig": "Macron chef d’orchestre du chaos : crise sociale, fascisme et marche à la guerre – [Fadi Kassem – Vidéo]"
+    "orig": "Macron chef d’orchestre du chaos : crise sociale, fascisme et marche à la guerre – [Fadi Kassem – Vidéo]",
+    "it": "Macron direttore del caos: crisi sociale, fascismo e marcia verso la guerra – [Fadi Kassem – Video]",
+    "en": "Macron conductor of chaos: social crisis, fascism and march to war – [Fadi Kassem – Video]"
    },
    "summary": {
-    "orig": "Macron, chef d’orchestre du chaos : crise sociale, fascisme et marche à la guerre Dans cette intervention, Fadi Kassem analyse les responsabilités de Macron dans le chaos social et politique, la progression de l’extrême droite et l’escalade guerrière. Face à cette situation, le…"
+    "orig": "Macron, chef d’orchestre du chaos : crise sociale, fascisme et marche à la guerre Dans cette intervention, Fadi Kassem analyse les responsabilités de Macron dans le chaos social et politique, la progression de l’extrême droite et l’escalade guerrière. Face à cette situation, le…",
+    "it": "Macron, direttore del caos: crisi sociale, fascismo e marcia verso la guerra In questo intervento, Fadi Kassem analizza le responsabilità di Macron nel caos sociale e politico, l'avanzata dell'estrema destra e l'escalation della guerra. Di fronte a questa situazione, il…",
+    "en": "Macron, conductor of chaos: social crisis, fascism and march to war In this intervention, Fadi Kassem analyzes Macron's responsibilities in the social and political chaos, the progression of the far right and the war escalation. Faced with this situation, the…"
    }
   },
   {
@@ -3500,10 +3592,14 @@
    "date": "2026-10-20T18:59:16+00:00",
    "image": "https://static.kprf.ru/m/420/240/t/img/2026/10/skrin_1_we2ABqD.jpg",
    "title": {
-    "orig": "Дмитрий Новиков на телеканале НТВ о перспективах коммунизма, ошибках Хрущёва и успешности социализма в XX–XXI веках"
+    "orig": "Дмитрий Новиков на телеканале НТВ о перспективах коммунизма, ошибках Хрущёва и успешности социализма в XX–XXI веках",
+    "it": "Dmitry Novikov sul canale NTV sulle prospettive del comunismo, sugli errori di Krusciov e sul successo del socialismo nel XX-XXI secolo",
+    "en": "Dmitry Novikov on the NTV channel about the prospects of communism, Khrushchev’s mistakes and the success of socialism in the 20th–21st centuries"
    },
    "summary": {
-    "orig": "При всех ошибках Н.С. Хрущёва советские коммунисты добились огромных достижений. В полной мере это относится и к формированию нового человека – человека с большой буквы. Об этом заявил заместитель Председателя ЦК КПРФ Д.Г. Новиков в … Читать дальше →"
+    "orig": "При всех ошибках Н.С. Хрущёва советские коммунисты добились огромных достижений. В полной мере это относится и к формированию нового человека – человека с большой буквы. Об этом заявил заместитель Председателя ЦК КПРФ Д.Г. Новиков в … Читать дальше →",
+    "it": "Per tutti gli errori N.S. Sotto Krusciov, i comunisti sovietici ottennero enormi risultati. Ciò si applica pienamente alla formazione di una nuova persona – una persona con la “H” maiuscola. Lo ha affermato il vicepresidente del Comitato Centrale del Partito Comunista della Federazione Russa D.G. Novikov a... Per saperne di più →",
+    "en": "For all the mistakes N.S. Under Khrushchev, Soviet communists achieved enormous achievements. This fully applies to the formation of a new person – a person with a capital “H”. This was stated by Deputy Chairman of the Central Committee of the Communist Party of the Russian Federation D.G. Novikov in… Read more →"
    }
   },
   {
@@ -3516,10 +3612,14 @@
    "date": "2026-10-20T17:00:33+00:00",
    "image": null,
    "title": {
-    "orig": "Editorial"
+    "orig": "Editorial",
+    "it": "Editoriale",
+    "en": "Editorial"
    },
    "summary": {
-    "orig": "Una vez Karl Marx le escribió a su amigo Friedrich Engels en una carta lo siguiente: «En los grandes procesos históricos, veinte años son igual a un día, aunque luego pueden venir días en los que se concentran veinte años». Si aterrizamos eso en la España de hoy, podemos…"
+    "orig": "Una vez Karl Marx le escribió a su amigo Friedrich Engels en una carta lo siguiente: «En los grandes procesos históricos, veinte años son igual a un día, aunque luego pueden venir días en los que se concentran veinte años». Si aterrizamos eso en la España de hoy, podemos…",
+    "it": "Karl Marx scrisse una volta in una lettera al suo amico Friedrich Engels: \"Nei grandi processi storici, vent'anni equivalgono a un giorno, anche se possono venire giorni successivi in cui si concentrano vent'anni\". Se lo realizziamo nella Spagna di oggi, possiamo...",
+    "en": "Karl Marx once wrote to his friend Friedrich Engels in a letter the following: \"In great historical processes, twenty years are equal to one day, although later days may come in which twenty years are concentrated.\" If we land that in today's Spain, we can..."
    }
   },
   {
@@ -3532,10 +3632,14 @@
    "date": "2026-10-20T16:30:00+00:00",
    "image": null,
    "title": {
-    "orig": "14 Tote bei Goldminenunglück in Kolumbien"
+    "orig": "14 Tote bei Goldminenunglück in Kolumbien",
+    "it": "14 morti in un incidente in una miniera d'oro in Colombia",
+    "en": "14 dead in gold mine accident in Colombia"
    },
    "summary": {
-    "orig": "Ein Erdrutsch in einer Goldmine an der kolumbianischen Pazifikküste hat 14 Menschen das Leben gekostet. Das Unglück verweist auf die gefährlichen Arbeitsbedingungen im informellen Bergbau und auf ein größeres Problem: Illegale Goldförderung ist in Kolumbien eng mit Armut…"
+    "orig": "Ein Erdrutsch in einer Goldmine an der kolumbianischen Pazifikküste hat 14 Menschen das Leben gekostet. Das Unglück verweist auf die gefährlichen Arbeitsbedingungen im informellen Bergbau und auf ein größeres Problem: Illegale Goldförderung ist in Kolumbien eng mit Armut…",
+    "it": "Una frana in una miniera d'oro sulla costa pacifica della Colombia ha ucciso 14 persone. L’incidente mette in luce le pericolose condizioni di lavoro nell’estrazione informale e un problema più ampio: l’estrazione illegale dell’oro è strettamente legata alla povertà in Colombia…",
+    "en": "A landslide in a gold mine on Colombia's Pacific coast has killed 14 people. The accident highlights the dangerous working conditions in informal mining and a larger problem: Illegal gold mining is closely linked to poverty in Colombia..."
    }
   },
   {
@@ -3548,10 +3652,14 @@
    "date": "2026-10-20T14:30:00+00:00",
    "image": null,
    "title": {
-    "orig": "Italien: Proteste legen weite Teile des Landes lahm"
+    "orig": "Italien: Proteste legen weite Teile des Landes lahm",
+    "it": "Italia: le proteste paralizzano gran parte del Paese",
+    "en": "Italy: Protests paralyze large parts of the country"
    },
    "summary": {
-    "orig": "Während die Proteste in Frankreich noch immer in vollem Gange sind in denen sich die französische Jugend sich gegen das Verspielen ihrer Zukunft wehrt, und während die Wohnungskrise in Spanien und Portugal mehr und mehr Proteste und Streiks mit sich bringen, die sich weiter…"
+    "orig": "Während die Proteste in Frankreich noch immer in vollem Gange sind in denen sich die französische Jugend sich gegen das Verspielen ihrer Zukunft wehrt, und während die Wohnungskrise in Spanien und Portugal mehr und mehr Proteste und Streiks mit sich bringen, die sich weiter…",
+    "it": "Mentre le proteste in Francia sono ancora in pieno svolgimento mentre i giovani francesi si difendono dal rischio di mettere in gioco il loro futuro, e mentre la crisi immobiliare in Spagna e Portogallo porta con sé sempre più proteste e scioperi che continuano...",
+    "en": "While the protests in France are still in full swing as French youth defend themselves against gambling away their future, and while the housing crisis in Spain and Portugal brings with it more and more protests and strikes that continue..."
    }
   },
   {
@@ -3564,10 +3672,14 @@
    "date": "2026-10-20T13:12:49+00:00",
    "image": null,
    "title": {
-    "orig": "Não à reabilitação do fascismo"
+    "orig": "Não à reabilitação do fascismo",
+    "it": "No alla riabilitazione del fascismo",
+    "en": "No to the rehabilitation of fascism"
    },
    "summary": {
-    "orig": "O PCP alerta para a abertura, no próximo dia 23 de Outubro, do denominado «Centro Interpretativo do Estado Novo – Regime e Resistência», instalado na “Escola-Cantina Salazar” em Santa Comba Dão, que constituirá mais um elemento no processo de branqueamento do regime fascista…"
+    "orig": "O PCP alerta para a abertura, no próximo dia 23 de Outubro, do denominado «Centro Interpretativo do Estado Novo – Regime e Resistência», instalado na “Escola-Cantina Salazar” em Santa Comba Dão, que constituirá mais um elemento no processo de branqueamento do regime fascista…",
+    "it": "Il PCP avverte dell’apertura, il 23 ottobre, del cosiddetto “Centro Interpretativo del Nuovo Stato – Regime e Resistenza”, installato presso la “Escola-Cantina Salazar” a Santa Comba Dão, che costituirà un altro elemento nel processo di insabbiamento del regime fascista…",
+    "en": "The PCP warns of the opening, on the 23rd of October, of the so-called “New State Interpretive Center – Regime and Resistance”, installed at the “Escola-Cantina Salazar” in Santa Comba Dão, which will constitute another element in the process of whitewashing the fascist regime…"
    }
   },
   {
@@ -3580,10 +3692,14 @@
    "date": "2026-10-20T11:14:53+00:00",
    "image": null,
    "title": {
-    "orig": "Politiets gentagne angreb på pressen må ikke være uden konsekvenser"
+    "orig": "Politiets gentagne angreb på pressen må ikke være uden konsekvenser",
+    "it": "I ripetuti attacchi della polizia alla stampa non devono restare senza conseguenze",
+    "en": "The police's repeated attacks on the press must not be without consequences"
    },
    "summary": {
-    "orig": "I weekenden afholdt organisationen “Det Danske Folk” endnu engang en demonstration for den nyfascistiske politik “remigration”. Og endnu engang blev demonstrationen mødt af moddemonstranter, som nægtede at lade nyfascisternes march gå uimodsagt. Derfor var det også forventet, at…"
+    "orig": "I weekenden afholdt organisationen “Det Danske Folk” endnu engang en demonstration for den nyfascistiske politik “remigration”. Og endnu engang blev demonstrationen mødt af moddemonstranter, som nægtede at lade nyfascisternes march gå uimodsagt. Derfor var det også forventet, at…",
+    "it": "Nel fine settimana l'organizzazione \"Det Danske Folk\" ha organizzato ancora una volta una manifestazione a favore della politica neofascista di \"remigrazione\". E ancora una volta la manifestazione è stata accolta da contromanifestanti che si sono rifiutati di lasciar proseguire incontrastata la marcia dei neofascisti. Pertanto era previsto anche che...",
+    "en": "At the weekend, the organization \"Det Danske Folk\" once again held a demonstration for the neo-fascist policy of \"remigration\". And once again the demonstration was met by counter-demonstrators who refused to let the neo-fascists' march go unchallenged. Therefore, it was also expected that…"
    }
   },
   {
@@ -3596,10 +3712,14 @@
    "date": "2026-10-20T10:43:39+00:00",
    "image": null,
    "title": {
-    "orig": "Økonomien er afgørende: Langt flere akademikere har råd til selvpensionering end ufaglærte"
+    "orig": "Økonomien er afgørende: Langt flere akademikere har råd til selvpensionering end ufaglærte",
+    "it": "L’economia è decisiva: molti più accademici possono permettersi il pensionamento autonomo rispetto alle persone non qualificate",
+    "en": "The economy is decisive: far more academics can afford self-retirement than unskilled people"
    },
    "summary": {
-    "orig": "Arbejder du som rengøringsassistent, skraldemand, fabriksarbejder eller salgsassistent, så fortsætter du med stor sandsynlighed med at arbejde helt frem til pensionsalderen, der i dag er 67 år. Kun hver syvende ufaglærte har formue nok til at trække sig tilbage fem år før…"
+    "orig": "Arbejder du som rengøringsassistent, skraldemand, fabriksarbejder eller salgsassistent, så fortsætter du med stor sandsynlighed med at arbejde helt frem til pensionsalderen, der i dag er 67 år. Kun hver syvende ufaglærte har formue nok til at trække sig tilbage fem år før…",
+    "it": "Se lavori come addetto alle pulizie, spazzino, operaio o commesso, molto probabilmente continuerai a lavorare fino all’età pensionabile, che attualmente è 67 anni. Solo una persona non qualificata su sette ha abbastanza ricchezza per andare in pensione cinque anni prima…",
+    "en": "If you work as a cleaner, garbage man, factory worker or sales assistant, you will most likely continue to work right up to the retirement age, which is currently 67. Only one in seven unskilled people has enough wealth to retire five years before…"
    }
   },
   {
@@ -3612,10 +3732,14 @@
    "date": "2026-10-20T10:40:02+00:00",
    "image": null,
    "title": {
-    "orig": "Nedskæringer i Lolland Kommune truer lærerjob, mens flertallet lover bedre kvalitet"
+    "orig": "Nedskæringer i Lolland Kommune truer lærerjob, mens flertallet lover bedre kvalitet",
+    "it": "I tagli nel comune di Lolland minacciano i posti di lavoro nell’insegnamento, mentre la maggior parte promette una migliore qualità",
+    "en": "Cuts in Lolland Municipality threaten teaching jobs, while the majority promise better quality"
    },
    "summary": {
-    "orig": "Mellem 15 og 18 lærerstillinger er i fare som følge af de planlagte skoleændringer i Lolland Kommune. Forligspartierne lover stærkere faglige fællesskaber, men lærerformand René Rygaard frygter, at nedskæringer i Lolland Kommune vil forringe undervisningen. – Vi har endnu ikke…"
+    "orig": "Mellem 15 og 18 lærerstillinger er i fare som følge af de planlagte skoleændringer i Lolland Kommune. Forligspartierne lover stærkere faglige fællesskaber, men lærerformand René Rygaard frygter, at nedskæringer i Lolland Kommune vil forringe undervisningen. – Vi har endnu ikke…",
+    "it": "Tra i 15 e i 18 posti di insegnante sono a rischio a causa dei cambiamenti scolastici previsti nel comune di Lolland. I partiti di conciliazione promettono comunità professionali più forti, ma il presidente degli insegnanti René Rygaard teme che i tagli nel comune di Lolland danneggino l'insegnamento. - Non abbiamo ancora...",
+    "en": "Between 15 and 18 teaching positions are at risk as a result of the planned school changes in Lolland Municipality. The conciliation parties promise stronger professional communities, but teacher chairman René Rygaard fears that cuts in Lolland Municipality will impair teaching. - We have not yet..."
    }
   },
   {
@@ -3628,10 +3752,14 @@
    "date": "2026-10-20T10:39:13+00:00",
    "image": null,
    "title": {
-    "orig": "Buskampagne har sat fokus på afprivatisering"
+    "orig": "Buskampagne har sat fokus på afprivatisering",
+    "it": "Buskampagne si è concentrato sulla deprivatizzazione",
+    "en": "Buskampagne has focused on deprivatisation"
    },
    "summary": {
-    "orig": "Kampagnen Sammen for Tryg Kollektiv Transport har sået et frø og sat ideer om afprivatisering af den kollektiv transport på dagsordenen. Kampagnen fik ben at gå på helt ind til de politiske beslutningstagere, til medier og Midttrafik. Buskampagnen har opfyldt sit mål og stopper.…"
+    "orig": "Kampagnen Sammen for Tryg Kollektiv Transport har sået et frø og sat ideer om afprivatisering af den kollektiv transport på dagsordenen. Kampagnen fik ben at gå på helt ind til de politiske beslutningstagere, til medier og Midttrafik. Buskampagnen har opfyldt sit mål og stopper.…",
+    "it": "La campagna Insieme per Tryg Kollektiv Transport ha gettato un seme e messo all'ordine del giorno idee sulla privatizzazione dei trasporti pubblici. La campagna ha guadagnato terreno fino ai decisori politici, ai media e al Midttrafik. La campagna degli autobus ha raggiunto il suo obiettivo e si sta fermando.…",
+    "en": "The campaign Together for Tryg Kollektiv Transport has sown a seed and put ideas about the privatization of public transport on the agenda. The campaign gained ground all the way to the political decision-makers, the media and Midttrafik. The bus campaign has met its goal and is stopping.…"
    }
   },
   {
@@ -3644,10 +3772,14 @@
    "date": "2026-10-20T09:00:00+00:00",
    "image": null,
    "title": {
-    "orig": "Schellhorn will längere Öffnungszeiten"
+    "orig": "Schellhorn will längere Öffnungszeiten",
+    "it": "Schellhorn vuole orari di apertura più lunghi",
+    "en": "Schellhorn wants longer opening hours"
    },
    "summary": {
-    "orig": "Staatssekretär Josef Schellhorn will die Geschäftsöffnungszeiten ausweiten. Was er als Anpassung an das 21. Jahrhundert verkauft, droht den Druck auf Beschäftigte weiter zu erhöhen. Moderne Nahversorgung braucht gute Arbeitsbedingungen statt längerer Öffnungszeiten. Wien.…"
+    "orig": "Staatssekretär Josef Schellhorn will die Geschäftsöffnungszeiten ausweiten. Was er als Anpassung an das 21. Jahrhundert verkauft, droht den Druck auf Beschäftigte weiter zu erhöhen. Moderne Nahversorgung braucht gute Arbeitsbedingungen statt längerer Öffnungszeiten. Wien.…",
+    "it": "Il segretario di Stato Josef Schellhorn vuole ampliare gli orari di apertura delle imprese. Ciò che lui spaccia per un adattamento al 21° secolo rischia di aumentare ulteriormente la pressione sui dipendenti. La moderna offerta locale necessita di buone condizioni di lavoro invece di orari di apertura più lunghi. Vienna.…",
+    "en": "State Secretary Josef Schellhorn wants to expand business opening hours. What he sells as an adaptation to the 21st century threatens to further increase the pressure on employees. Modern local supply needs good working conditions instead of longer opening hours. Vienna.…"
    }
   },
   {
@@ -3660,10 +3792,14 @@
    "date": "2026-10-20T04:30:00+00:00",
    "image": null,
    "title": {
-    "orig": "Sudan: Drohnen töten Zivilisten – SKP zum Krieg"
+    "orig": "Sudan: Drohnen töten Zivilisten – SKP zum Krieg",
+    "it": "Sudan: i droni uccidono i civili – SKP alla guerra",
+    "en": "Sudan: Drones kill civilians – SKP to war"
    },
    "summary": {
-    "orig": "Mehr als 160 Tote durch Drohnenangriffe in wenigen Tagen, Millionen Vertriebene und eine Bevölkerung am Rand des Hungers: Der Krieg im Sudan verschärft sich weiter. Die Sudanesische Kommunistische Partei fordert die Beendigung des Krieges, eine zivile demokratische Herrschaft…"
+    "orig": "Mehr als 160 Tote durch Drohnenangriffe in wenigen Tagen, Millionen Vertriebene und eine Bevölkerung am Rand des Hungers: Der Krieg im Sudan verschärft sich weiter. Die Sudanesische Kommunistische Partei fordert die Beendigung des Krieges, eine zivile demokratische Herrschaft…",
+    "it": "Oltre 160 morti per gli attacchi dei droni in pochi giorni, milioni di sfollati e una popolazione sull’orlo della fame: la guerra in Sudan continua ad intensificarsi. Il Partito comunista sudanese chiede la fine della guerra, un governo democratico civile...",
+    "en": "More than 160 dead from drone attacks in just a few days, millions displaced and a population on the brink of hunger: the war in Sudan continues to intensify. The Sudanese Communist Party calls for an end to the war, civilian democratic rule..."
    }
   },
   {
@@ -3676,10 +3812,14 @@
    "date": "2026-10-20T01:10:37+00:00",
    "image": null,
    "title": {
-    "orig": "Retablo de vidas, y la escuela que no se detiene"
+    "orig": "Retablo de vidas, y la escuela que no se detiene",
+    "it": "Pala delle vite, e della scuola che non si ferma",
+    "en": "Altarpiece of lives, and the school that does not stop"
    },
    "summary": {
-    "orig": "Detrás de cada niño que aprende, en la escuela primaria Comandante Pinares hay mucha gente que sostiene la enseñanza, con esa terquedad de los cubanos, a pesar del bloqueo"
+    "orig": "Detrás de cada niño que aprende, en la escuela primaria Comandante Pinares hay mucha gente que sostiene la enseñanza, con esa terquedad de los cubanos, a pesar del bloqueo",
+    "it": "Dietro ogni bambino che impara, nella scuola elementare Comandante Pinares ci sono tante persone che sostengono l'insegnamento, con quella caparbietà dei cubani, nonostante il blocco",
+    "en": "Behind every child who learns, at the Comandante Pinares primary school there are many people who support teaching, with that stubbornness of Cubans, despite the blockade"
    }
   },
   {
@@ -3692,10 +3832,14 @@
    "date": "2026-10-20T00:10:44+00:00",
    "image": null,
    "title": {
-    "orig": "Frederich Cepeda: 400 jonrones y un hombre que es leyenda"
+    "orig": "Frederich Cepeda: 400 jonrones y un hombre que es leyenda",
+    "it": "Frederich Cepeda: 400 fuoricampo e un uomo che è una leggenda",
+    "en": "Frederich Cepeda: 400 home runs and a man who is a legend"
    },
    "summary": {
-    "orig": "A los 46 años, con casi tres décadas en los diamantes y todavía varios registros a su alcance, su historia continúa abierta"
+    "orig": "A los 46 años, con casi tres décadas en los diamantes y todavía varios registros a su alcance, su historia continúa abierta",
+    "it": "A 46 anni, con quasi tre decenni di diamanti e ancora diversi record alla sua portata, la sua storia resta aperta.",
+    "en": "At 46 years old, with almost three decades in diamonds and still several records within his reach, his story remains open."
    }
   },
   {
@@ -3708,10 +3852,14 @@
    "date": "2026-10-19T23:35:33+00:00",
    "image": "https://www.workers.org/wp-content/uploads/french-students1-1926.jpeg",
    "title": {
-    "orig": "Behind French uprising: Impact of de-colonialization in Global South"
+    "orig": "Behind French uprising: Impact of de-colonialization in Global South",
+    "it": "Dietro la rivolta francese: l’impatto della decolonializzazione nel Sud del mondo",
+    "en": "Behind French uprising: Impact of de-colonialization in Global South"
    },
    "summary": {
-    "orig": "Julia Wright sent the following, lightly edited message regarding protests happening in France on October 17, 2026. It also gives a good explanation of the importance of the immigrants in the movement, both today and in 1968. Students in France demonstrate for better schools. We…"
+    "orig": "Julia Wright sent the following, lightly edited message regarding protests happening in France on October 17, 2026. It also gives a good explanation of the importance of the immigrants in the movement, both today and in 1968. Students in France demonstrate for better schools. We…",
+    "it": "Julia Wright ha inviato il seguente messaggio, leggermente modificato, riguardante le proteste in corso in Francia il 17 ottobre 2026. Fornisce anche una buona spiegazione dell'importanza degli immigrati nel movimento, sia oggi che nel 1968. Gli studenti in Francia manifestano per scuole migliori. Noi…",
+    "en": "Julia Wright sent the following, lightly edited message regarding protests happening in France on October 17, 2026. It also gives a good explanation of the importance of the immigrants in the movement, both today and in 1968. Students in France demonstrate for better schools. We…"
    }
   },
   {
@@ -3724,10 +3872,14 @@
    "date": "2026-10-19T18:29:46+00:00",
    "image": "https://www.struggle-la-lucha.org/wp-content/uploads/2026/10/20SLL20Oct2026_540-326x245.jpg",
    "title": {
-    "orig": "Struggle ★ La Lucha PDF – October 19, 2026"
+    "orig": "Struggle ★ La Lucha PDF – October 19, 2026",
+    "it": "Lotta ★ La Lucha PDF – 19 ottobre 2026",
+    "en": "Struggle ★ La Lucha PDF – October 19, 2026"
    },
    "summary": {
-    "orig": "Get PDF here ICE gestapo attacks Ilhan Omar Million Worker March Tribute: Chris Silvera’s legacy & where it can take us French youth rise against the bankers’ budget NYC takes to the streets against ICE"
+    "orig": "Get PDF here ICE gestapo attacks Ilhan Omar Million Worker March Tribute: Chris Silvera’s legacy & where it can take us French youth rise against the bankers’ budget NYC takes to the streets against ICE",
+    "it": "Ottieni il PDF qui La Gestapo dell'ICE attacca Ilhan Omar Tributo alla Marcia dei Million Worker: l'eredità di Chris Silvera e dove può portarci I giovani francesi si sollevano contro il budget dei banchieri New York scende in piazza contro l'ICE",
+    "en": "Get PDF here ICE gestapo attacks Ilhan Omar Million Worker March Tribute: Chris Silvera’s legacy & where it can take us French youth rise against the bankers’ budget NYC takes to the streets against ICE"
    }
   },
   {
@@ -3740,10 +3892,14 @@
    "date": "2026-10-19T18:10:31+00:00",
    "image": null,
    "title": {
-    "orig": "Regresa la Fiesta de la Cultura Iberoamericana"
+    "orig": "Regresa la Fiesta de la Cultura Iberoamericana",
+    "it": "Ritorna il Festival della Cultura Iberoamericana",
+    "en": "The Ibero-American Culture Festival returns"
    },
    "summary": {
-    "orig": "La arrancada, el 24, se efectuará en la capital provincial, en el parque San José, identificado también como Plaza de Iberoamérica, que será tomado por los estudiantes de los centros de Enseñanza Artística, a la que está dedicada la fiesta"
+    "orig": "La arrancada, el 24, se efectuará en la capital provincial, en el parque San José, identificado también como Plaza de Iberoamérica, que será tomado por los estudiantes de los centros de Enseñanza Artística, a la que está dedicada la fiesta",
+    "it": "La partenza, il 24, avrà luogo nel capoluogo di provincia, nel parco San José, identificato anche come Plaza de Iberoamérica, che sarà occupato dagli studenti dei Centri di Educazione Artistica, a cui è dedicato il festival",
+    "en": "The start, on the 24th, will take place in the provincial capital, in the San José park, also identified as Plaza de Iberoamérica, which will be taken over by students from the Artistic Education centers, to which the festival is dedicated"
    }
   },
   {
@@ -3756,10 +3912,14 @@
    "date": "2026-10-19T17:10:36+00:00",
    "image": null,
    "title": {
-    "orig": "Detalles ampliados de la investigación de la infiltración armada desde los Estados Unidos"
+    "orig": "Detalles ampliados de la investigación de la infiltración armada desde los Estados Unidos",
+    "it": "Dettagli ampliati delle indagini sull'infiltrazione armata dagli Stati Uniti",
+    "en": "Expanded Details of the Investigation of Armed Infiltration from the United States"
    },
    "summary": {
-    "orig": "Armas, Starlink, una finca en EE.UU. y un plan confeso: tomar unidades militares y provocar una intervención. La investigación amplía la denuncia"
+    "orig": "Armas, Starlink, una finca en EE.UU. y un plan confeso: tomar unidades militares y provocar una intervención. La investigación amplía la denuncia",
+    "it": "Armi, Starlink, una fattoria negli Stati Uniti e un piano confessato: prendere unità militari e provocare un intervento. Le indagini ampliano la denuncia",
+    "en": "Weapons, Starlink, a farm in the US and a confessed plan: take military units and provoke an intervention. The investigation expands the complaint"
    }
   },
   {
@@ -3772,10 +3932,14 @@
    "date": "2026-10-19T16:30:00+00:00",
    "image": null,
    "title": {
-    "orig": "Universitäten kündigen Personalabbau von mindestens zehn Prozent an"
+    "orig": "Universitäten kündigen Personalabbau von mindestens zehn Prozent an",
+    "it": "Le università annunciano tagli al personale di almeno il 10%.",
+    "en": "Universities announce staff cuts of at least ten percent"
    },
    "summary": {
-    "orig": "Das Kürzungsbudget der Regierung bedroht Arbeitsplätze, wissenschaftlichen Nachwuchs und Forschungsprojekte. Die Partei der Arbeit Österreichs (PdA) fordert eine ausreichende Finanzierung des Bildungswesens und der Grundlagenforschung statt Milliarden für Aufrüstung. Wien. Die…"
+    "orig": "Das Kürzungsbudget der Regierung bedroht Arbeitsplätze, wissenschaftlichen Nachwuchs und Forschungsprojekte. Die Partei der Arbeit Österreichs (PdA) fordert eine ausreichende Finanzierung des Bildungswesens und der Grundlagenforschung statt Milliarden für Aufrüstung. Wien. Die…",
+    "it": "I tagli al bilancio del governo minacciano posti di lavoro, giovani scienziati e progetti di ricerca. Il Partito laburista austriaco (PdA) chiede finanziamenti sufficienti per l’istruzione e la ricerca di base invece di spendere miliardi per il riarmo. Vienna. IL…",
+    "en": "The government's budget cuts threaten jobs, young scientists and research projects. The Austrian Labor Party (PdA) is calling for sufficient funding for education and basic research instead of spending billions on rearmament. Vienna. The…"
    }
   },
   {
@@ -3788,10 +3952,14 @@
    "date": "2026-10-19T15:24:28+00:00",
    "image": "https://liberationnews.org/wp-content/uploads/2026/10/IMG_202505121410290-1-2.jpg",
    "title": {
-    "orig": "Report shows sexualized violence against Palestinians is embedded in Israeli settler colonialism"
+    "orig": "Report shows sexualized violence against Palestinians is embedded in Israeli settler colonialism",
+    "it": "Il rapporto mostra che la violenza sessualizzata contro i palestinesi è radicata nel colonialismo dei coloni israeliani",
+    "en": "Report shows sexualized violence against Palestinians is embedded in Israeli settler colonialism"
    },
    "summary": {
-    "orig": "Justice for Palestinian victims of sexualized violence requires full self determination."
+    "orig": "Justice for Palestinian victims of sexualized violence requires full self determination.",
+    "it": "La giustizia per le vittime palestinesi della violenza sessuale richiede la piena autodeterminazione.",
+    "en": "Justice for Palestinian victims of sexualized violence requires full self determination."
    }
   },
   {
@@ -3804,10 +3972,14 @@
    "date": "2026-10-19T14:39:00+00:00",
    "image": null,
    "title": {
-    "orig": "LA FRANCE, AILE MARCHANTE OU BIEN MAILLON FAIBLE DE LA DESTRUCTION EURO-ATLANTIQUE DU MONDE ?"
+    "orig": "LA FRANCE, AILE MARCHANTE OU BIEN MAILLON FAIBLE DE LA DESTRUCTION EURO-ATLANTIQUE DU MONDE ?",
+    "it": "LA FRANCIA, ALA CAMMINANTE O ANELLO DEBOLE NELLA DISTRUZIONE EURO-ATLANTICA DEL MONDO?",
+    "en": "FRANCE, WALKING WING OR WEAK LINK IN THE EURO-ATLANTIC DESTRUCTION OF THE WORLD?"
    },
    "summary": {
-    "orig": "« Une chaîne vaut ce que vaut son maillon le plus faible » – Vladimir Ilitch Oulianov Sur le plan de la géopolitique mondiale, notre pays, aujourd’hui aile marchante de la marche à la guerre mondiale, représente aussi un espoir de rupture pour les peuples, pour la jeunesse du…"
+    "orig": "« Une chaîne vaut ce que vaut son maillon le plus faible » – Vladimir Ilitch Oulianov Sur le plan de la géopolitique mondiale, notre pays, aujourd’hui aile marchante de la marche à la guerre mondiale, représente aussi un espoir de rupture pour les peuples, pour la jeunesse du…",
+    "it": "“Una catena vale quanto vale il suo anello più debole” – Vladimir Ilyich Ulyanov Sul piano della geopolitica globale, il nostro Paese, oggi l’ala marcia della marcia verso la guerra mondiale, rappresenta anche una speranza di rottura per il popolo, per i giovani di...",
+    "en": "“A chain is worth what its weakest link is worth” – Vladimir Ilyich Ulyanov On the level of global geopolitics, our country, today the marching wing of the march to world war, also represents a hope of rupture for the people, for the youth of…"
    }
   },
   {
@@ -3820,10 +3992,14 @@
    "date": "2026-10-19T14:30:00+00:00",
    "image": null,
    "title": {
-    "orig": "VW: Beschäftigte sollen zahlen, Milliardenvermögen bleibt unangetastet"
+    "orig": "VW: Beschäftigte sollen zahlen, Milliardenvermögen bleibt unangetastet",
+    "it": "VW: I dipendenti dovrebbero pagare, i miliardi di asset rimangono intatti",
+    "en": "VW: Employees should pay, billions in assets remain untouched"
    },
    "summary": {
-    "orig": "Die Porsche-Piëch-Familie kontrolliert Volkswagen und verfügt über Milliardenvermögen – während die Belegschaft Reallohnverluste und Stellenabbau hinnehmen soll. Der Volkswagen-Konzern verschärft seinen Sparkurs auf Kosten der Beschäftigten. Wie die Süddeutsche Zeitung…"
+    "orig": "Die Porsche-Piëch-Familie kontrolliert Volkswagen und verfügt über Milliardenvermögen – während die Belegschaft Reallohnverluste und Stellenabbau hinnehmen soll. Der Volkswagen-Konzern verschärft seinen Sparkurs auf Kosten der Beschäftigten. Wie die Süddeutsche Zeitung…",
+    "it": "La famiglia Porsche-Piëch controlla la Volkswagen e ha un patrimonio miliardario, mentre ci si aspetta che la forza lavoro accetti perdite salariali reali e tagli di posti di lavoro. Il Gruppo Volkswagen sta inasprendo le sue misure di austerità a scapito dei suoi dipendenti. Come la Süddeutsche Zeitung...",
+    "en": "The Porsche-Piëch family controls Volkswagen and has billions in assets - while the workforce is expected to accept real wage losses and job cuts. The Volkswagen Group is tightening its austerity measures at the expense of its employees. Like the Süddeutsche Zeitung…"
    }
   },
   {
@@ -3836,10 +4012,14 @@
    "date": "2026-10-19T11:42:55+00:00",
    "image": "https://www.struggle-la-lucha.org/wp-content/uploads/2026/10/NOLA1-326x245.jpg",
    "title": {
-    "orig": "‘We have the streets’: New Orleans holds Canal Street for Palestine"
+    "orig": "‘We have the streets’: New Orleans holds Canal Street for Palestine",
+    "it": "“Abbiamo le strade”: New Orleans detiene Canal Street per la Palestina",
+    "en": "‘We have the streets’: New Orleans holds Canal Street for Palestine"
    },
    "summary": {
-    "orig": "New Orleans, Oct. 17, 2026 – On Saturday evening, several hundred people marched for Palestine downtown, commemorating three years of resistance to the United States-Israeli genocide that intensified after Oct. 7, 2023. The march had"
+    "orig": "New Orleans, Oct. 17, 2026 – On Saturday evening, several hundred people marched for Palestine downtown, commemorating three years of resistance to the United States-Israeli genocide that intensified after Oct. 7, 2023. The march had",
+    "it": "New Orleans, 17 ottobre 2026 – Sabato sera, diverse centinaia di persone hanno marciato per il centro della Palestina, commemorando tre anni di resistenza al genocidio statunitense-israeliano che si è intensificato dopo il 7 ottobre 2023.",
+    "en": "New Orleans, Oct. 17, 2026 – On Saturday evening, several hundred people marched for Palestine downtown, commemorating three years of resistance to the United States-Israeli genocide that intensified after Oct. 7, 2023. The march had"
    }
   },
   {
@@ -3852,10 +4032,14 @@
    "date": "2026-10-18T22:23:38+00:00",
    "image": "https://www.struggle-la-lucha.org/wp-content/uploads/2026/10/10-16-555514436378d6d20a8aac-23fcc0fa-326x245.webp",
    "title": {
-    "orig": "Brazil takes to the streets in defense of Lula and against the far right’s advances"
+    "orig": "Brazil takes to the streets in defense of Lula and against the far right’s advances",
+    "it": "Il Brasile scende in piazza in difesa di Lula e contro l’avanzata dell’estrema destra",
+    "en": "Brazil takes to the streets in defense of Lula and against the far right’s advances"
    },
    "summary": {
-    "orig": "Oct. 18, 2026 Brazil is experiencing a new wave of popular demonstrations that has brought thousands of people into the streets, from major cities to smaller towns, in a show of support for President Luiz"
+    "orig": "Oct. 18, 2026 Brazil is experiencing a new wave of popular demonstrations that has brought thousands of people into the streets, from major cities to smaller towns, in a show of support for President Luiz",
+    "it": "18 ottobre 2026 Il Brasile sta vivendo una nuova ondata di manifestazioni popolari che ha portato migliaia di persone nelle strade, dalle grandi città ai paesi più piccoli, in una dimostrazione di sostegno al presidente Luiz",
+    "en": "Oct. 18, 2026 Brazil is experiencing a new wave of popular demonstrations that has brought thousands of people into the streets, from major cities to smaller towns, in a show of support for President Luiz"
    }
   },
   {
@@ -3868,10 +4052,14 @@
    "date": "2026-10-18T22:10:23+00:00",
    "image": null,
    "title": {
-    "orig": "El diésel ruso y sus interpretaciones"
+    "orig": "El diésel ruso y sus interpretaciones",
+    "it": "Il diesel russo e le sue interpretazioni",
+    "en": "Russian diesel and its interpretations"
    },
    "summary": {
-    "orig": "«El petróleo ruso ha comenzado a llegar a los mercados globales, lo que tendrá un efecto positivo para su estabilización»"
+    "orig": "«El petróleo ruso ha comenzado a llegar a los mercados globales, lo que tendrá un efecto positivo para su estabilización»",
+    "it": "«Il petrolio russo ha cominciato a raggiungere i mercati globali, il che avrà un effetto positivo sulla loro stabilizzazione»",
+    "en": "«Russian oil has begun to reach global markets, which will have a positive effect on their stabilization»"
    }
   },
   {
@@ -3884,10 +4072,14 @@
    "date": "2026-10-18T21:20:03+00:00",
    "image": null,
    "title": {
-    "orig": "Propos à la fois creux et menaçants d’un président de moins en moins légitime – Déclaration du PRCF"
+    "orig": "Propos à la fois creux et menaçants d’un président de moins en moins légitime – Déclaration du PRCF",
+    "it": "Affermazioni vuote e minacciose di un presidente sempre meno legittimo – dichiarazione del PRCF",
+    "en": "Both hollow and threatening remarks from a president who is less and less legitimate – PRCF declaration"
    },
    "summary": {
-    "orig": "D’un côté Macron ne pouvait pas ne pas s’exprimer ce soir tant l’émotion est grande dans le pays; d’autant que le prétendu Parti de l’Ordre jette de l’huile sur le feu à l’instigation de Le Pen et du non moins dangereux Retailleau. D’un autre côté, le chef de l’État pouvait-il…"
+    "orig": "D’un côté Macron ne pouvait pas ne pas s’exprimer ce soir tant l’émotion est grande dans le pays; d’autant que le prétendu Parti de l’Ordre jette de l’huile sur le feu à l’instigation de Le Pen et du non moins dangereux Retailleau. D’un autre côté, le chef de l’État pouvait-il…",
+    "it": "Da un lato Macron non poteva non esprimersi stasera perché l’emozione è tanta nel Paese; tanto più che il cosiddetto Partito dell'ordine getta benzina sul fuoco su istigazione di Le Pen e del non meno pericoloso Retailleau. D’altra parte, il capo dello Stato potrebbe…",
+    "en": "On the one hand, Macron could not not express himself this evening as the emotion is so great in the country; especially since the so-called Party of Order is throwing fuel on the fire at the instigation of Le Pen and the no less dangerous Retailleau. On the other hand, could the head of state…"
    }
   },
   {
@@ -3900,10 +4092,14 @@
    "date": "2026-10-18T20:44:19+00:00",
    "image": null,
    "title": {
-    "orig": "De quoi le 17 octobre est-il le nom ?"
+    "orig": "De quoi le 17 octobre est-il le nom ?",
+    "it": "Come si chiama il 17 ottobre?",
+    "en": "What is October 17 called?"
    },
    "summary": {
-    "orig": "Du prélude certainement. Le prélude à l’insurrection populaire possiblement. La journée restera celle de la convergence générationnelle des lycéens et étudiants avec les actifs et même des retraités, ainsi qu’une convergence des masses venant des cités, des banlieues, des…"
+    "orig": "Du prélude certainement. Le prélude à l’insurrection populaire possiblement. La journée restera celle de la convergence générationnelle des lycéens et étudiants avec les actifs et même des retraités, ainsi qu’une convergence des masses venant des cités, des banlieues, des…",
+    "it": "Certamente un preludio. Forse il preludio all'insurrezione popolare. Il giorno resterà quello della convergenza generazionale degli studenti delle scuole superiori e degli studenti con i lavoratori e anche i pensionati, nonché di una convergenza delle masse provenienti dalle città, dalle periferie,...",
+    "en": "Certainly a prelude. The prelude to the popular insurrection possibly. The day will remain that of the generational convergence of high school students and students with working people and even retirees, as well as a convergence of the masses coming from cities, suburbs,..."
    }
   },
   {
@@ -3916,10 +4112,14 @@
    "date": "2026-10-18T13:23:11+00:00",
    "image": "https://www.struggle-la-lucha.org/wp-content/uploads/2026/10/indiastudents-326x245.webp",
    "title": {
-    "orig": "Modi clears way for Walmart and Google, purges voters"
+    "orig": "Modi clears way for Walmart and Google, purges voters",
+    "it": "Modi apre la strada a Walmart e Google, epura gli elettori",
+    "en": "Modi clears way for Walmart and Google, purges voters"
    },
    "summary": {
-    "orig": "India built a system that lets anyone with a phone send money for free from one bank account to another. Walmart and Google own the apps most people use to access it, and they are"
+    "orig": "India built a system that lets anyone with a phone send money for free from one bank account to another. Walmart and Google own the apps most people use to access it, and they are",
+    "it": "L’India ha creato un sistema che consente a chiunque abbia un telefono di inviare denaro gratuitamente da un conto bancario a un altro. Walmart e Google possiedono le app che la maggior parte delle persone utilizza per accedervi, e lo sono",
+    "en": "India built a system that lets anyone with a phone send money for free from one bank account to another. Walmart and Google own the apps most people use to access it, and they are"
    }
   },
   {
@@ -3932,10 +4132,14 @@
    "date": "2026-10-17T21:10:16+00:00",
    "image": null,
    "title": {
-    "orig": "«Pasión por el arte y amor por Cuba»"
+    "orig": "«Pasión por el arte y amor por Cuba»",
+    "it": "«Passione per l'arte e amore per Cuba»",
+    "en": "«Passion for art and love for Cuba»"
    },
    "summary": {
-    "orig": "Este sábado tuvo lugar el acto por el aniversario 40 de la organización, y la entrega del Premio Maestro de Juventudes"
+    "orig": "Este sábado tuvo lugar el acto por el aniversario 40 de la organización, y la entrega del Premio Maestro de Juventudes",
+    "it": "Questo sabato si è svolto l'evento per il 40° anniversario dell'organizzazione e la consegna del Premio Youth Master",
+    "en": "This Saturday the event took place for the 40th anniversary of the organization, and the presentation of the Youth Master Award"
    }
   },
   {
@@ -3948,10 +4152,14 @@
    "date": "2026-10-17T21:07:14+00:00",
    "image": null,
    "title": {
-    "orig": "17 octobre : plus d’un million dans la rue pour la France des travailleurs face à ceux qui cassent le pays et désespèrent sa jeunesse. Déclaration du PRCF"
+    "orig": "17 octobre : plus d’un million dans la rue pour la France des travailleurs face à ceux qui cassent le pays et désespèrent sa jeunesse. Déclaration du PRCF",
+    "it": "17 ottobre: ​​più di un milione in piazza per la Francia operaia contro coloro che stanno distruggendo il Paese e disperando la sua gioventù. Dichiarazione PRCF",
+    "en": "October 17: more than a million in the streets for workers' France against those who are destroying the country and despairing its youth. PRCF Statement"
    },
    "summary": {
-    "orig": "Poussant à son comble la logique destructive d’une « construction » européenne synonyme de marche à la guerre, de fascisation et de casse des acquis sociaux, le régime macroniste a fini par mettre notre pays aux portes de l’explosion sociale et politique. Justifiant une fois de…"
+    "orig": "Poussant à son comble la logique destructive d’une « construction » européenne synonyme de marche à la guerre, de fascisation et de casse des acquis sociaux, le régime macroniste a fini par mettre notre pays aux portes de l’explosion sociale et politique. Justifiant une fois de…",
+    "it": "Spingendo al limite la logica distruttiva di una “costruzione” europea sinonimo di marcia verso la guerra, la fascistizzazione e la distruzione delle conquiste sociali, il regime macronista ha finito per mettere il nostro Paese alle porte dell’esplosione sociale e politica. Giustificando una volta di...",
+    "en": "Pushing to its limit the destructive logic of a European “construction” synonymous with a march to war, fascistization and the destruction of social achievements, the Macronist regime ended up putting our country at the gates of the social and political explosion. Justifying once of…"
    }
   },
   {
@@ -3964,10 +4172,14 @@
    "date": "2026-10-17T20:31:33+00:00",
    "image": null,
    "title": {
-    "orig": "#17octobre : la France des travailleurs dans la rue, des millions en colère [ Reportage ]"
+    "orig": "#17octobre : la France des travailleurs dans la rue, des millions en colère [ Reportage ]",
+    "it": "#17ottobre: La Francia dei lavoratori in piazza, milioni di persone arrabbiate [Report]",
+    "en": "#October 17: France of workers in the streets, millions angry [Report]"
    },
    "summary": {
-    "orig": "Soutenu par 69% des français, c’est un immense mouvement populaire aux élans révolutionnaires dynamisés par l’appel et l’exemple de la jeunesse dans la rue depuis trois semaines, qui a soulevé toute la France des travailleurs ce 17 octobre. Une convergence des colères qui est la…"
+    "orig": "Soutenu par 69% des français, c’est un immense mouvement populaire aux élans révolutionnaires dynamisés par l’appel et l’exemple de la jeunesse dans la rue depuis trois semaines, qui a soulevé toute la France des travailleurs ce 17 octobre. Une convergence des colères qui est la…",
+    "it": "Sostenuto dal 69% dei francesi, si tratta di un vasto movimento popolare con slanci rivoluzionari, animati dall'appello e dall'esempio dei giovani in piazza per tre settimane, che ha mobilitato tutti i lavoratori francesi il 17 ottobre. Una convergenza di rabbia che è...",
+    "en": "Supported by 69% of French people, it is a huge popular movement with revolutionary impulses energized by the call and the example of young people in the streets for three weeks, which aroused all of France's workers on October 17. A convergence of anger which is the…"
    }
   },
   {
@@ -3980,10 +4192,14 @@
    "date": "2026-10-17T18:30:00+00:00",
    "image": null,
    "title": {
-    "orig": "The Bogey of Communist-Islamist Machinations"
+    "orig": "The Bogey of Communist-Islamist Machinations",
+    "it": "Lo spauracchio delle macchinazioni comuniste-islamiche",
+    "en": "The Bogey of Communist-Islamist Machinations"
    },
    "summary": {
-    "orig": "The Bogey of Communist-Islamist Machinations M A Baby COMMUNISTS have always been a thorn in the flesh for the rightwing. It therefore comes as no surprise that the October 11, 2026 issue of the Organiser, the RSS mouthpiece, has once again resorted to the familiar tactic of…"
+    "orig": "The Bogey of Communist-Islamist Machinations M A Baby COMMUNISTS have always been a thorn in the flesh for the rightwing. It therefore comes as no surprise that the October 11, 2026 issue of the Organiser, the RSS mouthpiece, has once again resorted to the familiar tactic of…",
+    "it": "Lo spauracchio delle macchinazioni comuniste-islamiche M A Baby I COMUNISTI sono sempre stati una spina nella carne per la destra. Non sorprende quindi che nel numero dell’11 ottobre 2026 dell’Organiser, portavoce del RSS, sia ricorso ancora una volta alla tattica familiare di…",
+    "en": "The Bogey of Communist-Islamist Machinations M A Baby COMMUNISTS have always been a thorn in the flesh for the rightwing. It therefore comes as no surprise that the October 11, 2026 issue of the Organiser, the RSS mouthpiece, has once again resorted to the familiar tactic of…"
    }
   },
   {
@@ -3996,10 +4212,14 @@
    "date": "2026-10-17T18:30:00+00:00",
    "image": null,
    "title": {
-    "orig": "SC to Examine John Brittas’s Submission over Police Assault in Delhi"
+    "orig": "SC to Examine John Brittas’s Submission over Police Assault in Delhi",
+    "it": "SC esaminerà la presentazione di John Brittas sull'aggressione della polizia a Delhi",
+    "en": "SC to Examine John Brittas’s Submission over Police Assault in Delhi"
    },
    "summary": {
-    "orig": "SC to Examine John Brittas’s Submission over Police Assault in Delhi The Supreme Court has registered CPI(M) Rajya Sabha MP John Brittas’s letter to Chief Justice of India Surya Kant as Interlocutory Application No. 319609/2026 in the pending writ petition initiated by CPI(M)…"
+    "orig": "SC to Examine John Brittas’s Submission over Police Assault in Delhi The Supreme Court has registered CPI(M) Rajya Sabha MP John Brittas’s letter to Chief Justice of India Surya Kant as Interlocutory Application No. 319609/2026 in the pending writ petition initiated by CPI(M)…",
+    "it": "SC esaminerà la presentazione di John Brittas sull'aggressione della polizia a Delhi La Corte Suprema ha registrato la lettera del deputato John Brittas del CPI (M) Rajya Sabha al Presidente della Corte Suprema dell'India Surya Kant come domanda interlocutoria n. 319609/2026 nella petizione scritta pendente avviata da CPI (M) ...",
+    "en": "SC to Examine John Brittas’s Submission over Police Assault in Delhi The Supreme Court has registered CPI(M) Rajya Sabha MP John Brittas’s letter to Chief Justice of India Surya Kant as Interlocutory Application No. 319609/2026 in the pending writ petition initiated by CPI(M)…"
    }
   },
   {
@@ -4012,10 +4232,14 @@
    "date": "2026-10-17T18:30:00+00:00",
    "image": "https://peoplesdemocracy.in/sites/default/files/styles/large/public/field/image/845749529_1826430952040372_1786462910527237172_n.jpg?itok=SeXzNUBA",
    "title": {
-    "orig": "CPI(M) CC Demands Rollback of SIR, Slams Modi Govt. for Repression"
+    "orig": "CPI(M) CC Demands Rollback of SIR, Slams Modi Govt. for Repression",
+    "it": "Il CC CPI(M) chiede il ritiro del SIR e critica il governo Modi. per la Repressione",
+    "en": "CPI(M) CC Demands Rollback of SIR, Slams Modi Govt. for Repression"
    },
    "summary": {
-    "orig": "CPI(M) CC Demands Rollback of SIR, Slams Modi Govt. for Repression The Central Committee of the Communist Party of India (Marxist) met in New Delhi on October 9 & 11, 2026. Originally slated to meet from October 9 to 11, on the second day of the meeting, members of the Central…"
+    "orig": "CPI(M) CC Demands Rollback of SIR, Slams Modi Govt. for Repression The Central Committee of the Communist Party of India (Marxist) met in New Delhi on October 9 & 11, 2026. Originally slated to meet from October 9 to 11, on the second day of the meeting, members of the Central…",
+    "it": "Il CC CPI(M) chiede il ritiro del SIR e critica il governo Modi. per la repressione Il Comitato Centrale del Partito Comunista dell'India (marxista) si è riunito a Nuova Delhi il 9 e 11 ottobre 2026. Originariamente previsto per incontrarsi dal 9 all'11 ottobre, il secondo giorno della riunione, i membri del Comitato Centrale...",
+    "en": "CPI(M) CC Demands Rollback of SIR, Slams Modi Govt. for Repression The Central Committee of the Communist Party of India (Marxist) met in New Delhi on October 9 & 11, 2026. Originally slated to meet from October 9 to 11, on the second day of the meeting, members of the Central…"
    }
   },
   {
@@ -4028,10 +4252,14 @@
    "date": "2026-10-17T18:30:00+00:00",
    "image": null,
    "title": {
-    "orig": "NAJ Blasts Targeted Attacks on Media, Women Journos and Opposition"
+    "orig": "NAJ Blasts Targeted Attacks on Media, Women Journos and Opposition",
+    "it": "NAJ attacca attacchi mirati ai media, ai giornali femminili e all'opposizione",
+    "en": "NAJ Blasts Targeted Attacks on Media, Women Journos and Opposition"
    },
    "summary": {
-    "orig": "NAJ Blasts Targeted Attacks on Media, Women Journos and Opposition The National Alliance of Journalists (NAJ) in a statement from Delhi today has cautioned against continued attacks on journalists, teachers, students, writers, trade unionists and leaders of various opposition…"
+    "orig": "NAJ Blasts Targeted Attacks on Media, Women Journos and Opposition The National Alliance of Journalists (NAJ) in a statement from Delhi today has cautioned against continued attacks on journalists, teachers, students, writers, trade unionists and leaders of various opposition…",
+    "it": "La NAJ lancia attacchi mirati ai media, ai giornali delle donne e all'opposizione L'Alleanza nazionale dei giornalisti (NAJ), in una dichiarazione rilasciata oggi da Delhi, ha messo in guardia contro i continui attacchi contro giornalisti, insegnanti, studenti, scrittori, sindacalisti e leader di varie opposizioni...",
+    "en": "NAJ Blasts Targeted Attacks on Media, Women Journos and Opposition The National Alliance of Journalists (NAJ) in a statement from Delhi today has cautioned against continued attacks on journalists, teachers, students, writers, trade unionists and leaders of various opposition…"
    }
   },
   {
@@ -4044,10 +4272,14 @@
    "date": "2026-10-17T18:30:00+00:00",
    "image": null,
    "title": {
-    "orig": "Tripura: Protests across State Demanding Gyanesh Kumar’s Resignation"
+    "orig": "Tripura: Protests across State Demanding Gyanesh Kumar’s Resignation",
+    "it": "Tripura: proteste in tutto lo Stato per chiedere le dimissioni di Gyanesh Kumar",
+    "en": "Tripura: Protests across State Demanding Gyanesh Kumar’s Resignation"
    },
    "summary": {
-    "orig": "Tripura: Protests across State Demanding Gyanesh Kumar’s Resignation Sandipan Deb PROTESTS, rallies and public meetings were held across Tripura on October 10, demanding the resignation of Chief Election Commissioner Gyanesh Kumar and expressing solidarity with the ongoing…"
+    "orig": "Tripura: Protests across State Demanding Gyanesh Kumar’s Resignation Sandipan Deb PROTESTS, rallies and public meetings were held across Tripura on October 10, demanding the resignation of Chief Election Commissioner Gyanesh Kumar and expressing solidarity with the ongoing…",
+    "it": "Tripura: proteste in tutto lo stato che chiedono le dimissioni di Gyanesh Kumar Sandipan Deb PROTESTE, manifestazioni e incontri pubblici si sono tenuti in tutto il Tripura il 10 ottobre, chiedendo le dimissioni del commissario capo elettorale Gyanesh Kumar ed esprimendo solidarietà con la situazione in corso...",
+    "en": "Tripura: Protests across State Demanding Gyanesh Kumar’s Resignation Sandipan Deb PROTESTS, rallies and public meetings were held across Tripura on October 10, demanding the resignation of Chief Election Commissioner Gyanesh Kumar and expressing solidarity with the ongoing…"
    }
   },
   {
@@ -4060,10 +4292,14 @@
    "date": "2026-10-17T18:30:00+00:00",
    "image": "https://peoplesdemocracy.in/sites/default/files/styles/large/public/field/image/839012376_1325156116262054_2565243794240500757_n.jpg?itok=gRY_ZM2O",
    "title": {
-    "orig": "Cannot Stop Spring from Coming"
+    "orig": "Cannot Stop Spring from Coming",
+    "it": "Non possiamo impedire alla primavera di arrivare",
+    "en": "Cannot Stop Spring from Coming"
    },
    "summary": {
-    "orig": "Cannot Stop Spring from Coming PABLO NERUDA’s immortal lines read thus: “You can cut all the flowers, but you cannot keep spring from coming”. These words were the ultimate declaration of the inevitability of collective triumph of the people for a cause worthy of humanity and…"
+    "orig": "Cannot Stop Spring from Coming PABLO NERUDA’s immortal lines read thus: “You can cut all the flowers, but you cannot keep spring from coming”. These words were the ultimate declaration of the inevitability of collective triumph of the people for a cause worthy of humanity and…",
+    "it": "Non si può impedire alla primavera di arrivare I versi immortali di PABLO NERUDA recitano così: “Puoi tagliare tutti i fiori, ma non puoi impedire alla primavera di arrivare”. Queste parole furono la dichiarazione definitiva dell’inevitabilità del trionfo collettivo del popolo per una causa degna dell’umanità e…",
+    "en": "Cannot Stop Spring from Coming PABLO NERUDA’s immortal lines read thus: “You can cut all the flowers, but you cannot keep spring from coming”. These words were the ultimate declaration of the inevitability of collective triumph of the people for a cause worthy of humanity and…"
    }
   },
   {
@@ -4076,10 +4312,14 @@
    "date": "2026-10-17T18:30:00+00:00",
    "image": null,
    "title": {
-    "orig": "SKM Gives Nationwide Protest Calls on Oct 23, Nov 26"
+    "orig": "SKM Gives Nationwide Protest Calls on Oct 23, Nov 26",
+    "it": "SKM lancia appelli di protesta a livello nazionale il 23 ottobre e il 26 novembre",
+    "en": "SKM Gives Nationwide Protest Calls on Oct 23, Nov 26"
    },
    "summary": {
-    "orig": "SKM Gives Nationwide Protest Calls on Oct 23, Nov 26 The national council/general body meeting of the Samyukta Kisan Morcha (SKM) held at Jat Bhawan, Karnal, Haryana, on October 12, decided to intensify the farmers' struggle and organise massive demonstrations on November 26 in…"
+    "orig": "SKM Gives Nationwide Protest Calls on Oct 23, Nov 26 The national council/general body meeting of the Samyukta Kisan Morcha (SKM) held at Jat Bhawan, Karnal, Haryana, on October 12, decided to intensify the farmers' struggle and organise massive demonstrations on November 26 in…",
+    "it": "SKM lancia appelli di protesta a livello nazionale il 23 ottobre e 26 novembre La riunione del consiglio nazionale/organo generale del Samyukta Kisan Morcha (SKM) tenutasi a Jat Bhawan, Karnal, Haryana, il 12 ottobre, ha deciso di intensificare la lotta dei contadini e di organizzare manifestazioni di massa il 26 novembre a...",
+    "en": "SKM Gives Nationwide Protest Calls on Oct 23, Nov 26 The national council/general body meeting of the Samyukta Kisan Morcha (SKM) held at Jat Bhawan, Karnal, Haryana, on October 12, decided to intensify the farmers' struggle and organise massive demonstrations on November 26 in…"
    }
   },
   {
@@ -4092,10 +4332,14 @@
    "date": "2026-10-17T18:30:00+00:00",
    "image": null,
    "title": {
-    "orig": "A Nobel view: India needs change"
+    "orig": "A Nobel view: India needs change",
+    "it": "Una visione da Nobel: l’India ha bisogno di cambiamento",
+    "en": "A Nobel view: India needs change"
    },
    "summary": {
-    "orig": "A Nobel view: India needs change S Krishnaswamy In the present atmosphere of Hindutva, traditionalism that looks backwards and ongoing protests led by GenZ about the crumbling of democratic and educational structures, writing about the Nobel Prizes may seem incongruous. But…"
+    "orig": "A Nobel view: India needs change S Krishnaswamy In the present atmosphere of Hindutva, traditionalism that looks backwards and ongoing protests led by GenZ about the crumbling of democratic and educational structures, writing about the Nobel Prizes may seem incongruous. But…",
+    "it": "Una visione del Nobel: l'India ha bisogno di un cambiamento S Krishnaswamy Nell'attuale atmosfera dell'Hindutva, del tradizionalismo che guarda al passato e delle continue proteste guidate dalla GenZ sul crollo delle strutture democratiche ed educative, scrivere sui Premi Nobel può sembrare incongruo. Ma…",
+    "en": "A Nobel view: India needs change S Krishnaswamy In the present atmosphere of Hindutva, traditionalism that looks backwards and ongoing protests led by GenZ about the crumbling of democratic and educational structures, writing about the Nobel Prizes may seem incongruous. But…"
    }
   },
   {
@@ -4108,10 +4352,14 @@
    "date": "2026-10-17T18:30:00+00:00",
    "image": null,
    "title": {
-    "orig": "The Blinkers of Bigotry"
+    "orig": "The Blinkers of Bigotry",
+    "it": "I paraocchi del bigottismo",
+    "en": "The Blinkers of Bigotry"
    },
    "summary": {
-    "orig": "The Blinkers of Bigotry Prabhat Patnaik QUITE predictably, the President of the Bharatiya Janata Party, Nitin Nabin, has characterized the agitation launched on October 10, by Left student and youth groups and the Cockroach Janata Party, against the Chief Election Commissioner…"
+    "orig": "The Blinkers of Bigotry Prabhat Patnaik QUITE predictably, the President of the Bharatiya Janata Party, Nitin Nabin, has characterized the agitation launched on October 10, by Left student and youth groups and the Cockroach Janata Party, against the Chief Election Commissioner…",
+    "it": "I lampeggianti del bigottismo Prabhat Patnaik COME era prevedibile, il presidente del Bharatiya Janata Party, Nitin Nabin, ha caratterizzato l'agitazione lanciata il 10 ottobre da gruppi studenteschi e giovanili di sinistra e dal Cockroach Janata Party, contro il commissario capo elettorale...",
+    "en": "The Blinkers of Bigotry Prabhat Patnaik QUITE predictably, the President of the Bharatiya Janata Party, Nitin Nabin, has characterized the agitation launched on October 10, by Left student and youth groups and the Cockroach Janata Party, against the Chief Election Commissioner…"
    }
   },
   {
@@ -4124,10 +4372,14 @@
    "date": "2026-10-17T18:30:00+00:00",
    "image": null,
    "title": {
-    "orig": "How RSS Fronts Are Getting Foreign Funds"
+    "orig": "How RSS Fronts Are Getting Foreign Funds",
+    "it": "Come i fronti RSS ottengono fondi esteri",
+    "en": "How RSS Fronts Are Getting Foreign Funds"
    },
    "summary": {
-    "orig": "How RSS Fronts Are Getting Foreign Funds Savera A NEW report by a group of investigative researchers has revealed how two big front organisations of the RSS funnel funds from US to India, hiding the source of donations through a legal provision in US laws governing non-profit…"
+    "orig": "How RSS Fronts Are Getting Foreign Funds Savera A NEW report by a group of investigative researchers has revealed how two big front organisations of the RSS funnel funds from US to India, hiding the source of donations through a legal provision in US laws governing non-profit…",
+    "it": "Come i fronti RSS ottengono fondi esteri Savera Un NUOVO rapporto di un gruppo di ricercatori investigativi ha rivelato come due grandi organizzazioni di facciata del canale RSS finanziano dagli Stati Uniti all'India, nascondendo la fonte delle donazioni attraverso una disposizione legale nelle leggi statunitensi che regolano le organizzazioni non-profit...",
+    "en": "How RSS Fronts Are Getting Foreign Funds Savera A NEW report by a group of investigative researchers has revealed how two big front organisations of the RSS funnel funds from US to India, hiding the source of donations through a legal provision in US laws governing non-profit…"
    }
   },
   {
@@ -4140,10 +4392,14 @@
    "date": "2026-10-17T12:05:59+00:00",
    "image": "https://www.struggle-la-lucha.org/wp-content/uploads/2026/10/Flores_Maduro_rally-326x245.jpg",
    "title": {
-    "orig": "Shackled and defiant, Maduro and Flores reject new bogus charges"
+    "orig": "Shackled and defiant, Maduro and Flores reject new bogus charges",
+    "it": "Incatenati e ribelli, Maduro e Flores respingono nuove accuse fasulle",
+    "en": "Shackled and defiant, Maduro and Flores reject new bogus charges"
    },
    "summary": {
-    "orig": "Oct. 15 — Venezuelan President Nicolás Maduro Moros and First Combatant Cilia Adela Flores were brought to a federal court in Manhattan this morning shackled and defiant. Facing Judge Alvin Hellerstein, both prisoners of war"
+    "orig": "Oct. 15 — Venezuelan President Nicolás Maduro Moros and First Combatant Cilia Adela Flores were brought to a federal court in Manhattan this morning shackled and defiant. Facing Judge Alvin Hellerstein, both prisoners of war",
+    "it": "15 ottobre — Il presidente venezuelano Nicolás Maduro Moros e la prima combattente Cilia Adela Flores sono stati portati davanti a un tribunale federale a Manhattan questa mattina incatenati e con aria di sfida. Di fronte al giudice Alvin Hellerstein, entrambi prigionieri di guerra",
+    "en": "Oct. 15 — Venezuelan President Nicolás Maduro Moros and First Combatant Cilia Adela Flores were brought to a federal court in Manhattan this morning shackled and defiant. Facing Judge Alvin Hellerstein, both prisoners of war"
    }
   },
   {
@@ -4156,10 +4412,14 @@
    "date": "2026-10-17T04:51:02+00:00",
    "image": "https://static.kprf.ru/m/420/240/t/img/2026/10/1-2_1MdnFpv.jpg",
    "title": {
-    "orig": "Владимир Кашин: Госдума в первом чтении приняла четыре законопроекта, актуальных для эффективного развития отраслей агропромышленного и рыбохозяйственного комплексов"
+    "orig": "Владимир Кашин: Госдума в первом чтении приняла четыре законопроекта, актуальных для эффективного развития отраслей агропромышленного и рыбохозяйственного комплексов",
+    "it": "Vladimir Kashin: La Duma di Stato in prima lettura ha adottato quattro progetti di legge rilevanti per lo sviluppo efficace dei settori agroindustriale e della pesca",
+    "en": "Vladimir Kashin: The State Duma in the first reading adopted four bills relevant for the effective development of the agro-industrial and fishery sectors"
    },
    "summary": {
-    "orig": "15 октября 2026 г. Заместитель Председателя ЦК КПРФ, председатель Комитета по аграрным вопросам, академик РАН Владимир Кашин на пленарном заседании Государственной Думы представил на рассмотрение в первом чтении четыре законопроекта, которые являются актуальными для развития ……"
+    "orig": "15 октября 2026 г. Заместитель Председателя ЦК КПРФ, председатель Комитета по аграрным вопросам, академик РАН Владимир Кашин на пленарном заседании Государственной Думы представил на рассмотрение в первом чтении четыре законопроекта, которые являются актуальными для развития ……",
+    "it": "Il 15 ottobre 2026, il vicepresidente del Comitato centrale del Partito comunista della Federazione Russa, presidente del comitato per le questioni agrarie, accademico dell'Accademia russa delle scienze Vladimir Kashin, in una riunione plenaria della Duma di Stato, ha presentato all'esame in prima lettura quattro progetti di legge rilevanti per lo sviluppo di......",
+    "en": "On October 15, 2026, Deputy Chairman of the Central Committee of the Communist Party of the Russian Federation, Chairman of the Committee on Agrarian Issues, Academician of the Russian Academy of Sciences Vladimir Kashin, at a plenary meeting of the State Duma, presented for consideration in the first reading four bills that are relevant for the development of......"
    }
   },
   {
@@ -4172,10 +4432,14 @@
    "date": "2026-10-16T21:10:41+00:00",
    "image": "https://www.struggle-la-lucha.org/wp-content/uploads/2026/10/10-15-download-4-326x245.webp",
    "title": {
-    "orig": "Burkina Faso: Thomas Sankara, the cut-short revolution, and the legacy of feminism"
+    "orig": "Burkina Faso: Thomas Sankara, the cut-short revolution, and the legacy of feminism",
+    "it": "Burkina Faso: Thomas Sankara, la rivoluzione improvvisa e l'eredità del femminismo",
+    "en": "Burkina Faso: Thomas Sankara, the cut-short revolution, and the legacy of feminism"
    },
    "summary": {
-    "orig": "Every Oct. 15, people commemorate the assassination of Thomas Sankara. Much has been written about this pan-Africanist revolutionary—the leader of the August Revolution in Upper Volta, renamed Burkina Faso (“The Land of Honest Men”) in"
+    "orig": "Every Oct. 15, people commemorate the assassination of Thomas Sankara. Much has been written about this pan-Africanist revolutionary—the leader of the August Revolution in Upper Volta, renamed Burkina Faso (“The Land of Honest Men”) in",
+    "it": "Ogni 15 ottobre, le persone commemorano l'assassinio di Thomas Sankara. Molto è stato scritto su questo rivoluzionario panafricanista, il leader della Rivoluzione d’Agosto nell’Alto Volta, ribattezzato Burkina Faso (“La terra degli uomini onesti”) in",
+    "en": "Every Oct. 15, people commemorate the assassination of Thomas Sankara. Much has been written about this pan-Africanist revolutionary—the leader of the August Revolution in Upper Volta, renamed Burkina Faso (“The Land of Honest Men”) in"
    }
   },
   {
@@ -4188,10 +4452,14 @@
    "date": "2026-10-16T20:59:55+00:00",
    "image": "https://www.struggle-la-lucha.org/wp-content/uploads/2026/10/sicily-326x245.jpeg",
    "title": {
-    "orig": "From Palestine to Sicily, reclaiming a fascist colonial village"
+    "orig": "From Palestine to Sicily, reclaiming a fascist colonial village",
+    "it": "Dalla Palestina alla Sicilia, riappropriandoci di un villaggio coloniale fascista",
+    "en": "From Palestine to Sicily, reclaiming a fascist colonial village"
    },
    "summary": {
-    "orig": "Ente di Decolonizzazione — Borgo Rizza is a project initiated by DAAR (www.decolonizing.ps) that explores the possibility of critically reusing and subverting fascist colonial architecture. It is sustained by the community around Carlentini, university participants,"
+    "orig": "Ente di Decolonizzazione — Borgo Rizza is a project initiated by DAAR (www.decolonizing.ps) that explores the possibility of critically reusing and subverting fascist colonial architecture. It is sustained by the community around Carlentini, university participants,",
+    "it": "Ente di Decolonizzazione — Borgo Rizza è un progetto avviato da DAAR (www.decolonizing.ps) che esplora la possibilità di riutilizzare e sovvertire criticamente l'architettura coloniale fascista. È sostenuto dalla comunità attorno a Carlentini, dai partecipanti universitari,",
+    "en": "Ente di Decolonizzazione — Borgo Rizza is a project initiated by DAAR (www.decolonizing.ps) that explores the possibility of critically reusing and subverting fascist colonial architecture. It is sustained by the community around Carlentini, university participants,"
    }
   },
   {
@@ -4204,10 +4472,14 @@
    "date": "2026-10-16T14:12:12+00:00",
    "image": null,
    "title": {
-    "orig": "PCP propõe 80 euros de aumento nas reformas e pensões, e no Complemento Solidário para Idosos"
+    "orig": "PCP propõe 80 euros de aumento nas reformas e pensões, e no Complemento Solidário para Idosos",
+    "it": "Il PCP propone un aumento di 80 euro su riforme e pensioni e sul Supplemento di solidarietà per gli anziani",
+    "en": "PCP proposes an 80 euro increase in reforms and pensions, and in the Solidarity Supplement for the Elderly"
    },
    "summary": {
-    "orig": "1. O PCP defende que a partir de 1 de Janeiro todas as reformas e pensões tenham um aumento de 5% com um mínimo de 80 euros. Propõe-se ainda o aumento dos valores das pensões mínimas do regime previdencial da Segurança Social, cujos valores actuais se situam abaixo do limiar da…"
+    "orig": "1. O PCP defende que a partir de 1 de Janeiro todas as reformas e pensões tenham um aumento de 5% com um mínimo de 80 euros. Propõe-se ainda o aumento dos valores das pensões mínimas do regime previdencial da Segurança Social, cujos valores actuais se situam abaixo do limiar da…",
+    "it": "1. Il PCP sostiene che dal 1° gennaio tutte le riforme e le pensioni avranno un aumento del 5% con un minimo di 80 euro. Si propone inoltre di aumentare i valori pensionistici minimi del regime pensionistico della Previdenza Sociale, i cui valori attuali sono inferiori al...",
+    "en": "1. The PCP defends that from January 1st all reforms and pensions will have an increase of 5% with a minimum of 80 euros. It is also proposed to increase the minimum pension values ​​of the Social Security pension scheme, whose current values ​​are below the…"
    }
   },
   {
@@ -4220,10 +4492,14 @@
    "date": "2026-10-16T09:51:38+00:00",
    "image": null,
    "title": {
-    "orig": "Como estaria o País se em vez de uma política egoísta, se investisse para melhorar a vida das pessoas?"
+    "orig": "Como estaria o País se em vez de uma política egoísta, se investisse para melhorar a vida das pessoas?",
+    "it": "Come sarebbe il Paese se, invece di una politica egoistica, investisse nel miglioramento della vita delle persone?",
+    "en": "What would the country be like if instead of a selfish policy, it invested in improving people's lives?"
    },
    "summary": {
-    "orig": "O PCP avança hoje com esta interpelação com o objectivo de debater a realidade da vida, na falta de respostas às dificuldades e aos problemas crescentes, uma interpelação de confronto com uma política errada que precisa de ser travada. O PCP realizou no início do mês as suas…"
+    "orig": "O PCP avança hoje com esta interpelação com o objectivo de debater a realidade da vida, na falta de respostas às dificuldades e aos problemas crescentes, uma interpelação de confronto com uma política errada que precisa de ser travada. O PCP realizou no início do mês as suas…",
+    "it": "Il PCP porta avanti oggi questa sfida con l’obiettivo di discutere la realtà della vita, in assenza di risposte alle crescenti difficoltà e problemi, una sfida per affrontare una politica sbagliata che deve essere fermata. All'inizio del mese, il PCP ha tenuto la sua...",
+    "en": "The PCP is moving forward today with this challenge with the aim of debating the reality of life, in the absence of answers to growing difficulties and problems, a challenge to confront a wrong policy that needs to be stopped. At the beginning of the month, the PCP held its…"
    }
   },
   {
@@ -4236,10 +4512,14 @@
    "date": "2026-10-16T09:00:00+00:00",
    "image": "https://thetricontinental.org/wp-content/uploads/2026/10/numbers-into-evidence-figure-1.png",
    "title": {
-    "orig": "Who Gets to Turn Numbers into Evidence?"
+    "orig": "Who Gets to Turn Numbers into Evidence?",
+    "it": "Chi può trasformare i numeri in prove?",
+    "en": "Who Gets to Turn Numbers into Evidence?"
    },
    "summary": {
-    "orig": "Turning numbers into evidence is a form of labour – and in the Global South, that labour is unevenly distributed."
+    "orig": "Turning numbers into evidence is a form of labour – and in the Global South, that labour is unevenly distributed.",
+    "it": "Trasformare i numeri in prove è una forma di lavoro – e nel Sud del mondo, quel lavoro è distribuito in modo ineguale.",
+    "en": "Turning numbers into evidence is a form of labour – and in the Global South, that labour is unevenly distributed."
    }
   },
   {
@@ -4252,10 +4532,14 @@
    "date": "2026-10-16T05:03:00+00:00",
    "image": null,
    "title": {
-    "orig": "Pour la paix mondiale, l’indépendance nationale, les libertés démocratiques et les conquis sociaux, EMMANUEL MACRON EST UNE MENACE EXISTENTIELLE ! Ensemble, exigeons son départ immédiat !"
+    "orig": "Pour la paix mondiale, l’indépendance nationale, les libertés démocratiques et les conquis sociaux, EMMANUEL MACRON EST UNE MENACE EXISTENTIELLE ! Ensemble, exigeons son départ immédiat !",
+    "it": "Per la pace nel mondo, l’indipendenza nazionale, le libertà democratiche e le conquiste sociali, EMMANUEL MACRON È UNA MINACCIA ESISTENZIALE! Insieme, chiediamo la sua partenza immediata!",
+    "en": "For world peace, national independence, democratic freedoms and social gains, EMMANUEL MACRON IS AN EXISTENTIAL THREAT! Together, let's demand his immediate departure!"
    },
    "summary": {
-    "orig": "Depuis qu’il s’est propulsé à l’Elysée avec l’aide des grands médias et des milieux financiers, Macron n’a cessé de mener une politique brutalement… Or, alors que ce président en fin de mandat et au plus bas dans les sondages a été désavoué par tous les scrutins récents, alors…"
+    "orig": "Depuis qu’il s’est propulsé à l’Elysée avec l’aide des grands médias et des milieux financiers, Macron n’a cessé de mener une politique brutalement… Or, alors que ce président en fin de mandat et au plus bas dans les sondages a été désavoué par tous les scrutins récents, alors…",
+    "it": "Da quando si è lanciato all'Eliseo con l'aiuto dei grandi ambienti mediatici e finanziari, Macron ha continuato a perseguire una politica brutale... Tuttavia, mentre questo presidente alla fine del suo mandato e al suo punto più basso nei sondaggi è stato sconfessato da tutte le ultime elezioni, allora...",
+    "en": "Since he propelled himself to the Elysée with the help of the major media and financial circles, Macron has continued to pursue a brutal policy... However, while this president at the end of his mandate and at his lowest in the polls has been disavowed by all recent elections, then..."
    }
   },
   {
@@ -4268,10 +4552,14 @@
    "date": "2026-10-15T23:12:20+00:00",
    "image": null,
    "title": {
-    "orig": "El día después del 29 de noviembre"
+    "orig": "El día después del 29 de noviembre",
+    "it": "Il giorno dopo il 29 novembre",
+    "en": "The day after November 29"
    },
    "summary": {
-    "orig": "Tanto tiempo diciéndonos que el problema de la vivienda era complejísimo, que las instituciones públicas tenían poquísimo margen de actuación y que cualquier intervención demasiado ambiciosa podía provocar un desastre económico de proporciones bíblicas, y resulta que se podía.…"
+    "orig": "Tanto tiempo diciéndonos que el problema de la vivienda era complejísimo, que las instituciones públicas tenían poquísimo margen de actuación y que cualquier intervención demasiado ambiciosa podía provocar un desastre económico de proporciones bíblicas, y resulta que se podía.…",
+    "it": "Tanto tempo per dirci che il problema abitativo era estremamente complesso, che le istituzioni pubbliche avevano pochissimo spazio d’azione e che qualsiasi intervento troppo ambizioso avrebbe potuto causare un disastro economico di proporzioni bibliche, e si è scoperto che potrebbe farlo…",
+    "en": "So much time telling us that the housing problem was extremely complex, that public institutions had very little room for action and that any overly ambitious intervention could cause an economic disaster of biblical proportions, and it turns out that it could.…"
    }
   },
   {
@@ -4284,10 +4572,14 @@
    "date": "2026-10-15T21:36:57+00:00",
    "image": null,
    "title": {
-    "orig": "Amplio seguimiento y brutalidad policial en el inicio de la huelga indefinida en la educación en Madrid"
+    "orig": "Amplio seguimiento y brutalidad policial en el inicio de la huelga indefinida en la educación en Madrid",
+    "it": "Ampio monitoraggio e brutalità della polizia all'inizio dello sciopero a tempo indeterminato nel settore dell'istruzione a Madrid",
+    "en": "Extensive monitoring and police brutality at the beginning of the indefinite strike in education in Madrid"
    },
    "summary": {
-    "orig": "Ayer, 14 de octubre, dio comienzo la huelga indefinida en la educación no universitaria en Madrid, apoyada y secundada en ese primer día también por la comunidad educativa de la Universidad Complutense y la Rey Juan Carlos. Frente al amplio seguimiento de los paros –un 70 %– y…"
+    "orig": "Ayer, 14 de octubre, dio comienzo la huelga indefinida en la educación no universitaria en Madrid, apoyada y secundada en ese primer día también por la comunidad educativa de la Universidad Complutense y la Rey Juan Carlos. Frente al amplio seguimiento de los paros –un 70 %– y…",
+    "it": "Ieri, 14 ottobre, è iniziato lo sciopero a tempo indeterminato dell'istruzione non universitaria di Madrid, sostenuto e appoggiato in quel primo giorno anche dalla comunità educativa dell'Università Complutense e dell'Università Rey Juan Carlos. Di fronte all’ampio monitoraggio degli scioperi – 70% – e…",
+    "en": "Yesterday, October 14, the indefinite strike began in non-university education in Madrid, supported and seconded on that first day also by the educational community of the Complutense University and the Rey Juan Carlos University. Faced with the wide monitoring of strikes – 70% – and…"
    }
   },
   {
@@ -4300,10 +4592,14 @@
    "date": "2026-10-15T19:13:35+00:00",
    "image": null,
    "title": {
-    "orig": "OE 2027: Um assalto às nossas vidas. É preciso romper com esta política e abrir um novo rumo para Portugal"
+    "orig": "OE 2027: Um assalto às nossas vidas. É preciso romper com esta política e abrir um novo rumo para Portugal",
+    "it": "OE 2027: Un assalto alle nostre vite. È necessario rompere con questa politica e aprire una nuova direzione per il Portogallo",
+    "en": "OE 2027: An assault on our lives. It is necessary to break with this policy and open a new direction for Portugal"
    },
    "summary": {
-    "orig": "«Romper com as injustiças – Novo rumo para Portugal», é este o mote que tem marcado e certamente vai continuar a marcar a acção política e intervenção do PCP, mas também é, e cada vez mais, um objectivo de luta de todos os que não se conformam e são alvo da exploração, da…"
+    "orig": "«Romper com as injustiças – Novo rumo para Portugal», é este o mote que tem marcado e certamente vai continuar a marcar a acção política e intervenção do PCP, mas também é, e cada vez mais, um objectivo de luta de todos os que não se conformam e são alvo da exploração, da…",
+    "it": "«Rompere con l'ingiustizia – Nuova direzione per il Portogallo», questo è il motto che ha segnato e certamente continuerà a segnare l'azione politica e l'intervento del PCP, ma è anche, e sempre più, un obiettivo di lotta per tutti coloro che non si conformano e sono bersaglio di sfruttamento,…",
+    "en": "«Breaking with injustice – New direction for Portugal», this is the motto that has marked and will certainly continue to mark the political action and intervention of the PCP, but it is also, and increasingly, a goal of struggle for all those who do not conform and are the target of exploitation,…"
    }
   },
   {
@@ -4316,10 +4612,14 @@
    "date": "2026-10-15T18:40:36+00:00",
    "image": null,
    "title": {
-    "orig": "Prestação Social Única: em vez de combater a pobreza, o Governo quer perpetuá-la"
+    "orig": "Prestação Social Única: em vez de combater a pobreza, o Governo quer perpetuá-la",
+    "it": "Beneficio sociale unico: invece di combattere la povertà, il governo vuole perpetuarla",
+    "en": "Single Social Benefit: instead of fighting poverty, the Government wants to perpetuate it"
    },
    "summary": {
-    "orig": ""
+    "orig": "",
+    "it": "",
+    "en": ""
    }
   },
   {
@@ -4332,10 +4632,14 @@
    "date": "2026-10-15T18:35:04+00:00",
    "image": null,
    "title": {
-    "orig": "US and Israel seizing central Asian water"
+    "orig": "US and Israel seizing central Asian water",
+    "it": "Stati Uniti e Israele si impadroniscono delle acque dell’Asia centrale",
+    "en": "US and Israel seizing central Asian water"
    },
    "summary": {
-    "orig": "We note the increasing use of aggressive proxy forces to carry out nefarious imperialist schemes via arms-length deniability. The push to control the port cities in the Horn of Africa using ‘UAE’-funded armies, to control Congo’s vast mineral wealth using ‘Rwandan’/‘Ugandan’…"
+    "orig": "We note the increasing use of aggressive proxy forces to carry out nefarious imperialist schemes via arms-length deniability. The push to control the port cities in the Horn of Africa using ‘UAE’-funded armies, to control Congo’s vast mineral wealth using ‘Rwandan’/‘Ugandan’…",
+    "it": "Notiamo il crescente utilizzo di forze aggressive per procura per realizzare piani imperialisti nefasti attraverso la negazione a distanza. La spinta a controllare le città portuali nel Corno d’Africa utilizzando eserciti finanziati dagli “EAU”, a controllare la vasta ricchezza mineraria del Congo utilizzando “ruandese”/”ugandese”…",
+    "en": "We note the increasing use of aggressive proxy forces to carry out nefarious imperialist schemes via arms-length deniability. The push to control the port cities in the Horn of Africa using ‘UAE’-funded armies, to control Congo’s vast mineral wealth using ‘Rwandan’/‘Ugandan’…"
    }
   },
   {
@@ -4348,10 +4652,14 @@
    "date": "2026-10-15T15:11:00+00:00",
    "image": null,
    "title": {
-    "orig": "TOUS ENSEMBLE, EN MÊME TEMPS, JUSQU’A LA VICTOIRE TOUJOURS ! [ #17octobre #salaires #paix #liberté #lycéens #étudiants ]"
+    "orig": "TOUS ENSEMBLE, EN MÊME TEMPS, JUSQU’A LA VICTOIRE TOUJOURS ! [ #17octobre #salaires #paix #liberté #lycéens #étudiants ]",
+    "it": "TUTTI INSIEME, ALLO STESSO TEMPO, SEMPRE FINO ALLA VITTORIA! [#17ottobre #stipendi #pace #libertà #liceali #studenti]",
+    "en": "ALL TOGETHER, AT THE SAME TIME, UNTIL VICTORY ALWAYS! [#October 17 #salaries #peace #freedom #high school students #students]"
    },
    "summary": {
-    "orig": "17 octobre 2026 et ses suites : salaires, lycées, emploi, paix mondiale, souveraineté du peuple, défense des libertés ! TOUS ENSEMBLE, EN MÊME TEMPS, JUSQU’A LA VICTOIRE TOUJOURS ! En 2018-2019, les courageux Gilets jaunes — injustement accusés d’être « d’extrême droite » — ont…"
+    "orig": "17 octobre 2026 et ses suites : salaires, lycées, emploi, paix mondiale, souveraineté du peuple, défense des libertés ! TOUS ENSEMBLE, EN MÊME TEMPS, JUSQU’A LA VICTOIRE TOUJOURS ! En 2018-2019, les courageux Gilets jaunes — injustement accusés d’être « d’extrême droite » — ont…",
+    "it": "17 ottobre 2026 e le sue conseguenze: salari, scuole superiori, lavoro, pace nel mondo, sovranità dei popoli, difesa delle libertà! TUTTI INSIEME, ALLO STESSO TEMPO, SEMPRE FINO ALLA VITTORIA! Nel 2018-2019, i coraggiosi Gilet Gialli – ingiustamente accusati di essere “estrema destra” –…",
+    "en": "October 17, 2026 and its aftermath: salaries, high schools, employment, world peace, sovereignty of the people, defense of freedoms! ALL TOGETHER, AT THE SAME TIME, UNTIL VICTORY ALWAYS! In 2018-2019, the courageous Yellow Vests – unfairly accused of being “extreme right” –…"
    }
   },
   {
@@ -4364,10 +4672,14 @@
    "date": "2026-10-15T15:00:00+00:00",
    "image": null,
    "title": {
-    "orig": "23 octobre : tous en manifestation, stop au blocus de Cuba ! [Paris – Tour Eiffel]"
+    "orig": "23 octobre : tous en manifestation, stop au blocus de Cuba ! [Paris – Tour Eiffel]",
+    "it": "23 ottobre: ​​tutti in manifestazione, basta il blocco di Cuba! [Parigi – Torre Eiffel]",
+    "en": "October 23: everyone in demonstration, stop the blockade of Cuba! [Paris – Eiffel Tower]"
    },
    "summary": {
-    "orig": "A l’appel d’un large collectif de solidarité, dont le PRCF est partie prenante, un appel au rassemblement au pied de la tour Eiffel à Paris pour la levée immédiate du blocus de Cuba est lancé pour le 23 octobre !Venceremos ! Cuba n’est pas seule ! Lisez et abonnez vous à…"
+    "orig": "A l’appel d’un large collectif de solidarité, dont le PRCF est partie prenante, un appel au rassemblement au pied de la tour Eiffel à Paris pour la levée immédiate du blocus de Cuba est lancé pour le 23 octobre !Venceremos ! Cuba n’est pas seule ! Lisez et abonnez vous à…",
+    "it": "Su appello di un grande collettivo di solidarietà, di cui il PRCF è azionista, viene lanciato un appello per una manifestazione ai piedi della Torre Eiffel a Parigi per la revoca immediata del blocco a Cuba il 23 ottobre! Venceremo! Cuba non è sola! Leggi e iscriviti a...",
+    "en": "At the call of a large solidarity collective, of which the PRCF is a stakeholder, a call for a rally at the foot of the Eiffel Tower in Paris for the immediate lifting of the blockade of Cuba is launched for October 23! Venceremos! Cuba is not alone! Read and subscribe to…"
    }
   },
   {
@@ -4380,10 +4692,14 @@
    "date": "2026-10-15T10:57:03+00:00",
    "image": null,
    "title": {
-    "orig": "Direito à habitação sim, repressão não"
+    "orig": "Direito à habitação sim, repressão não",
+    "it": "Diritto alla casa sì, repressione no",
+    "en": "Right to housing yes, repression no"
    },
    "summary": {
-    "orig": "A crescente dificuldade de acesso à Habitação é uma das mais vincadas expressões de políticas antisociais e antipatrióticas deste Governo PSD/CDS, apoiada por CH e IL."
+    "orig": "A crescente dificuldade de acesso à Habitação é uma das mais vincadas expressões de políticas antisociais e antipatrióticas deste Governo PSD/CDS, apoiada por CH e IL.",
+    "it": "La crescente difficoltà di accesso agli alloggi è una delle espressioni più evidenti delle politiche antisociali e antipatriottiche di questo governo PSD/CDS, sostenuto da CH e IL.",
+    "en": "The growing difficulty in accessing housing is one of the most prominent expressions of the antisocial and unpatriotic policies of this PSD/CDS Government, supported by CH and IL."
    }
   },
   {
@@ -4396,10 +4712,14 @@
    "date": "2026-10-15T04:11:00+00:00",
    "image": null,
    "title": {
-    "orig": "Indonésie : écologie populaire, la lutte du peuple à Bornéo contre les incendies de forêts [Solidarité Indonésie]"
+    "orig": "Indonésie : écologie populaire, la lutte du peuple à Bornéo contre les incendies de forêts [Solidarité Indonésie]",
+    "it": "Indonesia: ecologia popolare, la lotta della popolazione del Borneo contro gli incendi boschivi [Solidarietà Indonesia]",
+    "en": "Indonesia: popular ecology, the struggle of the people in Borneo against forest fires [Solidarity Indonesia]"
    },
    "summary": {
-    "orig": "Les incendies dévastent les dernières grandes forêts primaires d’Indonésie, la poursuite des ravages du capitalisme En ce mois d’octobre 2026, Sumatra et Kalimantan (Bornéo) brûlent toujours, avec des proportions massives, sans précédent. Les données officielles évoquent déjà…"
+    "orig": "Les incendies dévastent les dernières grandes forêts primaires d’Indonésie, la poursuite des ravages du capitalisme En ce mois d’octobre 2026, Sumatra et Kalimantan (Bornéo) brûlent toujours, avec des proportions massives, sans précédent. Les données officielles évoquent déjà…",
+    "it": "Gli incendi devastano le ultime grandi foreste primarie dell'Indonesia, la continuazione delle devastazioni del capitalismo In questo mese di ottobre 2026, Sumatra e Kalimantan (Borneo) stanno ancora bruciando, con proporzioni enormi e senza precedenti. I dati ufficiali già suggeriscono...",
+    "en": "Fires devastate the last great primary forests of Indonesia, the continuation of the ravages of capitalism In this month of October 2026, Sumatra and Kalimantan (Borneo) are still burning, with massive, unprecedented proportions. Official data already suggests…"
    }
   },
   {
@@ -4412,10 +4732,14 @@
    "date": "2026-10-14T20:51:45+00:00",
    "image": null,
    "title": {
-    "orig": "« Triomphe » en carton de l’euro-belliciste Glucksmann à une « primaire » bidon. Grave danger pour la paix mondiale, la France et les travailleurs ! [Communiqué]"
+    "orig": "« Triomphe » en carton de l’euro-belliciste Glucksmann à une « primaire » bidon. Grave danger pour la paix mondiale, la France et les travailleurs ! [Communiqué]",
+    "it": "“Trionfo” di cartone dell’euroguerrafondaio Glucksmann in una “primaria” fasulla. Grave pericolo per la pace nel mondo, per la Francia e per i lavoratori! [Comunicato stampa]",
+    "en": "Cardboard “triumph” of the Euro-warmonger Glucksmann in a bogus “primary”. Serious danger for world peace, France and workers! [Press release]"
    },
    "summary": {
-    "orig": "Dimanche 11 octobre s’est tenue une « primaire » bidon réunissant selon ses promoteurs un peu plus de 120 000 électeurs et présentée comme un « succès démocratique » par les médias aux ordres, ne sachant plus comment faire pour contenir la colère populaire massive dans le pays.…"
+    "orig": "Dimanche 11 octobre s’est tenue une « primaire » bidon réunissant selon ses promoteurs un peu plus de 120 000 électeurs et présentée comme un « succès démocratique » par les médias aux ordres, ne sachant plus comment faire pour contenir la colère populaire massive dans le pays.…",
+    "it": "Domenica 11 ottobre si sono svolte delle “primarie” fasulle, che hanno riunito, secondo i suoi promotori, poco più di 120.000 elettori e presentate come un “successo democratico” dai media agli ordini, che non sanno più come contenere la rabbia popolare di massa nel paese.",
+    "en": "On Sunday, October 11, a bogus “primary” was held, bringing together according to its promoters a little more than 120,000 voters and presented as a “democratic success” by the media under orders, no longer knowing how to contain the massive popular anger in the country.…"
    }
   },
   {
@@ -4428,10 +4752,14 @@
    "date": "2026-10-14T15:22:00+00:00",
    "image": null,
    "title": {
-    "orig": "En action pour la fin du génocide à Gaza, contre les crimes de l’impérialisme qui détruisent la Palestine."
+    "orig": "En action pour la fin du génocide à Gaza, contre les crimes de l’impérialisme qui détruisent la Palestine.",
+    "it": "In azione per la fine del genocidio a Gaza, contro i crimini dell'imperialismo che stanno distruggendo la Palestina.",
+    "en": "In action for the end of the genocide in Gaza, against the crimes of imperialism which are destroying Palestine."
    },
    "summary": {
-    "orig": "Samedi 10 octobre : des dizaines de milliers de personnes dans les rues de France pour exiger la fin de l’impunité d’Israël et du sytème impérialiste hégémonique euro atlantique dont le régime de Tel Aviv est l’une des pointes les plus sanglantes. Samedi 10 octobre 2026, une…"
+    "orig": "Samedi 10 octobre : des dizaines de milliers de personnes dans les rues de France pour exiger la fin de l’impunité d’Israël et du sytème impérialiste hégémonique euro atlantique dont le régime de Tel Aviv est l’une des pointes les plus sanglantes. Samedi 10 octobre 2026, une…",
+    "it": "Sabato 10 ottobre: ​​decine di migliaia di persone nelle strade della Francia per chiedere la fine dell'impunità di Israele e del sistema egemonico imperialista euro-atlantico di cui il regime di Tel Aviv rappresenta una delle vette più sanguinose. Sabato 10 ottobre 2026, un...",
+    "en": "Saturday October 10: tens of thousands of people in the streets of France to demand an end to the impunity of Israel and the hegemonic Euro-Atlantic imperialist system of which the Tel Aviv regime is one of the bloodiest peaks. Saturday October 10, 2026, a…"
    }
   },
   {
@@ -4444,10 +4772,14 @@
    "date": "2026-10-13T14:19:43+00:00",
    "image": "https://liberationnews.org/wp-content/uploads/2026/10/French-Student-Protests-26-1024x1024.jpg",
    "title": {
-    "orig": "How the French student revolt reveals the broader social crisis in Europe"
+    "orig": "How the French student revolt reveals the broader social crisis in Europe",
+    "it": "Come la rivolta studentesca francese rivela la più ampia crisi sociale in Europa",
+    "en": "How the French student revolt reveals the broader social crisis in Europe"
    },
    "summary": {
-    "orig": "The protests are broadening beyond education into a referendum on “Macronisme” and the entire constitutional structure of the Fifth Republic."
+    "orig": "The protests are broadening beyond education into a referendum on “Macronisme” and the entire constitutional structure of the Fifth Republic.",
+    "it": "Le proteste si stanno allargando oltre l’istruzione fino a sfociare in un referendum sul “Macronisme” e sull’intera struttura costituzionale della Quinta Repubblica.",
+    "en": "The protests are broadening beyond education into a referendum on “Macronisme” and the entire constitutional structure of the Fifth Republic."
    }
   },
   {
@@ -4460,10 +4792,14 @@
    "date": "2026-10-13T08:00:14+00:00",
    "image": "https://thetricontinental.org/wp-content/uploads/2026/10/1908_map_-The_world_on_Mercators_projection_showing_possessions__spheres_of_influence_of_the_great_powers-1024x741.jpg",
    "title": {
-    "orig": "Beyond Polarity: For a Marxist Theory of the World Order"
+    "orig": "Beyond Polarity: For a Marxist Theory of the World Order",
+    "it": "Oltre la polarità: per una teoria marxista dell'ordine mondiale",
+    "en": "Beyond Polarity: For a Marxist Theory of the World Order"
    },
    "summary": {
-    "orig": "A map of powerful states shows where power appears to sit, not how it is produced: class relations, capital, imperial hierarchy, and popular struggle shape both state power and relations between states."
+    "orig": "A map of powerful states shows where power appears to sit, not how it is produced: class relations, capital, imperial hierarchy, and popular struggle shape both state power and relations between states.",
+    "it": "Una mappa degli stati potenti mostra dove sembra risiedere il potere, non come viene prodotto: le relazioni di classe, il capitale, la gerarchia imperiale e la lotta popolare modellano sia il potere statale che le relazioni tra stati.",
+    "en": "A map of powerful states shows where power appears to sit, not how it is produced: class relations, capital, imperial hierarchy, and popular struggle shape both state power and relations between states."
    }
   },
   {
@@ -4476,10 +4812,14 @@
    "date": "2026-10-13T08:00:12+00:00",
    "image": "https://thetricontinental.org/wp-content/uploads/2026/10/Logo-IFDDR-1.png",
    "title": {
-    "orig": "The Land to Those Who Work It: Land Reform and Socialist Agriculture in the German Democratic Republic"
+    "orig": "The Land to Those Who Work It: Land Reform and Socialist Agriculture in the German Democratic Republic",
+    "it": "La terra a chi la lavora: riforma agraria e agricoltura socialista nella Repubblica democratica tedesca",
+    "en": "The Land to Those Who Work It: Land Reform and Socialist Agriculture in the German Democratic Republic"
    },
    "summary": {
-    "orig": "Today, as millions go hungry under capitalist agribusiness model, we look back at the history of land reform and socialist cooperatives in East Germany, which transformed the social and economic reality of farmers."
+    "orig": "Today, as millions go hungry under capitalist agribusiness model, we look back at the history of land reform and socialist cooperatives in East Germany, which transformed the social and economic reality of farmers.",
+    "it": "Oggi, mentre milioni di persone soffrono la fame secondo il modello capitalista dell’agrobusiness, guardiamo indietro alla storia della riforma agraria e delle cooperative socialiste nella Germania dell’Est, che hanno trasformato la realtà sociale ed economica degli agricoltori.",
+    "en": "Today, as millions go hungry under capitalist agribusiness model, we look back at the history of land reform and socialist cooperatives in East Germany, which transformed the social and economic reality of farmers."
    }
   },
   {
@@ -4492,10 +4832,14 @@
    "date": "2026-10-13T04:32:42+00:00",
    "image": null,
    "title": {
-    "orig": "Cómo una pequeña asamblea crece y organiza una exitosa huelga. La historia de «Alina», una docente en las huelgas de enseñanza de Aragón"
+    "orig": "Cómo una pequeña asamblea crece y organiza una exitosa huelga. La historia de «Alina», una docente en las huelgas de enseñanza de Aragón",
+    "it": "Come una piccola assemblea cresce e organizza uno sciopero di successo. La storia di \"Alina\", una maestra in sciopero dell'insegnamento in Aragona",
+    "en": "How a small assembly grows and organizes a successful strike. The story of \"Alina\", a teacher in the teaching strikes in Aragon"
    },
    "summary": {
-    "orig": "Alina Mi experiencia en las huelgas de la enseñanza pública de mayo en Aragón fue la de una docente joven en una comunidad donde el movimiento obrero y sindical del sector llevaba muchos años sin protagonizar conflictos importantes. Y eso se nota en muchos aspectos: dispersión…"
+    "orig": "Alina Mi experiencia en las huelgas de la enseñanza pública de mayo en Aragón fue la de una docente joven en una comunidad donde el movimiento obrero y sindical del sector llevaba muchos años sin protagonizar conflictos importantes. Y eso se nota en muchos aspectos: dispersión…",
+    "it": "Alina La mia esperienza negli scioperi della pubblica istruzione di maggio in Aragona è stata quella di una giovane insegnante in una comunità dove il movimento operaio e sindacale del settore non era coinvolto in grandi conflitti da molti anni. E questo si nota sotto molti aspetti: la dispersione...",
+    "en": "Alina My experience in the public education strikes in May in Aragon was that of a young teacher in a community where the labor and union movement in the sector had not been involved in major conflicts for many years. And that is noticeable in many aspects: dispersion..."
    }
   },
   {
@@ -4508,10 +4852,14 @@
    "date": "2026-10-12T18:38:35+00:00",
    "image": "https://liberationnews.org/wp-content/uploads/2026/10/Trail-of-Tears-Lindneux-1024x661.jpg",
    "title": {
-    "orig": "The history of Georgia’s genocidal wars in the southeast reveal the foundations of U.S. empire — and how to resist"
+    "orig": "The history of Georgia’s genocidal wars in the southeast reveal the foundations of U.S. empire — and how to resist",
+    "it": "La storia delle guerre genocide della Georgia nel sud-est rivela le basi dell’impero americano – e come resistere",
+    "en": "The history of Georgia’s genocidal wars in the southeast reveal the foundations of U.S. empire — and how to resist"
    },
    "summary": {
-    "orig": "This Indigenous Peoples’ Day, we unite with Indigenous activists and continue the legacy of resistance against state violence and colonialism."
+    "orig": "This Indigenous Peoples’ Day, we unite with Indigenous activists and continue the legacy of resistance against state violence and colonialism.",
+    "it": "In questa Giornata dei Popoli Indigeni, ci uniamo agli attivisti indigeni e portiamo avanti l’eredità della resistenza contro la violenza di Stato e il colonialismo.",
+    "en": "This Indigenous Peoples’ Day, we unite with Indigenous activists and continue the legacy of resistance against state violence and colonialism."
    }
   },
   {
@@ -4524,10 +4872,14 @@
    "date": "2026-10-11T23:10:55+00:00",
    "image": "https://liberationnews.org/wp-content/uploads/2026/10/26032-1024x466.jpg",
    "title": {
-    "orig": "Solidarity with the Indian youth and the Communist Party of India (Marxist)"
+    "orig": "Solidarity with the Indian youth and the Communist Party of India (Marxist)",
+    "it": "Solidarietà con la gioventù indiana e il Partito Comunista Indiano (Marxista)",
+    "en": "Solidarity with the Indian youth and the Communist Party of India (Marxist)"
    },
    "summary": {
-    "orig": "The Party for Socialism and Liberation (PSL) extends its revolutionary greetings and unwavering solidarity to the brave youth and workers of India who have been on the streets across the country fighting to defend democracy and reject the repressive, authoritarian, and corrupt…"
+    "orig": "The Party for Socialism and Liberation (PSL) extends its revolutionary greetings and unwavering solidarity to the brave youth and workers of India who have been on the streets across the country fighting to defend democracy and reject the repressive, authoritarian, and corrupt…",
+    "it": "Il Partito per il Socialismo e la Liberazione (PSL) estende i suoi saluti rivoluzionari e la sua incrollabile solidarietà ai giovani coraggiosi e ai lavoratori indiani che sono scesi nelle strade di tutto il Paese combattendo per difendere la democrazia e respingere il regime repressivo, autoritario e corrotto...",
+    "en": "The Party for Socialism and Liberation (PSL) extends its revolutionary greetings and unwavering solidarity to the brave youth and workers of India who have been on the streets across the country fighting to defend democracy and reject the repressive, authoritarian, and corrupt…"
    }
   },
   {
@@ -4540,10 +4892,14 @@
    "date": "2026-10-11T20:39:39+00:00",
    "image": null,
    "title": {
-    "orig": "Bomberos forestales de Aragón: «Seguimos reclamando cuestiones básicas que deberían haberse resuelto hace mucho tiempo»"
+    "orig": "Bomberos forestales de Aragón: «Seguimos reclamando cuestiones básicas que deberían haberse resuelto hace mucho tiempo»",
+    "it": "Vigili del fuoco forestali dell'Aragona: \"Continuiamo a rivendicare problemi fondamentali che avrebbero dovuto essere risolti molto tempo fa\"",
+    "en": "Aragón forest firefighters: \"We continue to demand basic issues that should have been resolved a long time ago\""
    },
    "summary": {
-    "orig": "Este ha sido el verano más devastador en la historia de Aragón en cuanto a incendios forestales desde que hay registros. Durante la campaña de máxima activación, que abarca desde el 12 de junio hasta el 13 de septiembre, han ardido más de 35.000 hectáreas forestales, a las que…"
+    "orig": "Este ha sido el verano más devastador en la historia de Aragón en cuanto a incendios forestales desde que hay registros. Durante la campaña de máxima activación, que abarca desde el 12 de junio hasta el 13 de septiembre, han ardido más de 35.000 hectáreas forestales, a las que…",
+    "it": "Questa è stata l'estate più devastante nella storia dell'Aragona in termini di incendi boschivi da quando esistono record. Durante la campagna di massima attivazione, che va dal 12 giugno al 13 settembre, sono bruciati più di 35.000 ettari di foresta, che...",
+    "en": "This has been the most devastating summer in the history of Aragon in terms of forest fires since there are records. During the maximum activation campaign, which runs from June 12 to September 13, more than 35,000 forest hectares have burned, which…"
    }
   },
   {
@@ -4556,10 +4912,14 @@
    "date": "2026-10-10T14:47:44+00:00",
    "image": "https://liberationnews.org/wp-content/uploads/2026/10/IMG_1808-1024x681.jpeg",
    "title": {
-    "orig": "How Joslin workers forced Pritzker to find funds to reopen the former Tyson plant"
+    "orig": "How Joslin workers forced Pritzker to find funds to reopen the former Tyson plant",
+    "it": "Come i lavoratori della Joslin hanno costretto Pritzker a trovare fondi per riaprire l'ex stabilimento di Tyson",
+    "en": "How Joslin workers forced Pritzker to find funds to reopen the former Tyson plant"
    },
    "summary": {
-    "orig": "The working class and socialists must draw out our own lessons; both to keep the momentum going and as a basis for future organizing across the nation."
+    "orig": "The working class and socialists must draw out our own lessons; both to keep the momentum going and as a basis for future organizing across the nation.",
+    "it": "La classe operaia e i socialisti devono trarre le nostre lezioni; sia per mantenere lo slancio sia come base per l’organizzazione futura in tutta la nazione.",
+    "en": "The working class and socialists must draw out our own lessons; both to keep the momentum going and as a basis for future organizing across the nation."
    }
   },
   {
@@ -4572,10 +4932,14 @@
    "date": "2026-10-10T08:41:43+00:00",
    "image": null,
    "title": {
-    "orig": "No cooperation with the Gaza genocide! Victory to Palestine!"
+    "orig": "No cooperation with the Gaza genocide! Victory to Palestine!",
+    "it": "Nessuna cooperazione con il genocidio di Gaza! Vittoria alla Palestina!",
+    "en": "No cooperation with the Gaza genocide! Victory to Palestine!"
    },
    "summary": {
-    "orig": "Download this leaflet as a pdf. ***** Palestine unbowed As the Palestinian people continue to defy all attempts to remove them from their land, and even to wipe them out completely, we reaffirm our unconditional support and solidarity for their liberation struggle, in all its…"
+    "orig": "Download this leaflet as a pdf. ***** Palestine unbowed As the Palestinian people continue to defy all attempts to remove them from their land, and even to wipe them out completely, we reaffirm our unconditional support and solidarity for their liberation struggle, in all its…",
+    "it": "Scarica questo volantino in formato pdf. ***** Palestina indomita Mentre il popolo palestinese continua a sfidare tutti i tentativi di allontanarlo dalla propria terra, e persino di spazzarlo via completamente, riaffermiamo il nostro sostegno incondizionato e la nostra solidarietà alla sua lotta di liberazione, in tutta la sua...",
+    "en": "Download this leaflet as a pdf. ***** Palestine unbowed As the Palestinian people continue to defy all attempts to remove them from their land, and even to wipe them out completely, we reaffirm our unconditional support and solidarity for their liberation struggle, in all its…"
    }
   },
   {
@@ -4588,10 +4952,14 @@
    "date": "2026-10-09T20:48:54+00:00",
    "image": "https://static.kprf.ru/m/420/240/t/img/2026/10/img_6440.jpeg",
    "title": {
-    "orig": "Хук слева: «На лжи будущее не построишь!»"
+    "orig": "Хук слева: «На лжи будущее не построишь!»",
+    "it": "Gancio sinistro: “Non si può costruire un futuro sulle bugie!”",
+    "en": "Left hook: “You can’t build a future on lies!”"
    },
    "summary": {
-    "orig": "Новый выпуск программы «Хук слева» — «На лжи будущее не построишь!». В этом выпуске: СССР — вторая сверхдержава мира. Советский Союз обеспечивал граждан бесплатным образованием, здравоохранением и жильём. Почему же СССР распался? И почему заблуждения … Читать дальше →"
+    "orig": "Новый выпуск программы «Хук слева» — «На лжи будущее не построишь!». В этом выпуске: СССР — вторая сверхдержава мира. Советский Союз обеспечивал граждан бесплатным образованием, здравоохранением и жильём. Почему же СССР распался? И почему заблуждения … Читать дальше →",
+    "it": "Nuova puntata del programma “Left Hook” - “Non si può costruire un futuro sulle bugie!” In questo numero: L'URSS è la seconda superpotenza mondiale. L’Unione Sovietica forniva ai cittadini istruzione, assistenza sanitaria e alloggio gratuiti. Perché l’URSS è crollata? E perché le idee sbagliate... Leggi tutto →",
+    "en": "New episode of the “Left Hook” program - “You can’t build a future on lies!” In this issue: The USSR is the second superpower of the world. The Soviet Union provided citizens with free education, healthcare and housing. Why did the USSR collapse? And why are misconceptions... Read more →"
    }
   },
   {
@@ -4604,10 +4972,14 @@
    "date": "2026-10-09T16:07:39+00:00",
    "image": null,
    "title": {
-    "orig": "Burkina Faso, la strategia di Traoré contro dipendenza economica e dominio imperialista"
+    "orig": "Burkina Faso, la strategia di Traoré contro dipendenza economica e dominio imperialista",
+    "it": "Burkina Faso, la strategia di Traoré contro dipendenza economica e dominio imperialista",
+    "en": "Burkina Faso, Traoré's strategy against economic dependence and imperialist domination"
    },
    "summary": {
-    "orig": "Il Presidente del Burkina Faso Ibrahim Traoré ha illustrato una strategia economica fondata sul rafforzamento del ruolo dello Stato, sulla produzione locale, sul controllo dei settori strategici, sulla lotta alla speculazione e sul finanziamento comunitario. Tra le misure…"
+    "orig": "Il Presidente del Burkina Faso Ibrahim Traoré ha illustrato una strategia economica fondata sul rafforzamento del ruolo dello Stato, sulla produzione locale, sul controllo dei settori strategici, sulla lotta alla speculazione e sul finanziamento comunitario. Tra le misure…",
+    "it": "Il Presidente del Burkina Faso Ibrahim Traoré ha illustrato una strategia economica fondata sul rafforzamento del ruolo dello Stato, sulla produzione locale, sul controllo dei settori strategici, sulla lotta alla speculazione e sul finanziamento comunitario. Tra le misure…",
+    "en": "The President of Burkina Faso Ibrahim Traoré illustrated an economic strategy based on strengthening the role of the State, local production, control of strategic sectors, the fight against speculation and community financing. Among the measures…"
    }
   },
   {
@@ -4620,10 +4992,14 @@
    "date": "2026-10-08T23:30:11+00:00",
    "image": null,
    "title": {
-    "orig": "Launching the Antifascist International in Britain"
+    "orig": "Launching the Antifascist International in Britain",
+    "it": "Lancio dell’Internazionale Antifascista in Gran Bretagna",
+    "en": "Launching the Antifascist International in Britain"
    },
    "summary": {
-    "orig": "On 5 September 2026 in Bolivar Hall, London, the British Chapter of the Antifascist International held its founding conference. The day consisted of three panels, the first on Latin America, the second on the assault on political freedoms in Britain, and the final panel on the…"
+    "orig": "On 5 September 2026 in Bolivar Hall, London, the British Chapter of the Antifascist International held its founding conference. The day consisted of three panels, the first on Latin America, the second on the assault on political freedoms in Britain, and the final panel on the…",
+    "it": "Il 5 settembre 2026 a Bolivar Hall, Londra, il capitolo britannico dell'Internazionale Antifascista ha tenuto la sua conferenza di fondazione. La giornata si componeva di tre panel, il primo sull'America Latina, il secondo sull'assalto alle libertà politiche in Gran Bretagna e il panel finale sul...",
+    "en": "On 5 September 2026 in Bolivar Hall, London, the British Chapter of the Antifascist International held its founding conference. The day consisted of three panels, the first on Latin America, the second on the assault on political freedoms in Britain, and the final panel on the…"
    }
   },
   {
@@ -4636,10 +5012,14 @@
    "date": "2026-10-08T23:00:19+00:00",
    "image": null,
    "title": {
-    "orig": "Sahel states continue to defend themselves against west-backed proxies"
+    "orig": "Sahel states continue to defend themselves against west-backed proxies",
+    "it": "Gli stati del Sahel continuano a difendersi dai delegati sostenuti dall’Occidente",
+    "en": "Sahel states continue to defend themselves against west-backed proxies"
    },
    "summary": {
-    "orig": "Niger recently became the latest of the Sahel Alliance States (AES) to face a violent attempt at destabilisation. On 28 August, a faction of the Niger armed forces calling itself ‘The Armed Forces for the Restoration of the Fatherland’ launched coordinated attacks on Air Base…"
+    "orig": "Niger recently became the latest of the Sahel Alliance States (AES) to face a violent attempt at destabilisation. On 28 August, a faction of the Niger armed forces calling itself ‘The Armed Forces for the Restoration of the Fatherland’ launched coordinated attacks on Air Base…",
+    "it": "Il Niger è recentemente diventato l’ultimo degli Stati dell’Alleanza del Sahel (AES) ad affrontare un violento tentativo di destabilizzazione. Il 28 agosto, una fazione delle forze armate del Niger che si autodefinisce “Le Forze Armate per la Restaurazione della Patria” ha lanciato attacchi coordinati contro una base aerea…",
+    "en": "Niger recently became the latest of the Sahel Alliance States (AES) to face a violent attempt at destabilisation. On 28 August, a faction of the Niger armed forces calling itself ‘The Armed Forces for the Restoration of the Fatherland’ launched coordinated attacks on Air Base…"
    }
   },
   {
@@ -4652,10 +5032,14 @@
    "date": "2026-10-08T20:30:40+00:00",
    "image": null,
    "title": {
-    "orig": "European drums of war beat louder even as Russia turns the screw on Ukraine"
+    "orig": "European drums of war beat louder even as Russia turns the screw on Ukraine",
+    "it": "I tamburi di guerra europei risuonano più forti anche se la Russia stringe il controllo sull’Ucraina",
+    "en": "European drums of war beat louder even as Russia turns the screw on Ukraine"
    },
    "summary": {
-    "orig": "In recent months there have been important developments on the front lines and in the aerial war between the Nato imperialist bloc and Russia in Ukraine. However, the most significant developments are taking place in the political arena, where European nations, particularly…"
+    "orig": "In recent months there have been important developments on the front lines and in the aerial war between the Nato imperialist bloc and Russia in Ukraine. However, the most significant developments are taking place in the political arena, where European nations, particularly…",
+    "it": "Negli ultimi mesi si sono verificati importanti sviluppi in prima linea e nella guerra aerea tra il blocco imperialista della Nato e la Russia in Ucraina. Tuttavia, gli sviluppi più significativi si stanno verificando nell’arena politica, dove le nazioni europee, in particolare…",
+    "en": "In recent months there have been important developments on the front lines and in the aerial war between the Nato imperialist bloc and Russia in Ukraine. However, the most significant developments are taking place in the political arena, where European nations, particularly…"
    }
   },
   {
@@ -4668,10 +5052,14 @@
    "date": "2026-10-07T20:11:30+00:00",
    "image": null,
    "title": {
-    "orig": "Social chauvinism, the western ‘left’ and the antiwar movement"
+    "orig": "Social chauvinism, the western ‘left’ and the antiwar movement",
+    "it": "Il socialsciovinismo, la “sinistra” occidentale e il movimento contro la guerra",
+    "en": "Social chauvinism, the western ‘left’ and the antiwar movement"
    },
    "summary": {
-    "orig": "On 20 August, the Guardian published a so-called ‘open letter’ entitled: ‘To Iran’s political prisoners: trapped between two blades of a scissors’. Although supposedly addressing Iranian political prisoners, the letter was written in English and first published in a British…"
+    "orig": "On 20 August, the Guardian published a so-called ‘open letter’ entitled: ‘To Iran’s political prisoners: trapped between two blades of a scissors’. Although supposedly addressing Iranian political prisoners, the letter was written in English and first published in a British…",
+    "it": "Il 20 agosto il Guardian ha pubblicato una cosiddetta “lettera aperta” dal titolo: “Ai prigionieri politici iraniani: intrappolati tra due lame di forbici”. Anche se presumibilmente indirizzata ai prigionieri politici iraniani, la lettera è stata scritta in inglese e pubblicata per la prima volta in un britannico...",
+    "en": "On 20 August, the Guardian published a so-called ‘open letter’ entitled: ‘To Iran’s political prisoners: trapped between two blades of a scissors’. Although supposedly addressing Iranian political prisoners, the letter was written in English and first published in a British…"
    }
   },
   {
@@ -4684,10 +5072,14 @@
    "date": "2026-10-07T16:45:23+00:00",
    "image": "https://liberationnews.org/wp-content/uploads/2026/10/signal-2026-10-07-10-26-03-177_002-1024x565.jpg",
    "title": {
-    "orig": "Palestine has irrevocably transformed global politics and consciousness"
+    "orig": "Palestine has irrevocably transformed global politics and consciousness",
+    "it": "La Palestina ha irrevocabilmente trasformato la politica e la coscienza globale",
+    "en": "Palestine has irrevocably transformed global politics and consciousness"
    },
    "summary": {
-    "orig": "As U.S. imperialism threatens further escalation, in the region and around the world, it is our responsibility to continue to build a fighting movement that can make anti-imperialist politics a decisive force."
+    "orig": "As U.S. imperialism threatens further escalation, in the region and around the world, it is our responsibility to continue to build a fighting movement that can make anti-imperialist politics a decisive force.",
+    "it": "Mentre l’imperialismo statunitense minaccia un’ulteriore escalation, nella regione e nel mondo, è nostra responsabilità continuare a costruire un movimento di lotta che possa rendere la politica antimperialista una forza decisiva.",
+    "en": "As U.S. imperialism threatens further escalation, in the region and around the world, it is our responsibility to continue to build a fighting movement that can make anti-imperialist politics a decisive force."
    }
   },
   {
@@ -4700,10 +5092,14 @@
    "date": "2026-10-07T07:55:44+00:00",
    "image": null,
    "title": {
-    "orig": "Palestina: la necesidad de no normalizar la barbarie"
+    "orig": "Palestina: la necesidad de no normalizar la barbarie",
+    "it": "Palestina: la necessità di non normalizzare la barbarie",
+    "en": "Palestine: the need not to normalize barbarism"
    },
    "summary": {
-    "orig": "Este mes se cumple el tercer año del recrudecimiento del genocidio en Gaza, y la situación parece no mejorar. En los últimos doce meses, cuatro personas palestinas son asesinadas al día; de esas cuatro, una es un niño o niña. La violencia sionista no sólo consiste en los…"
+    "orig": "Este mes se cumple el tercer año del recrudecimiento del genocidio en Gaza, y la situación parece no mejorar. En los últimos doce meses, cuatro personas palestinas son asesinadas al día; de esas cuatro, una es un niño o niña. La violencia sionista no sólo consiste en los…",
+    "it": "Questo mese segna il terzo anno dalla recrudescenza del genocidio a Gaza, e la situazione non sembra migliorare. Negli ultimi dodici mesi vengono uccisi ogni giorno quattro palestinesi; Di questi quattro, uno è un maschio o una femmina. La violenza sionista non consiste solo in...",
+    "en": "This month marks the third year of the resurgence of the genocide in Gaza, and the situation does not seem to be improving. In the last twelve months, four Palestinians are killed every day; Of those four, one is a boy or girl. Zionist violence does not only consist of…"
    }
   },
   {
@@ -4716,10 +5112,14 @@
    "date": "2026-10-06T14:02:42+00:00",
    "image": "https://static.kprf.ru/m/420/240/t/img/2026/10/img_6900.jpeg",
    "title": {
-    "orig": "Миллионные тиражи и защита голосов: пермские коммунисты дали политическую оценку прошедшим выборам"
+    "orig": "Миллионные тиражи и защита голосов: пермские коммунисты дали политическую оценку прошедшим выборам",
+    "it": "Circolazione milionaria e protezione dei voti: i comunisti di Perm hanno dato una valutazione politica delle passate elezioni",
+    "en": "Millions of circulation and protection of votes: Perm communists gave a political assessment of the past elections"
    },
    "summary": {
-    "orig": "Постановление XI (октябрьского) Совместного Пленума Комитета и Краевой контрольно-ревизионной Комиссии КПРФ - ПЕРМСКОГО КРАЕВОГО ОТДЕЛЕНИЯ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ «Об итогах избирательной кампании 2026 года». Заслушав и обсудив доклад об…"
+    "orig": "Постановление XI (октябрьского) Совместного Пленума Комитета и Краевой контрольно-ревизионной Комиссии КПРФ - ПЕРМСКОГО КРАЕВОГО ОТДЕЛЕНИЯ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ «Об итогах избирательной кампании 2026 года». Заслушав и обсудив доклад об…",
+    "it": "Risoluzione dell'XI (ottobre) Plenum congiunto del Comitato e della Commissione regionale di controllo e di audit del Partito Comunista della Federazione Russa - SEZIONE REGIONALE DI PERM del partito politico PARTITO COMUNISTA DELLA FEDERAZIONE RUSSA “Sui risultati della campagna elettorale del 2026”. Dopo aver ascoltato e discusso la relazione...",
+    "en": "Resolution of the XI (October) Joint Plenum of the Committee and the Regional Control and Audit Commission of the Communist Party of the Russian Federation - PERM REGIONAL BRANCH of the political party COMMUNIST PARTY OF THE RUSSIAN FEDERATION “On the results of the 2026 election campaign.” Having heard and discussed the report on..."
    }
   },
   {
@@ -4732,10 +5132,14 @@
    "date": "2026-10-06T09:36:26+00:00",
    "image": null,
    "title": {
-    "orig": "MA L’ENI HA FATTO I SUOI O I NOSTRI INTERESSI?"
+    "orig": "MA L’ENI HA FATTO I SUOI O I NOSTRI INTERESSI?",
+    "it": "MA L’ENI HA FATTO I SUOI O I NOSTRI INTERESSI?",
+    "en": "BUT DID ENI ACCOMPLISH ITS OR OUR INTERESTS?"
    },
    "summary": {
-    "orig": "Il price cap sui carburanti potrebbe costare a ENI circa 100 milioni di euro in un mese. Una cifra molto inferiore rispetto a una possibile tassazione sugli extraprofitti, stimata in circa 1,75 miliardi su base annua. Il risultato? Un’operazione che rischia di essere molto più…"
+    "orig": "Il price cap sui carburanti potrebbe costare a ENI circa 100 milioni di euro in un mese. Una cifra molto inferiore rispetto a una possibile tassazione sugli extraprofitti, stimata in circa 1,75 miliardi su base annua. Il risultato? Un’operazione che rischia di essere molto più…",
+    "it": "Il price cap sui carburanti potrebbe costare a ENI circa 100 milioni di euro in un mese. Una cifra molto inferiore rispetto a una possibile tassazione sugli extraprofitti, stimata in circa 1,75 miliardi su base annua. Il risultato? Un’operazione che rischia di essere molto più…",
+    "en": "The price cap on fuel could cost ENI around 100 million euros in a month. A figure much lower than a possible tax on extra profits, estimated at around 1.75 billion on an annual basis. The result? An operation that risks being much more…"
    }
   },
   {
@@ -4748,10 +5152,14 @@
    "date": "2026-10-05T17:21:52+00:00",
    "image": null,
    "title": {
-    "orig": "Soviet poem: Wait for me"
+    "orig": "Soviet poem: Wait for me",
+    "it": "Poesia sovietica: Aspettami",
+    "en": "Soviet poem: Wait for me"
    },
    "summary": {
-    "orig": "Reproduced from the Class Consciousness Project, with thanks. First published in Pravda in January 1942, Konstantin Simonov’s ‘Wait for me’ became a symbol of love and hope among the soldiers of the Red Army during the Great Patriotic War. Written from the front and dedicated to…"
+    "orig": "Reproduced from the Class Consciousness Project, with thanks. First published in Pravda in January 1942, Konstantin Simonov’s ‘Wait for me’ became a symbol of love and hope among the soldiers of the Red Army during the Great Patriotic War. Written from the front and dedicated to…",
+    "it": "Riprodotto dal Progetto Coscienza di Classe, con ringraziamenti. Pubblicato per la prima volta sulla Pravda nel gennaio 1942, \"Aspettami\" di Konstantin Simonov divenne un simbolo di amore e speranza tra i soldati dell'Armata Rossa durante la Grande Guerra Patriottica. Scritto frontalmente e dedicato a…",
+    "en": "Reproduced from the Class Consciousness Project, with thanks. First published in Pravda in January 1942, Konstantin Simonov’s ‘Wait for me’ became a symbol of love and hope among the soldiers of the Red Army during the Great Patriotic War. Written from the front and dedicated to…"
    }
   },
   {
@@ -4764,10 +5172,14 @@
    "date": "2026-10-05T00:34:41+00:00",
    "image": "https://liberationnews.org/wp-content/uploads/2026/10/Tierra-Walker-go-fund-me-photo.webp",
    "title": {
-    "orig": "Family of Tierra Walker, killed by Texas abortion ban, sues attorney general Ken Paxton"
+    "orig": "Family of Tierra Walker, killed by Texas abortion ban, sues attorney general Ken Paxton",
+    "it": "La famiglia di Tierra Walker, uccisa dal divieto di aborto in Texas, fa causa al procuratore generale Ken Paxton",
+    "en": "Family of Tierra Walker, killed by Texas abortion ban, sues attorney general Ken Paxton"
    },
    "summary": {
-    "orig": "Texas's abortion ban is killing women."
+    "orig": "Texas's abortion ban is killing women.",
+    "it": "Il divieto di aborto in Texas sta uccidendo le donne.",
+    "en": "Texas's abortion ban is killing women."
    }
   },
   {
@@ -4780,10 +5192,14 @@
    "date": "2026-10-04T16:08:24+00:00",
    "image": "https://liberationnews.org/wp-content/uploads/2026/10/IMG_2838-1024x683.jpg",
    "title": {
-    "orig": "First Amendment Victory: Judge dismisses Trump’s lawsuit against pro-Palestine protesters"
+    "orig": "First Amendment Victory: Judge dismisses Trump’s lawsuit against pro-Palestine protesters",
+    "it": "Vittoria del Primo Emendamento: il giudice respinge la causa di Trump contro i manifestanti filo-palestinesi",
+    "en": "First Amendment Victory: Judge dismisses Trump’s lawsuit against pro-Palestine protesters"
    },
    "summary": {
-    "orig": "The court rejected the FACE Act claim and found that the PSL New Jersey post on social media was protected speech, as “a call to assemble and engage in political advocacy in a public forum,” not a threat of violence."
+    "orig": "The court rejected the FACE Act claim and found that the PSL New Jersey post on social media was protected speech, as “a call to assemble and engage in political advocacy in a public forum,” not a threat of violence.",
+    "it": "La corte ha respinto la richiesta del FACE Act e ha ritenuto che il post di PSL New Jersey sui social media fosse un discorso protetto, in quanto “un appello a riunirsi e impegnarsi nella difesa politica in un forum pubblico”, non una minaccia di violenza.",
+    "en": "The court rejected the FACE Act claim and found that the PSL New Jersey post on social media was protected speech, as “a call to assemble and engage in political advocacy in a public forum,” not a threat of violence."
    }
   },
   {
@@ -4796,10 +5212,14 @@
    "date": "2026-10-04T08:00:20+00:00",
    "image": null,
    "title": {
-    "orig": "La policía detiene ilegalmente a ocho militantes del Partido Comunista de México y su juventud"
+    "orig": "La policía detiene ilegalmente a ocho militantes del Partido Comunista de México y su juventud",
+    "it": "La polizia detiene illegalmente otto membri del Partito Comunista del Messico e i loro giovani",
+    "en": "The police illegally detain eight members of the Communist Party of Mexico and their youth"
    },
    "summary": {
-    "orig": "El pasado viernes, 2 de octubre, ocho militantes del Partido Comunista de México (PCM) y del Frente de la Juventud Comunista (FJC) fueron detenidos de manera ilegal, violenta e injustificada por parte de la policía de la Ciudad de México. La militancia de ambas organizaciones se…"
+    "orig": "El pasado viernes, 2 de octubre, ocho militantes del Partido Comunista de México (PCM) y del Frente de la Juventud Comunista (FJC) fueron detenidos de manera ilegal, violenta e injustificada por parte de la policía de la Ciudad de México. La militancia de ambas organizaciones se…",
+    "it": "Venerdì scorso, 2 ottobre, otto militanti del Partito Comunista del Messico (PCM) e del Fronte della Gioventù Comunista (FJC) sono stati detenuti illegalmente, violentemente e ingiustificatamente dalla polizia di Città del Messico. La militanza di entrambe le organizzazioni è...",
+    "en": "Last Friday, October 2, eight militants of the Communist Party of Mexico (PCM) and the Communist Youth Front (FJC) were detained illegally, violently and unjustifiably by the Mexico City police. The militancy of both organizations is…"
    }
   },
   {
@@ -4812,10 +5232,14 @@
    "date": "2026-10-02T20:57:13+00:00",
    "image": "https://liberationnews.org/wp-content/uploads/2026/10/trump-delcy-1024x682.jpg",
    "title": {
-    "orig": "La reorientación de Venezuela hacia el imperialismo pone en peligro los logros de su revolución"
+    "orig": "La reorientación de Venezuela hacia el imperialismo pone en peligro los logros de su revolución",
+    "it": "Il riorientamento del Venezuela verso l’imperialismo pone in pericolo i log della sua rivoluzione",
+    "en": "La reorientación de Venezuela hacia el imperialismo pone en peligro los logros de su revolución"
    },
    "summary": {
-    "orig": "La operación militar de EE. UU. contra Venezuela el 3 de enero de 2026, que dejó cientos de muertos, incluidos 32 combatientes cubanos, y resultó en el secuestro y traslado del presidente Nicolás Maduro y Cilia Flores a Nueva York, marcó el golpe más severo a la soberanía…"
+    "orig": "La operación militar de EE. UU. contra Venezuela el 3 de enero de 2026, que dejó cientos de muertos, incluidos 32 combatientes cubanos, y resultó en el secuestro y traslado del presidente Nicolás Maduro y Cilia Flores a Nueva York, marcó el golpe más severo a la soberanía…",
+    "it": "L'operazione militare di EE. UU. contro il Venezuela il 3 gennaio 2026, che ha avuto centinaia di morti, inclusi 32 combattenti cubani, e il risultato è stato il successivo e traslado del presidente Nicolás Maduro e Cilia Flores a Nuova York, marcó el golpe más severo a la soberanía...",
+    "en": "La operación militar de EE. UU. contra Venezuela el 3 de enero de 2026, que dejó cientos de muertos, incluidos 32 combatientes cubanos, y resultó en el secuestro y traslado del presidente Nicolás Maduro y Cilia Flores a Nueva York, marcó el golpe más severo a la soberanía…"
    }
   },
   {
@@ -4828,10 +5252,14 @@
    "date": "2026-10-02T20:00:00+00:00",
    "image": "https://liberationnews.org/wp-content/uploads/2026/10/trump-delcy-1024x682.jpg",
    "title": {
-    "orig": "PSL Statement: Venezuela’s Reorientation to Imperialism Imperils the Gains of Its Revolution"
+    "orig": "PSL Statement: Venezuela’s Reorientation to Imperialism Imperils the Gains of Its Revolution",
+    "it": "Dichiarazione del PSL: il riorientamento del Venezuela verso l’imperialismo mette in pericolo le conquiste della sua rivoluzione",
+    "en": "PSL Statement: Venezuela’s Reorientation to Imperialism Imperils the Gains of Its Revolution"
    },
    "summary": {
-    "orig": "Understanding Venezuela's shift from a foreign policy based on regional integration, anti-imperialism, and socialist principles to alignment with U.S. imperialism requires examining the material conditions that produced it, rather than mere moral judgments."
+    "orig": "Understanding Venezuela's shift from a foreign policy based on regional integration, anti-imperialism, and socialist principles to alignment with U.S. imperialism requires examining the material conditions that produced it, rather than mere moral judgments.",
+    "it": "Comprendere il passaggio del Venezuela da una politica estera basata sull’integrazione regionale, sull’antimperialismo e sui principi socialisti all’allineamento con l’imperialismo statunitense richiede l’esame delle condizioni materiali che lo hanno prodotto, piuttosto che semplici giudizi morali.",
+    "en": "Understanding Venezuela's shift from a foreign policy based on regional integration, anti-imperialism, and socialist principles to alignment with U.S. imperialism requires examining the material conditions that produced it, rather than mere moral judgments."
    }
   },
   {
@@ -4844,10 +5272,14 @@
    "date": "2026-10-02T15:16:59+00:00",
    "image": null,
    "title": {
-    "orig": "Medicina, non basta aumentare i posti: il vero nodo è la formazione specialistica"
+    "orig": "Medicina, non basta aumentare i posti: il vero nodo è la formazione specialistica",
+    "it": "Medicina, non basta aumentare i posti: il vero nodo è la formazione specialistica",
+    "en": "Medicine, it's not enough to increase places: the real issue is specialist training"
    },
    "summary": {
-    "orig": "Aumentare i posti a Medicina basta davvero a risolvere la carenza di medici? Un giovane medico propone una riflessione sul futuro del SSN: specializzazioni poco attrattive, contratti non assegnati, qualità della formazione, condizioni di lavoro e rischio di spostare…"
+    "orig": "Aumentare i posti a Medicina basta davvero a risolvere la carenza di medici? Un giovane medico propone una riflessione sul futuro del SSN: specializzazioni poco attrattive, contratti non assegnati, qualità della formazione, condizioni di lavoro e rischio di spostare…",
+    "it": "Aumentare i posti a Medicina basta davvero a risolvere la carenza di medici? Un giovane medico propone una riflessione sul futuro del SSN: specializzazioni poco attrattive, contratti non assegnati, qualità della formazione, condizioni di lavoro e rischio di spostare…",
+    "en": "Is increasing medical places really enough to solve the shortage of doctors? A young doctor offers a reflection on the future of the NHS: unattractive specializations, unassigned contracts, quality of training, working conditions and the risk of moving..."
    }
   },
   {
@@ -4860,10 +5292,14 @@
    "date": "2026-10-01T22:35:31+00:00",
    "image": "https://liberationnews.org/wp-content/uploads/2026/10/nolan-wells1-1024x625.jpg",
    "title": {
-    "orig": "How the death of Nolan Wells exposes the ongoing war on Black America"
+    "orig": "How the death of Nolan Wells exposes the ongoing war on Black America",
+    "it": "Come la morte di Nolan Wells mette in luce la guerra in corso contro l'America nera",
+    "en": "How the death of Nolan Wells exposes the ongoing war on Black America"
    },
    "summary": {
-    "orig": "Young Black Americans should not be robbed of their futures. The struggle for Black liberation is the engine of progress in the U.S. To ensure our children's future and end the war on Black America, we have to build fighting movements against the capitalist system that wages it."
+    "orig": "Young Black Americans should not be robbed of their futures. The struggle for Black liberation is the engine of progress in the U.S. To ensure our children's future and end the war on Black America, we have to build fighting movements against the capitalist system that wages it.",
+    "it": "I giovani neri americani non dovrebbero essere derubati del loro futuro. La lotta per la liberazione dei neri è il motore del progresso negli Stati Uniti. Per garantire il futuro dei nostri figli e porre fine alla guerra contro l’America nera, dobbiamo costruire movimenti di lotta contro il sistema capitalista che la conduce.",
+    "en": "Young Black Americans should not be robbed of their futures. The struggle for Black liberation is the engine of progress in the U.S. To ensure our children's future and end the war on Black America, we have to build fighting movements against the capitalist system that wages it."
    }
   },
   {
@@ -4876,10 +5312,14 @@
    "date": "2026-10-01T16:20:15+00:00",
    "image": null,
    "title": {
-    "orig": "The Spark: Trade unions go to war on women; industrial decline"
+    "orig": "The Spark: Trade unions go to war on women; industrial decline",
+    "it": "La Scintilla: i sindacati vanno in guerra alle donne; declino industriale",
+    "en": "The Spark: Trade unions go to war on women; industrial decline"
    },
    "summary": {
-    "orig": "Read the October 2026 issue of our industrial matters free sheet as a pdf. Index Trade unions go to war on women TUC ‘windfall’ tax: a diversionary debate GMB branch secretaries Britain’s inexorable industrial decline Trade unions go to war on women On 19 August, Unison’s…"
+    "orig": "Read the October 2026 issue of our industrial matters free sheet as a pdf. Index Trade unions go to war on women TUC ‘windfall’ tax: a diversionary debate GMB branch secretaries Britain’s inexorable industrial decline Trade unions go to war on women On 19 August, Unison’s…",
+    "it": "Leggi il numero di ottobre 2026 del nostro foglio gratuito sulle questioni industriali in formato pdf. Indice I sindacati vanno in guerra alle donne La tassa “inaspettata” TUC: un dibattito diversivo I segretari delle filiali della GMB L’inesorabile declino industriale della Gran Bretagna I sindacati vanno in guerra alle donne Il 19 agosto, Unison’s…",
+    "en": "Read the October 2026 issue of our industrial matters free sheet as a pdf. Index Trade unions go to war on women TUC ‘windfall’ tax: a diversionary debate GMB branch secretaries Britain’s inexorable industrial decline Trade unions go to war on women On 19 August, Unison’s…"
    }
   },
   {
@@ -4892,10 +5332,14 @@
    "date": "2026-10-01T13:33:54+00:00",
    "image": "https://static.kprf.ru/m/420/240/t/img/2026/10/fc05342d-904b-4698-981f-76dfe5182264.jpg",
    "title": {
-    "orig": "В Президиуме ЦК КПРФ"
+    "orig": "В Президиуме ЦК КПРФ",
+    "it": "Nel Presidium del Comitato Centrale del Partito Comunista della Federazione Russa",
+    "en": "In the Presidium of the Central Committee of the Communist Party of the Russian Federation"
    },
    "summary": {
-    "orig": "29 сентября состоялось очередное заседание Президиума Центрального Комитета КПРФ. Его участники оценили итоги избирательной кампании 2026 года и обсудили задачи совершенствования работы партии. Открыл заседание Г.А. Зюганов. Председатель ЦК КПРФ отметил, что избирательная…"
+    "orig": "29 сентября состоялось очередное заседание Президиума Центрального Комитета КПРФ. Его участники оценили итоги избирательной кампании 2026 года и обсудили задачи совершенствования работы партии. Открыл заседание Г.А. Зюганов. Председатель ЦК КПРФ отметил, что избирательная…",
+    "it": "Il 29 settembre si è svolta la riunione ordinaria del Presidium del Comitato Centrale del Partito Comunista della Federazione Russa. I suoi partecipanti hanno valutato i risultati della campagna elettorale del 2026 e hanno discusso i compiti per migliorare il lavoro del partito. L'incontro è stato aperto da G.A. Zyuganov. Il Presidente del Comitato Centrale del Partito Comunista della Federazione Russa ha osservato che i risultati elettorali...",
+    "en": "On September 29, a regular meeting of the Presidium of the Central Committee of the Communist Party of the Russian Federation took place. Its participants assessed the results of the 2026 election campaign and discussed the tasks of improving the party’s work. The meeting was opened by G.A. Zyuganov. The Chairman of the Central Committee of the Communist Party of the Russian Federation noted that the electoral..."
    }
   },
   {
@@ -4908,10 +5352,14 @@
    "date": "2026-09-29T11:14:10+00:00",
    "image": null,
    "title": {
-    "orig": "Right-wing ‘communism’ in Britain: what did Lenin really say about the Labour party?"
+    "orig": "Right-wing ‘communism’ in Britain: what did Lenin really say about the Labour party?",
+    "it": "Il “comunismo” di destra in Gran Bretagna: cosa disse veramente Lenin del partito laburista?",
+    "en": "Right-wing ‘communism’ in Britain: what did Lenin really say about the Labour party?"
    },
    "summary": {
-    "orig": "This article was first published by Red Youth, the party’s youth organisation, in 2017. It examines the real relationship between the British working class and the Labour party, and lays out the steps we need to take to achieve true representation of our interests. ***** Much…"
+    "orig": "This article was first published by Red Youth, the party’s youth organisation, in 2017. It examines the real relationship between the British working class and the Labour party, and lays out the steps we need to take to achieve true representation of our interests. ***** Much…",
+    "it": "Questo articolo è stato pubblicato per la prima volta da Red Youth, l’organizzazione giovanile del partito, nel 2017. Esamina il rapporto reale tra la classe operaia britannica e il partito laburista e delinea i passi che dobbiamo compiere per ottenere una vera rappresentanza dei nostri interessi. ***** Tanto…",
+    "en": "This article was first published by Red Youth, the party’s youth organisation, in 2017. It examines the real relationship between the British working class and the Labour party, and lays out the steps we need to take to achieve true representation of our interests. ***** Much…"
    }
   },
   {
@@ -4924,10 +5372,14 @@
    "date": "2026-09-28T19:22:57+00:00",
    "image": null,
    "title": {
-    "orig": "Joti Brar: Why socialism is humanity’s next step"
+    "orig": "Joti Brar: Why socialism is humanity’s next step",
+    "it": "Joti Brar: Perché il socialismo è il prossimo passo dell’umanità",
+    "en": "Joti Brar: Why socialism is humanity’s next step"
    },
    "summary": {
-    "orig": "In this podcast, Joti Brar joins Mark from the Nexus Pod for a stimulating Q&A that spans human history, science, politics, economics and philosophy. If you are disillusioned with the present and despair for the future, listening to this podcast will invigorate your spirit…"
+    "orig": "In this podcast, Joti Brar joins Mark from the Nexus Pod for a stimulating Q&A that spans human history, science, politics, economics and philosophy. If you are disillusioned with the present and despair for the future, listening to this podcast will invigorate your spirit…",
+    "it": "In questo podcast, Joti Brar si unisce a Mark del Nexus Pod per una stimolante sessione di domande e risposte che abbraccia la storia umana, la scienza, la politica, l'economia e la filosofia. Se sei disilluso dal presente e disperi per il futuro, ascoltare questo podcast rinvigorirà il tuo spirito...",
+    "en": "In this podcast, Joti Brar joins Mark from the Nexus Pod for a stimulating Q&A that spans human history, science, politics, economics and philosophy. If you are disillusioned with the present and despair for the future, listening to this podcast will invigorate your spirit…"
    }
   },
   {
@@ -4940,10 +5392,14 @@
    "date": "2026-09-28T18:47:18+00:00",
    "image": null,
    "title": {
-    "orig": "El Partido del Trabajo de Austria y el PCTE celebran un acto por el 90 aniversario de la Guerra Nacional Revolucionaria"
+    "orig": "El Partido del Trabajo de Austria y el PCTE celebran un acto por el 90 aniversario de la Guerra Nacional Revolucionaria",
+    "it": "Il Partito laburista austriaco e il PCTE organizzano un evento per il 90° anniversario della Guerra rivoluzionaria nazionale",
+    "en": "The Austrian Labor Party and the PCTE hold an event for the 90th anniversary of the National Revolutionary War"
    },
    "summary": {
-    "orig": "El pasado sábado 12 de septiembre, en Viena, el Partido del Trabajo de Austria (PdA) celebró un acto para conmemorar el 90 aniversario del estallido de la Guerra Nacional Revolucionaria en nuestro país. En él participó el Partido Comunista de los Trabajadores de España (PCTE)…"
+    "orig": "El pasado sábado 12 de septiembre, en Viena, el Partido del Trabajo de Austria (PdA) celebró un acto para conmemorar el 90 aniversario del estallido de la Guerra Nacional Revolucionaria en nuestro país. En él participó el Partido Comunista de los Trabajadores de España (PCTE)…",
+    "it": "Sabato scorso, 12 settembre, a Vienna, il Partito laburista austriaco (PdA) ha organizzato un evento per commemorare il 90° anniversario dello scoppio della Guerra rivoluzionaria nazionale nel nostro Paese. Vi partecipò il Partito Comunista dei Lavoratori di Spagna (PCTE)…",
+    "en": "Last Saturday, September 12, in Vienna, the Austrian Labor Party (PdA) held an event to commemorate the 90th anniversary of the outbreak of the National Revolutionary War in our country. The Communist Party of the Workers of Spain (PCTE) participated in it…"
    }
   },
   {
@@ -4956,10 +5412,14 @@
    "date": "2026-09-27T20:15:36+00:00",
    "image": null,
    "title": {
-    "orig": "Noonomia e nuovo ordine mondiale: incontro tra Alberto Lombardo e Sergey Bodrunov"
+    "orig": "Noonomia e nuovo ordine mondiale: incontro tra Alberto Lombardo e Sergey Bodrunov",
+    "it": "Noonomia e nuovo ordine mondiale: incontro tra Alberto Lombardo e Sergey Bodrunov",
+    "en": "Noonomy and new world order: meeting between Alberto Lombardo and Sergey Bodrunov"
    },
    "summary": {
-    "orig": "A margine del Congresso della World Association of Noonomy di Roma, il Segretario Generale del Partito Comunista Alberto Lombardo ha incontrato il presidente della WAN Sergey Bodrunov. Alla conversazione, alla presenza dell’editore Sandro Teti, sono stati affrontati i temi della…"
+    "orig": "A margine del Congresso della World Association of Noonomy di Roma, il Segretario Generale del Partito Comunista Alberto Lombardo ha incontrato il presidente della WAN Sergey Bodrunov. Alla conversazione, alla presenza dell’editore Sandro Teti, sono stati affrontati i temi della…",
+    "it": "A margine del Congresso della World Association of Noonomy di Roma, il Segretario Generale del Partito Comunista Alberto Lombardo ha incontrato il presidente della WAN Sergey Bodrunov. Alla conversazione, alla presenza dell’editore Sandro Teti, sono stati affrontati i temi della…",
+    "en": "On the sidelines of the Congress of the World Association of Noonomy in Rome, the General Secretary of the Communist Party Alberto Lombardo met with the president of the WAN Sergey Bodrunov. At the conversation, in the presence of the publisher Sandro Teti, the themes of…"
    }
   },
   {
@@ -4972,10 +5432,14 @@
    "date": "2026-09-27T03:00:13+00:00",
    "image": "https://thetricontinental.org/wp-content/uploads/2026/09/AB31_Header.jpg",
    "title": {
-    "orig": "Of Soil and Blood: Lu Xun’s Revolutionary Literature Ninety Years After His Death"
+    "orig": "Of Soil and Blood: Lu Xun’s Revolutionary Literature Ninety Years After His Death",
+    "it": "Di terra e sangue: la letteratura rivoluzionaria di Lu Xun novant'anni dopo la sua morte",
+    "en": "Of Soil and Blood: Lu Xun’s Revolutionary Literature Ninety Years After His Death"
    },
    "summary": {
-    "orig": "Through political essays and speeches from the final decade of his life, we revisit Lu Xun’s reflections on language, despair, internationalism, and the cultural soil needed for social transformation."
+    "orig": "Through political essays and speeches from the final decade of his life, we revisit Lu Xun’s reflections on language, despair, internationalism, and the cultural soil needed for social transformation.",
+    "it": "Attraverso saggi e discorsi politici dell’ultimo decennio della sua vita, rivisitiamo le riflessioni di Lu Xun sul linguaggio, la disperazione, l’internazionalismo e il terreno culturale necessario per la trasformazione sociale.",
+    "en": "Through political essays and speeches from the final decade of his life, we revisit Lu Xun’s reflections on language, despair, internationalism, and the cultural soil needed for social transformation."
    }
   },
   {
@@ -4988,10 +5452,14 @@
    "date": "2026-09-24T09:38:10+00:00",
    "image": null,
    "title": {
-    "orig": "La Svizzera al voto sulla neutralità nella Costituzione"
+    "orig": "La Svizzera al voto sulla neutralità nella Costituzione",
+    "it": "La Svizzera al voto sulla neutralità nella Costituzione",
+    "en": "Switzerland to vote on neutrality in the Constitution"
    },
    "summary": {
-    "orig": "Il 27 settembre la Svizzera sarà chiamata a votare sull’inserimento della neutralità permanente nella Costituzione federale. Accanto ai promotori originari della destra, anche organizzazioni comuniste, internazionaliste e pacifiste sostengono il referendum da una prospettiva di…"
+    "orig": "Il 27 settembre la Svizzera sarà chiamata a votare sull’inserimento della neutralità permanente nella Costituzione federale. Accanto ai promotori originari della destra, anche organizzazioni comuniste, internazionaliste e pacifiste sostengono il referendum da una prospettiva di…",
+    "it": "Il 27 settembre la Svizzera sarà chiamata a votare sull’inserimento della neutralità permanente nella Costituzione federale. Accanto ai promotori originari della destra, anche organizzazioni comuniste, internazionaliste e pacifiste sostengono il referendum da una prospettiva di…",
+    "en": "On September 27, Switzerland will be called to vote on the inclusion of permanent neutrality in the federal Constitution. Alongside the original right-wing promoters, communist, internationalist and pacifist organizations also support the referendum from a perspective of…"
    }
   },
   {
@@ -5004,10 +5472,14 @@
    "date": "2026-09-23T04:33:16+00:00",
    "image": null,
    "title": {
-    "orig": "Preparar a la sociedad para la guerra: rearme europeo, militarización y servicio militar"
+    "orig": "Preparar a la sociedad para la guerra: rearme europeo, militarización y servicio militar",
+    "it": "Preparare la società alla guerra: riarmo europeo, militarizzazione e servizio militare",
+    "en": "Preparing society for war: European rearmament, militarization and military service"
    },
    "summary": {
-    "orig": "La Unión Europea ha encontrado una explicación extraordinariamente cómoda con la que prepararnos para la guerra: todo empezó el 24 de febrero de 2022. Antes, había paz, derechos y democracia. Un supuesto oasis de privilegio, una excepción de civilización en medio de un mundo…"
+    "orig": "La Unión Europea ha encontrado una explicación extraordinariamente cómoda con la que prepararnos para la guerra: todo empezó el 24 de febrero de 2022. Antes, había paz, derechos y democracia. Un supuesto oasis de privilegio, una excepción de civilización en medio de un mundo…",
+    "it": "L’Unione Europea ha trovato una spiegazione straordinariamente conveniente per prepararci alla guerra: tutto è iniziato il 24 febbraio 2022. Prima c’erano pace, diritti e democrazia. Una presunta oasi di privilegio, un'eccezione di civiltà in mezzo a un mondo...",
+    "en": "The European Union has found an extraordinarily convenient explanation with which to prepare us for war: it all started on February 24, 2022. Before, there was peace, rights and democracy. A supposed oasis of privilege, an exception of civilization in the middle of a world..."
    }
   },
   {
@@ -5020,10 +5492,14 @@
    "date": "2026-09-21T14:52:07+00:00",
    "image": null,
    "title": {
-    "orig": "Germania tra riarmo e repressione: intervista a Mawuena Martens"
+    "orig": "Germania tra riarmo e repressione: intervista a Mawuena Martens",
+    "it": "Germania tra riarmo e repressione: intervista a Mawuena Martens",
+    "en": "Germany between rearmament and repression: interview with Mawuena Martens"
    },
    "summary": {
-    "orig": "Abbiamo intervistato la giornalista tedesca Mawuena Martens sul clima politico e sociale in Germania: dall’aumento della spesa militare alle proteste giovanili contro il nuovo modello di servizio militare, fino alla repressione del movimento pro-Palestina e alle pressioni che…"
+    "orig": "Abbiamo intervistato la giornalista tedesca Mawuena Martens sul clima politico e sociale in Germania: dall’aumento della spesa militare alle proteste giovanili contro il nuovo modello di servizio militare, fino alla repressione del movimento pro-Palestina e alle pressioni che…",
+    "it": "Abbiamo intervistato la giornalista tedesca Mawuena Martens sul clima politico e sociale in Germania: dall’aumento della spesa militare alle proteste giovanili contro il nuovo modello di servizio militare, fino alla repressione del movimento pro-Palestina e alle pressioni che…",
+    "en": "We interviewed the German journalist Mawuena Martens on the political and social climate in Germany: from the increase in military spending to youth protests against the new model of military service, up to the repression of the pro-Palestine movement and the pressures that…"
    }
   },
   {
@@ -5036,10 +5512,14 @@
    "date": "2026-09-21T04:31:04+00:00",
    "image": null,
    "title": {
-    "orig": "El calor también tiene clase: vivienda, urbanismo y reproducción de la fuerza de trabajo"
+    "orig": "El calor también tiene clase: vivienda, urbanismo y reproducción de la fuerza de trabajo",
+    "it": "Il calore ha anche classe: edilizia, urbanistica e riproduzione della forza lavoro",
+    "en": "Heat also has class: housing, urban planning and reproduction of the workforce"
    },
    "summary": {
-    "orig": "Con la llegada del verano son múltiples las instituciones y los medios que nos atiborran de consejos para prevenir los riesgos para nuestra salud de la exposición a las altas temperaturas. Entre las múltiples pautas a seguir, siempre me llama la atención aquella de «refúgiese en…"
+    "orig": "Con la llegada del verano son múltiples las instituciones y los medios que nos atiborran de consejos para prevenir los riesgos para nuestra salud de la exposición a las altas temperaturas. Entre las múltiples pautas a seguir, siempre me llama la atención aquella de «refúgiese en…",
+    "it": "Con l'arrivo dell'estate sono molteplici le istituzioni e i media che ci riempiono di consigli per prevenire i rischi per la nostra salute derivanti dall'esposizione alle alte temperature. Tra le tante linee guida da seguire, quella del “rifugiarsi in…” attira sempre la mia attenzione.",
+    "en": "With the arrival of summer, there are multiple institutions and media that fill us with advice to prevent the risks to our health from exposure to high temperatures. Among the many guidelines to follow, the one that “take refuge in…” always catches my attention."
    }
   },
   {
@@ -5052,10 +5532,14 @@
    "date": "2026-09-18T09:00:11+00:00",
    "image": "https://thetricontinental.org/wp-content/uploads/2026/09/Text_1000667.jpg",
    "title": {
-    "orig": "How to Understand Key Terms in Large Language Models"
+    "orig": "How to Understand Key Terms in Large Language Models",
+    "it": "Come comprendere i termini chiave nei modelli linguistici di grandi dimensioni",
+    "en": "How to Understand Key Terms in Large Language Models"
    },
    "summary": {
-    "orig": "When you use AI to write, read reports, or work with files, you may encounter terms such as token, context, and agent. These terms help explain what happens when you give an AI application a task: what information it can use, how it produces a response, and whether it can take…"
+    "orig": "When you use AI to write, read reports, or work with files, you may encounter terms such as token, context, and agent. These terms help explain what happens when you give an AI application a task: what information it can use, how it produces a response, and whether it can take…",
+    "it": "Quando utilizzi l'intelligenza artificiale per scrivere, leggere report o lavorare con file, potresti incontrare termini come token, contesto e agente. Questi termini aiutano a spiegare cosa succede quando si assegna un compito a un'applicazione di intelligenza artificiale: quali informazioni può utilizzare, come produce una risposta e se può richiedere...",
+    "en": "When you use AI to write, read reports, or work with files, you may encounter terms such as token, context, and agent. These terms help explain what happens when you give an AI application a task: what information it can use, how it produces a response, and whether it can take…"
    }
   },
   {
@@ -5068,10 +5552,14 @@
    "date": "2026-09-08T08:00:13+00:00",
    "image": "https://thetricontinental.org/wp-content/uploads/2026/09/Web_D104_Image-1.jpg",
    "title": {
-    "orig": "Walking on Two Legs: The Socialism of Chinese Modernisation"
+    "orig": "Walking on Two Legs: The Socialism of Chinese Modernisation",
+    "it": "Camminare su due gambe: il socialismo della modernizzazione cinese",
+    "en": "Walking on Two Legs: The Socialism of Chinese Modernisation"
    },
    "summary": {
-    "orig": "The Chinese experience shows that true national independence demands both technological advancement and the constant realignment of economic power, proving that market mechanisms can be directed toward human need rather than profit."
+    "orig": "The Chinese experience shows that true national independence demands both technological advancement and the constant realignment of economic power, proving that market mechanisms can be directed toward human need rather than profit.",
+    "it": "L’esperienza cinese dimostra che la vera indipendenza nazionale richiede sia il progresso tecnologico sia il costante riallineamento del potere economico, dimostrando che i meccanismi di mercato possono essere diretti verso i bisogni umani piuttosto che verso il profitto.",
+    "en": "The Chinese experience shows that true national independence demands both technological advancement and the constant realignment of economic power, proving that market mechanisms can be directed toward human need rather than profit."
    }
   }
  ]
