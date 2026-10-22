@@ -204,6 +204,12 @@ def read_source(src: dict, status: dict) -> tuple[list[dict], dict]:
     for u in (src.get("feed"), prev.get("feed")):
         if u and u not in candidates:
             candidates.append(u)
+    # una fonte che non ha mai funzionato viene riprovata al massimo una volta al giorno
+    if not prev.get("ok", True) and not prev.get("feed") and prev.get("checked"):
+        age = time.time() - datetime.fromisoformat(prev["checked"]).timestamp()
+        if age < 86400 and not os.environ.get("SMOLNY_RETRY_ALL"):
+            log(f"  · {sid}: saltata (ricontrollo tra {int((86400 - age) / 3600)} h)")
+            return [], prev
     parsed, used = None, None
     for u in candidates:
         tried.append(u)
@@ -313,36 +319,38 @@ def translate(text: str, src: str, dst: str) -> str | None:
     return None
 
 
-SEP = "\n\n§§\n\n"
-
-
 def translate_item(item: dict) -> bool:
-    """Traduce titolo + estratto nelle lingue mancanti. True se ha tradotto qualcosa."""
+    """Traduce titolo + estratto nelle lingue mancanti. True se ha tradotto qualcosa.
+
+    Titolo ed estratto vanno in una sola richiesta, separati da un a capo
+    (Google Translate conserva gli a capo); se il risultato non si divide in
+    due, si traducono separatamente.
+    """
     did = False
+    title = item["title"]["orig"].replace("\n", " ")
+    summ = item["summary"]["orig"].replace("\n", " ")
     for dst in TARGET_LANGS:
         if item["title"].get(dst):
             continue
         if item["lang"] == dst:
-            item["title"][dst] = item["title"]["orig"]
-            item["summary"][dst] = item["summary"]["orig"]
+            item["title"][dst] = title
+            item["summary"][dst] = summ
             continue
-        joined = item["title"]["orig"] + (SEP + item["summary"]["orig"] if item["summary"]["orig"] else "")
-        out = translate(joined, item["lang"], dst)
+        out = translate(title + ("\n" + summ if summ else ""), item["lang"], dst)
         if not out:
             continue
-        parts = re.split(r"\s*§§\s*", out, maxsplit=1)
-        if item["summary"]["orig"] and len(parts) == 2:
-            item["title"][dst], item["summary"][dst] = parts[0].strip(), parts[1].strip()
-        elif not item["summary"]["orig"]:
-            item["title"][dst], item["summary"][dst] = out.replace("§§", "").strip(), ""
-        else:  # il separatore si è perso: traduco i due pezzi separatamente
-            t = translate(item["title"]["orig"], item["lang"], dst)
-            s = translate(item["summary"]["orig"], item["lang"], dst)
-            if t:
-                item["title"][dst] = t
-                item["summary"][dst] = s or ""
+        parts = [p.strip() for p in out.split("\n") if p.strip()]
+        if not summ:
+            item["title"][dst], item["summary"][dst] = " ".join(parts), ""
+        elif len(parts) >= 2:
+            item["title"][dst], item["summary"][dst] = parts[0], " ".join(parts[1:])
+        else:
+            t = translate(title, item["lang"], dst)
+            s = translate(summ, item["lang"], dst)
+            if not t:
+                continue
+            item["title"][dst], item["summary"][dst] = t, s or ""
         did = True
-        time.sleep(0.2)
     return did
 
 
@@ -389,17 +397,16 @@ def main() -> int:
 
     # traduzioni: prima i più recenti, con un tetto per giro.
     # Se il traduttore non risponde (3 errori di fila all'inizio) si smette e si riprova al giro dopo.
+    todo = [it for it in kept if not all(it["title"].get(l) for l in TARGET_LANGS)][:MAX_TRANSLATIONS]
     done = 0
-    for it in kept:
-        if done >= MAX_TRANSLATIONS:
-            break
-        if REPORT["translate_ok"] == 0 and REPORT["translate_fail"] >= 6:
-            log("  traduttore non disponibile: riprovo al prossimo giro")
-            break
-        if all(it["title"].get(l) for l in TARGET_LANGS):
-            continue
-        if translate_item(it):
+    if todo:
+        # prova su un articolo: se il traduttore non risponde, si riprova al prossimo giro
+        if translate_item(todo[0]):
             done += 1
+            with ThreadPoolExecutor(max_workers=6) as pool:
+                done += sum(pool.map(translate_item, todo[1:]))
+        else:
+            log("  traduttore non disponibile: riprovo al prossimo giro")
     # tutto viene pubblicato: chi non è ancora tradotto si vede in lingua originale
     # e viene tradotto ai giri successivi
     pending = sum(1 for it in kept if not all(it["title"].get(l) for l in TARGET_LANGS))
