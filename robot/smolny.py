@@ -38,6 +38,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SOURCES_FILE = ROOT / "_data" / "sources.yml"
 NEWS_FILE = ROOT / "_data" / "news.json"
 STATUS_FILE = ROOT / "_data" / "sources_status.json"
+REPORT_FILE = ROOT / "robot" / "last_run.json"
 
 TARGET_LANGS = ["it", "en"]
 MAX_ITEMS = 700            # articoli tenuti in totale
@@ -78,13 +79,18 @@ def load_json(path: Path, default):
         return default
 
 
+FETCH_NOTES: dict[str, str] = {}
+
+
 def fetch(url: str) -> requests.Response | None:
     try:
         r = session.get(url, timeout=TIMEOUT, allow_redirects=True)
         if r.status_code == 200 and r.content:
             return r
+        FETCH_NOTES[url] = f"HTTP {r.status_code}"
         log(f"    HTTP {r.status_code} {url}")
     except requests.RequestException as e:
+        FETCH_NOTES[url] = type(e).__name__
         log(f"    errore {type(e).__name__} {url}")
     return None
 
@@ -96,6 +102,7 @@ def parse_feed(url: str):
     parsed = feedparser.parse(r.content)
     if parsed.entries:
         return parsed
+    FETCH_NOTES[url] = "nessun articolo" if not parsed.bozo else "non è un feed"
     return None
 
 
@@ -216,8 +223,11 @@ def read_source(src: dict, status: dict) -> tuple[list[dict], dict]:
     checked = datetime.now(timezone.utc).isoformat(timespec="seconds")
     if not parsed:
         log(f"  ✗ {sid}: nessun feed trovato")
+        home_note = FETCH_NOTES.get(src["url"], "homepage ok")
+        tried_notes = {u: FETCH_NOTES.get(u, "?") for u in tried[:5]}
         return [], {"ok": False, "feed": prev.get("feed"), "checked": checked,
-                    "last_ok": prev.get("last_ok"), "error": "nessun feed leggibile"}
+                    "last_ok": prev.get("last_ok"), "error": "nessun feed leggibile",
+                    "homepage": home_note, "tried": tried_notes}
 
     items = []
     cutoff = time.time() - MAX_AGE_DAYS * 86400
@@ -255,25 +265,52 @@ def read_source(src: dict, status: dict) -> tuple[list[dict], dict]:
                    "count": len(parsed.entries)}
 
 
-_translators: dict[tuple[str, str], object] = {}
+REPORT = {"translate_ok": 0, "translate_fail": 0, "errors": {}}
+
+
+def _note_error(kind: str, err: str) -> None:
+    REPORT["translate_fail"] += 1
+    key = f"{kind}: {err}"[:160]
+    REPORT["errors"][key] = REPORT["errors"].get(key, 0) + 1
+
+
+def _gtx(text: str, src: str, dst: str) -> str | None:
+    """Endpoint pubblico di Google Translate (client gtx)."""
+    r = requests.post(
+        "https://translate.googleapis.com/translate_a/single",
+        params={"client": "gtx", "sl": GT_LANG.get(src, src), "tl": GT_LANG.get(dst, dst), "dt": "t"},
+        data={"q": text},
+        headers={"User-Agent": HEADERS["User-Agent"]},
+        timeout=20,
+    )
+    if r.status_code != 200:
+        raise RuntimeError(f"HTTP {r.status_code}")
+    data = r.json()
+    return "".join(part[0] for part in data[0] if part and part[0]).strip() or None
 
 
 def translate(text: str, src: str, dst: str) -> str | None:
-    if not text or GoogleTranslator is None:
+    if not text:
         return None
-    key = (src, dst)
-    try:
-        if key not in _translators:
-            _translators[key] = GoogleTranslator(source=GT_LANG.get(src, src), target=GT_LANG.get(dst, dst))
-        out = _translators[key].translate(text[:4500])
-        return out.strip() if out else None
-    except Exception as e:  # la traduzione non deve mai bloccare il robot
-        log(f"    traduzione {src}->{dst} fallita: {type(e).__name__}")
+    text = text[:4500]
+    for attempt in range(2):
         try:
-            out = GoogleTranslator(source="auto", target=GT_LANG.get(dst, dst)).translate(text[:4500])
-            return out.strip() if out else None
-        except Exception:
-            return None
+            out = _gtx(text, src, dst)
+            if out:
+                REPORT["translate_ok"] += 1
+                return out
+        except Exception as e:  # la traduzione non deve mai bloccare il robot
+            _note_error("gtx", f"{type(e).__name__} {e}")
+            time.sleep(2 + attempt * 3)
+    if GoogleTranslator is not None:
+        try:
+            out = GoogleTranslator(source="auto", target=GT_LANG.get(dst, dst)).translate(text)
+            if out:
+                REPORT["translate_ok"] += 1
+                return out.strip()
+        except Exception as e:
+            _note_error("deep_translator", f"{type(e).__name__} {e}")
+    return None
 
 
 SEP = "\n\n§§\n\n"
@@ -350,26 +387,33 @@ def main() -> int:
             per_source[it["source"]] = n + 1
     kept = kept[:MAX_ITEMS]
 
-    # traduzioni: prima i più recenti, con un tetto per giro
+    # traduzioni: prima i più recenti, con un tetto per giro.
+    # Se il traduttore non risponde (3 errori di fila all'inizio) si smette e si riprova al giro dopo.
     done = 0
     for it in kept:
         if done >= MAX_TRANSLATIONS:
+            break
+        if REPORT["translate_ok"] == 0 and REPORT["translate_fail"] >= 6:
+            log("  traduttore non disponibile: riprovo al prossimo giro")
             break
         if all(it["title"].get(l) for l in TARGET_LANGS):
             continue
         if translate_item(it):
             done += 1
-    # gli articoli non ancora tradotti escono dopo, al prossimo giro
-    ready = [it for it in kept if all(it["title"].get(l) for l in TARGET_LANGS)]
+    # tutto viene pubblicato: chi non è ancora tradotto si vede in lingua originale
+    # e viene tradotto ai giri successivi
+    pending = sum(1 for it in kept if not all(it["title"].get(l) for l in TARGET_LANGS))
 
-    out = {"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-           "count": len(ready), "items": ready}
+    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    out = {"updated": now, "count": len(kept), "items": kept}
     NEWS_FILE.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     STATUS_FILE.write_text(json.dumps(dict(sorted(status.items())), ensure_ascii=False, indent=1),
                            encoding="utf-8")
     ok = sum(1 for s in status.values() if s.get("ok"))
-    pending = len(kept) - len(ready)
-    log(f"Fatto: {fresh} nuovi, {done} tradotti, {len(ready)} pubblicati, "
+    report = {"run": now, "new": fresh, "published": len(kept), "pending_translation": pending,
+              "sources_ok": ok, "sources_total": len(status), **REPORT}
+    REPORT_FILE.write_text(json.dumps(report, ensure_ascii=False, indent=1), encoding="utf-8")
+    log(f"Fatto: {fresh} nuovi, {done} tradotti, {len(kept)} pubblicati, "
         f"{pending} in attesa di traduzione, fonti attive {ok}/{len(status)}")
     return 0
 

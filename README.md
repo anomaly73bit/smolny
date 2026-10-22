@@ -59,4 +59,4 @@ bundle exec jekyll serve
 
 ## Pubblicazione
 
-GitHub Pages, da **Settings → Pages → Deploy from a branch → `main` / root**.
+GitHub Pages tramite il workflow `.github/workflows/pages.yml` (Settings → Pages → Source: **GitHub Actions**). Si ripubblica a ogni push e dopo ogni giro del robot.

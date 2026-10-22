@@ -40,7 +40,7 @@ jobs:
         run: |
           git config user.name "smolny-robot"
           git config user.email "smolny-robot@users.noreply.github.com"
-          git add _data/news.json _data/sources_status.json
+          git add _data/news.json _data/sources_status.json robot/last_run.json
           if git diff --cached --quiet; then
             echo "Nessuna novità."
             exit 0

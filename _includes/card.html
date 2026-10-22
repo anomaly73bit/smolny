@@ -1,7 +1,8 @@
 {%- assign item = include.item -%}
 {%- assign c = site.data.countries[item.country] -%}
 {%- assign title = item.title[L] | default: item.title.orig -%}
-{%- assign summ = item.summary[L] -%}
+{%- assign summ = item.summary[L] | default: item.summary.orig -%}
+{%- assign tr = item.title[L] -%}
 <article class="post-card{% unless item.image %} poster-card{% endunless %}{% if include.large %} post-card-large{% endif %}{% if include.hidden %} is-hidden{% endif %}" data-c="{{ item.country }}" data-s="{{ item.source }}" data-q="{{ title | append: ' ' | append: item.name | downcase | escape }}">
     <a class="post-card-image-link" href="{{ item.url }}" target="_blank" rel="noopener nofollow" tabindex="-1">
         {% if item.image %}<img class="post-card-image" src="{{ item.image }}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="var a=this.closest('article');a.classList.add('poster-card');a.classList.remove('post-card-large');this.remove()">{% endif %}
@@ -18,7 +19,7 @@
         <footer class="post-card-meta">
             <span class="src-mark" aria-hidden="true">{{ item.name | slice: 0 }}</span>
             <span class="post-card-author">{{ item.name }}</span>
-            <span class="reading-time"><time datetime="{{ item.date }}">{{ item.date | date: "%d/%m/%Y" }}</time>{% if item.lang != L %} · <abbr title="{{ t.translated_from }} {{ t.langs[item.lang] }}">{{ item.lang | upcase }}→{{ L | upcase }}</abbr>{% endif %}</span>
+            <span class="reading-time"><time datetime="{{ item.date }}">{{ item.date | date: "%d/%m/%Y" }}</time>{% if item.lang != L %} · {% if tr %}<abbr title="{{ t.translated_from }} {{ t.langs[item.lang] }}">{{ item.lang | upcase }}→{{ L | upcase }}</abbr>{% else %}{{ item.lang | upcase }}{% endif %}{% endif %}</span>
         </footer>
     </div>
 </article>
