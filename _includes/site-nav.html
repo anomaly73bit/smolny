@@ -1,0 +1,20 @@
+<nav class="site-nav">
+    <div class="site-nav-left">
+        {% unless page.home %}
+        <a class="site-nav-logo" href="{{ u_home | relative_url }}">{% include star.svg %}Smolny</a>
+        {% endunless %}
+        <ul class="nav" role="menu">
+            <li class="{% if page.nav == 'news' %}nav-current{% endif %}" role="menuitem"><a href="{{ u_home | relative_url }}">{{ t.nav_news }}</a></li>
+            <li class="{% if page.nav == 'countries' %}nav-current{% endif %}" role="menuitem"><a href="{{ u_countries | relative_url }}">{{ t.nav_countries }}</a></li>
+            <li class="{% if page.nav == 'sources' %}nav-current{% endif %}" role="menuitem"><a href="{{ u_sources | relative_url }}">{{ t.nav_sources }}</a></li>
+            <li class="{% if page.nav == 'about' %}nav-current{% endif %}" role="menuitem"><a href="{{ u_about | relative_url }}">{{ t.nav_about }}</a></li>
+        </ul>
+    </div>
+    <div class="site-nav-right">
+        <div class="lang-switch" aria-label="Lingua / Language">
+            {% if L == 'it' %}<span class="on">IT</span><a href="{{ page.alt | default: '/en/' | relative_url }}" hreflang="en" lang="en">EN</a>
+            {% else %}<a href="{{ page.alt | default: '/' | relative_url }}" hreflang="it" lang="it">IT</a><span class="on">EN</span>{% endif %}
+        </div>
+        <a class="subscribe-button" href="{{ u_feed | relative_url }}">RSS</a>
+    </div>
+</nav>

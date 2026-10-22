@@ -1,0 +1,13 @@
+<table class="sources-table">
+    <thead><tr><th>{{ t.source }}</th><th>{{ t.country }}</th><th>{{ t.language }}</th><th></th></tr></thead>
+    <tbody>
+    {% for s in site.data.sources %}{% assign c = site.data.countries[s.country] %}{% assign st = site.data.sources_status[s.id] %}
+        <tr>
+            <td><a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.name }}</a></td>
+            <td>{{ c.flag }} {{ c[L] }}</td>
+            <td>{{ t.langs[s.lang] }}</td>
+            <td>{% if st %}{% if st.ok %}<span class="st st-ok">{{ t.status_ok }}</span>{% else %}<span class="st st-ko">{{ t.status_ko }}</span>{% endif %}{% endif %}</td>
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>

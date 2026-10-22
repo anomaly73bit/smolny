@@ -1,0 +1,27 @@
+{% include vars.html %}<!DOCTYPE html>
+<html lang="{{ L }}">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0d0d0d" />
+    {% seo %}
+    {% if page.alt %}
+    <link rel="alternate" hreflang="{% if L == 'it' %}en{% else %}it{% endif %}" href="{{ page.alt | absolute_url }}" />
+    {% endif %}
+    <link rel="alternate" type="application/rss+xml" title="Smolny ({{ L | upcase }})" href="{{ u_feed | absolute_url }}" />
+    <link rel="icon" type="image/svg+xml" href="{{ '/assets/img/favicon.svg' | relative_url }}" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" />
+    <link rel="stylesheet" href="{{ '/assets/css/global.css' | relative_url }}" />
+    <link rel="stylesheet" href="{{ '/assets/css/casper.css' | relative_url }}" />
+    <link rel="stylesheet" href="{{ '/assets/css/smolny.css' | relative_url }}?v={{ site.time | date: '%s' }}" />
+</head>
+<body class="{{ page.class | default: 'page-template' }}">
+    <div class="site-wrapper">
+        {{ content }}
+        {% include footer.html %}
+    </div>
+    <script src="{{ '/assets/js/smolny.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
+</body>
+</html>

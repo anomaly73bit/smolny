@@ -1,0 +1,55 @@
+---
+layout: default
+class: home-template
+---
+{% include vars.html %}
+{%- assign items = site.data.news.items -%}
+{%- assign by_country = items | group_by: 'country' | sort: 'size' | reverse -%}
+{%- assign src_live = items | map: 'source' | uniq -%}
+<header class="site-header outer smolny-cover">
+    <div class="cover-art" aria-hidden="true"><span class="wedge"></span><span class="disc"></span><span class="bar b1"></span><span class="bar b2"></span></div>
+    <div class="inner">
+        <div class="site-header-content">
+            <p class="cover-kicker">{% include star.svg %} Proletari di tutti i paesi · Workers of the world</p>
+            <h1 class="site-title">Smolny</h1>
+            <h2 class="site-description">{{ t.tagline }}</h2>
+            {% if items.size > 0 %}
+            <p class="cover-stats">
+                <span><b>{{ items.size }}</b> {{ t.articles }}</span>
+                <span><b>{{ src_live.size }}</b> {{ t.sources_count }}</span>
+                <span><b>{{ by_country.size }}</b> {{ t.countries_count }}</span>
+                <span class="upd">{{ t.updated }} <time datetime="{{ site.data.news.updated }}">{{ site.data.news.updated | date: "%d/%m %H:%M" }}</time></span>
+            </p>
+            {% endif %}
+        </div>
+        {% include site-nav.html %}
+    </div>
+</header>
+
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+        {% if items.size > 0 %}
+        <div class="filters" role="toolbar" aria-label="{{ t.nav_countries }}">
+            <div class="chips">
+                <button class="chip is-on" data-c="">{{ t.all }} <b>{{ items.size }}</b></button>
+                {% for g in by_country %}{% assign c = site.data.countries[g.name] %}
+                <button class="chip" data-c="{{ g.name }}">{{ c.flag }} {{ c[L] | default: g.name }} <b>{{ g.size }}</b></button>
+                {% endfor %}
+            </div>
+            <label class="search"><input type="search" placeholder="{{ t.search }}" aria-label="{{ t.search }}" /></label>
+        </div>
+
+        <div class="post-feed" data-page="24">
+            {% for item in items %}
+                {% if forloop.first %}{% include card.html item=item large=true %}
+                {% elsif forloop.index > 24 %}{% include card.html item=item hidden=true %}
+                {% else %}{% include card.html item=item %}{% endif %}
+            {% endfor %}
+        </div>
+        <p class="feed-empty" hidden>{{ t.no_results }}</p>
+        <div class="feed-more"><button class="more-btn" type="button">{{ t.more }}</button></div>
+        {% else %}
+        <div class="feed-wait">{% include star.svg %}<p>{{ t.empty }}</p></div>
+        {% endif %}
+    </div>
+</main>

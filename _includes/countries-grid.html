@@ -1,0 +1,15 @@
+{%- assign items = site.data.news.items -%}
+<div class="country-grid">
+{% for pair in site.data.countries %}
+    {%- assign code = pair[0] -%}{%- assign c = pair[1] -%}
+    {%- assign srcs = site.data.sources | where: 'country', code -%}
+    {%- if srcs.size == 0 -%}{%- continue -%}{%- endif -%}
+    {%- assign n = items | where: 'country', code | size -%}
+    <a class="country-card" href="{{ u_home | relative_url }}#c={{ code }}">
+        <span class="cc-flag">{{ c.flag }}</span>
+        <span class="cc-name">{{ c[L] }}</span>
+        <span class="cc-count"><b>{{ n }}</b> {{ t.articles }}</span>
+        <span class="cc-srcs">{% for s in srcs %}{{ s.name }}{% unless forloop.last %} · {% endunless %}{% endfor %}</span>
+    </a>
+{% endfor %}
+</div>

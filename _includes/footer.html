@@ -1,0 +1,11 @@
+<footer class="site-footer outer">
+    <div class="site-footer-content inner">
+        <section class="copyright"><a href="{{ u_home | relative_url }}">{% include star.svg %} Smolny</a> &copy; {{ site.time | date: '%Y' }} — {{ t.footer_note }}</section>
+        <nav class="site-footer-nav">
+            <a href="{{ u_sources | relative_url }}">{{ t.nav_sources }}</a>
+            <a href="{{ u_about | relative_url }}">{{ t.nav_about }}</a>
+            <a href="{{ u_feed | relative_url }}">{{ t.rss }}</a>
+            <a href="https://github.com/jekyllt/jasper2" target="_blank" rel="noopener">Jasper2</a>
+        </nav>
+    </div>
+</footer>

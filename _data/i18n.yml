@@ -1,0 +1,56 @@
+it:
+  tagline: La stampa comunista del mondo, in un solo posto.
+  nav_news: Notizie
+  nav_countries: Paesi
+  nav_sources: Fonti
+  nav_about: Chi siamo
+  all: Tutti
+  search: Cerca nei titoli…
+  more: Mostra altre notizie
+  no_results: Nessuna notizia per questo filtro.
+  empty: Il robot sta raccogliendo le prime notizie. Torna tra poco.
+  read_on: Leggi su
+  translated_from: Tradotto da
+  updated: Aggiornato
+  articles: notizie
+  sources_count: testate
+  countries_count: paesi
+  footer_note: Smolny raccoglie titoli ed estratti dai giornali comunisti di tutto il mondo e rimanda sempre all'articolo originale.
+  rss: Feed RSS
+  status_ok: attiva
+  status_ko: feed non raggiungibile
+  site: Sito
+  country: Paese
+  language: Lingua
+  source: Testata
+  not_found_title: Pagina non trovata
+  not_found_text: La pagina che cerchi non esiste. Torna alle notizie.
+  langs: { it: italiano, en: inglese, es: spagnolo, pt: portoghese, fr: francese, de: tedesco, el: greco, ru: russo, tr: turco, cs: ceco, sv: svedese, da: danese, zh: cinese, vi: vietnamita }
+en:
+  tagline: The world's communist press, in one place.
+  nav_news: News
+  nav_countries: Countries
+  nav_sources: Sources
+  nav_about: About
+  all: All
+  search: Search headlines…
+  more: Show more news
+  no_results: No news for this filter.
+  empty: The robot is collecting the first stories. Check back soon.
+  read_on: Read on
+  translated_from: Translated from
+  updated: Updated
+  articles: stories
+  sources_count: papers
+  countries_count: countries
+  footer_note: Smolny collects headlines and excerpts from communist newspapers worldwide and always links to the original article.
+  rss: RSS feed
+  status_ok: active
+  status_ko: feed unreachable
+  site: Website
+  country: Country
+  language: Language
+  source: Paper
+  not_found_title: Page not found
+  not_found_text: The page you are looking for does not exist. Back to the news.
+  langs: { it: Italian, en: English, es: Spanish, pt: Portuguese, fr: French, de: German, el: Greek, ru: Russian, tr: Turkish, cs: Czech, sv: Swedish, da: Danish, zh: Chinese, vi: Vietnamese }

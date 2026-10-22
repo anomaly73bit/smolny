@@ -1,0 +1,21 @@
+{%- include vars.html -%}<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Smolny ({{ L | upcase }})</title>
+    <link>{{ u_home | absolute_url }}</link>
+    <atom:link href="{{ u_feed | absolute_url }}" rel="self" type="application/rss+xml" />
+    <description>{{ t.tagline | xml_escape }}</description>
+    <language>{{ L }}</language>
+    {% if site.data.news.updated %}<lastBuildDate>{{ site.data.news.updated | date_to_rfc822 }}</lastBuildDate>{% endif %}
+    {% for item in site.data.news.items limit:60 %}{% assign c = site.data.countries[item.country] %}
+    <item>
+        <title>{{ item.title[L] | default: item.title.orig | xml_escape }}</title>
+        <link>{{ item.url | xml_escape }}</link>
+        <guid isPermaLink="false">smolny-{{ item.id }}</guid>
+        <pubDate>{{ item.date | date_to_rfc822 }}</pubDate>
+        <category>{{ c[L] | xml_escape }}</category>
+        <description>{{ item.name | append: ' — ' | append: item.summary[L] | xml_escape }}</description>
+    </item>
+    {% endfor %}
+</channel>
+</rss>

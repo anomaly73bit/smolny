@@ -1,0 +1,322 @@
+# Fonti di Smolny — giornali e portali comunisti, marxisti-leninisti e della sinistra di classe.
+# Il robot legge "feed"; se manca o non funziona, cerca il feed partendo da "url".
+# country: codice ISO (vedi countries.yml) · lang: lingua originale degli articoli
+# Per aggiungere una testata basta aggiungere un blocco qui sotto.
+
+# --- Italia ---
+- id: contropiano
+  name: Contropiano
+  country: IT
+  lang: it
+  url: https://contropiano.org
+  feed: https://contropiano.org/feed
+- id: marx21
+  name: Marx21
+  country: IT
+  lang: it
+  url: https://www.marx21.it
+  feed: https://www.marx21.it/feed/
+- id: lacittafutura
+  name: La Città Futura
+  country: IT
+  lang: it
+  url: https://www.lacittafutura.it
+- id: lariscossa
+  name: La Riscossa
+  country: IT
+  lang: it
+  url: https://www.lariscossa.info
+
+# --- Internazionale ---
+- id: peoplesdispatch
+  name: Peoples Dispatch
+  country: INT
+  lang: en
+  url: https://peoplesdispatch.org
+  feed: https://peoplesdispatch.org/feed/
+- id: tricontinental
+  name: Tricontinental
+  country: INT
+  lang: en
+  url: https://thetricontinental.org
+  feed: https://thetricontinental.org/feed/
+- id: mronline
+  name: MR Online
+  country: INT
+  lang: en
+  url: https://mronline.org
+  feed: https://mronline.org/feed/
+
+# --- Regno Unito ---
+- id: morningstar
+  name: Morning Star
+  country: GB
+  lang: en
+  url: https://morningstaronline.co.uk
+- id: proletarian
+  name: Proletarian (CPGB-ML)
+  country: GB
+  lang: en
+  url: https://thecommunists.org
+  feed: https://thecommunists.org/feed/
+
+# --- Stati Uniti ---
+- id: peoplesworld
+  name: People's World
+  country: US
+  lang: en
+  url: https://www.peoplesworld.org
+- id: liberationnews
+  name: Liberation News
+  country: US
+  lang: en
+  url: https://www.liberationnews.org
+  feed: https://www.liberationnews.org/feed/
+- id: fightback
+  name: Fight Back! News
+  country: US
+  lang: en
+  url: https://fightbacknews.org
+- id: workersworld
+  name: Workers World
+  country: US
+  lang: en
+  url: https://www.workers.org
+  feed: https://www.workers.org/feed/
+- id: strugglelalucha
+  name: Struggle – La Lucha
+  country: US
+  lang: en
+  url: https://www.struggle-la-lucha.org
+  feed: https://www.struggle-la-lucha.org/feed/
+
+# --- Canada ---
+- id: peoplesvoice
+  name: People's Voice
+  country: CA
+  lang: en
+  url: https://peoplesvoice.ca
+  feed: https://peoplesvoice.ca/feed/
+
+# --- Cuba ---
+- id: granma
+  name: Granma
+  country: CU
+  lang: es
+  url: https://www.granma.cu
+  feed: https://www.granma.cu/feed
+- id: cubadebate
+  name: Cubadebate
+  country: CU
+  lang: es
+  url: http://www.cubadebate.cu
+  feed: http://www.cubadebate.cu/feed/
+- id: juventudrebelde
+  name: Juventud Rebelde
+  country: CU
+  lang: es
+  url: https://www.juventudrebelde.cu
+
+# --- Grecia ---
+- id: rizospastis
+  name: Rizospastis
+  country: GR
+  lang: el
+  url: https://www.rizospastis.gr
+- id: 902gr
+  name: 902.gr
+  country: GR
+  lang: el
+  url: https://www.902.gr
+- id: kke-inter
+  name: KKE International
+  country: GR
+  lang: en
+  url: https://inter.kke.gr/en/
+
+# --- Cipro ---
+- id: haravgi
+  name: Haravgi
+  country: CY
+  lang: el
+  url: https://www.haravgi.com.cy
+
+# --- Portogallo ---
+- id: avante
+  name: Avante!
+  country: PT
+  lang: pt
+  url: https://www.avante.pt
+- id: pcp
+  name: PCP
+  country: PT
+  lang: pt
+  url: https://www.pcp.pt
+
+# --- Spagna ---
+- id: mundoobrero
+  name: Mundo Obrero
+  country: ES
+  lang: es
+  url: https://www.mundoobrero.es
+- id: nuevorumbo
+  name: Nuevo Rumbo
+  country: ES
+  lang: es
+  url: https://www.nuevo-rumbo.es
+
+# --- Francia ---
+- id: humanite
+  name: L'Humanité
+  country: FR
+  lang: fr
+  url: https://www.humanite.fr
+- id: initiativecommuniste
+  name: Initiative Communiste
+  country: FR
+  lang: fr
+  url: https://www.initiative-communiste.fr
+  feed: https://www.initiative-communiste.fr/feed/
+
+# --- Germania ---
+- id: unserezeit
+  name: Unsere Zeit
+  country: DE
+  lang: de
+  url: https://www.unsere-zeit.de
+  feed: https://www.unsere-zeit.de/feed/
+- id: jungewelt
+  name: junge Welt
+  country: DE
+  lang: de
+  url: https://www.jungewelt.de
+  feed: https://www.jungewelt.de/feeds/newsticker.rss
+- id: rfnews
+  name: Rote Fahne News
+  country: DE
+  lang: de
+  url: https://www.rf-news.de
+
+# --- Austria ---
+- id: zeitungderarbeit
+  name: Zeitung der Arbeit
+  country: AT
+  lang: de
+  url: https://zeitungderarbeit.at
+  feed: https://zeitungderarbeit.at/feed/
+
+# --- Belgio ---
+- id: solidaire
+  name: Solidaire
+  country: BE
+  lang: fr
+  url: https://www.solidaire.org
+
+# --- Repubblica Ceca ---
+- id: halonoviny
+  name: Haló noviny
+  country: CZ
+  lang: cs
+  url: https://www.halonoviny.cz
+
+# --- Svezia ---
+- id: proletaren
+  name: Proletären
+  country: SE
+  lang: sv
+  url: https://proletaren.se
+
+# --- Danimarca ---
+- id: arbejderen
+  name: Arbejderen
+  country: DK
+  lang: da
+  url: https://arbejderen.dk
+
+# --- Turchia ---
+- id: sol
+  name: soL Haber
+  country: TR
+  lang: tr
+  url: https://haber.sol.org.tr
+
+# --- Russia ---
+- id: kprf
+  name: KPRF
+  country: RU
+  lang: ru
+  url: https://kprf.ru
+- id: pravda-kprf
+  name: Pravda
+  country: RU
+  lang: ru
+  url: https://gazeta-pravda.ru
+- id: sovross
+  name: Sovetskaya Rossiya
+  country: RU
+  lang: ru
+  url: https://sovross.ru
+
+# --- India ---
+- id: peoplesdemocracy
+  name: People's Democracy
+  country: IN
+  lang: en
+  url: https://peoplesdemocracy.in
+- id: newsclick
+  name: Newsclick
+  country: IN
+  lang: en
+  url: https://www.newsclick.in
+
+# --- Vietnam ---
+- id: nhandan
+  name: Nhân Dân
+  country: VN
+  lang: en
+  url: https://en.nhandan.vn
+
+# --- Cina ---
+- id: peoplesdaily
+  name: People's Daily
+  country: CN
+  lang: en
+  url: http://en.people.cn
+
+# --- Brasile ---
+- id: brasildefato
+  name: Brasil de Fato
+  country: BR
+  lang: pt
+  url: https://www.brasildefato.com.br
+- id: averdade
+  name: A Verdade
+  country: BR
+  lang: pt
+  url: https://averdade.org.br
+- id: vermelho
+  name: Vermelho
+  country: BR
+  lang: pt
+  url: https://vermelho.org.br
+
+# --- Cile ---
+- id: elsiglo
+  name: El Siglo
+  country: CL
+  lang: es
+  url: https://elsiglo.cl
+
+# --- Colombia ---
+- id: semanariovoz
+  name: Semanario Voz
+  country: CO
+  lang: es
+  url: https://semanariovoz.com
+
+# --- Australia ---
+- id: guardian-cpa
+  name: The Guardian (CPA)
+  country: AU
+  lang: en
+  url: https://cpa.org.au

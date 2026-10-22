@@ -1,0 +1,26 @@
+INT: { it: Internazionale, en: International, flag: "🌍" }
+IT: { it: Italia, en: Italy, flag: "🇮🇹" }
+GB: { it: Regno Unito, en: United Kingdom, flag: "🇬🇧" }
+US: { it: Stati Uniti, en: United States, flag: "🇺🇸" }
+CA: { it: Canada, en: Canada, flag: "🇨🇦" }
+CU: { it: Cuba, en: Cuba, flag: "🇨🇺" }
+GR: { it: Grecia, en: Greece, flag: "🇬🇷" }
+CY: { it: Cipro, en: Cyprus, flag: "🇨🇾" }
+PT: { it: Portogallo, en: Portugal, flag: "🇵🇹" }
+ES: { it: Spagna, en: Spain, flag: "🇪🇸" }
+FR: { it: Francia, en: France, flag: "🇫🇷" }
+DE: { it: Germania, en: Germany, flag: "🇩🇪" }
+AT: { it: Austria, en: Austria, flag: "🇦🇹" }
+BE: { it: Belgio, en: Belgium, flag: "🇧🇪" }
+CZ: { it: Repubblica Ceca, en: Czech Republic, flag: "🇨🇿" }
+SE: { it: Svezia, en: Sweden, flag: "🇸🇪" }
+DK: { it: Danimarca, en: Denmark, flag: "🇩🇰" }
+TR: { it: Turchia, en: Turkey, flag: "🇹🇷" }
+RU: { it: Russia, en: Russia, flag: "🇷🇺" }
+IN: { it: India, en: India, flag: "🇮🇳" }
+VN: { it: Vietnam, en: Vietnam, flag: "🇻🇳" }
+CN: { it: Cina, en: China, flag: "🇨🇳" }
+BR: { it: Brasile, en: Brazil, flag: "🇧🇷" }
+CL: { it: Cile, en: Chile, flag: "🇨🇱" }
+CO: { it: Colombia, en: Colombia, flag: "🇨🇴" }
+AU: { it: Australia, en: Australia, flag: "🇦🇺" }

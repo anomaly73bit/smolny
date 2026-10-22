@@ -1,0 +1,26 @@
+---
+layout: default
+class: page-template
+---
+{% include vars.html %}
+<header class="site-header outer">
+    <div class="inner">
+        {% include site-nav.html %}
+    </div>
+</header>
+
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+        <article class="post-full page no-image">
+            <header class="post-full-header">
+                {% if page.kicker %}<section class="post-full-meta">{{ page.kicker }}</section>{% endif %}
+                <h1 class="post-full-title">{{ page.title }}</h1>
+            </header>
+            <section class="post-full-content">
+                <div class="post-content">
+                    {{ content }}
+                </div>
+            </section>
+        </article>
+    </div>
+</main>

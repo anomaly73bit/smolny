@@ -1,0 +1,50 @@
+name: Robot Smolny
+
+on:
+  schedule:
+    - cron: "23 */3 * * *"   # ogni 3 ore
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "robot/**"
+      - "_data/sources.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: smolny-robot
+  cancel-in-progress: false
+
+jobs:
+  raccolta:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: robot/requirements.txt
+
+      - name: Dipendenze
+        run: pip install -r robot/requirements.txt
+
+      - name: Raccolta e traduzione
+        run: python robot/smolny.py
+
+      - name: Pubblica le notizie
+        run: |
+          git config user.name "smolny-robot"
+          git config user.email "smolny-robot@users.noreply.github.com"
+          git add _data/news.json _data/sources_status.json
+          if git diff --cached --quiet; then
+            echo "Nessuna novità."
+            exit 0
+          fi
+          git commit -m "Robot: notizie aggiornate $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git pull --rebase origin main
+          git push origin HEAD:main

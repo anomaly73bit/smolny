@@ -1,0 +1,23 @@
+title: Smolny
+description: La stampa comunista del mondo, in un solo posto.
+url: "https://anomaly73bit.github.io"
+baseurl: "/smolny"
+lang: it
+
+# Tema: Jasper2 (porting Jekyll di Casper, licenza MIT) — vedi THEME-LICENSE.txt
+markdown: kramdown
+permalink: pretty
+timezone: Europe/Rome
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - robot
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - THEME-LICENSE.txt
+  - vendor
+  - .github

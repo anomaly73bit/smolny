@@ -1,0 +1,7 @@
+{%- assign L = page.lang | default: 'it' -%}
+{%- assign t = site.data.i18n[L] -%}
+{%- if L == 'en' -%}
+  {%- assign u_home = '/en/' -%}{%- assign u_countries = '/en/countries/' -%}{%- assign u_sources = '/en/sources/' -%}{%- assign u_about = '/en/about/' -%}{%- assign u_feed = '/en/feed.xml' -%}
+{%- else -%}
+  {%- assign u_home = '/' -%}{%- assign u_countries = '/paesi/' -%}{%- assign u_sources = '/fonti/' -%}{%- assign u_about = '/chi-siamo/' -%}{%- assign u_feed = '/feed.xml' -%}
+{%- endif -%}
