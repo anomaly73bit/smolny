@@ -107,6 +107,7 @@ def fetch_article(session: requests.Session, url: str, timeout: int = 25) -> tup
 
 
 _model_index = 0
+LAST_ERROR: dict[str, str] = {}
 
 
 def _call_llm(prompt: str) -> dict | None:
@@ -137,13 +138,15 @@ def _call_llm(prompt: str) -> dict | None:
         if r.status_code in (401, 403):
             raise LimitReached(f"accesso negato ({r.status_code}): {r.text[:160]}")
         if r.status_code != 200:
-            print(f"    modello {model}: HTTP {r.status_code} {r.text[:160]}", flush=True)
+            LAST_ERROR["msg"] = f"{model} HTTP {r.status_code}: {r.text[:300]}"
+            print(f"    {LAST_ERROR['msg']}", flush=True)
             return None
         try:
             content = r.json()["choices"][0]["message"]["content"]
             content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content.strip())
             return json.loads(content)
-        except (KeyError, IndexError, ValueError):
+        except (KeyError, IndexError, ValueError, TypeError) as e:
+            LAST_ERROR["msg"] = f"{model} risposta non valida ({type(e).__name__}): {r.text[:300]}"
             return None
     raise LimitReached("nessun modello disponibile")
 
@@ -164,6 +167,7 @@ def summarise(item: dict, text: str, country_name: str) -> dict | None:
     if data.get("skip"):
         return {"skip": True}
     if not (_valid(data.get("it")) and _valid(data.get("en"))):
+        LAST_ERROR["msg"] = "JSON senza it/en validi: " + json.dumps(data, ensure_ascii=False)[:250]
         return None
     out = {}
     for lang in ("it", "en"):
@@ -177,10 +181,13 @@ def summarise(item: dict, text: str, country_name: str) -> dict | None:
 def run(items: list[dict], session: requests.Session, countries: dict, limit: int,
         report: dict) -> int:
     """Scrive le sintesi mancanti (le più recenti prima). Restituisce quante ne ha fatte."""
-    done = 0
+    done = attempts = fails_in_row = 0
     todo = [it for it in items if "synth" not in it and it.get("synth_tries", 0) < 3]
     for it in todo:
-        if done >= limit:
+        if done >= limit or attempts >= limit * 2:
+            break
+        if fails_in_row >= 4:
+            report["synth_stopped"] = "4 errori di fila: " + LAST_ERROR.get("msg", "?")[:250]
             break
         text, image = fetch_article(session, it["url"])
         if image and not it.get("image"):
@@ -189,6 +196,7 @@ def run(items: list[dict], session: requests.Session, countries: dict, limit: in
             it["synth_tries"] = it.get("synth_tries", 0) + 1
             report["synth_short_text"] = report.get("synth_short_text", 0) + 1
             continue
+        attempts += 1
         try:
             res = summarise(it, text, countries.get(it["country"], {}).get("en", it["country"]))
         except LimitReached as e:
@@ -196,9 +204,10 @@ def run(items: list[dict], session: requests.Session, countries: dict, limit: in
             print(f"  sintesi ferme: {e}", flush=True)
             break
         if res is None:
-            it["synth_tries"] = it.get("synth_tries", 0) + 1
+            fails_in_row += 1
             report["synth_failed"] = report.get("synth_failed", 0) + 1
             continue
+        fails_in_row = 0
         if res.get("skip"):
             it["synth_tries"] = 3
             report["synth_skipped"] = report.get("synth_skipped", 0) + 1
@@ -208,6 +217,8 @@ def run(items: list[dict], session: requests.Session, countries: dict, limit: in
         done += 1
         time.sleep(float(os.environ.get("SMOLNY_LLM_PAUSE", "4")))
     report["synth_done"] = done
+    if LAST_ERROR:
+        report["synth_last_error"] = LAST_ERROR["msg"][:300]
     report["synth_total"] = sum(1 for it in items if "synth" in it)
     return done
 
