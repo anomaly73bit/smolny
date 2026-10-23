@@ -2,6 +2,11 @@ name: Screenshot sito
 
 on:
   workflow_dispatch:
+    inputs:
+      extra:
+        description: "Percorso aggiuntivo da fotografare (es. /notizia/abc/)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -27,6 +32,7 @@ jobs:
           shot home-mobile 390 1700 "$B/"
           shot fonti 1440 1300 "$B/fonti/"
           shot paesi 1440 1300 "$B/paesi/"
+          if [ -n "${{ inputs.extra }}" ]; then shot extra 1440 2200 "$B${{ inputs.extra }}"; shot extra-mobile 390 1800 "$B${{ inputs.extra }}"; fi
           ls -la shots | tee -a shots/log.txt
       - name: Salva sul branch screenshots
         if: always()
