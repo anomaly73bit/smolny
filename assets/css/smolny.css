@@ -267,7 +267,7 @@ img.post-card-image { display: block; width: 100%; height: 200px; object-fit: co
 .site-nav-left { min-width: 0; flex: 1 1 auto; }
 .site-nav-right { flex-shrink: 0; }
 @media (max-width: 650px) {
-    .site-nav-logo { font-size: 1.7rem !important; margin-right: 6px !important; }
+    .site-nav-logo { font-size: 1.7rem !important; margin-right: 12px !important; }
     .site-nav .nav li a { padding-left: 7px; padding-right: 7px; font-size: 1.25rem; }
     .lang-switch a, .lang-switch span { padding: 3px 8px; }
 }
