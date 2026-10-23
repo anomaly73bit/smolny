@@ -1,9 +1,9 @@
 {
- "run": "2026-10-23T06:50:47+00:00",
- "new": 2,
- "published": 440,
- "pending_translation": 37,
- "sources_ok": 32,
+ "run": "2026-10-23T07:01:04+00:00",
+ "new": 3,
+ "published": 443,
+ "pending_translation": 40,
+ "sources_ok": 30,
  "sources_total": 50,
  "translate_ok": 0,
  "translate_fail": 3,
@@ -11,9 +11,7 @@
   "gtx: RuntimeError HTTP 429": 2,
   "deep_translator: TooManyRequests Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up": 1
  },
- "synth_failed": 4,
- "synth_stopped": "4 errori di fila: openai/gpt-4.1-mini risposta non valida (JSONDecodeError): OK\r\n",
+ "synth_stopped": "chiave ANTHROPIC_API_KEY non impostata",
  "synth_done": 0,
- "synth_last_error": "openai/gpt-4.1-mini risposta non valida (JSONDecodeError): OK\r\n",
  "synth_total": 0
 }
