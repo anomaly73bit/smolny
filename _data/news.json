@@ -1,7 +1,41 @@
 {
- "updated": "2026-10-23T06:44:45+00:00",
- "count": 438,
+ "updated": "2026-10-23T06:50:47+00:00",
+ "count": 440,
  "items": [
+  {
+   "id": "82488ae40372e4f5",
+   "source": "peoplesdemocracy",
+   "name": "People's Democracy",
+   "country": "IN",
+   "lang": "en",
+   "url": "https://peoplesdemocracy.in/2026/1025_pd/bulldozers-books-neglect-masses-autumn-anarchy-bengal",
+   "date": "2026-10-23T06:45:55+00:00",
+   "image": null,
+   "title": {
+    "orig": "Bulldozers for Books, Neglect for the Masses: Autumn Anarchy in Bengal",
+    "en": "Bulldozers for Books, Neglect for the Masses: Autumn Anarchy in Bengal"
+   },
+   "summary": {
+    "orig": "Bulldozers for Books, Neglect for the Masses: Autumn Anarchy in Bengal Samprikta Bose A FESTIVAL belongs fundamentally to the working masses who build it, animate it, and sustain its collective social life. In Bengal, the autumn festival has historically represented a broad…",
+    "en": "Bulldozers for Books, Neglect for the Masses: Autumn Anarchy in Bengal Samprikta Bose A FESTIVAL belongs fundamentally to the working masses who build it, animate it, and sustain its collective social life. In Bengal, the autumn festival has historically represented a broad…"
+   }
+  },
+  {
+   "id": "039d77d92df7f383",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/fon-duzenlemesiyle-ilgili-kanun-teklifi-meclisten-gecti-415302",
+   "date": "2026-10-23T06:36:48+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/23/meclis.png.webp?itok=5-t14p-r",
+   "title": {
+    "orig": "Fon düzenlemesiyle ilgili kanun teklifi Meclis'ten geçti"
+   },
+   "summary": {
+    "orig": "Haber Merkezi SPK'nin tasfiye kararı aldığı 131 yatırım fonuna ilişkin kanun teklifi Meclis'te kabul edildi. AKP, SPK’nin tasfiye kararı verdiği 131 yatırım fonuna ilişkin Meclis’e sunduğu kanun teklifi TBMM Genel Kurulunda kabul edilerek yasalaştı. Dokuz maddelik kanun teklifi…"
+   }
+  },
   {
    "id": "6a33b83951369d1d",
    "source": "peoplesdemocracy",
