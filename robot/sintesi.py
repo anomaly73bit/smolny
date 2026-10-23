@@ -1,8 +1,7 @@
 """Sintesi degli articoli per Smolny.
 
 Per ogni notizia il robot scarica la pagina dell'articolo, ne estrae il testo
-e chiede a un modello linguistico (GitHub Models, gratuito con il token del
-repository) una sintesi originale in italiano e in inglese: un riassunto con
+e chiede a un modello linguistico (Claude Haiku via API Anthropic) una sintesi originale in italiano e in inglese: un riassunto con
 parole proprie, molto più breve dell'originale, con al massimo una breve
 citazione attribuita. Il testo completo resta sul sito della testata, che la
 pagina di Smolny cita e linka sempre.
@@ -29,10 +28,10 @@ except ImportError:
 ROOT = Path(__file__).resolve().parent.parent
 PAGE_DIRS = {"it": ROOT / "_notizie", "en": ROOT / "_news_en"}
 
-API_URL = os.environ.get("SMOLNY_LLM_URL", "https://models.github.ai/inference/chat/completions")
-MODELS = [m.strip() for m in os.environ.get(
-    "SMOLNY_LLM_MODELS", "openai/gpt-4.1-mini,openai/gpt-4o-mini").split(",") if m.strip()]
-TOKEN = os.environ.get("SMOLNY_LLM_TOKEN") or os.environ.get("GITHUB_TOKEN", "")
+# Modello: Claude Haiku via API Anthropic (chiave nel secret ANTHROPIC_API_KEY del repository)
+API_URL = "https://api.anthropic.com/v1/messages"
+MODEL = os.environ.get("SMOLNY_MODEL", "claude-haiku-5-5")
+API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 MAX_SOURCE_CHARS = 9000
 MIN_SOURCE_CHARS = 400
 
@@ -106,49 +105,47 @@ def fetch_article(session: requests.Session, url: str, timeout: int = 25) -> tup
     return text, image
 
 
-_model_index = 0
 LAST_ERROR: dict[str, str] = {}
 
 
 def _call_llm(prompt: str) -> dict | None:
-    global _model_index
-    if not TOKEN:
-        raise LimitReached("nessun token per il modello")
-    while _model_index < len(MODELS):
-        model = MODELS[_model_index]
+    if not API_KEY:
+        raise LimitReached("chiave ANTHROPIC_API_KEY non impostata")
+    for attempt in range(3):
         try:
             r = requests.post(
                 API_URL,
-                headers={"Authorization": f"Bearer {TOKEN}", "Content-Type": "application/json",
-                         "Accept": "application/json"},
-                json={"model": model, "temperature": 0.3, "max_tokens": 1400,
-                      "response_format": {"type": "json_object"},
-                      "messages": [{"role": "user", "content": prompt}]},
+                headers={"x-api-key": API_KEY, "anthropic-version": "2023-06-01",
+                         "content-type": "application/json"},
+                json={"model": MODEL, "max_tokens": 1500, "temperature": 0.3,
+                      "messages": [{"role": "user", "content": prompt},
+                                   {"role": "assistant", "content": "{"}]},
                 timeout=90,
             )
         except requests.RequestException as e:
-            raise LimitReached(f"rete: {type(e).__name__}")
-        if r.status_code == 429:
-            raise LimitReached(f"quota {model}: {r.text[:160]}")
-        if r.status_code in (400, 403, 404) and ("model" in r.text.lower() or r.status_code == 404):
-            # modello non disponibile: provo il successivo
-            print(f"    modello {model} non disponibile ({r.status_code}): {r.text[:160]}", flush=True)
-            _model_index += 1
+            LAST_ERROR["msg"] = f"rete: {type(e).__name__}"
+            time.sleep(5)
+            continue
+        if r.status_code in (429, 529) or r.status_code >= 500:
+            LAST_ERROR["msg"] = f"{MODEL} HTTP {r.status_code}: {r.text[:200]}"
+            time.sleep(10 * (attempt + 1))
             continue
         if r.status_code in (401, 403):
-            raise LimitReached(f"accesso negato ({r.status_code}): {r.text[:160]}")
+            raise LimitReached(f"chiave non valida ({r.status_code}): {r.text[:200]}")
+        if r.status_code == 400 and "credit" in r.text.lower():
+            raise LimitReached(f"credito esaurito: {r.text[:200]}")
         if r.status_code != 200:
-            LAST_ERROR["msg"] = f"{model} HTTP {r.status_code}: {r.text[:300]}"
-            print(f"    {LAST_ERROR['msg']}", flush=True)
-            return None
+            LAST_ERROR["msg"] = f"{MODEL} HTTP {r.status_code}: {r.text[:300]}"
+            raise LimitReached(LAST_ERROR["msg"])
         try:
-            content = r.json()["choices"][0]["message"]["content"]
-            content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content.strip())
+            data = r.json()
+            content = "{" + "".join(b.get("text", "") for b in data["content"] if b.get("type") == "text")
+            content = content[: content.rfind("}") + 1]
             return json.loads(content)
         except (KeyError, IndexError, ValueError, TypeError) as e:
-            LAST_ERROR["msg"] = f"{model} risposta non valida ({type(e).__name__}): {r.text[:300]}"
+            LAST_ERROR["msg"] = f"risposta non valida ({type(e).__name__}): {r.text[:300]}"
             return None
-    raise LimitReached("nessun modello disponibile")
+    raise LimitReached("modello non raggiungibile: " + LAST_ERROR.get("msg", ""))
 
 
 def _valid(block) -> bool:
@@ -215,7 +212,7 @@ def run(items: list[dict], session: requests.Session, countries: dict, limit: in
         it["synth"] = res
         it.pop("synth_tries", None)
         done += 1
-        time.sleep(float(os.environ.get("SMOLNY_LLM_PAUSE", "4")))
+        time.sleep(float(os.environ.get("SMOLNY_LLM_PAUSE", "0.5")))
     report["synth_done"] = done
     if LAST_ERROR:
         report["synth_last_error"] = LAST_ERROR["msg"][:300]

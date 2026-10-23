@@ -43,7 +43,7 @@ NEWS_FILE = ROOT / "_data" / "news.json"
 STATUS_FILE = ROOT / "_data" / "sources_status.json"
 REPORT_FILE = ROOT / "robot" / "last_run.json"
 COUNTRIES_FILE = ROOT / "_data" / "countries.yml"
-MAX_SYNTH = int(os.environ.get("SMOLNY_MAX_SYNTH", "25"))  # sintesi per giro
+MAX_SYNTH = int(os.environ.get("SMOLNY_MAX_SYNTH", "60"))  # sintesi per giro
 
 TARGET_LANGS = ["it", "en"]
 MAX_ITEMS = 500            # articoli tenuti in totale
