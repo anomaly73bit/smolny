@@ -1,14 +1,11 @@
 {
- "run": "2026-10-23T00:02:15+00:00",
- "new": 42,
- "published": 379,
- "pending_translation": 101,
+ "run": "2026-10-23T05:05:03+00:00",
+ "new": 28,
+ "published": 403,
+ "pending_translation": 0,
  "sources_ok": 31,
  "sources_total": 50,
- "translate_ok": 0,
- "translate_fail": 6,
- "errors": {
-  "gtx: RuntimeError HTTP 429": 4,
-  "deep_translator: TooManyRequests Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up": 2
- }
+ "translate_ok": 234,
+ "translate_fail": 0,
+ "errors": {}
 }
