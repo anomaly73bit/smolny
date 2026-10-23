@@ -25,6 +25,13 @@ it:
   source: Testata
   not_found_title: Pagina non trovata
   not_found_text: La pagina che cerchi non esiste. Torna alle notizie.
+  back: Tutte le notizie
+  photo: Foto
+  synth_note: Sintesi redatta da Smolny sulla base dell'articolo di %s. Per il testo completo vale l'originale.
+  synth_pending: La sintesi completa di questa notizia è in preparazione. Nel frattempo puoi leggere l'articolo sul sito della testata.
+  source_label: Fonte originale
+  read_full: Leggi l'articolo completo
+  more_from: Altre notizie da
   langs: { it: italiano, en: inglese, es: spagnolo, pt: portoghese, fr: francese, de: tedesco, el: greco, ru: russo, tr: turco, cs: ceco, sv: svedese, da: danese, zh: cinese, vi: vietnamita }
 en:
   tagline: The world's communist press, in one place.
@@ -53,4 +60,11 @@ en:
   source: Paper
   not_found_title: Page not found
   not_found_text: The page you are looking for does not exist. Back to the news.
+  back: All news
+  photo: Photo
+  synth_note: Summary written by Smolny from the article in %s. The original is the authoritative text.
+  synth_pending: The full summary of this story is being prepared. Meanwhile you can read the article on the paper's website.
+  source_label: Original source
+  read_full: Read the full article
+  more_from: More news from
   langs: { it: Italian, en: English, es: Spanish, pt: Portuguese, fr: French, de: German, el: Greek, ru: Russian, tr: Turkish, cs: Czech, sv: Swedish, da: Danish, zh: Chinese, vi: Vietnamese }

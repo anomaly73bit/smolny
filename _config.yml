@@ -9,6 +9,14 @@ markdown: kramdown
 permalink: pretty
 timezone: Europe/Rome
 
+collections:
+  notizie:
+    output: true
+    permalink: /notizia/:name/
+  news_en:
+    output: true
+    permalink: /en/news/:name/
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap

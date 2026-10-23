@@ -12,6 +12,7 @@ on:
 
 permissions:
   contents: write
+  models: read
 
 concurrency:
   group: smolny-robot
@@ -20,7 +21,7 @@ concurrency:
 jobs:
   raccolta:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 50
     steps:
       - uses: actions/checkout@v4
 
@@ -36,6 +37,7 @@ jobs:
       - name: Raccolta e traduzione
         env:
           # nei giri lanciati a mano o da un push si riprovano anche le fonti in errore
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SMOLNY_RETRY_ALL: ${{ github.event_name != 'schedule' && '1' || '' }}
         run: python robot/smolny.py
 
@@ -43,7 +45,7 @@ jobs:
         run: |
           git config user.name "smolny-robot"
           git config user.email "smolny-robot@users.noreply.github.com"
-          git add _data/news.json _data/sources_status.json robot/last_run.json
+          git add -A _data/news.json _data/sources_status.json robot/last_run.json _notizie _news_en
           if git diff --cached --quiet; then
             echo "Nessuna novità."
             exit 0

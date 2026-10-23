@@ -1,0 +1,75 @@
+---
+layout: default
+class: post-template
+---
+{% include vars.html %}
+{%- assign c = site.data.countries[page.country] -%}
+{%- if L == 'en' -%}{%- assign coll = site.news_en -%}{%- assign base = '/en/news/' -%}{%- else -%}{%- assign coll = site.notizie -%}{%- assign base = '/notizia/' -%}{%- endif -%}
+<header class="site-header outer">
+    <div class="inner">
+        {% include site-nav.html %}
+    </div>
+</header>
+
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+        <a class="back-link" href="{{ u_home | relative_url }}">← {{ t.back }}</a>
+
+        <article class="post-full article-full{% unless page.image %} no-image{% endunless %}">
+            <header class="post-full-header">
+                <section class="post-full-meta">
+                    <a href="{{ u_home | relative_url }}#c={{ page.country }}">{{ c.flag }} {{ c[L] }}</a>
+                    <span class="sep">/</span> {{ page.paper }}
+                    <span class="sep">/</span> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d/%m/%Y" }}</time>
+                </section>
+                <h1 class="post-full-title">{{ page.title }}</h1>
+            </header>
+
+            {% if page.image %}
+            <figure class="post-full-image">
+                <img src="{{ page.image }}" alt="" referrerpolicy="no-referrer" onerror="this.closest('figure').remove()">
+                <figcaption>{{ t.photo }}: {{ page.paper }}</figcaption>
+            </figure>
+            {% endif %}
+
+            <section class="post-full-content">
+                <div class="post-content">
+                    {% if page.paragraphs %}
+                        {% for p in page.paragraphs %}<p>{{ p }}</p>
+                        {% endfor %}
+                        <p class="synth-note">{{ t.synth_note | replace: '%s', page.paper }}</p>
+                    {% else %}
+                        {% if page.excerpt_text != "" %}<p class="lead">{{ page.excerpt_text }}</p>{% endif %}
+                        <p class="synth-note">{{ t.synth_pending }}</p>
+                    {% endif %}
+
+                    <aside class="source-box">
+                        <span class="sb-label">{{ t.source_label }}</span>
+                        <strong>{{ page.paper }}</strong> · {{ c.flag }} {{ c[L] }} · {{ t.langs[page.orig_lang] }}
+                        <span class="sb-title" lang="{{ page.orig_lang }}">«{{ page.orig_title }}»</span>
+                        <a class="sb-btn" href="{{ page.orig_url }}" target="_blank" rel="noopener nofollow">{{ t.read_full }} →</a>
+                    </aside>
+                </div>
+            </section>
+        </article>
+
+        {%- assign related = coll | where: 'country', page.country | sort: 'date' | reverse -%}
+        {% if related.size > 1 %}
+        <aside class="read-next">
+            <h3 class="read-next-title">{{ t.more_from }} {{ c.flag }} {{ c[L] }}</h3>
+            <div class="read-next-list">
+            {% assign shown = 0 %}
+            {% for r in related %}
+                {% if r.nid == page.nid or shown >= 4 %}{% continue %}{% endif %}
+                {% assign shown = shown | plus: 1 %}
+                <a class="rn-item" href="{{ base | append: r.nid | append: '/' | relative_url }}">
+                    {% if r.image %}<img src="{{ r.image }}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">{% endif %}
+                    <span class="rn-paper">{{ r.paper }}</span>
+                    <span class="rn-title">{{ r.title }}</span>
+                </a>
+            {% endfor %}
+            </div>
+        </aside>
+        {% endif %}
+    </div>
+</main>

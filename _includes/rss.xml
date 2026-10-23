@@ -10,7 +10,7 @@
     {% for item in site.data.news.items limit:60 %}{% assign c = site.data.countries[item.country] %}
     <item>
         <title>{{ item.title[L] | default: item.title.orig | xml_escape }}</title>
-        <link>{{ item.url | xml_escape }}</link>
+        <link>{% if L == 'en' %}{{ '/en/news/' | append: item.id | append: '/' | absolute_url }}{% else %}{{ '/notizia/' | append: item.id | append: '/' | absolute_url }}{% endif %}</link>
         <guid isPermaLink="false">smolny-{{ item.id }}</guid>
         <pubDate>{{ item.date | date_to_rfc822 }}</pubDate>
         <category>{{ c[L] | xml_escape }}</category>

@@ -29,6 +29,9 @@ import requests
 import yaml
 from bs4 import BeautifulSoup
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import sintesi  # noqa: E402
+
 try:
     from deep_translator import GoogleTranslator
 except ImportError:  # traduzione disattivata se la libreria manca
@@ -39,9 +42,11 @@ SOURCES_FILE = ROOT / "_data" / "sources.yml"
 NEWS_FILE = ROOT / "_data" / "news.json"
 STATUS_FILE = ROOT / "_data" / "sources_status.json"
 REPORT_FILE = ROOT / "robot" / "last_run.json"
+COUNTRIES_FILE = ROOT / "_data" / "countries.yml"
+MAX_SYNTH = int(os.environ.get("SMOLNY_MAX_SYNTH", "25"))  # sintesi per giro
 
 TARGET_LANGS = ["it", "en"]
-MAX_ITEMS = 700            # articoli tenuti in totale
+MAX_ITEMS = 500            # articoli tenuti in totale
 MAX_PER_SOURCE = 40        # massimo per testata nell'archivio
 MAX_NEW_PER_SOURCE = 12    # nuovi articoli letti per testata a ogni giro
 MAX_TRANSLATIONS = int(os.environ.get("SMOLNY_MAX_TRANSLATIONS", "500"))
@@ -411,7 +416,16 @@ def main() -> int:
     # e viene tradotto ai giri successivi
     pending = sum(1 for it in kept if not all(it["title"].get(l) for l in TARGET_LANGS))
 
-    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    # sintesi degli articoli (prima i più recenti) e pagine interne
+    countries = yaml.safe_load(COUNTRIES_FILE.read_text(encoding="utf-8"))
+    try:
+        sintesi.run(kept, session, countries, MAX_SYNTH, REPORT)
+    except Exception as e:  # le sintesi non devono mai bloccare le notizie
+        REPORT["synth_error"] = f"{type(e).__name__}: {e}"[:200]
+        log(f"  sintesi: errore {e}")
+    sintesi.write_pages(kept)
+
+    now =datetime.now(timezone.utc).isoformat(timespec="seconds")
     out = {"updated": now, "count": len(kept), "items": kept}
     NEWS_FILE.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     STATUS_FILE.write_text(json.dumps(dict(sorted(status.items())), ensure_ascii=False, indent=1),
