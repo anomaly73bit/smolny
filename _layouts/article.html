@@ -45,7 +45,8 @@ class: post-template
 
                     <aside class="source-box">
                         <span class="sb-label">{{ t.source_label }}</span>
-                        <strong>{{ page.paper }}</strong> · {{ c.flag }} {{ c[L] }} · {{ t.langs[page.orig_lang] }}
+                        <strong>{{ page.paper }}</strong>
+                        <span class="sb-meta">{{ c.flag }} {{ c[L] }} · {{ t.langs[page.orig_lang] }}</span>
                         <span class="sb-title" lang="{{ page.orig_lang }}">«{{ page.orig_title }}»</span>
                         <a class="sb-btn" href="{{ page.orig_url }}" target="_blank" rel="noopener nofollow">{{ t.read_full }} →</a>
                     </aside>

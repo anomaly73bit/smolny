@@ -300,19 +300,34 @@ def _gtx(text: str, src: str, dst: str) -> str | None:
     return "".join(part[0] for part in data[0] if part and part[0]).strip() or None
 
 
+GTX_STATE = {"blocked": 0}
+
+
 def translate(text: str, src: str, dst: str) -> str | None:
     if not text:
         return None
     text = text[:4500]
     for attempt in range(2):
+        if GTX_STATE["blocked"] >= 3:   # Google ci limita: per questo giro si passa al ripiego
+            break
         try:
             out = _gtx(text, src, dst)
             if out:
                 REPORT["translate_ok"] += 1
+                GTX_STATE["blocked"] = 0
                 return out
         except Exception as e:  # la traduzione non deve mai bloccare il robot
             _note_error("gtx", f"{type(e).__name__} {e}")
+            if "429" in str(e):
+                GTX_STATE["blocked"] += 1
             time.sleep(2 + attempt * 3)
+    # ripiego: Claude Haiku, se la chiave è impostata
+    if os.environ.get("ANTHROPIC_API_KEY"):
+        out = sintesi.translate_text(text, src, dst)
+        if out:
+            REPORT["translate_ok"] += 1
+            REPORT["translate_claude"] = REPORT.get("translate_claude", 0) + 1
+            return out
     if GoogleTranslator is not None:
         try:
             out = GoogleTranslator(source="auto", target=GT_LANG.get(dst, dst)).translate(text)

@@ -148,6 +148,31 @@ def _call_llm(prompt: str) -> dict | None:
     raise LimitReached("modello non raggiungibile: " + LAST_ERROR.get("msg", ""))
 
 
+def translate_text(text: str, src: str, dst: str) -> str | None:
+    """Traduzione semplice (titolo + estratto) con Claude, usata quando Google non risponde."""
+    if not API_KEY:
+        return None
+    try:
+        r = requests.post(
+            API_URL,
+            headers={"x-api-key": API_KEY, "anthropic-version": "2023-06-01", "content-type": "application/json"},
+            json={"model": MODEL, "max_tokens": 800, "temperature": 0,
+                  "system": "You are a translator. Translate the user's text from "
+                            f"{LANG_NAMES.get(src, src)} to {LANG_NAMES.get(dst, dst)}. Keep line breaks. "
+                            "Output only the translation.",
+                  "messages": [{"role": "user", "content": text}]},
+            timeout=60,
+        )
+        if r.status_code != 200:
+            LAST_ERROR["msg"] = f"traduzione HTTP {r.status_code}: {r.text[:200]}"
+            return None
+        out = "".join(b.get("text", "") for b in r.json()["content"] if b.get("type") == "text").strip()
+        return out or None
+    except Exception as e:
+        LAST_ERROR["msg"] = f"traduzione: {type(e).__name__}"
+        return None
+
+
 def _valid(block) -> bool:
     return (isinstance(block, dict) and isinstance(block.get("title"), str) and block["title"].strip()
             and isinstance(block.get("paragraphs"), list)
