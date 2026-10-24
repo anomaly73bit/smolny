@@ -17,8 +17,8 @@
  "arbejderen": {
   "ok": true,
   "feed": "https://arbejderen.dk/feed",
-  "checked": "2026-10-24T11:18:31+00:00",
-  "last_ok": "2026-10-24T11:18:31+00:00",
+  "checked": "2026-10-24T16:05:48+00:00",
+  "last_ok": "2026-10-24T16:05:48+00:00",
   "count": 10
  },
  "avante": {
@@ -54,22 +54,22 @@
  "brasildefato": {
   "ok": true,
   "feed": "https://www.brasildefato.com.br/feed/",
-  "checked": "2026-10-24T11:18:32+00:00",
-  "last_ok": "2026-10-24T11:18:32+00:00",
+  "checked": "2026-10-24T16:05:49+00:00",
+  "last_ok": "2026-10-24T16:05:49+00:00",
   "count": 99
  },
  "contropiano": {
   "ok": true,
   "feed": "https://contropiano.org/feed",
-  "checked": "2026-10-24T11:18:24+00:00",
-  "last_ok": "2026-10-24T11:18:24+00:00",
+  "checked": "2026-10-24T16:05:46+00:00",
+  "last_ok": "2026-10-24T16:05:46+00:00",
   "count": 10
  },
  "cubadebate": {
   "ok": true,
   "feed": "http://www.cubadebate.cu/feed/",
-  "checked": "2026-10-24T11:18:26+00:00",
-  "last_ok": "2026-10-24T11:18:26+00:00",
+  "checked": "2026-10-24T16:05:47+00:00",
+  "last_ok": "2026-10-24T16:05:47+00:00",
   "count": 10
  },
  "elsiglo": {
@@ -90,16 +90,16 @@
  "fightback": {
   "ok": true,
   "feed": "https://fightbacknews.org/feed/",
-  "checked": "2026-10-24T11:18:25+00:00",
-  "last_ok": "2026-10-24T11:18:25+00:00",
+  "checked": "2026-10-24T16:05:46+00:00",
+  "last_ok": "2026-10-24T16:05:46+00:00",
   "count": 20
  },
  "granma": {
   "ok": true,
   "feed": "https://www.granma.cu/feed",
-  "checked": "2026-10-24T11:18:32+00:00",
-  "last_ok": "2026-10-24T11:18:32+00:00",
-  "count": 27
+  "checked": "2026-10-24T16:05:53+00:00",
+  "last_ok": "2026-10-24T16:05:53+00:00",
+  "count": 28
  },
  "guardian-cpa": {
   "ok": false,
@@ -149,15 +149,15 @@
  "humanite": {
   "ok": true,
   "feed": "https://www.humanite.fr/feed",
-  "checked": "2026-10-24T11:18:27+00:00",
-  "last_ok": "2026-10-24T11:18:27+00:00",
+  "checked": "2026-10-24T16:05:47+00:00",
+  "last_ok": "2026-10-24T16:05:47+00:00",
   "count": 20
  },
  "initiativecommuniste": {
   "ok": true,
   "feed": "https://www.initiative-communiste.fr/feed/",
-  "checked": "2026-10-24T11:18:29+00:00",
-  "last_ok": "2026-10-24T11:18:29+00:00",
+  "checked": "2026-10-24T16:05:49+00:00",
+  "last_ok": "2026-10-24T16:05:49+00:00",
   "count": 30
  },
  "jungewelt": {
@@ -208,8 +208,8 @@
  "kprf": {
   "ok": true,
   "feed": "https://kprf.ru/export/rss/first.xml",
-  "checked": "2026-10-24T11:18:31+00:00",
-  "last_ok": "2026-10-24T11:18:31+00:00",
+  "checked": "2026-10-24T16:05:49+00:00",
+  "last_ok": "2026-10-24T16:05:49+00:00",
   "count": 10
  },
  "lacittafutura": {
@@ -230,29 +230,37 @@
  "lariscossa": {
   "ok": true,
   "feed": "https://www.lariscossa.info/feed/",
-  "checked": "2026-10-24T11:18:25+00:00",
-  "last_ok": "2026-10-24T11:18:25+00:00",
+  "checked": "2026-10-24T16:05:46+00:00",
+  "last_ok": "2026-10-24T16:05:46+00:00",
   "count": 10
  },
  "liberationnews": {
   "ok": true,
   "feed": "https://www.liberationnews.org/feed/",
-  "checked": "2026-10-24T11:18:25+00:00",
-  "last_ok": "2026-10-24T11:18:25+00:00",
+  "checked": "2026-10-24T16:05:46+00:00",
+  "last_ok": "2026-10-24T16:05:46+00:00",
   "count": 25
  },
  "marx21": {
-  "ok": true,
+  "ok": false,
   "feed": "https://www.marx21.it/feed/",
-  "checked": "2026-10-24T11:18:25+00:00",
+  "checked": "2026-10-24T16:05:47+00:00",
   "last_ok": "2026-10-24T11:18:25+00:00",
-  "count": 12
+  "error": "nessun feed leggibile",
+  "homepage": "HTTP 415",
+  "tried": {
+   "https://www.marx21.it/feed/": "HTTP 415",
+   "https://www.marx21.it/feed": "HTTP 415",
+   "https://www.marx21.it/rss": "HTTP 415",
+   "https://www.marx21.it/rss.xml": "HTTP 415",
+   "https://www.marx21.it/feed.xml": "HTTP 415"
+  }
  },
  "morningstar": {
   "ok": true,
   "feed": "https://morningstaronline.co.uk/rss.xml",
-  "checked": "2026-10-24T11:18:23+00:00",
-  "last_ok": "2026-10-24T11:18:23+00:00",
+  "checked": "2026-10-24T16:05:45+00:00",
+  "last_ok": "2026-10-24T16:05:45+00:00",
   "count": 10
  },
  "mronline": {
@@ -273,36 +281,36 @@
  "mundoobrero": {
   "ok": true,
   "feed": "https://mundoobrero.es/feed/",
-  "checked": "2026-10-24T11:18:27+00:00",
-  "last_ok": "2026-10-24T11:18:27+00:00",
+  "checked": "2026-10-24T16:05:46+00:00",
+  "last_ok": "2026-10-24T16:05:46+00:00",
   "count": 10
  },
  "newsclick": {
   "ok": true,
   "feed": "https://www.newsclick.in/rss.xml",
-  "checked": "2026-10-24T11:18:32+00:00",
-  "last_ok": "2026-10-24T11:18:32+00:00",
+  "checked": "2026-10-24T16:05:49+00:00",
+  "last_ok": "2026-10-24T16:05:49+00:00",
   "count": 10
  },
  "nhandan": {
   "ok": true,
   "feed": "https://en.nhandan.vn/rss/home.rss",
-  "checked": "2026-10-24T11:18:33+00:00",
-  "last_ok": "2026-10-24T11:18:33+00:00",
+  "checked": "2026-10-24T16:05:50+00:00",
+  "last_ok": "2026-10-24T16:05:50+00:00",
   "count": 50
  },
  "nuevorumbo": {
   "ok": true,
   "feed": "https://www.nuevo-rumbo.es/feed/",
-  "checked": "2026-10-24T11:18:28+00:00",
-  "last_ok": "2026-10-24T11:18:28+00:00",
+  "checked": "2026-10-24T16:05:48+00:00",
+  "last_ok": "2026-10-24T16:05:48+00:00",
   "count": 10
  },
  "pcp": {
   "ok": true,
   "feed": "https://www.pcp.pt/rss.xml",
-  "checked": "2026-10-24T11:18:27+00:00",
-  "last_ok": "2026-10-24T11:18:27+00:00",
+  "checked": "2026-10-24T16:05:47+00:00",
+  "last_ok": "2026-10-24T16:05:47+00:00",
   "count": 10
  },
  "peoplesdaily": {
@@ -323,22 +331,22 @@
  "peoplesdemocracy": {
   "ok": true,
   "feed": "https://peoplesdemocracy.in/rss.xml",
-  "checked": "2026-10-24T11:18:32+00:00",
-  "last_ok": "2026-10-24T11:18:32+00:00",
+  "checked": "2026-10-24T16:05:49+00:00",
+  "last_ok": "2026-10-24T16:05:49+00:00",
   "count": 10
  },
  "peoplesdispatch": {
   "ok": true,
   "feed": "https://peoplesdispatch.org/feed/",
-  "checked": "2026-10-24T11:18:24+00:00",
-  "last_ok": "2026-10-24T11:18:24+00:00",
+  "checked": "2026-10-24T16:05:46+00:00",
+  "last_ok": "2026-10-24T16:05:46+00:00",
   "count": 12
  },
  "peoplesvoice": {
   "ok": true,
   "feed": "https://peoplesvoice.ca/feed/",
-  "checked": "2026-10-24T11:18:25+00:00",
-  "last_ok": "2026-10-24T11:18:25+00:00",
+  "checked": "2026-10-24T16:05:47+00:00",
+  "last_ok": "2026-10-24T16:05:47+00:00",
   "count": 10
  },
  "peoplesworld": {
@@ -374,15 +382,15 @@
  "proletaren": {
   "ok": true,
   "feed": "https://proletaren.se/feed/",
-  "checked": "2026-10-24T11:18:30+00:00",
-  "last_ok": "2026-10-24T11:18:30+00:00",
+  "checked": "2026-10-24T16:05:52+00:00",
+  "last_ok": "2026-10-24T16:05:52+00:00",
   "count": 10
  },
  "proletarian": {
   "ok": true,
   "feed": "https://thecommunists.org/feed/",
-  "checked": "2026-10-24T11:18:25+00:00",
-  "last_ok": "2026-10-24T11:18:25+00:00",
+  "checked": "2026-10-24T16:05:46+00:00",
+  "last_ok": "2026-10-24T16:05:46+00:00",
   "count": 10
  },
  "rfnews": {
@@ -403,22 +411,22 @@
  "rizospastis": {
   "ok": true,
   "feed": "https://www.rizospastis.gr/rssFeed.do?channel=Top",
-  "checked": "2026-10-24T11:18:26+00:00",
-  "last_ok": "2026-10-24T11:18:26+00:00",
+  "checked": "2026-10-24T16:05:47+00:00",
+  "last_ok": "2026-10-24T16:05:47+00:00",
   "count": 29
  },
  "semanariovoz": {
   "ok": true,
   "feed": "https://semanariovoz.com/feed/",
-  "checked": "2026-10-24T11:18:34+00:00",
-  "last_ok": "2026-10-24T11:18:34+00:00",
+  "checked": "2026-10-24T16:05:50+00:00",
+  "last_ok": "2026-10-24T16:05:50+00:00",
   "count": 10
  },
  "sol": {
   "ok": true,
   "feed": "https://haber.sol.org.tr/rss.xml",
-  "checked": "2026-10-24T11:18:31+00:00",
-  "last_ok": "2026-10-24T11:18:31+00:00",
+  "checked": "2026-10-24T16:05:48+00:00",
+  "last_ok": "2026-10-24T16:05:48+00:00",
   "count": 10
  },
  "solidaire": {
@@ -454,43 +462,43 @@
  "strugglelalucha": {
   "ok": true,
   "feed": "https://www.struggle-la-lucha.org/feed/",
-  "checked": "2026-10-24T11:18:25+00:00",
-  "last_ok": "2026-10-24T11:18:25+00:00",
+  "checked": "2026-10-24T16:05:46+00:00",
+  "last_ok": "2026-10-24T16:05:46+00:00",
   "count": 10
  },
  "tricontinental": {
   "ok": true,
   "feed": "https://thetricontinental.org/feed/",
-  "checked": "2026-10-24T11:18:24+00:00",
-  "last_ok": "2026-10-24T11:18:24+00:00",
+  "checked": "2026-10-24T16:05:45+00:00",
+  "last_ok": "2026-10-24T16:05:45+00:00",
   "count": 10
  },
  "unserezeit": {
   "ok": true,
   "feed": "https://www.unsere-zeit.de/feed/",
-  "checked": "2026-10-24T11:18:28+00:00",
-  "last_ok": "2026-10-24T11:18:28+00:00",
+  "checked": "2026-10-24T16:05:48+00:00",
+  "last_ok": "2026-10-24T16:05:48+00:00",
   "count": 30
  },
  "vermelho": {
   "ok": true,
   "feed": "https://vermelho.org.br/feed/",
-  "checked": "2026-10-24T11:18:34+00:00",
-  "last_ok": "2026-10-24T11:18:34+00:00",
+  "checked": "2026-10-24T16:05:50+00:00",
+  "last_ok": "2026-10-24T16:05:50+00:00",
   "count": 10
  },
  "workersworld": {
   "ok": true,
   "feed": "https://www.workers.org/feed/",
-  "checked": "2026-10-24T11:18:25+00:00",
-  "last_ok": "2026-10-24T11:18:25+00:00",
+  "checked": "2026-10-24T16:05:46+00:00",
+  "last_ok": "2026-10-24T16:05:46+00:00",
   "count": 10
  },
  "zeitungderarbeit": {
   "ok": true,
   "feed": "https://zeitungderarbeit.at/feed/",
-  "checked": "2026-10-24T11:18:30+00:00",
-  "last_ok": "2026-10-24T11:18:30+00:00",
+  "checked": "2026-10-24T16:05:49+00:00",
+  "last_ok": "2026-10-24T16:05:49+00:00",
   "count": 10
  }
 }
