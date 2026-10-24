@@ -1,7 +1,1007 @@
 {
- "updated": "2026-10-23T21:32:31+00:00",
+ "updated": "2026-10-24T04:49:34+00:00",
  "count": 500,
  "items": [
+  {
+   "id": "03b15ab424d03d77",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/fon-vurgununu-boyle-de-kapatiyorlar-5-milyar-verdiler-tedbiri-kaldirdilar-415339",
+   "date": "2026-10-24T04:39:22+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/24/fg.webp?itok=Knp1kpw5",
+   "title": {
+    "orig": "Fon vurgununu böyle de kapatıyorlar: 5 milyar verdiler, tedbiri kaldırdılar",
+    "it": "Così coprono la frode dei fondi: hanno dato 5 miliardi, hanno tolto la misura",
+    "en": "This is how they cover up the fund fraud: They gave 5 billion, lifted the measure"
+   },
+   "summary": {
+    "orig": "Haber Merkezi Astor Enerji AŞ patronları Enver Geçgel ve Feridun Geçgel'in, İstanbul'da yürütülen fon soruşturmaları kapsamında mal varlıkları üzerindeki tedbir kararları kaldırıldı. Geçgel kardeşlerin, TMSF'nin gönüllü iade hesabına 5 milyar lira ödeme yaptığı açıklandı. AKP'yi…",
+    "it": "News Center The injunction orders on the assets of Astor Enerji AŞ bosses Enver Geçgel and Feridun Geçgel were lifted within the scope of the fund investigations carried out in Istanbul. È stato annunciato che i fratelli Geçgel hanno versato 5 miliardi di lire sul conto di rimborso volontario della SDIF. AKP...",
+    "en": "News Center The injunction orders on the assets of Astor Enerji AŞ bosses Enver Geçgel and Feridun Geçgel were lifted within the scope of the fund investigations carried out in Istanbul. It was announced that the Geçgel brothers paid 5 billion lira to SDIF's voluntary refund account. AKP…"
+   }
+  },
+  {
+   "id": "a2f40aa822de5df8",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/especiales/2026/10/24/los-escritores-chilenos-no-debemos-mostrarnos-indiferentes-ante-el-sufrimiento-y-la-grave-situacion-de-cuba/",
+   "date": "2026-10-24T04:30:41+00:00",
+   "image": null,
+   "title": {
+    "orig": "Los escritores chilenos no debemos mostrarnos indiferentes ante el sufrimiento y la grave situación de Cuba",
+    "it": "Gli scrittori cileni non devono restare indifferenti alla grave e sofferente situazione di Cuba.",
+    "en": "Chilean writers should not be indifferent to the suffering and serious situation in Cuba."
+   },
+   "summary": {
+    "orig": "En Cuba hay una muy alta moral y conciencia revolucionaria de todo su pueblo. La ruptura de relaciones con Cuba significa una provocación más de los estadounidenses, que quieren aislarla y que otros países de América –con sus gobiernos impuestos y títeres– hagan lo mismo.…",
+    "it": "A Cuba c’è un morale molto alto e una coscienza rivoluzionaria in tutto il suo popolo. La rottura delle relazioni con Cuba significa un’altra provocazione da parte degli americani, che vogliono isolarla e che altri paesi in America – con i loro governi imposti e fantoccio – facciano lo stesso…",
+    "en": "In Cuba there is a very high morale and revolutionary consciousness of all its people. The breaking of relations with Cuba means one more provocation from the Americans, who want to isolate it and have other countries in America – with their imposed and puppet governments – do the same.…"
+   }
+  },
+  {
+   "id": "bb2be1a5b0b36c16",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/vie-quotidienne/consommation/argent-le-cash-est-il-en-voie-de-disparition",
+   "date": "2026-10-24T04:30:00+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/iStock-121306620.jpg?w=1200",
+   "title": {
+    "orig": "Argent : le cash est-il en voie de disparition ?",
+    "it": "Soldi: i contanti stanno scomparendo?",
+    "en": "Money: is cash on its way out?"
+   },
+   "summary": {
+    "orig": "Même si les consommateurs français payent de plus en plus leurs achats quotidiens par carte bancaire ou mobile, ils restent attachés à la possibilité de régler en liquide. Dans toute l’Europe, les commerçants sont tenus de l’accepter.",
+    "it": "Anche se i consumatori francesi pagano sempre più spesso i loro acquisti quotidiani con carta bancaria o cellulare, restano attaccati alla possibilità di pagare in contanti. In tutta Europa, i commercianti sono tenuti ad accettarlo.",
+    "en": "Even if French consumers increasingly pay for their daily purchases by bank card or mobile, they remain attached to the possibility of paying in cash. Across Europe, traders are required to accept it."
+   }
+  },
+  {
+   "id": "8871ddfec7515aa6",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/politique/editorial/la-reponse-ne-peut-etre-que-politique",
+   "date": "2026-10-24T04:30:00+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2024/02/Vignette_2024_editorial_fabien.png?w=1200",
+   "title": {
+    "orig": "La réponse ne peut être que politique",
+    "it": "La risposta non può che essere politica",
+    "en": "The answer can only be political"
+   },
+   "summary": {
+    "orig": "La période nous invite à garder notre sang-froid et à ne pas surréagir aux images passées en boucle sur les chaînes d’information en continu. La colère qui traverse le pays n’est ni neuve ni surprenante. Elle est la conséquence de presque dix ans de macronisme, dont les…",
+    "it": "Il periodo ci invita a mantenere la calma e a non reagire in modo eccessivo alle immagini trasmesse in loop sui canali di notizie continue. La rabbia che sta dilagando in tutto il paese non è né nuova né sorprendente. È la conseguenza di quasi dieci anni di macronismo, di cui…",
+    "en": "The period invites us to keep our cool and not overreact to the images looped on continuous news channels. The anger sweeping across the country is neither new nor surprising. It is the consequence of almost ten years of macronism, of which…"
+   }
+  },
+  {
+   "id": "5013abfeb999fcdf",
+   "source": "zeitungderarbeit",
+   "name": "Zeitung der Arbeit",
+   "country": "AT",
+   "lang": "de",
+   "url": "https://zeitungderarbeit.at/klassenkampf/hafenarbeiter-auf-der-ganzen-welt-bereiten-am-30-oktober-einen-streik-gegen-imperialistische-kriege-vor/",
+   "date": "2026-10-24T04:30:00+00:00",
+   "image": null,
+   "title": {
+    "orig": "Hafenarbeiter auf der ganzen Welt bereiten am 30. Oktober einen Streik gegen imperialistische Kriege vor",
+    "it": "I lavoratori portuali di tutto il mondo si preparano a scioperare contro le guerre imperialiste il 30 ottobre",
+    "en": "Dock workers around the world are preparing to strike against imperialist wars on October 30th"
+   },
+   "summary": {
+    "orig": "Hafenarbeiter in ganz Europa, Asien, Afrika und Amerika bereiten sich auf einen koordinierten internationalen Streik und Mobilisierungen am 30. Oktober vor, um eine kraftvolle Botschaft gegen imperialistische Kriege, Militarisierung und kapitalistische Ausbeutung zu senden…",
+    "it": "I lavoratori portuali di Europa, Asia, Africa e Americhe si stanno preparando per uno sciopero e mobilitazioni internazionali coordinati il 30 ottobre per inviare un messaggio potente contro le guerre imperialiste, la militarizzazione e lo sfruttamento capitalista...",
+    "en": "Dock workers across Europe, Asia, Africa and the Americas are preparing for a coordinated international strike and mobilizations on October 30 to send a powerful message against imperialist wars, militarization and capitalist exploitation..."
+   }
+  },
+  {
+   "id": "1952e7ee7e53433f",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/24/lula-leva-vantagem-sobre-flavio-em-debate-da-globo-mas-eleicao-segue-aberta-e-mobilizacao-popular-pode-decidir-avaliam-analistas/",
+   "date": "2026-10-24T04:26:09+00:00",
+   "image": null,
+   "title": {
+    "orig": "Lula leva vantagem sobre Flávio em debate da Globo, mas eleição segue aberta e mobilização popular pode decidir, avaliam analistas",
+    "it": "Lula è in vantaggio su Flávio nel dibattito Globo, ma le elezioni restano aperte e la mobilitazione popolare può decidere, dicono gli analisti",
+    "en": "Lula has an advantage over Flávio in a Globo debate, but the election remains open and popular mobilization can decide, analysts say"
+   },
+   "summary": {
+    "orig": "O presidente Luiz Inácio Lula da Silva (PT) se saiu melhor que o senador Flávio Bolsonaro (PL) no último debate antes do segundo turno, realizado pela TV Globo nesta sexta-feira (23), mas o confronto deve pesar mais na mobilização do eleitorado do que na mudança de votos. A…",
+    "it": "Il presidente Luiz Inácio Lula da Silva (PT) ha fatto meglio del senatore Flávio Bolsonaro (PL) nell'ultimo dibattito prima del secondo turno, organizzato da TV Globo questo venerdì (23), ma il confronto dovrebbe pesare più sulla mobilitazione dell'elettorato che sul cambiamento dei voti. IL…",
+    "en": "President Luiz Inácio Lula da Silva (PT) did better than senator Flávio Bolsonaro (PL) in the last debate before the second round, held by TV Globo this Friday (23), but the confrontation should weigh more on mobilizing the electorate than on changing votes. THE…"
+   }
+  },
+  {
+   "id": "a2f6b06ecef81c03",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/opinion/2026/10/24/quien-le-teme-a-steve-bannon-guerra-cognitiva-y-deyecciones-ideologicas-imperiales/",
+   "date": "2026-10-24T04:08:58+00:00",
+   "image": null,
+   "title": {
+    "orig": "¿Quién le teme a Steve Bannon? Guerra cognitiva y deyecciones ideológicas imperiales",
+    "it": "Chi ha paura di Steve Bannon? Guerra cognitiva e sconforto ideologico imperiale",
+    "en": "Who's afraid of Steve Bannon? Cognitive warfare and imperial ideological dejections"
+   },
+   "summary": {
+    "orig": "¿Qué sucede con una sociedad cuando la degradación del lenguaje se convierte en método de intervención política, cuando la obscenidad adquiere estatuto de franqueza, cuando la crueldad pretende hacerse pasar por lucidez y cuando la demolición de los vínculos humanos se publicita…",
+    "it": "Cosa succede a una società quando la degradazione del linguaggio diventa metodo di intervento politico, quando l’oscenità acquista lo status di franchezza, quando la crudeltà cerca di spacciarsi per lucidità e quando viene pubblicizzata la demolizione dei legami umani…",
+    "en": "What happens to a society when the degradation of language becomes a method of political intervention, when obscenity acquires the status of frankness, when cruelty tries to pass itself off as lucidity and when the demolition of human ties is publicized..."
+   }
+  },
+  {
+   "id": "030df96cb521e3bc",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/opinion/2026/10/23/superavit-municipal-claves-para-transformar-la-economia-desde-lo-endogeno/",
+   "date": "2026-10-24T03:53:14+00:00",
+   "image": null,
+   "title": {
+    "orig": "Superávit municipal: claves para transformar la economía desde lo endógeno",
+    "it": "Surplus comunale: chiavi per trasformare l’economia da prospettive endogene",
+    "en": "Municipal surplus: keys to transforming the economy from endogenous perspectives"
+   },
+   "summary": {
+    "orig": "Durante décadas, las provincias y sus territorios —al decir de Buena Fe, “como pichones cuando abren el pico”— han vivido del presupuesto del Estado y, por lo general, gastan más de lo que producen. Las transformaciones económicas y sociales que impulsa el país van dirigidas a…",
+    "it": "Per decenni, le province e i loro territori – secondo le parole di Buena Fe, “come piccioni quando aprono il becco” – hanno vissuto del bilancio dello Stato e, in generale, spendono più di quanto producono. Le trasformazioni economiche e sociali promosse dal Paese sono finalizzate a…",
+    "en": "For decades, the provinces and their territories—in the words of Buena Fe, “like pigeons when they open their beaks”—have lived off the State budget and, in general, spend more than they produce. The economic and social transformations promoted by the country are aimed at…"
+   }
+  },
+  {
+   "id": "0eaa56972515d189",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/noticias/2026/10/23/eeuu-se-apea-con-reclutamientos-publicos-de-la-cia-debe-haber-mucho-desespero-asegura-fernandez-de-cossio/",
+   "date": "2026-10-24T03:45:28+00:00",
+   "image": null,
+   "title": {
+    "orig": "EEUU se apea con reclutamientos públicos de la CIA, debe haber mucho desespero, asegura Fernández de Cossío",
+    "it": "Gli Stati Uniti se la cavano con i reclutamenti pubblici della CIA, ci deve essere molta disperazione, dice Fernández de Cossío",
+    "en": "The US is getting off with public CIA recruitments, there must be a lot of desperation, says Fernández de Cossío"
+   },
+   "summary": {
+    "orig": "El viceministro de Relaciones Exteriores de Cuba, Carlos Fernández de Cossío, criticó el mensaje del secretario de Estado, Marco Rubio, que instó a quienes buscan un cambio en Cuba a establecer una colaboración discreta con la CIA. “Ahora EEUU se apea con reclutamientos públicos…",
+    "it": "Il Vice Ministro delle Relazioni Estere di Cuba, Carlos Fernández de Cossío, ha criticato il messaggio del Segretario di Stato, Marco Rubio, che esortava coloro che cercano il cambiamento a Cuba a stabilire una collaborazione discreta con la CIA. “Ora gli Stati Uniti stanno facendo marcia indietro con il reclutamento pubblico…",
+    "en": "The Vice Minister of Foreign Affairs of Cuba, Carlos Fernández de Cossío, criticized the message of the Secretary of State, Marco Rubio, who urged those seeking change in Cuba to establish discreet collaboration with the CIA. “Now the US is backing down with public recruitment…"
+   }
+  },
+  {
+   "id": "0acf4f7f20ed07dd",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/noticias/2026/10/23/explotan-dos-superpetroleros-con-45-millones-de-barriles-al-sur-de-ormuz/",
+   "date": "2026-10-24T03:42:04+00:00",
+   "image": null,
+   "title": {
+    "orig": "Explotan dos superpetroleros con 4,5 millones de barriles al sur de Ormuz",
+    "it": "Due superpetroliere con 4,5 milioni di barili esplodono a sud di Hormuz",
+    "en": "Two supertankers with 4.5 million barrels explode south of Hormuz"
+   },
+   "summary": {
+    "orig": "Dos superpetroleros explotaron al chocar con minas marinas en la parte sur del estrecho de Ormuz, informó el Cuerpo de la Guardia Revolucionaria Islámica (CGRI) de Irán, que precisó que las embarcaciones transportaban más de 4,5 millones de barriles de petróleo crudo. Las…",
+    "it": "Due superpetroliere sono esplose quando si sono scontrate con mine marine nella parte meridionale dello Stretto di Hormuz, ha riferito il Corpo delle Guardie rivoluzionarie islamiche iraniane (IRGC), secondo cui le navi trasportavano più di 4,5 milioni di barili di petrolio greggio. IL…",
+    "en": "Two supertankers exploded when they collided with sea mines in the southern part of the Strait of Hormuz, reported Iran's Islamic Revolutionary Guard Corps (IRGC), which said the vessels were carrying more than 4.5 million barrels of crude oil. The…"
+   }
+  },
+  {
+   "id": "2f1b330716796e9e",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/24/flavio-mente-sobre-precos-e-omite-disparada-dos-alimentos-sob-bolsonaro/?utm_source=rss&utm_medium=rss&utm_campaign=flavio-mente-sobre-precos-e-omite-disparada-dos-alimentos-sob-bolsonaro",
+   "date": "2026-10-24T03:12:27+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/5550304609831ae0951dbo-1080x720-1-77ae1f58-1024x683.webp",
+   "title": {
+    "orig": "Flávio mente sobre preços e omite disparada dos alimentos sob Bolsonaro",
+    "it": "Flávio mente sui prezzi e omette l’aumento dei prezzi dei prodotti alimentari sotto Bolsonaro",
+    "en": "Flávio lies about prices and omits the rise in food prices under Bolsonaro"
+   },
+   "summary": {
+    "orig": "No debate da Globo, senador atacou Lula pelo custo da comida, mas inflação dos alimentos foi quase três vezes maior nos primeiros 44 meses do governo de seu pai",
+    "it": "Nel dibattito su Globo il senatore ha attaccato Lula per il costo del cibo, ma l'inflazione alimentare è stata quasi tre volte più alta nei primi 44 mesi di governo di suo padre",
+    "en": "In the Globo debate, the senator attacked Lula for the cost of food, but food inflation was almost three times higher in the first 44 months of his father's government"
+   }
+  },
+  {
+   "id": "c8e614d0fe3ad6ef",
+   "source": "arbejderen",
+   "name": "Arbejderen",
+   "country": "DK",
+   "lang": "da",
+   "url": "https://arbejderen.dk/debat/fjernvarme-er-bedst-frem-for-el/",
+   "date": "2026-10-24T03:00:00+00:00",
+   "image": null,
+   "title": {
+    "orig": "Fjernvarme er bedst – frem for el",
+    "it": "La soluzione migliore è il teleriscaldamento, piuttosto che l’elettricità",
+    "en": "District heating is best – rather than electricity"
+   },
+   "summary": {
+    "orig": "For fem år siden gav Mette Frederiksen kommunerne besked på, at alle borgere skulle have besked om, at de kunne få fjernvarme inden seks måneder. I Hillerød Forsyning stod vi på hovedet for at lave planer, og vi tog rundt i forsamlingshuse og skoler for at fortælle om…",
+    "it": "Cinque anni fa Mette Frederiksen ha comunicato ai comuni che tutti i cittadini dovevano essere informati che avrebbero potuto ottenere il teleriscaldamento entro sei mesi. A Hillerød Forsyning ci siamo impegnati a fare progetti e siamo andati in giro per centri comunitari e scuole per parlare di...",
+    "en": "Five years ago, Mette Frederiksen notified the municipalities that all citizens should be notified that they could get district heating within six months. In Hillerød Forsyning, we stood on our heads to make plans, and we went around community centers and schools to talk about..."
+   }
+  },
+  {
+   "id": "6c199f42f69d2c4f",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/noticias/2026/10/23/instituto-de-meteorologia-desmiente-falsa-informacion-sobre-una-fase-informativa-para-las-provincias-orientales/",
+   "date": "2026-10-24T02:56:52+00:00",
+   "image": null,
+   "title": {
+    "orig": "Instituto de Meteorología desmiente falsa información sobre una Fase Informativa para las provincias orientales",
+    "it": "L'Istituto di Meteorologia smentisce le false informazioni su una fase informativa per le province orientali",
+    "en": "Institute of Meteorology denies false information about an Information Phase for the eastern provinces"
+   },
+   "summary": {
+    "orig": "El Instituto de Meteorología de Cuba desmintió hoy una información que circula en las redes sociales sobre el supuesto decreto de una Fase Informativa de la Defensa Civil para las provincias orientales del país. La institución aclaró que no hay ninguna fase decretada por el…",
+    "it": "L'Istituto Cubano di Meteorologia ha smentito oggi le informazioni che circolano nelle reti sociali sul presunto decreto di una Fase Informativa della Protezione Civile per le province orientali del paese. L'istituzione ha chiarito che non esiste alcuna fase decretata dal…",
+    "en": "The Cuban Institute of Meteorology today denied information circulating on social networks about the alleged decree of an Information Phase of the Civil Defense for the eastern provinces of the country. The institution clarified that there is no phase decreed by the…"
+   }
+  },
+  {
+   "id": "5387ad2f4289ea51",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/23/lula-encurrala-flavio-com-caso-ana-clara-e-expoe-lacos-com-milicias/?utm_source=rss&utm_medium=rss&utm_campaign=lula-encurrala-flavio-com-caso-ana-clara-e-expoe-lacos-com-milicias",
+   "date": "2026-10-24T02:56:43+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/Imagem-limpa-1024x666.png",
+   "title": {
+    "orig": "Lula encurrala Flávio com caso Ana Clara e expõe laços com milícias",
+    "it": "Lula mette all'angolo Flávio con il caso Ana Clara e denuncia i legami con le milizie",
+    "en": "Lula corners Flávio with the Ana Clara case and exposes ties with militias"
+   },
+   "summary": {
+    "orig": "Presidente cobra explicações sobre defesa de policial acusado de matar criança e revela alianças da família Bolsonaro com o crime organizado no RJ",
+    "it": "Il presidente chiede spiegazioni sulla difesa di un agente di polizia accusato di aver ucciso un bambino e rivela le alleanze della famiglia Bolsonaro con la criminalità organizzata in RJ",
+    "en": "President demands explanations on the defense of a police officer accused of killing a child and reveals the Bolsonaro family's alliances with organized crime in RJ"
+   }
+  },
+  {
+   "id": "7a3a250b5fb85347",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/noticias/2026/10/23/cuba-vence-a-mexico-en-extrainnings-y-mantiene-vivas-sus-opciones-en-el-panamericano-sub-18-de-beisbol/",
+   "date": "2026-10-24T02:54:00+00:00",
+   "image": null,
+   "title": {
+    "orig": "Cuba vence a México en extrainnings y mantiene vivas sus opciones en el Panamericano Sub-18 de béisbol",
+    "it": "Cuba batte il Messico negli inning extra e mantiene vive le sue opzioni nel torneo di baseball panamericano U-18",
+    "en": "Cuba beats Mexico in extra innings and keeps its options alive in the U-18 Pan American baseball tournament"
+   },
+   "summary": {
+    "orig": "La selección cubana derrotó hoy 5-4 a su similar de México en extrainnings, y mantuvo posibilidades de avanzar, por el grupo B, a la fase de Súper Ronda del Campeonato Panamericano de Beisbol Sub-18, que se disputa en República Dominicana. Cuba enfrentará este sábado a…",
+    "it": "La squadra cubana ha sconfitto oggi la squadra messicana 5-4 negli inning supplementari, e ha mantenuto le sue possibilità di avanzare, attraverso il gruppo B, alla fase Super Round del Campionato Panamericano U-18 di baseball, che si disputa nella Repubblica Dominicana. Cuba affronterà questo sabato...",
+    "en": "The Cuban team defeated its Mexican team today 5-4 in extra innings, and maintained its chances of advancing, through group B, to the Super Round phase of the Pan American U-18 Baseball Championship, which is held in the Dominican Republic. Cuba will face this Saturday…"
+   }
+  },
+  {
+   "id": "c71b52be731769dc",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/23/flavio-bolsonaro-volta-a-defender-pm-acusado-de-assassinar-ana-clara-diante-da-mae-da-menina-em-debate-na-globo/",
+   "date": "2026-10-24T02:50:12+00:00",
+   "image": null,
+   "title": {
+    "orig": "Flávio Bolsonaro volta a defender PM acusado de assassinar Ana Clara diante da mãe da menina em debate na Globo",
+    "it": "Flávio Bolsonaro torna a difendere il primo ministro accusato dell'omicidio di Ana Clara davanti alla madre della ragazza nel dibattito su Globo",
+    "en": "Flávio Bolsonaro returns to defend PM accused of murdering Ana Clara in front of the girl's mother in debate on Globo"
+   },
+   "summary": {
+    "orig": "\"O que leva um senador a defender um policial que deu um tiro de fuzil em uma menina?\", perguntou Lula Fonte",
+    "it": "\"Cosa spinge un senatore a difendere un poliziotto che ha sparato ad una ragazza con un fucile?\" - chiese Lula Fonte",
+    "en": "\"What leads a senator to defend a police officer who shot a girl with a rifle?\" asked Lula Fonte"
+   }
+  },
+  {
+   "id": "b9e19a86a5d0705f",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/23/lula-defende-sus-e-cobra-flavio-sobre-indicado-e-cortes-no-sistema-de-saude/?utm_source=rss&utm_medium=rss&utm_campaign=lula-defende-sus-e-cobra-flavio-sobre-indicado-e-cortes-no-sistema-de-saude",
+   "date": "2026-10-24T02:49:17+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-23.48.54.jpeg",
+   "title": {
+    "orig": "Lula defende SUS e cobra Flávio sobre indicado e cortes no sistema de saúde",
+    "it": "Lula difende il SUS e chiama Flávio contro il candidato e i tagli alla sanità",
+    "en": "Lula defends SUS and calls Flávio against the nominee and cuts in the health system"
+   },
+   "summary": {
+    "orig": "Lottenberg condicionou novos recursos à revisão do orçamento; no debate, Lula defendeu o SUS e cobrou explicações sobre o ajuste fiscal de R$ 200 bilhões da equipe de Flávio",
+    "it": "Lottenberg ha condizionato le nuove risorse alla revisione del bilancio; Nel dibattito, Lula ha difeso il SUS e ha chiesto spiegazioni alla squadra di Flávio sull'aggiustamento fiscale di 200 miliardi di R$",
+    "en": "Lottenberg conditioned new resources on the budget review; In the debate, Lula defended the SUS and demanded explanations about the fiscal adjustment of R$ 200 billion from Flávio's team"
+   }
+  },
+  {
+   "id": "7237821e797f2f6f",
+   "source": "workersworld",
+   "name": "Workers World",
+   "country": "US",
+   "lang": "en",
+   "url": "https://www.workers.org/2026/10/95557/?utm_source=rss&utm_medium=rss&utm_campaign=pax-silica-war-profiteering-enters-the-age-of-ai",
+   "date": "2026-10-24T02:45:26+00:00",
+   "image": "https://www.workers.org/wp-content/uploads/Pax-Silica-protest-Manila-8-13-2026-678x381.png",
+   "title": {
+    "orig": "Pax Silica: War profiteering enters the age of AI",
+    "it": "Pax Silica: il profitto di guerra entra nell’era dell’intelligenza artificiale",
+    "en": "Pax Silica: War profiteering enters the age of AI"
+   },
+   "summary": {
+    "orig": "War is the most profitable product U.S. capitalism produces. The profits are guaranteed. Philippine people protest Pax Silica, Manila, Aug. 13, 2026. This simple truth explains every escalation in Washington’s new cold war against China. Follow the money. The Pentagon budget …",
+    "it": "La guerra è il prodotto più redditizio che il capitalismo americano produce. I profitti sono garantiti. Il popolo filippino protesta contro Pax Silica, Manila, 13 agosto 2026. Questa semplice verità spiega ogni escalation nella nuova guerra fredda di Washington contro la Cina. Segui i soldi. Il bilancio del Pentagono...",
+    "en": "War is the most profitable product U.S. capitalism produces. The profits are guaranteed. Philippine people protest Pax Silica, Manila, Aug. 13, 2026. This simple truth explains every escalation in Washington’s new cold war against China. Follow the money. The Pentagon budget …"
+   }
+  },
+  {
+   "id": "be49b6f653bd1548",
+   "source": "workersworld",
+   "name": "Workers World",
+   "country": "US",
+   "lang": "en",
+   "url": "https://www.workers.org/2026/10/95550/?utm_source=rss&utm_medium=rss&utm_campaign=mobilization4mumia-solidarity-statement-with-french-youth",
+   "date": "2026-10-24T02:32:38+00:00",
+   "image": "https://www.workers.org/wp-content/uploads/Black-high-school-student-walkout-in-Philadelphia-in-November-1967-646x509.jpeg",
+   "title": {
+    "orig": "Mobilization4Mumia solidarity statement with French youth",
+    "it": "Dichiarazione di solidarietà di Mobilization4Mumia con i giovani francesi",
+    "en": "Mobilization4Mumia solidarity statement with French youth"
+   },
+   "summary": {
+    "orig": "The following solidarity statement from the International Mobilization4Mumia was sent to the students in St. Denis, France, on October 16. Black high school student walkout in Philadelphia in November 1967. (Special Collections Research Center, Temple University Libraries) The…",
+    "it": "La seguente dichiarazione di solidarietà della Mobilitazione Internazionale4Mumia è stata inviata agli studenti di St. Denis, in Francia, il 16 ottobre. Sciopero degli studenti neri delle scuole superiori a Filadelfia nel novembre 1967. (Centro di ricerca sulle collezioni speciali, biblioteche della Temple University) Il...",
+    "en": "The following solidarity statement from the International Mobilization4Mumia was sent to the students in St. Denis, France, on October 16. Black high school student walkout in Philadelphia in November 1967. (Special Collections Research Center, Temple University Libraries) The…"
+   }
+  },
+  {
+   "id": "0ab0a530c39e67a3",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/the-way-forward-for-viet-nams-semiconductor-industry-post168144.html",
+   "date": "2026-10-24T02:20:17+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/N9W5ohHofJ8bPrJRah_RD7RHrlZXtwDoKEP-inGfIXMJs5P-Jv4u3GMlBF967pmS/bs-thaco.jpg.avif",
+   "title": {
+    "orig": "The way forward for Viet Nam’s semiconductor industry",
+    "it": "La via da seguire per l’industria dei semiconduttori del Vietnam",
+    "en": "The way forward for Viet Nam’s semiconductor industry"
+   },
+   "summary": {
+    "orig": "Which products should be prioritised, which parts of the value chain should Viet Nam master, and who will buy Vietnamese chips? These are the questions that must be addressed to develop semiconductor products linked to market demand, enhance technological capabilities, and…",
+    "it": "A quali prodotti dovrebbe essere data la priorità, quali parti della catena del valore il Vietnam dovrebbe padroneggiare e chi acquisterà le patatine vietnamite? Queste sono le domande che devono essere affrontate per sviluppare prodotti a semiconduttori legati alla domanda del mercato, migliorare le capacità tecnologiche e...",
+    "en": "Which products should be prioritised, which parts of the value chain should Viet Nam master, and who will buy Vietnamese chips? These are the questions that must be addressed to develop semiconductor products linked to market demand, enhance technological capabilities, and…"
+   }
+  },
+  {
+   "id": "915c9cddae63a2b1",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/23/flavio-mente-sobre-transposicao-do-sao-francisco-ao-dizer-que-bolsonaro-fez-chegar-agua-ate-o-nordeste/",
+   "date": "2026-10-24T02:18:20+00:00",
+   "image": null,
+   "title": {
+    "orig": "Flávio mente sobre transposição do São Francisco ao dizer que Bolsonaro ‘fez chegar água até o Nordeste’",
+    "it": "Flávio mente sulla trasposizione della São Francisco quando dice che Bolsonaro “ha portato l’acqua al Nordest”",
+    "en": "Flávio lies about the transposition of the São Francisco when he says that Bolsonaro ‘brought water to the Northeast’"
+   },
+   "summary": {
+    "orig": "Desafiado pelo presidente Luiz Inácio Lula da Silva (PT) a citar uma obra feita pelo governo bolsonarista no Nordeste, o senador Flávio Bolsonaro (PL) atribuiu ao pai, o ex-presidente Jair Bolsonaro, a transposição do Rio São Francisco e disse que ele “fez finalmente chegar água…",
+    "it": "Sfidato dal presidente Luiz Inácio Lula da Silva (PT) a citare un lavoro svolto dal governo Bolsonaro nel Nordest, il senatore Flávio Bolsonaro (PL) ha attribuito la trasposizione del fiume São Francisco a suo padre, l'ex presidente Jair Bolsonaro, e ha affermato che \"finalmente ha portato l'acqua...",
+    "en": "Challenged by President Luiz Inácio Lula da Silva (PT) to cite a work carried out by the Bolsonaro government in the Northeast, Senator Flávio Bolsonaro (PL) attributed the transposition of the São Francisco River to his father, former President Jair Bolsonaro, and said that he “finally brought water..."
+   }
+  },
+  {
+   "id": "81f553bf39bbdf21",
+   "source": "workersworld",
+   "name": "Workers World",
+   "country": "US",
+   "lang": "en",
+   "url": "https://www.workers.org/2026/10/95547/?utm_source=rss&utm_medium=rss&utm_campaign=brazil-lula-and-flavio-bolsonaro-in-a-dead-heat-days-before-runoff",
+   "date": "2026-10-24T02:09:55+00:00",
+   "image": "https://www.workers.org/wp-content/uploads/10-4-lula-rio-janeiro-2oct2026-2-678x377.webp",
+   "title": {
+    "orig": "Brazil: Lula and Flávio Bolsonaro in a dead heat days before runoff",
+    "it": "Brasile: Lula e Flávio Bolsonaro in parità pochi giorni prima del ballottaggio",
+    "en": "Brazil: Lula and Flávio Bolsonaro in a dead heat days before runoff"
+   },
+   "summary": {
+    "orig": "Brazil, which with 214 million people has nearly half the population and area of all of South America — it’s more than 3 million square miles — will hold runoff elections for president Oct. 25. The first round resulted in the right-wing parties taking a majority in parliament…",
+    "it": "Il Brasile, che con 214 milioni di abitanti ha quasi la metà della popolazione e della superficie di tutto il Sud America – è più di 3 milioni di miglia quadrate – terrà le elezioni di ballottaggio per la presidenza il 25 ottobre. Il primo turno ha portato i partiti di destra a prendere la maggioranza in parlamento…",
+    "en": "Brazil, which with 214 million people has nearly half the population and area of all of South America — it’s more than 3 million square miles — will hold runoff elections for president Oct. 25. The first round resulted in the right-wing parties taking a majority in parliament…"
+   }
+  },
+  {
+   "id": "1717c11d15829806",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/23/lula-desmascara-flavio-ao-mostrar-que-salario-minimo-seria-r-900-sem-reajuste-real/?utm_source=rss&utm_medium=rss&utm_campaign=lula-desmascara-flavio-ao-mostrar-que-salario-minimo-seria-r-900-sem-reajuste-real",
+   "date": "2026-10-24T02:03:20+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/Imagem-limpa-nitida-1024x666.png",
+   "title": {
+    "orig": "Lula desmascara Flávio ao mostrar que salário mínimo seria R$ 900 sem reajuste real",
+    "it": "Lula smaschera Flávio mostrando che il salario minimo sarebbe di 900 R$ senza un reale aggiustamento",
+    "en": "Lula unmasks Flávio by showing that the minimum wage would be R$900 without a real adjustment"
+   },
+   "summary": {
+    "orig": "Flávio fugiu de perguntas sobre reajuste real, enquanto Lula reafirmou o compromisso com a valorização da renda e expôs o \"tesouraço\" da extrema direita",
+    "it": "Flávio ha evitato domande sul reale aggiustamento, mentre Lula ha ribadito il suo impegno per l'aumento dei redditi e ha esposto il \"tesoro\" dell'estrema destra",
+    "en": "Flávio avoided questions about the real adjustment, while Lula reaffirmed his commitment to increasing income and exposed the \"treasury\" of the extreme right"
+   }
+  },
+  {
+   "id": "e3b71a9ab4ef285f",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/23/lula-esfrega-na-cara-de-flavio-profusao-de-obras-do-governo-e-heranca-de-6-mil-projetos-parados-de-jair-bolsonaro/?utm_source=rss&utm_medium=rss&utm_campaign=lula-esfrega-na-cara-de-flavio-profusao-de-obras-do-governo-e-heranca-de-6-mil-projetos-parados-de-jair-bolsonaro",
+   "date": "2026-10-24T02:02:52+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/01-2-1024x576.jpg",
+   "title": {
+    "orig": "Lula esfrega na cara de Flávio profusão de obras do governo e herança de 6 mil projetos parados de Jair Bolsonaro",
+    "it": "Lula rinfaccia a Flávio la profusione di opere del governo e l'eredità di 6mila progetti fermati da Jair Bolsonaro",
+    "en": "Lula rubs in Flávio's face the profusion of government works and inheritance of 6 thousand projects stopped by Jair Bolsonaro"
+   },
+   "summary": {
+    "orig": "No debate da Globo, presidente elencou obras em todo o Brasil, como a Transnordestina, o Túnel Santos-Guarujá e o Porto de Manaus, e afirmou que seu governo investe quatro vezes mais do que o anterior",
+    "it": "Nel dibattito su Globo, il presidente ha elencato opere in tutto il Brasile, come la Transnordestina, il tunnel Santos-Guarujá e il porto di Manaus, e ha affermato che il suo governo investe quattro volte di più del precedente",
+    "en": "In the Globo debate, the president listed works throughout Brazil, such as Transnordestina, the Santos-Guarujá Tunnel and the Port of Manaus, and stated that his government invests four times more than the previous one"
+   }
+  },
+  {
+   "id": "6d54f9bf0b56d7c4",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/23/lula-no-debate-da-globo-nao-vou-permitir-que-um-miliciano-me-chame-de-nove-dedos/",
+   "date": "2026-10-24T01:58:12+00:00",
+   "image": null,
+   "title": {
+    "orig": "Lula no debate da Globo: ‘não vou permitir que um miliciano me chame de nove dedos’",
+    "it": "Lula nel dibattito su Globo: \"Non permetterò a un miliziano di chiamarmi nove dita\"",
+    "en": "Lula in the Globo debate: ‘I won’t allow a militia member to call me nine fingers’"
+   },
+   "summary": {
+    "orig": "No segundo bloco do debate da TV Globo, o presidente Luiz Inácio Lula da Silva (PT) foi chamado de “nove dedos” por Flávio Bolsonaro (PL). O presidenciável petista repreendeu seu adversário imediatamente. “Ele disse uma grande asneira que não levarei para casa. Ele me chamou de…",
+    "it": "Nel secondo blocco del dibattito su TV Globo, il presidente Luiz Inácio Lula da Silva (PT) è stato chiamato “nove dita” da Flávio Bolsonaro (PL). Il candidato presidenziale del PT ha immediatamente rimproverato il suo avversario. \"Ha detto una cosa davvero stupida che non porterò a casa. Mi ha chiamato...",
+    "en": "In the second block of the TV Globo debate, President Luiz Inácio Lula da Silva (PT) was called “nine fingers” by Flávio Bolsonaro (PL). The PT presidential candidate immediately reprimanded his opponent. \"He said something really stupid that I won't take home. He called me..."
+   }
+  },
+  {
+   "id": "91bd4fbbd0720034",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/people-to-people-diplomacy-helps-strengthen-vietnamczech-republic-ties-post168165.html",
+   "date": "2026-10-24T01:54:07+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/T1XfcbzAfRBwivgcxE-PBFe0WbqXQwVkqkelaEHSucRfKnaOqYdLWDHU_9TbGTDdshCXmgI3hJXGVRYJMfGPzA/czech-republic.jpg.avif",
+   "title": {
+    "orig": "People-to-people diplomacy helps strengthen Vietnam–Czech Republic ties",
+    "it": "La diplomazia interpersonale contribuisce a rafforzare i legami tra Vietnam e Repubblica Ceca",
+    "en": "People-to-people diplomacy helps strengthen Vietnam–Czech Republic ties"
+   },
+   "summary": {
+    "orig": "The Ho Chi Minh City Union of Friendship Organisations (HUFO) held a ceremony on October 23 to mark the 108th founding anniversary of the independent Czechoslovak state (October 28, 1918–2026). Czech lower house speaker visits Vietnamese community in Prague Vietnamese community…",
+    "it": "L'Unione delle organizzazioni di amicizia di Ho Chi Minh City (HUFO) ha tenuto una cerimonia il 23 ottobre per celebrare il 108° anniversario della fondazione dello Stato cecoslovacco indipendente (28 ottobre 1918-2026). Il portavoce della Camera bassa ceca visita la comunità vietnamita a Praga Comunità vietnamita…",
+    "en": "The Ho Chi Minh City Union of Friendship Organisations (HUFO) held a ceremony on October 23 to mark the 108th founding anniversary of the independent Czechoslovak state (October 28, 1918–2026). Czech lower house speaker visits Vietnamese community in Prague Vietnamese community…"
+   }
+  },
+  {
+   "id": "ed732bb6c1360a99",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/23/o-nordeste-no-nosso-governo-ganhou-cidadania-afirma-lula-durante-debate-na-globo/",
+   "date": "2026-10-24T01:52:38+00:00",
+   "image": null,
+   "title": {
+    "orig": "‘O Nordeste, no nosso governo, ganhou cidadania’, afirma Lula durante debate na Globo",
+    "it": "«Il Nordest, nel nostro governo, ha guadagnato la cittadinanza», dice Lula durante un dibattito su Globo",
+    "en": "‘The Northeast, in our government, gained citizenship’, says Lula during a debate on Globo"
+   },
+   "summary": {
+    "orig": "O presidente Luiz Inácio Lula da Silva (PT) destacou, durante o debate da TV Globo nesta sexta-feira (23), obras e investimentos de seu governo nos estados nordestinos e afirmou que a região deu um salto de desenvolvimento no período. “O Nordeste, no nosso governo, ganhou…",
+    "it": "Il presidente Luiz Inácio Lula da Silva (PT) ha sottolineato, durante il dibattito di venerdì su TV Globo (23), gli interventi e gli investimenti del suo governo negli stati del nord-est e ha affermato che la regione ha fatto un salto di sviluppo in questo periodo. “Il Nordest, nel nostro governo, ha vinto…",
+    "en": "President Luiz Inácio Lula da Silva (PT) highlighted, during the TV Globo debate this Friday (23), works and investments by his government in the northeastern states and stated that the region took a leap in development during the period. “The Northeast, in our government, won…"
+   }
+  },
+  {
+   "id": "43462605bcb8d165",
+   "source": "workersworld",
+   "name": "Workers World",
+   "country": "US",
+   "lang": "en",
+   "url": "https://www.workers.org/2026/10/95543/?utm_source=rss&utm_medium=rss&utm_campaign=oct-30-international-dockworkers-and-port-workers-day-of-action",
+   "date": "2026-10-24T01:45:50+00:00",
+   "image": "https://www.workers.org/wp-content/uploads/Dockworkers-in-Ancona-Italy-February-2026.-Photo-Potere-al-Popolo-678x509.jpeg",
+   "title": {
+    "orig": "Oct. 30: International Dockworkers and Port Workers ‘Day of Action’",
+    "it": "30 ottobre: “Giornata di azione” dei lavoratori portuali e portuali internazionali",
+    "en": "Oct. 30: International Dockworkers and Port Workers ‘Day of Action’"
+   },
+   "summary": {
+    "orig": "By World Federation of Trade Unions Cinzia Della Porta, from the World Federation of Trade Unions Secretariat, conveyed the WFTU’s greetings and support at the press conference held on Oct. 15, 2026, in Rome to launch the International Day of Action of Dockworkers and Port…",
+    "it": "Della Federazione mondiale dei sindacati Cinzia Della Porta, del Segretariato della Federazione mondiale dei sindacati, ha portato i saluti e il sostegno della FSM alla conferenza stampa tenutasi il 15 ottobre 2026 a Roma per lanciare la Giornata internazionale di azione dei lavoratori portuali e portuali...",
+    "en": "By World Federation of Trade Unions Cinzia Della Porta, from the World Federation of Trade Unions Secretariat, conveyed the WFTU’s greetings and support at the press conference held on Oct. 15, 2026, in Rome to launch the International Day of Action of Dockworkers and Port…"
+   }
+  },
+  {
+   "id": "dfaad03ba3a286af",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/23/questionado-por-lula-flavio-bolsonaro-foge-e-nao-diz-quanto-seria-o-salario-minimo-sem-ganho-real-valor-ficaria-abaixo-de-r-900/",
+   "date": "2026-10-24T01:34:36+00:00",
+   "image": null,
+   "title": {
+    "orig": "Questionado por Lula, Flávio Bolsonaro foge e não diz quanto seria salário mínimo sem ganho real; valor ficaria abaixo de R$ 900",
+    "it": "Interrogato da Lula, Flávio Bolsonaro scappa e non dice quanto costerebbe il salario minimo senza un guadagno reale; il valore sarebbe inferiore a R$900",
+    "en": "When questioned by Lula, Flávio Bolsonaro runs away and does not say how much the minimum wage would be without real gain; value would be below R$900"
+   },
+   "summary": {
+    "orig": "O presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, questionou o senador Flávio Bolsonaro (PL) sobre a política de valorização do salário mínimo durante o debate da TV Globo, nesta sexta-feira (23). Segundo Lula, sem a política de valorização adotada pelos…",
+    "it": "Il presidente Luiz Inácio Lula da Silva (PT), candidato alla rielezione, ha interrogato il senatore Flávio Bolsonaro (PL) sulla politica di aumento del salario minimo durante il dibattito su TV Globo, questo venerdì (23). Secondo Lula, senza la politica di valorizzazione adottata da…",
+    "en": "President Luiz Inácio Lula da Silva (PT), candidate for reelection, questioned senator Flávio Bolsonaro (PL) about the policy of increasing the minimum wage during the debate on TV Globo, this Friday (23). According to Lula, without the valorization policy adopted by…"
+   }
+  },
+  {
+   "id": "4f759f7e6970f514",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/23/no-debate-flavio-bolsonaro-disse-ser-a-favor-de-tarifa-zero-ha-oito-dias-chamou-de-promessa-mirabolante/",
+   "date": "2026-10-24T01:24:37+00:00",
+   "image": null,
+   "title": {
+    "orig": "No debate, Flávio Bolsonaro disse ser a favor de tarifa zero; há oito dias chamou de ‘promessa mirabolante’",
+    "it": "Nel dibattito, Flávio Bolsonaro si è detto favorevole alle tariffe zero; otto giorni fa l'ha definita una \"promessa straordinaria\"",
+    "en": "In the debate, Flávio Bolsonaro said he was in favor of zero tariffs; eight days ago he called it an ‘amazing promise’"
+   },
+   "summary": {
+    "orig": "\"Será que tem gente que acredita nisso? Eu fico preocupado\", disse o candidato do PL em live com Nikolas Ferreira Fonte",
+    "it": "\"C'è gente che ci crede? Sono preoccupato\", ha detto il candidato del PL in diretta con Nikolas Ferreira Fonte",
+    "en": "\"Are there people who believe in this? I'm worried\", said the PL candidate live with Nikolas Ferreira Fonte"
+   }
+  },
+  {
+   "id": "6fd19552fe346618",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/23/moraes-manda-bloquear-r-6-bilhoes-de-willer-tomaz-que-tinha-conta-conjunta-com-flavio-bolsonaro/",
+   "date": "2026-10-24T01:15:09+00:00",
+   "image": null,
+   "title": {
+    "orig": "Moraes manda bloquear R$ 6 bilhões de Willer Tomaz, que tinha conta conjunta com Flávio Bolsonaro",
+    "it": "Moraes ordina il blocco di 6 miliardi di real a Willer Tomaz, che aveva un conto congiunto con Flávio Bolsonaro",
+    "en": "Moraes orders R$6 billion blocked from Willer Tomaz, who had a joint account with Flávio Bolsonaro"
+   },
+   "summary": {
+    "orig": "O ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, determinou o bloqueio de até R$ 6 bilhões do advogado Willer Tomaz nesta sexta-feira (23), além de uma ampla análise sobre os correntistas da empresa Alcazar Holdings, dona da conta que tinha o senador e…",
+    "it": "Il ministro della Corte Suprema Federale (STF), Alexandre de Moraes, ha ordinato questo venerdì il blocco di una somma pari a 6 miliardi di R$ all'avvocato Willer Tomaz (23), oltre ad un'ampia analisi dei titolari dei conti della società Alcazar Holdings, proprietaria del conto del senatore e...",
+    "en": "The minister of the Federal Supreme Court (STF), Alexandre de Moraes, ordered the blocking of up to R$6 billion from lawyer Willer Tomaz this Friday (23), in addition to a broad analysis of the account holders of the company Alcazar Holdings, owner of the account held by the senator and…"
+   }
+  },
+  {
+   "id": "7ff6469ea9ec7b97",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/noticias/2026/10/23/la-respuesta-de-cuba-a-la-mas-reciente-amenaza-de-trump/",
+   "date": "2026-10-24T01:11:10+00:00",
+   "image": null,
+   "title": {
+    "orig": "Díaz-Canel: EEUU no renuncia a sus ambiciones de dominación sobre Cuba",
+    "it": "Díaz-Canel: Gli Stati Uniti non rinunciano alle loro ambizioni di dominio su Cuba",
+    "en": "Díaz-Canel: The US does not renounce its ambitions for domination over Cuba"
+   },
+   "summary": {
+    "orig": "El presidente cubano, Miguel Díaz-Canel, alertó este viernes que el gobierno de Estados Unidos deja claro que no renuncia a sus ambiciones de dominación sobre la Isla, a través de un mensaje publicado en su cuenta oficial en X. Por su parte, el canciller Bruno Rodríguez rechazó…",
+    "it": "Il presidente cubano, Miguel Díaz-Canel, ha avvertito questo venerdì che il governo degli Stati Uniti chiarisce che non rinuncerà alle sue ambizioni di dominio sull'Isola, attraverso un messaggio pubblicato sul suo account ufficiale su X. Da parte sua, il ministro degli Esteri Bruno Rodríguez ha respinto...",
+    "en": "The Cuban president, Miguel Díaz-Canel, warned this Friday that the United States government makes it clear that it does not renounce its ambitions for domination over the Island, through a message published on its official account on X. For his part, Foreign Minister Bruno Rodríguez rejected…"
+   }
+  },
+  {
+   "id": "0da0a31f21c4230a",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/especiales/2026/10/23/a-quien-afectan-las-medidas-de-estados-unidos-contra-los-emprendedores-cubanos/",
+   "date": "2026-10-24T00:53:07+00:00",
+   "image": null,
+   "title": {
+    "orig": "¿A quién afectan las medidas de Estados Unidos contra los emprendedores cubanos?",
+    "it": "Chi è colpito dalle misure degli Stati Uniti contro gli imprenditori cubani?",
+    "en": "Who is affected by the United States measures against Cuban entrepreneurs?"
+   },
+   "summary": {
+    "orig": "Si las medidas de EE.UU. contra Cuba pretenden presionar a las autoridades, ¿qué ocurre cuando sus consecuencias recaen también sobre quienes emprenden y trabajan en el sector privado? Compartimos una publicación de Revolución Latina que pone sobre la mesa el debate sobre el…",
+    "it": "Se le misure degli Stati Uniti contro Cuba hanno lo scopo di esercitare pressioni sulle autorità, cosa succede quando le loro conseguenze ricadono anche su coloro che intraprendono e lavorano nel settore privato? Condividiamo una pubblicazione di Revolución Latina che mette sul tavolo il dibattito su...",
+    "en": "If the US measures against Cuba are intended to put pressure on the authorities, what happens when their consequences also fall on those who undertake and work in the private sector? We share a publication from Revolución Latina that puts on the table the debate about…"
+   }
+  },
+  {
+   "id": "490ae84969c19212",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/23/campanha-de-lula-leva-mae-da-menina-ana-clara-para-debate-na-tv-globo/",
+   "date": "2026-10-24T00:33:14+00:00",
+   "image": null,
+   "title": {
+    "orig": "Campanha de Lula leva mãe da menina Ana Clara para debate na TV Globo",
+    "it": "La campagna di Lula porta la madre di Ana Clara a un dibattito su TV Globo",
+    "en": "Lula's campaign takes Ana Clara's mother to a debate on TV Globo"
+   },
+   "summary": {
+    "orig": "A participação de Flávio Bolsonaro na defesa do policial se tornou um dos principais temas das eleições presidenciais Fonte",
+    "it": "La partecipazione di Flávio Bolsonaro alla difesa del poliziotto è diventata uno dei temi principali delle elezioni presidenziali. Fonte",
+    "en": "Flávio Bolsonaro's participation in defending the police officer became one of the main themes of the presidential elections Source"
+   }
+  },
+  {
+   "id": "4f51cd7d87ab023e",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/23/debate-da-globo-lula-e-flavio-bolsonaro-se-enfrentam-pela-ultima-vez-antes-do-segundo-turno/",
+   "date": "2026-10-24T00:29:55+00:00",
+   "image": null,
+   "title": {
+    "orig": "Debate da Globo: Lula e Flávio Bolsonaro se enfrentam pela última vez antes do segundo turno",
+    "it": "Dibattito Globo: Lula e Flávio Bolsonaro si affrontano per l'ultima volta prima del secondo turno",
+    "en": "Globo debate: Lula and Flávio Bolsonaro face each other for the last time before the second round"
+   },
+   "summary": {
+    "orig": "O presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, e o senador Flávio Bolsonaro (PL) se enfrentam nesta sexta-feira (23), às 21h20, no último debate antes do segundo turno, marcado para domingo (25). O encontro será realizado nos Estúdios Globo, no Rio de…",
+    "it": "Il presidente Luiz Inácio Lula da Silva (PT), candidato alla rielezione, e il senatore Flávio Bolsonaro (PL) si affronteranno questo venerdì (23), alle 21:20, nell'ultimo dibattito prima del secondo turno, previsto per domenica (25). L'incontro si terrà presso Estúdios Globo, a Rio de...",
+    "en": "President Luiz Inácio Lula da Silva (PT), candidate for reelection, and senator Flávio Bolsonaro (PL) will face each other this Friday (23), at 9:20 pm, in the last debate before the second round, scheduled for Sunday (25). The meeting will be held at Estúdios Globo, in Rio de…"
+   }
+  },
+  {
+   "id": "3e2654d0e185a10e",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/top-vietnamese-leaders-policy-speech-at-egmont-institute-of-belgium-post168164.html",
+   "date": "2026-10-24T00:25:09+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/T1XfcbzAfRBwivgcxE-PBFe0WbqXQwVkqkelaEHSucQEGtgyHTWoqPsMvx6qQWDAdyXmfSo_mkyDmwpHgQn1PfMN-vegvXZI9Sgy2B65zqbhu_7wZVt39c_xPC1jMOTVXU8nOmXBq8uTYZEzXvxFq8iCiM8mB_z2sRhol8QvT0M/vnapotaltongbithuchutichnuocphatbieuchinhsachtaivienquanhequoctehoanggiaegmont9108690.jpg.avif",
+   "title": {
+    "orig": "Top Vietnamese leader's policy speech at Egmont Institute of Belgium",
+    "it": "Discorso politico del principale leader vietnamita all'Istituto Egmont del Belgio",
+    "en": "Top Vietnamese leader's policy speech at Egmont Institute of Belgium"
+   },
+   "summary": {
+    "orig": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam delivered a policy speech titled \"Turning vision into action – from political determination to a model for cooperation\" at Egmont – The Royal Institute for International Relations in…",
+    "it": "Il Segretario Generale del Comitato Centrale del Partito Comunista del Vietnam e Presidente To Lam ha tenuto un discorso politico dal titolo \"Trasformare la visione in azione - dalla determinazione politica a un modello di cooperazione\" all'Egmont - Istituto reale per le relazioni internazionali di...",
+    "en": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam delivered a policy speech titled \"Turning vision into action – from political determination to a model for cooperation\" at Egmont – The Royal Institute for International Relations in…"
+   }
+  },
+  {
+   "id": "922203d33aa0a4b3",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/23/cuba-anuncia-medidas-sociais-em-meio-a-crise-economica-e-a-crescente-desigualdade/",
+   "date": "2026-10-24T00:20:31+00:00",
+   "image": null,
+   "title": {
+    "orig": "Cuba anuncia medidas sociais em meio à crise econômica e à crescente desigualdade",
+    "it": "Cuba annuncia misure sociali in un contesto di crisi economica e crescente disuguaglianza",
+    "en": "Cuba announces social measures amid economic crisis and growing inequality"
+   },
+   "summary": {
+    "orig": "Programa prevê ferramentas de trabalho e auxílio financeiro a grupos vulneráveis em meio à crise econômica Fonte",
+    "it": "Il programma fornisce strumenti di lavoro e assistenza finanziaria ai gruppi vulnerabili nel contesto della crisi economica. Fonte",
+    "en": "Program provides work tools and financial assistance to vulnerable groups amid the economic crisis Source"
+   }
+  },
+  {
+   "id": "958234a0c196dd13",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/vietnamese-belgian-leaders-agree-to-enhance-multifaceted-collaboration-post168163.html",
+   "date": "2026-10-24T00:14:44+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/T1XfcbzAfRBwivgcxE-PBFe0WbqXQwVkqkelaEHSucR0G6Ygqbnv0_7VVh2TsSQOTehoqXNncHKaaTVsgOELzQZzEvjrrbNgoEwf4FKrLxdDCPTZnUTDMRM25NJWesJ8a7XvjuiVkPPDAPoQUsUNQA/vna-potal-tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-thu-tuong-bi.jpg.avif",
+   "title": {
+    "orig": "Vietnamese, Belgian leaders agree to enhance multifaceted collaboration",
+    "it": "I leader vietnamiti e belgi concordano di rafforzare la collaborazione multiforme",
+    "en": "Vietnamese, Belgian leaders agree to enhance multifaceted collaboration"
+   },
+   "summary": {
+    "orig": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam and Belgian Prime Minister Bart De Wever have reaffirmed their strong political commitment to deepening the two countries' traditional friendship and multifaceted cooperation for the…",
+    "it": "Il Segretario Generale del Comitato Centrale e Presidente del Partito Comunista del Vietnam To Lam e il Primo Ministro belga Bart De Wever hanno riaffermato il loro forte impegno politico per approfondire la tradizionale amicizia e la multiforme cooperazione tra i due paesi per...",
+    "en": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam and Belgian Prime Minister Bart De Wever have reaffirmed their strong political commitment to deepening the two countries' traditional friendship and multifaceted cooperation for the…"
+   }
+  },
+  {
+   "id": "15f80a0d96ac7d26",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/23/estudantes-e-professores-saem-as-ruas-de-curitiba-em-defesa-da-democracia-da-reeleicao-de-lula/",
+   "date": "2026-10-24T00:14:39+00:00",
+   "image": null,
+   "title": {
+    "orig": "Estudantes e professores saem às ruas de Curitiba em defesa da democracia e da reeleição de Lula",
+    "it": "Studenti e insegnanti scendono nelle strade di Curitiba in difesa della democrazia e della rielezione di Lula",
+    "en": "Students and teachers take to the streets of Curitiba in defense of democracy and Lula's re-election"
+   },
+   "summary": {
+    "orig": "O centro de Curitiba (PR) recebeu uma nova mobilização em apoio à reeleição do presidente Luiz Inácio Lula da Silva, na noite desta sexta-feira (23). O ato que reuniu milhares de pessoas foi mobilizado por diferentes coletivos, entre eles docentes em defesa da ciência e da…",
+    "it": "Il centro di Curitiba (PR) ha ricevuto, venerdì sera (23), una nuova mobilitazione a sostegno della rielezione del presidente Luiz Inácio Lula da Silva. L'evento che ha riunito migliaia di persone è stato mobilitato da diversi gruppi, tra cui insegnanti in difesa della scienza e...",
+    "en": "The center of Curitiba (PR) received a new mobilization in support of the re-election of President Luiz Inácio Lula da Silva, on Friday night (23). The event that brought together thousands of people was mobilized by different groups, including teachers in defense of science and…"
+   }
+  },
+  {
+   "id": "dfd0b27305c8b22f",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/top-leader-gives-policy-speech-in-brussels-sharing-vision-for-vietnameu-ties-post168162.html",
+   "date": "2026-10-24T00:10:09+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/T1XfcbzAfRBwivgcxE-PBFe0WbqXQwVkqkelaEHSucQqSUqIGjSq3OJHW81urCD0/tbt2.jpg.avif",
+   "title": {
+    "orig": "Top leader gives policy speech in Brussels, sharing vision for Vietnam–EU ties",
+    "it": "Il massimo leader tiene un discorso politico a Bruxelles, condividendo la visione dei legami Vietnam-UE",
+    "en": "Top leader gives policy speech in Brussels, sharing vision for Vietnam–EU ties"
+   },
+   "summary": {
+    "orig": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam delivered a policy speech at Egmont – The Royal Institute for International Relations in Brussels on October 23 afternoon (local time), with a focus on turning vision into action – from…",
+    "it": "Il Segretario Generale del Comitato Centrale del Partito Comunista del Vietnam e Presidente To Lam ha tenuto un discorso politico all'Egmont - Istituto reale per le relazioni internazionali a Bruxelles il 23 ottobre pomeriggio (ora locale), concentrandosi sulla trasformazione della visione in azione - da...",
+    "en": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam delivered a policy speech at Egmont – The Royal Institute for International Relations in Brussels on October 23 afternoon (local time), with a focus on turning vision into action – from…"
+   }
+  },
+  {
+   "id": "71db32da624555d6",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/top-leader-applauds-wallonias-contributions-to-vietnambelgium-ties-post168161.html",
+   "date": "2026-10-23T23:56:00+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/T1XfcbzAfRBwivgcxE-PBFe0WbqXQwVkqkelaEHSucQBbUee9Rfk2Eo1ZvqovxXX1VcjqrfNyJD0E6ZFmKlf7RKF0277-dGSd7HA5VX6PH17i2OqLK2Ji3_LP2slC87aq49ZByECUL4Jr_BUa4evhA/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-bo-truong-thu-hien-vung-wallonie.jpg.avif",
+   "title": {
+    "orig": "Top leader applauds Wallonia's contributions to Vietnam–Belgium ties",
+    "it": "Il massimo leader applaude il contributo della Vallonia ai legami Vietnam-Belgio",
+    "en": "Top leader applauds Wallonia's contributions to Vietnam–Belgium ties"
+   },
+   "summary": {
+    "orig": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam received Minister-President of the Wallonia region Adrien Dolimont in Brussels on October 23, part of his official visit to Belgium. Top leader visits Port of Antwerp-Bruges in Belgium…",
+    "it": "Il Segretario Generale del Comitato Centrale del Partito Comunista del Vietnam e Presidente To Lam ha ricevuto il 23 ottobre a Bruxelles, nell'ambito della sua visita ufficiale in Belgio, il Ministro-Presidente della Regione Vallonia Adrien Dolimont. Il massimo leader visita il porto di Anversa-Bruges in Belgio...",
+    "en": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam received Minister-President of the Wallonia region Adrien Dolimont in Brussels on October 23, part of his official visit to Belgium. Top leader visits Port of Antwerp-Bruges in Belgium…"
+   }
+  },
+  {
+   "id": "66a098120a82ccee",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/general-secretary-president-to-lam-receives-minister-president-of-belgiums-flanders-post168160.html",
+   "date": "2026-10-23T23:49:06+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/T1XfcbzAfRBwivgcxE-PBFe0WbqXQwVkqkelaEHSucQFPjfTJ8x-VhpSXagdMXuT/flanders.jpg.avif",
+   "title": {
+    "orig": "General Secretary, President To Lam receives Minister-President of Belgium's Flanders",
+    "it": "Il segretario generale, il presidente To Lam, riceve il ministro-presidente delle Fiandre belghe",
+    "en": "General Secretary, President To Lam receives Minister-President of Belgium's Flanders"
+   },
+   "summary": {
+    "orig": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam received Minister-President of Flanders Matthias Diependaele on October 23 as part of his official visit to Belgium. Top leader visits Port of Antwerp-Bruges in Belgium Viet Nam, Belgium…",
+    "it": "Il Segretario Generale del Comitato Centrale del Partito Comunista del Vietnam e Presidente To Lam ha ricevuto il 23 ottobre il Ministro-Presidente delle Fiandre Matthias Diependaele nell'ambito della sua visita ufficiale in Belgio. Il massimo leader visita il porto di Anversa-Bruges in Belgio Vietnam, Belgio...",
+    "en": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam received Minister-President of Flanders Matthias Diependaele on October 23 as part of his official visit to Belgium. Top leader visits Port of Antwerp-Bruges in Belgium Viet Nam, Belgium…"
+   }
+  },
+  {
+   "id": "ba0454a4b2592258",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/top-vietnamese-leader-meets-with-belgian-senate-speaker-house-president-post168159.html",
+   "date": "2026-10-23T23:28:41+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/T1XfcbzAfRBwivgcxE-PBFe0WbqXQwVkqkelaEHSucR0G6Ygqbnv0_7VVh2TsSQOTehoqXNncHKaaTVsgOELzYmtfSi3oHnnM0S9DK_-0vb4VEixQ6DuOcPuA4plLfGeN-HO25OuXoSXF1eZbaExI1ql6OW6OXDnLSZncBwSGEI/vna-potal-tong-bi-thu-chu-tich-nuoc-hoi-kien-chu-tich-ha-vien-va-chu-tich-thuong-vien-bi.jpg.avif",
+   "title": {
+    "orig": "Top Vietnamese leader meets with Belgian Senate Speaker, House President",
+    "it": "Il massimo leader vietnamita incontra il presidente del Senato belga e il presidente della Camera",
+    "en": "Top Vietnamese leader meets with Belgian Senate Speaker, House President"
+   },
+   "summary": {
+    "orig": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam met with Speaker of the Senate Vincent Blondel and President of the House of Representatives Peter De Roover on the afternoon of October 23 as part of his official visit to Belgium. Top…",
+    "it": "Nel pomeriggio del 23 ottobre, nell'ambito della sua visita ufficiale in Belgio, il Segretario Generale del Comitato Centrale del Partito Comunista del Vietnam e Presidente To Lam ha incontrato il Presidente del Senato Vincent Blondel e il Presidente della Camera dei Rappresentanti Peter De Roover. Superiore…",
+    "en": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam met with Speaker of the Senate Vincent Blondel and President of the House of Representatives Peter De Roover on the afternoon of October 23 as part of his official visit to Belgium. Top…"
+   }
+  },
+  {
+   "id": "42f2d34525c42783",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/23/lula-agradece-expoe-denuncias-e-desmonta-imagem-de-flavio-no-radio-e-teve/?utm_source=rss&utm_medium=rss&utm_campaign=lula-agradece-expoe-denuncias-e-desmonta-imagem-de-flavio-no-radio-e-teve",
+   "date": "2026-10-23T23:14:57+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/Programa-Lula.jpg",
+   "title": {
+    "orig": "Lula agradece, expõe denúncias e desmonta imagem de Flávio no rádio e tevê",
+    "it": "Lula lo ringrazia, espone denunce e smonta l’immagine di Flávio in radio e tv",
+    "en": "Lula thanks him, exposes complaints and dismantles Flávio’s image on radio and TV"
+   },
+   "summary": {
+    "orig": "O presidente destacou que o país precisa seguir avançando, sem abrir mão de direitos, conquistas sociais e respeito às mulheres",
+    "it": "Il presidente ha sottolineato che il Paese deve continuare ad andare avanti, senza rinunciare ai diritti, alle conquiste sociali e al rispetto delle donne",
+    "en": "The president highlighted that the country needs to continue moving forward, without giving up rights, social achievements and respect for women"
+   }
+  },
+  {
+   "id": "42a1ffc891d97658",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/especiales/2026/10/23/analisis-forense-en-la-nube-y-redes-corporativas-cuando-la-evidencia-no-esta-en-tus-manos/",
+   "date": "2026-10-23T22:27:22+00:00",
+   "image": null,
+   "title": {
+    "orig": "Análisis forense en la nube y redes corporativas: Cuando la evidencia no está en tus manos",
+    "it": "Cloud forensics e reti aziendali: quando le prove non sono nelle tue mani",
+    "en": "Cloud forensics and corporate networks: When the evidence is not in your hands"
+   },
+   "summary": {
+    "orig": "Esta nueva entrega está destinada a explicar detalles relacionados con la noticia de la semana: PHP, el lenguaje que sostiene cerca del 70% de los sitios web del planeta, ha liberado parches de emergencia para dos vulnerabilidades críticas de ejecución remota de código…",
+    "it": "Questa nuova puntata ha lo scopo di spiegare i dettagli relativi alle novità della settimana: PHP, il linguaggio che alimenta quasi il 70% dei siti Web del pianeta, ha rilasciato patch di emergenza per due vulnerabilità critiche legate all'esecuzione di codice remoto...",
+    "en": "This new installment is intended to explain details related to the news of the week: PHP, the language that powers nearly 70% of the planet's websites, has released emergency patches for two critical remote code execution vulnerabilities..."
+   }
+  },
+  {
+   "id": "54ccb5699bf44ccd",
+   "source": "kprf",
+   "name": "KPRF",
+   "country": "RU",
+   "lang": "ru",
+   "url": "https://kprf.ru/export/rss/kpss/248286.html",
+   "date": "2026-10-23T22:06:22+00:00",
+   "image": "https://static.kprf.ru/m/420/240/t/img/2026/10/002_2018.jpg",
+   "title": {
+    "orig": "Рассвет-ТВ. К 110-летию Великого Октября. Казбек Тайсаев: Наша сила в единстве всех наций и народностей",
+    "it": "Rassvet-TV. Al 110° anniversario della Grande Rivoluzione d'Ottobre. Kazbek Taisaev: La nostra forza sta nell'unità di tutte le nazioni e nazionalità",
+    "en": "Rassvet-TV. To the 110th anniversary of the Great October Revolution. Kazbek Taisaev: Our strength is in the unity of all nations and nationalities"
+   },
+   "summary": {
+    "orig": "По страницам истории. Какие ошибки мы совершили, что надо сделать, чтобы вернуться к нашим истокам – об этом в передаче канала \"Рассвет ТВ\" размышляет Казбек Куцукович Тайсаев, член Комитета Государственной Думы по делам Содружества Независимых … Читать дальше →",
+    "it": "Attraverso le pagine della storia. Quali errori abbiamo commesso, cosa dobbiamo fare per tornare alle nostre radici - Kazbek Kutsukovich Taisaev, membro del Comitato per gli affari della Duma di Stato della Comunità degli Stati indipendenti, riflette su questo nel programma del canale televisivo Rassvet... Leggi di più →",
+    "en": "Through the pages of history. What mistakes have we made, what needs to be done to return to our roots - Kazbek Kutsukovich Taisaev, a member of the State Duma Committee on Affairs of the Commonwealth of Independent States, reflects on this in the program of the Rassvet TV channel... Read more →"
+   }
+  },
+  {
+   "id": "88ddb77326e07efc",
+   "source": "mundoobrero",
+   "name": "Mundo Obrero",
+   "country": "ES",
+   "lang": "es",
+   "url": "https://mundoobrero.es/2026/10/24/tenemos-que-hablar-de-la-batalla-cultural-o-estamos-entreteniendo/",
+   "date": "2026-10-23T22:02:00+00:00",
+   "image": null,
+   "title": {
+    "orig": "¿Tenemos que hablar de la batalla cultural, o estamos entreteniendo?",
+    "it": "Dobbiamo parlare della battaglia culturale o ci stiamo intrattenendo?",
+    "en": "Do we need to talk about the cultural battle, or are we entertaining?"
+   },
+   "summary": {
+    "orig": "1. Partamos de un hecho que aparece, a día de hoy, ante cualquier sindicalista a poco de iniciar su activismo: la conciencia de clase no es la más común de las conciencias. Sería un error cualquier hipótesis política que contemple la identidad de la clase trabajadora con el…",
+    "it": "1. Partiamo da un dato che si presenta, oggi, davanti a qualsiasi sindacalista subito dopo aver iniziato il suo attivismo: la coscienza di classe non è la più comune delle coscienze. Qualsiasi ipotesi politica che contempli l’identità della classe operaia con...",
+    "en": "1. Let's start from a fact that appears, today, before any union member shortly after starting his activism: class consciousness is not the most common of consciousnesses. Any political hypothesis that contemplates the identity of the working class with the..."
+   }
+  },
+  {
+   "id": "ad81032e50a4c882",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/trumptan-irana-yeni-saldiri-tehdidi-bir-operasyon-daha-yapabiliriz-415338",
+   "date": "2026-10-23T21:51:43+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/24/trumpiran.jpg.webp?itok=ArVbEAYg",
+   "title": {
+    "orig": "Trump’tan İran’a yeni saldırı tehdidi: 'Bir operasyon daha yapabiliriz'",
+    "it": "Trump minaccia nuovo attacco all'Iran: 'Possiamo fare un'altra operazione'",
+    "en": "Trump threatens new attack on Iran: 'We can do another operation'"
+   },
+   "summary": {
+    "orig": "Dış Haberler Trump, İran’a yönelik yeni bir askeri operasyon ihtimalini gündeme getirirken Tahran’dan olası saldırıların daha geniş çaplı bir karşılıkla sonuçlanacağı uyarısı geldi. ABD Başkanı Donald Trump, 23 Ekim’de Florida’da düzenlenen seçim mitinginde İran’a yönelik yeni…",
+    "it": "Notizie dall'estero Mentre Trump ha parlato della possibilità di una nuova operazione militare contro l'Iran, Teheran ha avvertito che possibili attacchi porterebbero ad una risposta più ampia. Il presidente degli Stati Uniti Donald Trump ha espresso nuovi commenti contro l’Iran durante il suo comizio elettorale tenutosi in Florida il 23 ottobre.",
+    "en": "Foreign News While Trump brought up the possibility of a new military operation against Iran, Tehran warned that possible attacks would result in a broader response. US President Donald Trump made new comments against Iran at his election rally held in Florida on October 23."
+   }
+  },
+  {
+   "id": "bb2f2e1ecb94781d",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/23/plano-de-flavio-amplia-pobreza-e-desigualdade-diz-nobel-de-economia/?utm_source=rss&utm_medium=rss&utm_campaign=plano-de-flavio-amplia-pobreza-e-desigualdade-diz-nobel-de-economia",
+   "date": "2026-10-23T21:40:57+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2019/10/joseph_stiglitz125451-1024x576.jpg",
+   "title": {
+    "orig": "Plano de Flávio amplia pobreza e desigualdade, diz Nobel de Economia",
+    "it": "Il piano di Flávio aumenta la povertà e la disuguaglianza, afferma il Premio Nobel per l'Economia",
+    "en": "Flávio's plan increases poverty and inequality, says Nobel Prize in Economics"
+   },
+   "summary": {
+    "orig": "Joseph Stiglitz afirmou que a proposta de reduzir investimento púbico vai levar à deterioração do padrão de vida das classes média e baixa",
+    "it": "Joseph Stiglitz ha affermato che la proposta di ridurre gli investimenti pubblici porterà ad un deterioramento del tenore di vita delle classi medie e basse",
+    "en": "Joseph Stiglitz stated that the proposal to reduce public investment will lead to a deterioration in the standard of living of the middle and lower classes"
+   }
+  },
+  {
+   "id": "a17e14645fb1fa51",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/zonguldaktaki-maden-patlamasi-isletmeci-salih-demir-hakkinda-gozalti-karari-415337",
+   "date": "2026-10-23T21:38:47+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/24/zonguldakgozalti.jpg.webp?itok=i9v6oqA6",
+   "title": {
+    "orig": "Zonguldak'taki maden patlaması: İşletmeci Salih Demir hakkında gözaltı kararı",
+    "it": "Esplosione di una mina a Zonguldak: mandato di detenzione per l'operatore Salih Demir",
+    "en": "Mine explosion in Zonguldak: Detention warrant for operator Salih Demir"
+   },
+   "summary": {
+    "orig": "Haber Merkezi Zonguldak’ta 3 işçinin yaşamını yitirdiği maden patlamasına ilişkin soruşturmada, işletme sahibi Mehmet Salih Demir ve iş güvenliği uzmanı hakkında gözaltı kararı verildi. Zonguldak’ın Kilimli ilçesine bağlı Gelik beldesindeki maden ocağında üç işçinin hayatını…",
+    "it": "News Center: Nell'inchiesta sull'esplosione della mina a Zonguldak, in cui hanno perso la vita 3 lavoratori, è stato emesso un ordine di detenzione per l'imprenditore Mehmet Salih Demir e l'esperto di sicurezza sul lavoro. Le vite di tre operai nella miniera di Gelik, cittadina di Kilimli, distretto di Zonguldak...",
+    "en": "News Center: In the investigation into the mine explosion in Zonguldak, in which 3 workers lost their lives, a detention order was issued for the business owner Mehmet Salih Demir and the occupational safety expert. The lives of three workers in the mine in Gelik town of Kilimli district of Zonguldak..."
+   }
+  },
   {
    "id": "44ac86b15a5461f3",
    "source": "strugglelalucha",
@@ -963,6 +1963,26 @@
    }
   },
   {
+   "id": "be6ed30dcba1447e",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/polish-pm-arrives-in-da-nang-beginning-official-visit-to-viet-nam-post168158.html",
+   "date": "2026-10-23T17:03:32+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/-dirU_ca9oiedkCeBhcBOmHFPtTpsQ54sHs64ZCn4wfgJyKhxaIh33t9fchSZHdc/vnanet-f.jpg.avif",
+   "title": {
+    "orig": "Polish PM arrives in Da Nang, beginning official visit to Viet Nam",
+    "it": "Il Primo Ministro polacco arriva a Da Nang, iniziando la visita ufficiale in Vietnam",
+    "en": "Polish PM arrives in Da Nang, beginning official visit to Viet Nam"
+   },
+   "summary": {
+    "orig": "Polish Prime Minister Donald Tusk arrived in the central city of Da Nang on October 23 evening, beginning an official visit to Viet Nam from October 24-26 at the invitation of his Vietnamese counterpart Le Minh Hung. Polish PM's Viet Nam visit to strengthen bilateral ties…",
+    "it": "Il primo ministro polacco Donald Tusk è arrivato nella città centrale di Da Nang la sera del 23 ottobre, iniziando una visita ufficiale in Vietnam dal 24 al 26 ottobre su invito del suo omologo vietnamita Le Minh Hung. Visita del Primo Ministro polacco in Vietnam per rafforzare i legami bilaterali...",
+    "en": "Polish Prime Minister Donald Tusk arrived in the central city of Da Nang on October 23 evening, beginning an official visit to Viet Nam from October 24-26 at the invitation of his Vietnamese counterpart Le Minh Hung. Polish PM's Viet Nam visit to strengthen bilateral ties…"
+   }
+  },
+  {
    "id": "3290ac8973f6012d",
    "source": "humanite",
    "name": "L'Humanité",
@@ -1020,6 +2040,26 @@
     "orig": "Auprès de l’Humanité, l’Union régionale d'Ile-de-France CGT (Urif-CGT) annonce saisir le tribunal administratif, après que la préfecture de police ait interdit le parcours déposé par l'intersyndicale, ce samedi 24 octobre, entre les places de la Bastille et de la Nation à Paris.…",
     "it": "From Humanity, l'Unione regionale CGT dell'Ile-de-France (Urif-CGT) annuncia che si rivolgerà al tribunale amministrativo, dopo che la questura ha vietato il percorso tracciato dall'intersindacato, questo sabato 24 ottobre, tra piazza della Bastiglia e piazza della Nazione a Parigi.…",
     "en": "From Humanity, the Ile-de-France CGT Regional Union (Urif-CGT) announces that it is seizing the administrative court, after the police headquarters banned the route filed by the inter-union, this Saturday, October 24, between the Bastille and Nation squares in Paris.…"
+   }
+  },
+  {
+   "id": "d5872eaed3816c02",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/vietnamese-belgian-leaders-agree-to-enhance-multifaceted-collaboration-post168157.html",
+   "date": "2026-10-23T16:57:37+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/-dirU_ca9oiedkCeBhcBOoASQ0uhfo7I2vSmWYWIIiywkulBwXTGcj3O-ziIvs6ierltmJ9TGczpO2Dc3HTzev868u04IdvYwiWDLQcsOx-yr_Ytshkk3DdhrZTm4XieUGbax5XJ7hzfruA37p4p_g/vna-potal-tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-thu-tuong-bi.jpg.avif",
+   "title": {
+    "orig": "Vietnamese, Belgian leaders agree to enhance multifaceted collaboration",
+    "it": "I leader vietnamiti e belgi concordano di rafforzare la collaborazione multiforme",
+    "en": "Vietnamese, Belgian leaders agree to enhance multifaceted collaboration"
+   },
+   "summary": {
+    "orig": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam and Belgian Prime Minister Bart De Wever have reaffirmed their strong political commitment to deepening the two countries' traditional friendship and multifaceted cooperation for the…",
+    "it": "Il Segretario Generale del Comitato Centrale e Presidente del Partito Comunista del Vietnam To Lam e il Primo Ministro belga Bart De Wever hanno riaffermato il loro forte impegno politico per approfondire la tradizionale amicizia e la multiforme cooperazione tra i due paesi per...",
+    "en": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam and Belgian Prime Minister Bart De Wever have reaffirmed their strong political commitment to deepening the two countries' traditional friendship and multifaceted cooperation for the…"
    }
   },
   {
@@ -1260,6 +2300,26 @@
     "orig": "Representantes de municípios e províncias de mais de 30 países latino-americanos e caribenhos participaram nesta sexta (23) do IV Fórum de Cooperação entre Governos Locais China-América Latina e Caribe em Yulin, cidade no noroeste da China, na província de Shaanxi. O encontro…",
     "it": "Rappresentanti di comuni e province di più di 30 paesi dell'America Latina e dei Caraibi hanno partecipato questo venerdì (23) al IV Forum sulla cooperazione tra i governi locali Cina-America Latina e Caraibi a Yulin, una città nel nord-ovest della Cina, nella provincia dello Shaanxi. L’incontro…",
     "en": "Representatives from municipalities and provinces from more than 30 Latin American and Caribbean countries participated this Friday (23) in the IV Forum on Cooperation between China-Latin America and Caribbean Local Governments in Yulin, a city in northwest China, in Shaanxi province. The meeting…"
+   }
+  },
+  {
+   "id": "bffdd30ac758a681",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/top-leader-gives-policy-speech-in-brussels-sharing-vision-for-viet-nameu-ties-post168156.html",
+   "date": "2026-10-23T16:21:54+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/-dirU_ca9oiedkCeBhcBOtrxawr2BBuUIvB5c9JcSVyyHyB1aEOQXNfiPwVrVRKH/tbt2.jpg.avif",
+   "title": {
+    "orig": "Top leader gives policy speech in Brussels, sharing vision for Viet Nam–EU ties",
+    "it": "Il massimo leader tiene un discorso politico a Bruxelles, condividendo la visione dei legami tra Vietnam e UE",
+    "en": "Top leader gives policy speech in Brussels, sharing vision for Viet Nam–EU ties"
+   },
+   "summary": {
+    "orig": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam delivered a policy speech at Egmont – The Royal Institute for International Relations in Brussels on October 23 afternoon (local time), with a focus on turning vision into action – from…",
+    "it": "Il Segretario Generale del Comitato Centrale del Partito Comunista del Vietnam e Presidente To Lam ha tenuto un discorso politico all'Egmont - Istituto reale per le relazioni internazionali a Bruxelles il 23 ottobre pomeriggio (ora locale), concentrandosi sulla trasformazione della visione in azione - da...",
+    "en": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam delivered a policy speech at Egmont – The Royal Institute for International Relations in Brussels on October 23 afternoon (local time), with a focus on turning vision into action – from…"
    }
   },
   {
@@ -1923,6 +2983,26 @@
    }
   },
   {
+   "id": "6160bc781b28f82a",
+   "source": "morningstar",
+   "name": "Morning Star",
+   "country": "GB",
+   "lang": "en",
+   "url": "https://morningstaronline.co.uk/article/market-wont-save-us-workers-must-lead-energy-transition",
+   "date": "2026-10-23T14:48:44+00:00",
+   "image": null,
+   "title": {
+    "orig": "The market won’t save us: workers must lead the energy transition",
+    "it": "Il mercato non ci salverà: i lavoratori devono guidare la transizione energetica",
+    "en": "The market won’t save us: workers must lead the energy transition"
+   },
+   "summary": {
+    "orig": "Britain is paying the price for leaving energy security to private profit. It’s time workers and their unions set the agenda for a fair transition, says MATT KERR",
+    "it": "La Gran Bretagna sta pagando il prezzo per aver lasciato la sicurezza energetica al profitto privato. È giunto il momento che i lavoratori e i loro sindacati definiscano l’agenda per una transizione equa, afferma MATT KERR",
+    "en": "Britain is paying the price for leaving energy security to private profit. It’s time workers and their unions set the agenda for a fair transition, says MATT KERR"
+   }
+  },
+  {
    "id": "eb07716bac7146fb",
    "source": "vermelho",
    "name": "Vermelho",
@@ -2140,6 +3220,26 @@
     "orig": "Vietnamese Ambassador to the US Nguyen Quoc Dung has praised the Asian-American Chamber of Commerce (AACC) for helping Vietnamese businesses and products reach US distributors, retail networks and trade partners. Seminar helps businesses expand presence in US market Prime…",
     "it": "L'ambasciatore vietnamita negli Stati Uniti Nguyen Quoc Dung ha elogiato la Camera di commercio asiatico-americana (AACC) per aver aiutato le aziende e i prodotti vietnamiti a raggiungere distributori, reti di vendita al dettaglio e partner commerciali statunitensi. Il seminario aiuta le aziende ad espandere la presenza nel mercato statunitense Prime...",
     "en": "Vietnamese Ambassador to the US Nguyen Quoc Dung has praised the Asian-American Chamber of Commerce (AACC) for helping Vietnamese businesses and products reach US distributors, retail networks and trade partners. Seminar helps businesses expand presence in US market Prime…"
+   }
+  },
+  {
+   "id": "aa3916bcccfa1723",
+   "source": "morningstar",
+   "name": "Morning Star",
+   "country": "GB",
+   "lang": "en",
+   "url": "https://morningstaronline.co.uk/article/chinas-green-revolutionary-changes-leave-west-trailing",
+   "date": "2026-10-23T14:05:21+00:00",
+   "image": null,
+   "title": {
+    "orig": "China’s green revolutionary changes leave the West trailing",
+    "it": "I cambiamenti rivoluzionari verdi della Cina lasciano l’Occidente in svantaggio",
+    "en": "China’s green revolutionary changes leave the West trailing"
+   },
+   "summary": {
+    "orig": "BEN CHACKO joins a multinational delegation to see first-hand Chinese advances in building an ecological civilisation and speak to global experts on its successes",
+    "it": "BEN CHACKO si unisce a una delegazione multinazionale per vedere in prima persona i progressi cinesi nella costruzione di una civiltà ecologica e parlare con esperti globali dei suoi successi",
+    "en": "BEN CHACKO joins a multinational delegation to see first-hand Chinese advances in building an ecological civilisation and speak to global experts on its successes"
    }
   },
   {
@@ -2380,6 +3480,26 @@
     "orig": "El Centro Nacional para la Producción de Animales de Laboratorio (Cenpalab), mereció uno de los Premios Nacionales de Innovación Tecnológica 2025 por el resultado Animales envejecidos: un biomodelo imprescindible para estudios preclínicos",
     "it": "Il Centro nazionale per la produzione di animali da laboratorio (Cenpalab) ha ricevuto uno dei Premi nazionali per l'innovazione tecnologica 2025 per il risultato Animali invecchiati: un biomodello essenziale per gli studi preclinici",
     "en": "The National Center for the Production of Laboratory Animals (Cenpalab) received one of the National Technological Innovation Awards 2025 for the result Aged animals: an essential biomodel for preclinical studies"
+   }
+  },
+  {
+   "id": "70e28709d9ab8424",
+   "source": "granma",
+   "name": "Granma",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.granma.cu/cuba-no-es-una-amenaza/2026-10-23/es-tambien-un-crimen-no-impugnar-al-bloqueo-que-abruma-y-mata-23-10-2026-09-10-07",
+   "date": "2026-10-23T13:10:07+00:00",
+   "image": null,
+   "title": {
+    "orig": "Es también un crimen no impugnar al bloqueo que abruma y mata",
+    "it": "È un crimine anche non sfidare il blocco che opprime e uccide",
+    "en": "It is also a crime not to challenge the blockade that overwhelms and kills"
+   },
+   "summary": {
+    "orig": "No es solo que exista el bloqueo, sino que este constituye un peso tan grande sobre un pueblo, que se convierte en carga que solo puede afrontarse por titanes de la resistencia",
+    "it": "Non solo il blocco esiste, ma costituisce un peso così grande per un popolo da diventare un peso che può essere affrontato solo dai titani della resistenza.",
+    "en": "It is not only that the blockade exists, but that it constitutes such a great weight on a people, that it becomes a burden that can only be faced by titans of resistance."
    }
   },
   {
@@ -3483,46 +4603,6 @@
    }
   },
   {
-   "id": "2a1ccd899fec8b9d",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/23/justica-condena-dois-ex-dirigentes-do-iges-df-por-esquema-de-corrupcao/",
-   "date": "2026-10-23T09:00:00+00:00",
-   "image": null,
-   "title": {
-    "orig": "Justiça condena dois ex-dirigentes do Iges-DF por esquema de corrupção",
-    "it": "La Corte condanna due ex leader dell'Iges-DF per schema di corruzione",
-    "en": "Court condemns two former Iges-DF leaders for corruption scheme"
-   },
-   "summary": {
-    "orig": "A 8ª Vara Criminal do Tribunal de Justiça do Distrito Federal (TJDFT) condenou, na quarta-feira (21), dois ex-integrantes da alta cúpula do Instituto de Gestão Estratégica de Saúde do Distrito Federal (Iges-DF) por corrupção passiva, e o empresário Waldenes Barbosa, dono da…",
-    "it": "L'ottavo tribunale penale della Corte di giustizia del Distretto Federale (TJDFT) ha condannato mercoledì (21) due ex membri dei massimi dirigenti dell'Istituto di Gestione Strategica Sanitaria del Distretto Federale (Iges-DF) per corruzione passiva, e l'imprenditore Waldenes Barbosa, proprietario di...",
-    "en": "The 8th Criminal Court of the Court of Justice of the Federal District (TJDFT) convicted, on Wednesday (21), two former members of the top leadership of the Institute of Strategic Health Management of the Federal District (Iges-DF) for passive corruption, and businessman Waldenes Barbosa, owner of…"
-   }
-  },
-  {
-   "id": "bb98930e77176a9a",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/23/das-pracas-de-roma-estudantes-e-militantes-contam-por-que-se-rebelam-contra-a-guerra-e-o-custo-de-vida/",
-   "date": "2026-10-23T09:00:00+00:00",
-   "image": null,
-   "title": {
-    "orig": "Das praças de Roma: estudantes e militantes contam por que se rebelam contra a guerra e o custo de vida",
-    "it": "Dalle piazze di Roma: studenti e attivisti raccontano perché si ribellano alla guerra e al carovita",
-    "en": "From the squares of Rome: students and activists tell why they rebel against war and the cost of living"
-   },
-   "summary": {
-    "orig": "Nos corredores de uma escola ocupada, nas assembleias dos centros sociais da periferia e nas passeatas que nas últimas semanas tomaram Roma, a pergunta é a mesma: quem paga a crise? A Itália vive seu outono mais quente em anos. Desde 16 de outubro, no “No Meloni Day”, estudantes…",
-    "it": "Nei corridoi di una scuola occupata, nelle assemblee dei centri sociali di periferia e nei cortei che hanno invaso Roma in queste settimane, la domanda è la stessa: chi paga la crisi? L’Italia sta vivendo l’autunno più caldo degli ultimi anni. Dal 16 ottobre, in occasione del “No Meloni Day”, gli studenti…",
-    "en": "In the corridors of an occupied school, in the assemblies of social centers on the outskirts and in the marches that have taken over Rome in recent weeks, the question is the same: who pays for the crisis? Italy is experiencing its hottest autumn in years. Since October 16th, on “No Meloni Day”, students…"
-   }
-  },
-  {
    "id": "8c5c1f73ee949d5a",
    "source": "sol",
    "name": "soL Haber",
@@ -4563,26 +5643,6 @@
    }
   },
   {
-   "id": "deb714e17fc6f2aa",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/accelerating-vat-refunds-to-unlock-business-capital-post168123.html",
-   "date": "2026-10-23T03:33:35+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/jWxpRLT3iFTt3QXGhnK8a9Hp0RuzVd79aAklWhWLcCqyEJeaAjeElcZVFgkx8Y_M/img.jpg.avif",
-   "title": {
-    "orig": "Accelerating VAT refunds to unlock business capital",
-    "it": "Accelerare i rimborsi IVA per sbloccare il capitale aziendale",
-    "en": "Accelerating VAT refunds to unlock business capital"
-   },
-   "summary": {
-    "orig": "Value-added tax (VAT) refunds had reached nearly 149.5 trillion VND (5.78 billion USD) by the end of September 2026, up around 46% year on year. To shorten processing times, the Ministry of Finance is focusing on data-driven and risk-based management, aiming to refund eligible…",
-    "it": "Alla fine di settembre 2026 i rimborsi dell’imposta sul valore aggiunto (IVA) avevano raggiunto quasi 149,5 trilioni di VND (5,78 miliardi di dollari), con un aumento di circa il 46% su base annua. Per abbreviare i tempi di elaborazione, il Ministero delle Finanze si sta concentrando su una gestione basata sui dati e sul rischio, con l'obiettivo di rimborsare gli ammissibili...",
-    "en": "Value-added tax (VAT) refunds had reached nearly 149.5 trillion VND (5.78 billion USD) by the end of September 2026, up around 46% year on year. To shorten processing times, the Ministry of Finance is focusing on data-driven and risk-based management, aiming to refund eligible…"
-   }
-  },
-  {
    "id": "2a69925f20a58258",
    "source": "arbejderen",
    "name": "Arbejderen",
@@ -4623,26 +5683,6 @@
    }
   },
   {
-   "id": "79be45198bd84763",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/infographic-viet-nams-16-comprehensive-strategic-partners-post168122.html",
-   "date": "2026-10-23T02:16:18+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/2SCbORzcoyKs4n_YN1aDeRUGhd_pHo8VlyV0OvMDNaZyLbTt4Nndl4eKr7517YZ62qSBwzd8Ui5jqlTpFpjrc93JOVC_Bro1yrHaDEulPtcWIjxT5ZSFZlgqcK4FkrbZuiqutjNrsz8IvSTl5h4w_apCpNzVFUyppGxMdujyuuk/1792513260540-1528117236743671738-1528117236743671738-9e797c256fe32c7c7b9c1cc03b0ca64e.jpg.avif",
-   "title": {
-    "orig": "[Infographic] Viet Nam's 16 Comprehensive Strategic Partners",
-    "it": "[Infografica] I 16 partner strategici globali del Vietnam",
-    "en": "[Infographic] Viet Nam's 16 Comprehensive Strategic Partners"
-   },
-   "summary": {
-    "orig": "During his state visit to the Kingdom of Denmark from October 19 to 21, 2026, General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam and Danish Prime Minister Mette Frederiksen issued a joint statement on the establishment of a Comprehensive…",
-    "it": "Durante la sua visita di Stato nel Regno di Danimarca dal 19 al 21 ottobre 2026, il Segretario generale del Comitato Centrale del Partito Comunista del Vietnam e Presidente To Lam e il Primo Ministro danese Mette Frederiksen hanno rilasciato una dichiarazione congiunta sulla creazione di un Comitato Centrale del Partito Comunista del Vietnam...",
-    "en": "During his state visit to the Kingdom of Denmark from October 19 to 21, 2026, General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam and Danish Prime Minister Mette Frederiksen issued a joint statement on the establishment of a Comprehensive…"
-   }
-  },
-  {
    "id": "4e0d06ec745df211",
    "source": "cubadebate",
    "name": "Cubadebate",
@@ -4663,26 +5703,6 @@
    }
   },
   {
-   "id": "ef5aa644027138b5",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/better-technology-and-innovative-teaching-keys-to-digital-transformation-in-education-post168121.html",
-   "date": "2026-10-23T01:54:18+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/2SCbORzcoyKs4n_YN1aDeX_5tPLCSK0nxl3qZs8TK_Pu46WP-WVDe-sR_gosfsO_1OuEoZCuahDrk3i2vB54YnyJIydVBOdT5j3QXIyvhT0/trien-lam-giao-duc-minh-duy-bao-ngan.jpg.avif",
-   "title": {
-    "orig": "Better technology and innovative teaching: Keys to digital transformation in education",
-    "it": "Migliore tecnologia e insegnamento innovativo: chiavi per la trasformazione digitale nell’istruzione",
-    "en": "Better technology and innovative teaching: Keys to digital transformation in education"
-   },
-   "summary": {
-    "orig": "More than a marketplace for educational equipment, the Vietnam International Education Exhibition 2026 (VietEdu Fair 2026) has also highlighted approaches to educational reform, including standardising STEM learning materials within the formal curriculum, promoting…",
-    "it": "Più che un mercato per attrezzature educative, la Vietnam International Education Exhibition 2026 (VietEdu Fair 2026) ha anche evidenziato gli approcci alla riforma educativa, inclusa la standardizzazione dei materiali di apprendimento STEM all'interno del curriculum formale, la promozione...",
-    "en": "More than a marketplace for educational equipment, the Vietnam International Education Exhibition 2026 (VietEdu Fair 2026) has also highlighted approaches to educational reform, including standardising STEM learning materials within the formal curriculum, promoting…"
-   }
-  },
-  {
    "id": "8254a4e37c58f80d",
    "source": "vermelho",
    "name": "Vermelho",
@@ -4700,26 +5720,6 @@
     "orig": "Os participantes da live comemoraram o resultado da pesquisa DataFolha na qual Lula aparece numericamente empatado com o adversário em 50%",
     "it": "I partecipanti dal vivo hanno festeggiato il risultato del sondaggio DataFolha in cui Lula appare numericamente a pari merito con il suo avversario al 50%",
     "en": "Live participants celebrated the result of the DataFolha survey in which Lula appears numerically tied with his opponent at 50%"
-   }
-  },
-  {
-   "id": "393a5782ece72f6e",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/22/ato-em-frente-a-globo-exige-que-debate-tenha-checagem-de-fatos-nao-so-nos-sites-mas-na-tv/",
-   "date": "2026-10-23T00:48:06+00:00",
-   "image": "https://www.brasildefato.com.br/wp-content/uploads/2026/10/protesto-globo-6c8a432e-scaled.webp",
-   "title": {
-    "orig": "Ato em frente à Globo exige que debate tenha checagem de fatos não só nos sites, mas na TV",
-    "it": "Agire di fronte a Globo chiede che il dibattito venga verificato non solo sui siti web, ma anche in TV",
-    "en": "Act in front of Globo demands that debate be fact-checked not only on websites, but on TV"
-   },
-   "summary": {
-    "orig": "Durante cerca de três horas, manifestantes fizeram um ato em frente à sede da Rede Globo, no Jardim Botânico, no Rio de Janeiro (RJ), nesta quinta-feira (22), para exigir que a emissora realize a checagem de fatos em tempo real na televisão durante o debate entre os candidatos à…",
-    "it": "Per circa tre ore, i manifestanti hanno manifestato davanti alla sede di Rede Globo, nel Jardim Botânico, a Rio de Janeiro (RJ), questo giovedì (22), per chiedere all'emittente di effettuare un fact-checking in tempo reale in televisione durante il dibattito tra i candidati a...",
-    "en": "For around three hours, protesters demonstrated in front of Rede Globo's headquarters, in Jardim Botânico, in Rio de Janeiro (RJ), this Thursday (22), to demand that the broadcaster carry out real-time fact-checking on television during the debate between candidates for…"
    }
   },
   {
@@ -4760,226 +5760,6 @@
     "orig": "A 36 años de la fundación del Centro por idea del Comandante en Jefe Fidel Castro Ruz, este 22 de octubre el lugar reabrió sus puertas en una primera etapa, durante la cual se formarán instructores de rehabilitación que extenderán sus saberes a todas las comunidades del país.…",
     "it": "36 anni dopo la fondazione del Centro per idea del Comandante in Capo Fidel Castro Ruz, questo 22 ottobre il centro ha riaperto le sue porte in una prima fase, durante la quale verranno formati istruttori di riabilitazione che estenderanno le loro conoscenze a tutte le comunità del paese.…",
     "en": "36 years after the founding of the Center by the idea of Commander in Chief Fidel Castro Ruz, this October 22 the place reopened its doors in a first stage, during which rehabilitation instructors will be trained who will extend their knowledge to all communities in the country.…"
-   }
-  },
-  {
-   "id": "12597f5458e14926",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/22/especialistas-alertam-para-riscos-da-desinformacao-e-orientam-eleitores-a-consultar-fontes-oficiais-no-segundo-turno/",
-   "date": "2026-10-23T00:33:20+00:00",
-   "image": "https://www.brasildefato.com.br/wp-content/uploads/2026/10/imagemmateria-f595e869.webp",
-   "title": {
-    "orig": "Especialistas alertam para riscos da desinformação e orientam eleitores a consultar fontes oficiais no segundo turno",
-    "it": "Gli esperti avvertono dei rischi di disinformazione e consigliano agli elettori di consultare fonti ufficiali nel secondo turno",
-    "en": "Experts warn of the risks of misinformation and advise voters to consult official sources in the second round"
-   },
-   "summary": {
-    "orig": "Além de verificar as orientações e informações práticas sobre a votação para o segundo turno, o eleitor brasileiro deve ter cuidado com conteúdos que circulam nas redes sociais e em aplicativos de mensagens. Na reta final da campanha que se encerra neste domingo (25)…",
-    "it": "Oltre a verificare le linee guida e le informazioni pratiche sul voto al secondo turno, gli elettori brasiliani dovrebbero fare attenzione ai contenuti che circolano sui social network e sulle applicazioni di messaggistica. Nel tratto finale della campagna che si conclude questa domenica (25)…",
-    "en": "In addition to checking the guidelines and practical information about voting for the second round, Brazilian voters should be careful with content circulating on social networks and messaging applications. In the final stretch of the campaign that ends this Sunday (25)…"
-   }
-  },
-  {
-   "id": "3dc3c1cfb8126e12",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/22/quem-nao-deve-nao-recorta-lula-usa-frase-de-flavio-bolsonaro-e-pede-que-tse-requisite-os-sigilos/",
-   "date": "2026-10-23T00:28:49+00:00",
-   "image": "https://www.brasildefato.com.br/wp-content/uploads/2026/10/555983701297d3501c035o-72ab21e9-scaled.webp",
-   "title": {
-    "orig": "‘Quem não deve, não recorta’: Lula usa frase de Flávio Bolsonaro e pede que TSE requisite os sigilos",
-    "it": "“Chi non dovrebbe, non lo tagli”: Lula usa la frase di Flávio Bolsonaro e chiede al TSE di richiedere il segreto",
-    "en": "‘Those who shouldn’t, don’t cut it’: Lula uses Flávio Bolsonaro’s phrase and asks the TSE to request secrecy"
-   },
-   "summary": {
-    "orig": "A campanha do presidente Luiz Inácio Lula da Silva (PT) protocolou, na noite desta quinta-feira (22), uma nova petição no Tribunal Superior Eleitoral (TSE) em que pede que o próprio tribunal requisite os dados bancários, fiscais e telefônicos dos candidatos às fontes oficiais e…",
-    "it": "La campagna del presidente Luiz Inácio Lula da Silva (PT) ha presentato, giovedì sera (22), una nuova istanza al Tribunale Superiore Elettorale (TSE) in cui chiede che il tribunale stesso richieda i dati bancari, fiscali e telefonici dei candidati da fonti ufficiali e...",
-    "en": "The campaign of President Luiz Inácio Lula da Silva (PT) filed, on Thursday night (22), a new petition with the Superior Electoral Court (TSE) in which it requests that the court itself request the candidates' bank, tax and telephone details from official sources and…"
-   }
-  },
-  {
-   "id": "9aaf472d5304c787",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/22/o-que-nao-pode-haver-e-alternancia-de-regime-diz-marina-silva-em-ato-de-frente-ampla-por-lula/",
-   "date": "2026-10-23T00:19:48+00:00",
-   "image": "https://www.brasildefato.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-22-211606-26cb4f64.webp",
-   "title": {
-    "orig": "‘O que não pode haver é alternância de regime’, diz Marina Silva em ato de frente ampla por Lula",
-    "it": "“Quello che non può essere è un’alternanza di regimi”, dice Marina Silva a largo raggio per Lula",
-    "en": "‘What cannot be is an alternation of regimes’, says Marina Silva in a broad front for Lula"
-   },
-   "summary": {
-    "orig": "O vice-presidente Geraldo Alckmin (PSB) encerrou, na noite desta quinta-feira (22), o Ato de Frente Ampla pela Democracia e pela Soberania, na Casa de Portugal, no bairro da Liberdade, em São Paulo (SP). Organizado pelo Direitos Já! Fórum pela Democracia, o encontro reuniu…",
-    "it": "Il vicepresidente Geraldo Alckmin (PSB) ha chiuso, giovedì sera (22), la legge del Fronte Ampio per la Democrazia e la Sovranità, presso la Casa de Portugal, nel quartiere Liberdade, a San Paolo (SP). Organizzato da Rights Now! Forum per la Democrazia, l’incontro ha riunito...",
-    "en": "Vice-president Geraldo Alckmin (PSB) closed, on Thursday night (22), the Broad Front for Democracy and Sovereignty Act, at Casa de Portugal, in the Liberdade neighborhood, in São Paulo (SP). Organized by Rights Now! Forum for Democracy, the meeting brought together…"
-   }
-  },
-  {
-   "id": "c6ead835719d5eae",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/22/segundo-turno-confira-mudancas-e-informacoes-importantes-para-a-votacao-neste-domingo-25/",
-   "date": "2026-10-23T00:16:34+00:00",
-   "image": "https://www.brasildefato.com.br/wp-content/uploads/2026/10/image-1140-fe1308695506c593d1403cbcb1a95615-1b2b8a1f.webp",
-   "title": {
-    "orig": "Segundo turno: confira mudanças e informações importantes para a votação neste domingo (25)",
-    "it": "Secondo turno: scopri le modifiche importanti e le informazioni per votare questa domenica (25)",
-    "en": "Second round: check out important changes and information for voting this Sunday (25)"
-   },
-   "summary": {
-    "orig": "O Brasil chegou na reta final das eleições presidenciais de 2026, que devem se encerrar neste domingo (25), com o anúncio do novo Presidente da República. Mas, além disso, alguns estados brasileiros como Rio Grande do Norte, Distrito Federal, Amazonas e outros, devem também…",
-    "it": "Il Brasile è giunto alla fase finale delle elezioni presidenziali del 2026, che dovrebbero concludersi questa domenica (25), con l’annuncio del nuovo Presidente della Repubblica. Ma, in più, anche alcuni stati brasiliani come Rio Grande do Norte, Distrito Federal, Amazonas e altri, devono...",
-    "en": "Brazil has reached the final stretch of the 2026 presidential elections, which should end this Sunday (25), with the announcement of the new President of the Republic. But, in addition, some Brazilian states such as Rio Grande do Norte, Distrito Federal, Amazonas and others, must also…"
-   }
-  },
-  {
-   "id": "cec5dac9698e0bdd",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/22/em-live-de-janones-com-lula-jao-e-marieta-severo-convocam-jovens-e-idosos-para-o-vira-voto/",
-   "date": "2026-10-23T00:16:21+00:00",
-   "image": "https://www.brasildefato.com.br/wp-content/uploads/2026/10/janones-e-lula-67871b55.webp",
-   "title": {
-    "orig": "Em live de Janones com Lula, Jão e Marieta Severo convocam jovens e idosos para o vira-voto",
-    "it": "In una diretta di Janones con Lula, Jão e Marieta Severo invitano giovani e anziani a votare",
-    "en": "In a live broadcast of Janones with Lula, Jão and Marieta Severo call on young and old people to vote"
-   },
-   "summary": {
-    "orig": "Organizada pelo deputado André Janones (Rede-MG), a live com o candidato e presidente da República, Luiz Inácio Lula da Silva (PT), começou com a participação do cantor Jão e da atriz Marieta Severo, que convocaram jovens e idosos para participarem do segundo turno das eleições.…",
-    "it": "Organizzata dal deputato André Janones (Rede-MG), la diretta con il candidato e presidente della Repubblica Luiz Inácio Lula da Silva (PT), è iniziata con la partecipazione del cantante Jão e dell'attrice Marieta Severo, che hanno invitato giovani e anziani a partecipare al secondo turno elettorale.…",
-    "en": "Organized by deputy André Janones (Rede-MG), the live with the candidate and president of the Republic, Luiz Inácio Lula da Silva (PT), began with the participation of singer Jão and actress Marieta Severo, who called on young and old people to participate in the second round of elections.…"
-   }
-  },
-  {
-   "id": "cfef3895c8f10996",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/top-leader-visits-port-of-antwerp-bruges-in-belgium-post168120.html",
-   "date": "2026-10-23T00:04:01+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/-dirU_ca9oiedkCeBhcBOm0vndHMXCXaY35hG1ufUwCnuf-yM9II81VPn7Cik_Du/vnanet-port.jpg.avif",
-   "title": {
-    "orig": "Top leader visits Port of Antwerp-Bruges in Belgium",
-    "it": "Il massimo leader visita il porto di Anversa-Bruges in Belgio",
-    "en": "Top leader visits Port of Antwerp-Bruges in Belgium"
-   },
-   "summary": {
-    "orig": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam and a high-ranking Vietnamese delegation visited the Port of Antwerp-Bruges on the afternoon of October 22 (local time), as part of his trip to the European Union and Belgium. Viet Nam…",
-    "it": "Il segretario generale del Comitato Centrale del Partito Comunista del Vietnam e presidente To Lam e una delegazione vietnamita di alto rango hanno visitato il porto di Anversa-Bruges nel pomeriggio del 22 ottobre (ora locale), nell'ambito del suo viaggio nell'Unione Europea e in Belgio. Vietnam…",
-    "en": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam and a high-ranking Vietnamese delegation visited the Port of Antwerp-Bruges on the afternoon of October 22 (local time), as part of his trip to the European Union and Belgium. Viet Nam…"
-   }
-  },
-  {
-   "id": "012b33e2431de82f",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/22/pgr-da-parecer-contra-pedido-de-acesso-a-registro-de-vorcaro-no-senado/",
-   "date": "2026-10-23T00:03:03+00:00",
-   "image": "https://www.brasildefato.com.br/wp-content/uploads/2026/09/paulo-gonet-8f7c1185.webp",
-   "title": {
-    "orig": "PGR dá parecer contra pedido de acesso a registro de Vorcaro no Senado",
-    "it": "La PGR si pronuncia contro la richiesta di accesso agli atti di Vorcaro al Senato",
-    "en": "PGR gives opinion against request for access to Vorcaro's record in the Senate"
-   },
-   "summary": {
-    "orig": "O procurador-geral da República, Paulo Gonet, enviou nesta quinta-feira (22) ao Supremo Tribunal Federal (STF) parecer contrário ao pedido de acesso a eventuais registros de entrada e saída da advogada Viviane Barci, esposa do ministro Alexandre de Moraes, e do ex-banqueiro…",
-    "it": "Il Procuratore Generale della Repubblica, Paulo Gonet, ha inviato questo giovedì (22) al Tribunale Supremo Federale (STF) un parere contrario alla richiesta di accesso ai possibili registri di entrata e di uscita dell'avvocato Viviane Barci, moglie del ministro Alexandre de Moraes, e dell'ex banchiere...",
-    "en": "The Attorney General of the Republic, Paulo Gonet, sent this Thursday (22) to the Federal Supreme Court (STF) an opinion opposing the request for access to possible entry and exit records of the lawyer Viviane Barci, wife of minister Alexandre de Moraes, and the former banker..."
-   }
-  },
-  {
-   "id": "526fc0e45f738536",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/top-leader-holds-talks-with-european-council-president-post168119.html",
-   "date": "2026-10-22T23:57:30+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/-dirU_ca9oiedkCeBhcBOoASQ0uhfo7I2vSmWYWIIiywkulBwXTGcj3O-ziIvs6ierltmJ9TGczpO2Dc3HTzev868u04IdvYwiWDLQcsOx-_iL7hSyaMTtqDaPmwN7N2pOiO1O6aW7nVpB7no26ZCQ/vna-potal-tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-chu-tich-hoi-dong-chau-au.jpg.avif",
-   "title": {
-    "orig": "Top leader holds talks with European Council President",
-    "it": "Il massimo leader tiene colloqui con il presidente del Consiglio europeo",
-    "en": "Top leader holds talks with European Council President"
-   },
-   "summary": {
-    "orig": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam has held talks with European Council President António Costa as part of his official visit to the European Union (EU). Viet Nam regards European Union as one of its priority partners: Top…",
-    "it": "Il Segretario Generale del Comitato Centrale del Partito Comunista del Vietnam e Presidente To Lam ha avuto un colloquio con il Presidente del Consiglio Europeo António Costa nell'ambito della sua visita ufficiale all'Unione Europea (UE). Il Vietnam considera l’Unione Europea come uno dei suoi partner prioritari: Top…",
-    "en": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam has held talks with European Council President António Costa as part of his official visit to the European Union (EU). Viet Nam regards European Union as one of its priority partners: Top…"
-   }
-  },
-  {
-   "id": "bd24a1fbcc5323c5",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/podcast/brasil-de-fato-entrevista/2026/10/22/proposta-de-flexibilizacao-do-trabalho-nao-tem-espaco-para-direitos-diz-professor-da-unicamp/",
-   "date": "2026-10-22T23:50:59+00:00",
-   "image": "https://www.brasildefato.com.br/wp-content/uploads/2026/10/ricardo-antunes-fd4ace74.webp",
-   "title": {
-    "orig": "‘Proposta de flexibilização do trabalho não tem espaço para direitos’, diz professor da Unicamp",
-    "it": "“La proposta di rendere il lavoro più flessibile non lascia spazio ai diritti”, afferma il professore Unicamp",
-    "en": "‘Proposal to make work more flexible has no space for rights’, says Unicamp professor"
-   },
-   "summary": {
-    "orig": "Em uma época de campanhas eleitorais cada vez mais despolitizadas, a de 2026 teve ao menos uma boa surpresa: o tema do trabalho se tornou central no discurso dos candidatos. Isso aconteceu, em grande parte, por causa da Proposta de Emenda à Constituição (PEC) do fim da escala…",
-    "it": "In un periodo di campagne elettorali sempre più depoliticizzate, la campagna 2026 ha avuto almeno una bella sorpresa: il tema del lavoro è diventato centrale nel discorso dei candidati. Ciò è avvenuto, in gran parte, a causa della Proposta di Emendamento alla Costituzione (PEC) all’estremità della scala…",
-    "en": "In a time of increasingly depoliticized electoral campaigns, the 2026 campaign had at least one good surprise: the theme of work became central in the candidates' speech. This happened, in large part, because of the Proposed Amendment to the Constitution (PEC) at the end of the scale…"
-   }
-  },
-  {
-   "id": "676b1c36a32b33d6",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/22/meta-nao-pode-achar-que-pode-enganar-a-humanidade-ela-vai-ter-que-se-enquadrar-diz-lula-com-janones/",
-   "date": "2026-10-22T23:34:43+00:00",
-   "image": "https://www.brasildefato.com.br/wp-content/uploads/2026/10/whatsapp-image-2026-10-22-at-203127-59647b4d.webp",
-   "title": {
-    "orig": "Meta não pode achar que pode enganar a humanidade, ela vai ter que se enquadrar, diz Lula com Janones",
-    "it": "Meta non può pensare di ingannare l'umanità, dovrà adattarsi, dice Lula con Janones",
-    "en": "Meta cannot think he can deceive humanity, he will have to adapt, says Lula with Janones"
-   },
-   "summary": {
-    "orig": "Em live com o deputado André Janones, presidente defendeu a regulamentação das plataformas digitais Fonte",
-    "it": "In diretta con il deputato André Janones, il presidente ha difeso la regolamentazione delle piattaforme digitali Source",
-    "en": "Live with deputy André Janones, president defended the regulation of digital platforms Source"
-   }
-  },
-  {
-   "id": "5522209d8f3490a2",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/22/meta-vai-no-maximo-levar-uma-multa-mas-nao-ha-como-repor-tempo-perdido-a-campanha-de-lula-afirma-jurista/",
-   "date": "2026-10-22T23:22:10+00:00",
-   "image": "https://www.brasildefato.com.br/wp-content/uploads/2026/10/meta-770d5fa2.webp",
-   "title": {
-    "orig": "‘Meta vai, no máximo, levar uma multa’, mas não há como repor tempo perdido à campanha de Lula, afirma jurista",
-    "it": "«Meta al massimo prenderà una multa», ma non c'è modo di recuperare il tempo perduto nella campagna di Lula, dice il giurista",
-    "en": "‘Meta will, at most, get a fine’, but there is no way to make up for lost time in Lula’s campaign, says jurist"
-   },
-   "summary": {
-    "orig": "O favorecimento que a Meta fez à campanha de Flávio Bolsonaro (PL), recomendando posts e canais, e os prejuízos ao impulsionamento e engajamento da campanha do presidente Luiz Inácio Lula da Silva (PT) geraram danos possivelmente irreparáveis à corrida eleitoral. Ao Conexão BdF…",
-    "it": "Il favore di Meta alla campagna di Flávio Bolsonaro (PL), raccomandando post e canali, e il danno alla promozione e all'impegno della campagna del presidente Luiz Inácio Lula da Silva (PT) hanno causato danni forse irreparabili alla corsa elettorale. A Conexão BdF…",
-    "en": "Meta's favoring of Flávio Bolsonaro's (PL) campaign, recommending posts and channels, and the damage to the promotion and engagement of President Luiz Inácio Lula da Silva's (PT) campaign caused possibly irreparable damage to the electoral race. To Conexão BdF…"
    }
   },
   {
@@ -5263,26 +6043,6 @@
    }
   },
   {
-   "id": "385f19e37bb9525f",
-   "source": "sol",
-   "name": "soL Haber",
-   "country": "TR",
-   "lang": "tr",
-   "url": "https://haber.sol.org.tr/haber/izmirde-bir-polis-nisanli-oldugu-kadini-katlettikten-sonra-intihar-etti-415295",
-   "date": "2026-10-22T20:32:42+00:00",
-   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/22/polis.jpg.webp?itok=NwW3xmfQ",
-   "title": {
-    "orig": "İzmir'de bir polis, nişanlı olduğu kadını katlettikten sonra intihar etti",
-    "it": "Un agente di polizia di Izmir si è suicidato dopo aver ucciso la donna con cui era fidanzato.",
-    "en": "A police officer in Izmir committed suicide after murdering the woman he was engaged to."
-   },
-   "summary": {
-    "orig": "Haber Merkezi İzmir’in Menemen ilçesinde polis memuru Aykut Erol, nişanlı olduğu avukat Özge Penbegül’ü tabancayla öldürdükten sonra intihar etti. İzmir'in Menemen ilçesinde polis Aykut Erol, nişanlı olduğu avukat Özge Penbegül'ü tabancayla katledip, intihar etti. DHA'nın…",
-    "it": "Centro notizie Nel quartiere Menemen di Izmir, l'ufficiale di polizia Aykut Erol si è suicidato dopo aver ucciso con una pistola la sua fidanzata, l'avvocato Özge Penbegül. Nel quartiere Menemen di Izmir, l'agente di polizia Aykut Erol ha ucciso con una pistola la sua fidanzata, l'avvocato Özge Penbegül, e si è suicidato. DHA...",
-    "en": "News Center In Izmir's Menemen district, police officer Aykut Erol committed suicide after killing his fiancee, lawyer Özge Penbegül, with a gun. In Izmir's Menemen district, police officer Aykut Erol killed his fiancée, lawyer Özge Penbegül, with a gun and committed suicide. DHA…"
-   }
-  },
-  {
    "id": "8f4926fc70b73e20",
    "source": "vermelho",
    "name": "Vermelho",
@@ -5340,6 +6100,26 @@
     "orig": "La política inhumana que lacera a Cuba, es una realidad que impacta a todo el pueblo",
     "it": "La politica disumana che dilania Cuba è una realtà che colpisce tutti i popoli",
     "en": "The inhuman policy that lacerates Cuba is a reality that impacts all the people"
+   }
+  },
+  {
+   "id": "4d7b4608c606c3dd",
+   "source": "granma",
+   "name": "Granma",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.granma.cu/cuba/2026-10-22/audiencia-parlamentaria-denuncio-el-impacto-del-bloqueo-contra-cuba-22-10-2026-16-10-07",
+   "date": "2026-10-22T20:10:07+00:00",
+   "image": null,
+   "title": {
+    "orig": "Audiencia parlamentaria denunció el impacto del bloqueo contra Cuba",
+    "it": "Un’udienza parlamentare ha denunciato l’impatto del blocco contro Cuba",
+    "en": "Parliamentary hearing denounced the impact of the blockade against Cuba"
+   },
+   "summary": {
+    "orig": "La Audiencia Pública Parlamentaria, realizada en el Instituto Nacional de Oncología y Radiobiología, denunció los efectos humanos del cerco económico, comercial y financiero impuesto por Estados Unidos y convocó a la solidaridad internacional ante la próxima votación en Naciones…",
+    "it": "L'Audizione Pubblica Parlamentare, tenutasi presso l'Istituto Nazionale di Oncologia e Radiobiologia, ha denunciato gli effetti umani del blocco economico, commerciale e finanziario imposto dagli Stati Uniti e ha chiesto solidarietà internazionale prima del prossimo voto alle Nazioni Unite...",
+    "en": "The Parliamentary Public Hearing, held at the National Institute of Oncology and Radiobiology, denounced the human effects of the economic, commercial and financial blockade imposed by the United States and called for international solidarity before the upcoming vote in the United Nations..."
    }
   },
   {
@@ -5623,26 +6403,6 @@
    }
   },
   {
-   "id": "c01d4284efc5e9cd",
-   "source": "sol",
-   "name": "soL Haber",
-   "country": "TR",
-   "lang": "tr",
-   "url": "https://haber.sol.org.tr/haber/kilicdaroglundan-akpye-ulke-yangin-yeriyken-hangi-erken-secimi-yapacaksiniz-415293",
-   "date": "2026-10-22T19:15:15+00:00",
-   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/22/kk.jpg.webp?itok=gOTeosYH",
-   "title": {
-    "orig": "Kılıçdaroğlu'ndan AKP'ye: 'Ülke yangın yeriyken hangi erken seçimi yapacaksınız?'",
-    "it": "Da Kılıçdaroğlu all'AKP: 'Quali elezioni anticipate terrete quando il Paese sarà in fiamme?'",
-    "en": "From Kılıçdaroğlu to AKP: 'Which early election will you hold when the country is on fire?'"
-   },
-   "summary": {
-    "orig": "Haber Merkezi İktidar cephesinden gelen erken seçim açıklamalarını değerlendiren Kılıçdaroğlu, TBMM'nin böyle bir karara hazır olmadığını savundu. Türkiye'nin içinde bulunduğu tablo düzelmeden bir seçimin anlamı olmadığını söyleyen Kılıçdaroğlu, \"Beceremezlerse seçim zaten…",
-    "it": "Centro notizie Valutando le dichiarazioni del partito al potere sulle elezioni anticipate, Kılıçdaroğlu ha affermato che la Grande Assemblea Nazionale turca non era pronta per una simile decisione. Kılıçdaroğlu ha affermato che non ha senso tenere elezioni finché l'attuale situazione in Turchia non migliorerà e ha aggiunto: \"Se non possono farlo, le elezioni sono già...",
-    "en": "News Center Evaluating the early election statements from the ruling party, Kılıçdaroğlu argued that the Turkish Grand National Assembly was not ready for such a decision. Kılıçdaroğlu said that there is no point in holding an election until Türkiye's current situation improves and added: \"If they can't do it, the election is already…"
-   }
-  },
-  {
    "id": "63a016b8b9b5134a",
    "source": "cubadebate",
    "name": "Cubadebate",
@@ -5660,6 +6420,26 @@
     "orig": "¿Cumplen los mercados de barrio su propósito de ofrecer alimentos a precios más asequibles? Los lectores de Cubadebate comparten sus experiencias, cuestionan los precios y señalan dificultades con los pagos y el acceso a estos establecimientos. Aquí también podrán consultar las…",
     "it": "I mercati di quartiere soddisfano il loro scopo di offrire cibo a prezzi più convenienti? I lettori di Cubadebate condividono le loro esperienze, mettono in discussione i prezzi e segnalano le difficoltà con i pagamenti e l'accesso a questi stabilimenti. Qui potete anche consultare il…",
     "en": "Do neighborhood markets fulfill their purpose of offering food at more affordable prices? Cubadebate readers share their experiences, question prices and point out difficulties with payments and access to these establishments. Here you can also consult the…"
+   }
+  },
+  {
+   "id": "c672daf2eb3859fe",
+   "source": "granma",
+   "name": "Granma",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.granma.cu/diarios-de-navegacion/2026-10-22/china-sigue-fortaleciendo-y-expandiendo-su-industria-manufacturera-avanzada-22-10-2026-15-10-54",
+   "date": "2026-10-22T19:10:54+00:00",
+   "image": null,
+   "title": {
+    "orig": "China sigue fortaleciendo y expandiendo su industria manufacturera avanzada",
+    "it": "La Cina continua a rafforzare ed espandere la sua industria manifatturiera avanzata",
+    "en": "China continues to strengthen and expand its advanced manufacturing industry"
+   },
+   "summary": {
+    "orig": "China se consolida como potencia mundial de la manufactura avanzada: uno de cada tres autos vendidos en el planeta se fabrica allí, y su industria aporta casi el 30% del valor global. Conozca más en el siguiente artículo, publicado por Diario del Pueblo",
+    "it": "La Cina si sta consolidando come potenza mondiale nel settore manifatturiero avanzato: un’auto su tre venduta sul pianeta è prodotta lì, e la sua industria contribuisce per quasi il 30% al valore globale. Scopri di più nel seguente articolo, pubblicato da Diario del Pueblo",
+    "en": "China is consolidating itself as a world power in advanced manufacturing: one in every three cars sold on the planet is manufactured there, and its industry contributes almost 30% of the global value. Learn more in the following article, published by Diario del Pueblo"
    }
   },
   {
@@ -5720,26 +6500,6 @@
     "orig": "Meta, condenada a pagar 18 mil millones de dólares por el diseño adictivo de sus aplicaciones y su impacto negativo en adolescentes. Este llamativo titular abrió hace varias semanas numerosos telediarios y periódicos en todo el mundo, incluido nuestro país, donde se señalaba sin…",
     "it": "Meta, condannato a pagare 18 miliardi di dollari per il design avvincente delle sue applicazioni e il suo impatto negativo sugli adolescenti. Questo titolo sorprendente ha aperto diverse settimane fa numerosi telegiornali e giornali di tutto il mondo, compreso il nostro Paese, dove è stato affermato senza...",
     "en": "Meta, sentenced to pay 18 billion dollars for the addictive design of its applications and its negative impact on adolescents. This striking headline opened several weeks ago numerous news programs and newspapers around the world, including our country, where it was stated without…"
-   }
-  },
-  {
-   "id": "89d6d1bb575fb9bf",
-   "source": "sol",
-   "name": "soL Haber",
-   "country": "TR",
-   "lang": "tr",
-   "url": "https://haber.sol.org.tr/kuba-gercegi/abluka-gunlukleri-232-21-ekim-2026-carsamba-415292",
-   "date": "2026-10-22T18:38:42+00:00",
-   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/22/kuba-1.jpg.webp?itok=IWZYt13w",
-   "title": {
-    "orig": "Abluka Günlükleri 232 | 21 Ekim 2026 Çarşamba",
-    "it": "Cronache del blocco 232 | Mercoledì 21 ottobre 2026",
-    "en": "Blockade Chronicles 232 | Wednesday, October 21, 2026"
-   },
-   "summary": {
-    "orig": "Haber Merkezi ABD'nin 28 Ekim'deki BM oylaması öncesi baskılarına ve Raúl Castro'yu hedef alan hamlelerine uluslararası tepkiler büyürken, Küba ise Ukrayna savaşına asker gönderdiğine yönelik iddiaları yalanladı. Abluka ve enerji krizine karşı direnişini sürdüren ada, eğitim ve…",
-    "it": "Centro Notizie Mentre crescevano le reazioni internazionali alle pressioni degli Stati Uniti prima del voto dell'ONU del 28 ottobre e alle sue mosse contro Raúl Castro, Cuba ha negato le accuse di aver inviato truppe nella guerra in Ucraina. Continuando la sua resistenza contro il blocco e la crisi energetica, l’isola…",
-    "en": "News Center While international reactions to the US's pressures before the UN vote on October 28 and its moves targeting Raúl Castro grew, Cuba denied the allegations that it sent troops to the Ukraine war. Continuing its resistance against the blockade and energy crisis, the island…"
    }
   },
   {
@@ -6323,26 +7083,6 @@
    }
   },
   {
-   "id": "6cfba7549d7fbaff",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/-/-/draft-5",
-   "date": "2026-10-22T16:00:27+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2024/04/9.jpg?w=672",
-   "title": {
-    "orig": "Marine Tondelier : « On sort de cette réunion encore plus inquiets qu’on n’y était rentrés »",
-    "it": "Marine Tondelier: “Abbiamo lasciato questa riunione ancora più preoccupati di quanto siamo entrati”",
-    "en": "Marine Tondelier: “We left this meeting even more worried than we entered”"
-   },
-   "summary": {
-    "orig": "« On sort de cette réunion encore plus inquiets qu’on n’y était rentrés », a réagi la secrétaire nationale des Écologistes, Marine Tondelier, à la sortie de l’Hôtel de Matignon, regrettant l’absence de réponse aux revendications sociales. « J’ai le regret de vous annoncer qu’on…",
-    "it": "“Usciamo da questa riunione ancora più preoccupati di come siamo entrati”, ha reagito la segretaria nazionale degli Ecologisti, Marine Tondelier, all'uscita dell'Hôtel de Matignon, rammaricandosi della mancata risposta alle rivendicazioni sociali. \"Mi dispiace informarvi che noi...",
-    "en": "“We are leaving this meeting even more worried than we entered it,” reacted the national secretary of the Ecologists, Marine Tondelier, at the exit of the Hôtel de Matignon, regretting the lack of response to social demands. “I regret to inform you that we…"
-   }
-  },
-  {
    "id": "6230dde9b872d5cd",
    "source": "cubadebate",
    "name": "Cubadebate",
@@ -6360,26 +7100,6 @@
     "orig": "El Centro Educativo Comandante Fidel Castro Ruz, que funciona hoy en Ciudad Sandino, constituye un homenaje permanente al legado del comandante en jefe, y a los lazos de hermandad entre Nicaragua y Cuba. The post Centro educativo en Nicaragua rinde homenaje permanente al legado…",
     "it": "Il Centro Educativo Comandante Fidel Castro Ruz, che opera oggi a Ciudad Sandino, costituisce un tributo permanente all’eredità del comandante in capo e ai legami di fratellanza tra Nicaragua e Cuba. Il Centro post-educativo in Nicaragua rende omaggio permanente all’eredità…",
     "en": "The Comandante Fidel Castro Ruz Educational Center, which operates today in Ciudad Sandino, constitutes a permanent tribute to the legacy of the commander in chief, and to the ties of brotherhood between Nicaragua and Cuba. The post Educational center in Nicaragua pays permanent tribute to the legacy…"
-   }
-  },
-  {
-   "id": "71603a43e5c62d63",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/social-et-economie/cancer-du-sein/octobre-rose-quand-lentreprise-imperial-chemical-industry-creee-la-campagne-de-sensibilisation-le-remede-et-le-poison",
-   "date": "2026-10-22T15:55:52+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/p13-Octobre-rose_VEN.jpg?w=1200",
-   "title": {
-    "orig": "Octobre rose : quand l’entreprise Imperial Chemical Industry créée la campagne de sensibilisation, le remède et le poison",
-    "it": "Ottobre rosa: quando l'azienda Imperial Chemical Industry creò la campagna di sensibilizzazione, la cura e il veleno",
-    "en": "Pink October: when the company Imperial Chemical Industry created the awareness campaign, the cure and the poison"
-   },
-   "summary": {
-    "orig": "Initiée aux États-Unis en 1985 avec le soutien financier d’un géant des pesticides et de l’industrie pharmaceutique, la campagne de sensibilisation au cancer du sein persiste à ignorer les possibles causes structurelles de l’incidence croissance de cette pathologie.",
-    "it": "Avviata negli Stati Uniti nel 1985 con il sostegno finanziario di un colosso dei pesticidi e dell’industria farmaceutica, la campagna di sensibilizzazione sul cancro al seno continua a ignorare le possibili cause strutturali della crescente incidenza di questa patologia.",
-    "en": "Initiated in the United States in 1985 with the financial support of a pesticide giant and the pharmaceutical industry, the breast cancer awareness campaign continues to ignore the possible structural causes of the increasing incidence of this pathology."
    }
   },
   {
@@ -6420,106 +7140,6 @@
     "orig": "What are the qualities of a working-class leader that make their work endure and infuse labor with power long after we’ve lost them, as we did with Teamster principal officer Chris Silvera when he died",
     "it": "Quali sono le qualità di un leader della classe operaia che fanno sì che il suo lavoro duri e infonda potere ai lavoratori molto tempo dopo che li abbiamo persi, come abbiamo fatto con l'ufficiale principale del Teamster Chris Silvera quando è morto",
     "en": "What are the qualities of a working-class leader that make their work endure and infuse labor with power long after we’ve lost them, as we did with Teamster principal officer Chris Silvera when he died"
-   }
-  },
-  {
-   "id": "c28dd6b2cf9b32e7",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/tay-ninh-province-seeks-japanese-investment-in-high-value-industries-post168117.html",
-   "date": "2026-10-22T15:44:28+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/2SCbORzcoyKs4n_YN1aDeVXaP-dX30JTgb3Q7mPoqveWzOsjZvThdDZaRnVeN_2wczIC-INU4AcpPjmGMz12hU4BUmeQlmgbXlMdwgcRmLWyEJeaAjeElcZVFgkx8Y_M/grab69d431399300-1f04dffd81d842ac09e27187f5eb1818.jpg.avif",
-   "title": {
-    "orig": "Tay Ninh province seeks Japanese investment in high-value industries",
-    "it": "La provincia di Tay Ninh cerca investimenti giapponesi in industrie ad alto valore",
-    "en": "Tay Ninh province seeks Japanese investment in high-value industries"
-   },
-   "summary": {
-    "orig": "The southern province of Tay Ninh is seeking to attract more Japanese investment in high-tech industries, logistics, agricultural processing and green transition, aiming to strengthen economic ties and create new growth opportunities. Tay Ninh and Thanh Hoa strengthen…",
-    "it": "La provincia meridionale di Tay Ninh sta cercando di attrarre maggiori investimenti giapponesi nelle industrie high-tech, nella logistica, nella trasformazione agricola e nella transizione verde, con l’obiettivo di rafforzare i legami economici e creare nuove opportunità di crescita. Tay Ninh e Thanh Hoa si rafforzano...",
-    "en": "The southern province of Tay Ninh is seeking to attract more Japanese investment in high-tech industries, logistics, agricultural processing and green transition, aiming to strengthen economic ties and create new growth opportunities. Tay Ninh and Thanh Hoa strengthen…"
-   }
-  },
-  {
-   "id": "f80401a93680e0eb",
-   "source": "cubadebate",
-   "name": "Cubadebate",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.cubadebate.cu/noticias/2026/10/22/ujc-lanza-la-talla-es-hacer-campana-que-impulsa-el-protagonismo-de-la-juventud-cubana/",
-   "date": "2026-10-22T15:39:25+00:00",
-   "image": "https://media.cubadebate.cu/wp-content/uploads/2026/10/la-talla-es-hacer-0-e1792682384550.jpg",
-   "title": {
-    "orig": "UJC lanza “La talla, es hacer”, campaña que impulsa el protagonismo de la juventud cubana",
-    "it": "L’UJC lancia “Sizing is going”, una campagna che promuove la prominenza della gioventù cubana",
-    "en": "UJC launches “Sizing is doing”, a campaign that promotes the prominence of Cuban youth"
-   },
-   "summary": {
-    "orig": "Entre actividades y con la energía que caracteriza a las nuevas generaciones, se realizó este miércoles, en la capital, el lanzamiento oficial de la campaña “La talla, es hacer\", dando inicio a la jornada de celebración por los 65 años de la Unión de Jóvenes Comunistas (UJC), a…",
-    "it": "Tra le attività e con l’energia che caratterizza le nuove generazioni, si è tenuto questo mercoledì nella capitale il lancio ufficiale della campagna “Sizing is making”, che dà il via alla giornata di celebrazione per i 65 anni dell’Unione dei Giovani Comunisti (UJC),…",
-    "en": "Among activities and with the energy that characterizes the new generations, the official launch of the campaign “Sizing is doing” was held this Wednesday in the capital, kicking off the day of celebration for the 65 years of the Union of Young Communists (UJC),…"
-   }
-  },
-  {
-   "id": "2687f1f9d79f266b",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/world-news-in-brief-october-22-post168116.html",
-   "date": "2026-10-22T15:38:32+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/p2ez0OJodWakt2tDvENzIR_mmbTafomq4cPedDILROFWPAxDtNu_5O3M1PJJX09k/britain.png.avif",
-   "title": {
-    "orig": "World News in Brief: October 22",
-    "it": "Notizie dal mondo in breve: 22 ottobre",
-    "en": "World News in Brief: October 22"
-   },
-   "summary": {
-    "orig": "Russian President Vladimir Putin signed a series of decrees on Thursday appointing four deputy prime ministers, alongside a new minister of transport and a presidential aide. The appointments took effect on the day of signing, according to the documents. World News in Brief…",
-    "it": "Il presidente russo Vladimir Putin ha firmato giovedì una serie di decreti che nominano quattro vice primi ministri, insieme a un nuovo ministro dei trasporti e un assistente presidenziale. Secondo i documenti, le nomine hanno avuto effetto il giorno della firma. Notizie dal mondo in breve...",
-    "en": "Russian President Vladimir Putin signed a series of decrees on Thursday appointing four deputy prime ministers, alongside a new minister of transport and a presidential aide. The appointments took effect on the day of signing, according to the documents. World News in Brief…"
-   }
-  },
-  {
-   "id": "be3189275ec1ea45",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/viet-nam-laos-eye-to-boost-strategic-agricultural-cooperation-post168115.html",
-   "date": "2026-10-22T15:36:48+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/2SCbORzcoyKs4n_YN1aDeWJ95vksTYQH_AyGT65MyhOyEJeaAjeElcZVFgkx8Y_M/1.jpg.avif",
-   "title": {
-    "orig": "Viet Nam, Laos eye to boost strategic agricultural cooperation",
-    "it": "Vietnam e Laos puntano a rafforzare la cooperazione agricola strategica",
-    "en": "Viet Nam, Laos eye to boost strategic agricultural cooperation"
-   },
-   "summary": {
-    "orig": "An agricultural investment promotion conference was held in Vientiane on October 22 to translate Viet Nam-Laos economic, trade and investment cooperation goals into concrete action, following Vietnamese Prime Minister Le Minh Hung’s official visit to Laos. Viet Nam, Laos to turn…",
-    "it": "Il 22 ottobre si è tenuta a Vientiane una conferenza sulla promozione degli investimenti agricoli per tradurre gli obiettivi di cooperazione economica, commerciale e di investimento tra Vietnam e Laos in azioni concrete, a seguito della visita ufficiale del primo ministro vietnamita Le Minh Hung in Laos. Vietnam, Laos a turno…",
-    "en": "An agricultural investment promotion conference was held in Vientiane on October 22 to translate Viet Nam-Laos economic, trade and investment cooperation goals into concrete action, following Vietnamese Prime Minister Le Minh Hung’s official visit to Laos. Viet Nam, Laos to turn…"
-   }
-  },
-  {
-   "id": "cf9d01d50b88e1cf",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/joint-press-release-on-top-vietnamese-leaders-official-visit-to-european-union-post168114.html",
-   "date": "2026-10-22T15:25:38+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/2SCbORzcoyKs4n_YN1aDeZacUL5w5ylaLJkOowIuk5Eq3aR4uJQdwRvpoteolMhbX4vns1JzukPe1k2C5rRQ_UG4RgMSI_rnHjyiYO902a9_QtBrGQiN94zVdhX5CS0yySNMgwNzEkWCc4aA-Gakg_Q6os9YP4nQjxgou3a3A8M/vna-potal-le-don-tong-bi-thu-chu-tich-nuoc-to-lam-tham-chinh-thuc-lien-minh-chau-au.jpg.avif",
-   "title": {
-    "orig": "Joint press release on top Vietnamese leader's official visit to European Union",
-    "it": "Comunicato stampa congiunto sulla visita ufficiale del massimo leader vietnamita nell'Unione Europea",
-    "en": "Joint press release on top Vietnamese leader's official visit to European Union"
-   },
-   "summary": {
-    "orig": "The Viet Nam News Agency (VNA) respectfully presents the joint press release regarding the official visit to the European Union (EU) by General Secretary of the Central Committee of the Communist Party of Viet Nam and President of the Socialist Republic of Viet Nam To Lam.…",
-    "it": "La Viet Nam News Agency (VNA) presenta rispettosamente il comunicato stampa congiunto riguardante la visita ufficiale nell'Unione Europea (UE) del Segretario Generale del Comitato Centrale del Partito Comunista del Vietnam e del Presidente della Repubblica Socialista del Vietnam To Lam.…",
-    "en": "The Viet Nam News Agency (VNA) respectfully presents the joint press release regarding the official visit to the European Union (EU) by General Secretary of the Central Committee of the Communist Party of Viet Nam and President of the Socialist Republic of Viet Nam To Lam.…"
    }
   },
   {
@@ -6763,26 +7383,6 @@
    }
   },
   {
-   "id": "21ce87553ce9f05a",
-   "source": "cubadebate",
-   "name": "Cubadebate",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.cubadebate.cu/noticias/2026/10/22/lula-refuerza-su-campana-digital-con-una-transmision-en-vivo-junto-con-impulsor-de-ejercito-digital/",
-   "date": "2026-10-22T14:42:40+00:00",
-   "image": "https://media.cubadebate.cu/wp-content/uploads/2026/10/Lula-junto-a-Janones-en-Sao-Paulo-e1792679968325.webp",
-   "title": {
-    "orig": "Lula refuerza su campaña digital con una transmisión en vivo junto con impulsor de «ejército» digital",
-    "it": "Lula rafforza la sua campagna digitale con una diretta insieme ai promotori di un \"esercito\" digitale",
-    "en": "Lula reinforces his digital campaign with a live broadcast together with the promoter of a digital \"army\""
-   },
-   "summary": {
-    "orig": "El presidente brasileño, Luiz Inácio Lula da Silva, participará hoy en una transmisión en vivo por Internet junto al diputado André Janones, en una iniciativa de movilización digital a tres días de la segunda vuelta electoral. La transmisión está prevista para las 19:00, hora…",
-    "it": "Il presidente brasiliano Luiz Inácio Lula da Silva parteciperà oggi in diretta Internet insieme al deputato André Janones, ad un'iniziativa di mobilitazione digitale tre giorni prima della seconda tornata elettorale. La messa in onda è prevista per le ore 19:00, ora...",
-    "en": "The Brazilian president, Luiz Inácio Lula da Silva, will participate today in a live Internet broadcast together with deputy André Janones, in a digital mobilization initiative three days before the second electoral round. The broadcast is scheduled for 7:00 p.m., time…"
-   }
-  },
-  {
    "id": "44e4df4a7ba8056d",
    "source": "mundoobrero",
    "name": "Mundo Obrero",
@@ -6803,26 +7403,6 @@
    }
   },
   {
-   "id": "193c6d296a285c6d",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/na-draft-resolution-proposes-special-mechanisms-to-attract-retain-talent-post168113.html",
-   "date": "2026-10-22T14:30:13+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/2SCbORzcoyKs4n_YN1aDeX9ajRkBgmdRDQ56OGBJ1ZngDjuLCwHly5Hz526c0BdZ3T2qhrm3cZaA5mAbLCTHNg/06db56882e38a066f929.jpg.avif",
-   "title": {
-    "orig": "NA draft resolution proposes special mechanisms to attract, retain talent",
-    "it": "Il progetto di risoluzione NA propone meccanismi speciali per attrarre e trattenere i talenti",
-    "en": "NA draft resolution proposes special mechanisms to attract, retain talent"
-   },
-   "summary": {
-    "orig": "The Ministry of Home Affairs is seeking feedback on a draft National Assembly resolution establishing special mechanisms and policies for talent recruitment and development to support strategic tasks, key programmes and projects, and address major challenges facing the country…",
-    "it": "Il Ministero degli Affari Interni sta cercando feedback su un progetto di risoluzione dell’Assemblea Nazionale che stabilisce meccanismi e politiche speciali per il reclutamento e lo sviluppo dei talenti per sostenere compiti strategici, programmi e progetti chiave e affrontare le principali sfide che il Paese deve affrontare…",
-    "en": "The Ministry of Home Affairs is seeking feedback on a draft National Assembly resolution establishing special mechanisms and policies for talent recruitment and development to support strategic tasks, key programmes and projects, and address major challenges facing the country…"
-   }
-  },
-  {
    "id": "ea7f344f79f2096f",
    "source": "zeitungderarbeit",
    "name": "Zeitung der Arbeit",
@@ -6840,26 +7420,6 @@
     "orig": "Am 16. Oktober ist der niederländische Kommunist Rinze Visser verstorben. Über Jahrzehnte hinweg engagierte er sich in der kommunistischen Bewegung seines Landes und in der kommunalpolitischen Arbeit. Als langjähriger Vorsitzender des Zentralkomitees der Kommunistischen Partei…",
     "it": "Il 16 ottobre muore il comunista olandese Rinze Visser. Per decenni è stato coinvolto nel movimento comunista del suo Paese e nell'attività politica locale. Come presidente di lunga data del Comitato Centrale del Partito Comunista...",
     "en": "The Dutch communist Rinze Visser died on October 16th. For decades he was involved in his country's communist movement and in local political work. As the long-time chairman of the Central Committee of the Communist Party..."
-   }
-  },
-  {
-   "id": "e4fbb2dee81e2bc2",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/more-measures-needed-to-boost-private-investment-in-rd-post168112.html",
-   "date": "2026-10-22T14:21:46+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/2SCbORzcoyKs4n_YN1aDeZdhu5Dhq4epmzhPfxgpqVgpRyQr2eNadmjqOFFotgsDtgjOoLN_0GK9WqwQl0BVpg/3919445949336830307.jpg.avif",
-   "title": {
-    "orig": "More measures needed to boost private investment in RD",
-    "it": "Sono necessarie ulteriori misure per stimolare gli investimenti privati nello sviluppo rurale",
-    "en": "More measures needed to boost private investment in RD"
-   },
-   "summary": {
-    "orig": "Under the Politburo’s Resolution No. 57-NQ/TW on breakthroughs in science and technology development, innovation and national digital transformation, Viet Nam aims to raise research and development (R&D) spending to 2% of GDP by 2030, with more than 60% coming from non-State…",
-    "it": "In base alla risoluzione n. 57-NQ/TW del Politburo sui progressi nello sviluppo scientifico e tecnologico, nell’innovazione e nella trasformazione digitale nazionale, il Vietnam mira ad aumentare la spesa per ricerca e sviluppo (R&S) al 2% del PIL entro il 2030, di cui oltre il 60% proveniente da fondi non statali.",
-    "en": "Under the Politburo’s Resolution No. 57-NQ/TW on breakthroughs in science and technology development, innovation and national digital transformation, Viet Nam aims to raise research and development (R&D) spending to 2% of GDP by 2030, with more than 60% coming from non-State…"
    }
   },
   {
@@ -7120,26 +7680,6 @@
     "orig": "HARRY KANE admits the wait to discover whether he has won the Ballon d’Or is proving stressful for his family. England captain Kane is the odds-on favourite for football’s most prestigious individual award after scoring 61 goals for Bayern Munich last season and another 12 for…",
     "it": "HARRY KANE ammette che l'attesa di scoprire se ha vinto il Pallone d'Oro si sta rivelando stressante per la sua famiglia. Il capitano dell'Inghilterra Kane è il favorito per il premio individuale più prestigioso del calcio dopo aver segnato 61 gol per il Bayern Monaco la scorsa stagione e altri 12 per...",
     "en": "HARRY KANE admits the wait to discover whether he has won the Ballon d’Or is proving stressful for his family. England captain Kane is the odds-on favourite for football’s most prestigious individual award after scoring 61 goals for Bayern Munich last season and another 12 for…"
-   }
-  },
-  {
-   "id": "110ebbce1c94256d",
-   "source": "cubadebate",
-   "name": "Cubadebate",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.cubadebate.cu/noticias/2026/10/22/la-une-pronostica-una-afectacion-de-1885-mw-en-horario-pico/",
-   "date": "2026-10-22T13:17:46+00:00",
-   "image": "https://media.cubadebate.cu/wp-content/uploads/2026/10/apagones-electricidad-causas-ilustracion-768x425-580x321-1.png",
-   "title": {
-    "orig": "La UNE pronostica una afectación de 1885 MW en horario pico",
-    "it": "L'UNE prevede un impatto di 1.885 MW nelle ore di punta",
-    "en": "The UNE predicts an impact of 1,885 MW during peak hours"
-   },
-   "summary": {
-    "orig": "En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1891 MW a las 19:30 horas. The post La…",
-    "it": "Ieri il servizio è stato compromesso a causa di un deficit di capacità durante le 24 ore e l'impatto è continuato fino alle prime ore del mattino. L'impatto massimo dovuto al deficit di capacità di generazione ieri è stato di 1891 MW alle 19:30. Il post Il…",
-    "en": "Yesterday the service was affected due to a capacity deficit during the 24 hours and the impact continued throughout the early morning hours. The maximum impact due to a deficit in generation capacity yesterday was 1891 MW at 7:30 p.m. The post The…"
    }
   },
   {
@@ -7983,26 +8523,6 @@
    }
   },
   {
-   "id": "5cee10d8f8447838",
-   "source": "cubadebate",
-   "name": "Cubadebate",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.cubadebate.cu/noticias/2026/10/22/africa-pide-apoyo-internacional-urgente-ante-expansion-del-ebola/",
-   "date": "2026-10-22T04:01:54+00:00",
-   "image": "https://media.cubadebate.cu/wp-content/uploads/2026/10/ebola-africa-e1792641669690.png",
-   "title": {
-    "orig": "Africa pide apoyo internacional urgente ante expansión del ébola",
-    "it": "L’Africa chiede urgente sostegno internazionale mentre l’Ebola si diffonde",
-    "en": "Africa calls for urgent international support as Ebola spreads"
-   },
-   "summary": {
-    "orig": "Los Centros para el Control y la Prevención de Enfermedades de África (Africa CDC) emitieron un llamado urgente a la solidaridad internacional para frenar la rápida propagación del brote de ébola de la cepa Bundibugyo. The post Africa pide apoyo internacional urgente ante…",
-    "it": "I Centri africani per il controllo e la prevenzione delle malattie (Africa CDC) hanno lanciato un appello urgente alla solidarietà internazionale per frenare la rapida diffusione dell’epidemia di Ebola del ceppo Bundibugyo. Il dopo Africa richiede un sostegno internazionale urgente prima...",
-    "en": "The Africa Centers for Disease Control and Prevention (Africa CDC) issued an urgent call for international solidarity to curb the rapid spread of the Bundibugyo strain Ebola outbreak. The post Africa calls for urgent international support before…"
-   }
-  },
-  {
    "id": "bddab2508394c98d",
    "source": "workersworld",
    "name": "Workers World",
@@ -8043,26 +8563,6 @@
    }
   },
   {
-   "id": "85bb45f1c8963144",
-   "source": "cubadebate",
-   "name": "Cubadebate",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.cubadebate.cu/noticias/2026/10/21/se-forma-la-tormenta-subtropical-josephine-transita-sobre-el-atlantico-occidental/",
-   "date": "2026-10-22T03:10:46+00:00",
-   "image": "https://media.cubadebate.cu/wp-content/uploads/2026/10/josefine-cono.png",
-   "title": {
-    "orig": "Se forma la tormenta subtropical Josephine; transita sobre el Atlántico occidental",
-    "it": "Forme della tempesta subtropicale Josephine; transita sull'Atlantico occidentale",
-    "en": "Subtropical Storm Josephine forms; transits over the western Atlantic"
-   },
-   "summary": {
-    "orig": "Durante las próximas 24 horas se pronostica que este sistema experimentará un giro hacia el nordeste en su trayectoria y un aumento en su velocidad de traslación. Además, se prevé un fortalecimiento de sus vientos máximos sostenidos durante la tarde-noche de mañana jueves. Este…",
-    "it": "Si prevede che nelle prossime 24 ore questo sistema subirà una svolta verso nord-est nella sua traiettoria e un aumento della sua velocità di traslazione. Inoltre, nel pomeriggio-notte di domani, giovedì, è previsto un rafforzamento dei venti massimi sostenuti. Questo…",
-    "en": "During the next 24 hours, it is forecast that this system will experience a turn toward the northeast in its trajectory and an increase in its translational speed. In addition, a strengthening of its maximum sustained winds is expected during the afternoon-night of tomorrow, Thursday. This…"
-   }
-  },
-  {
    "id": "fbe166be3646c04e",
    "source": "arbejderen",
    "name": "Arbejderen",
@@ -8080,86 +8580,6 @@
     "orig": "NEW YORK: I et historisk øjeblik, der allerede betegnes som en mulig skillelinje i menneskehedens historie, fik en avanceret AI-robot i går taletid i FN’s Generalforsamling. Invitationen kom efter årtiers krige, voksende mistillid til politiske ledere og gentagne internationale…",
     "it": "NEW YORK: In un momento storico che viene già descritto come una possibile linea di demarcazione nella storia umana, ieri un robot avanzato con intelligenza artificiale ha avuto il tempo di parlare all'Assemblea generale delle Nazioni Unite. L'invito è arrivato dopo decenni di guerre, crescente sfiducia nei confronti dei leader politici e ripetute...",
     "en": "NEW YORK: In a historic moment that is already being described as a possible dividing line in human history, an advanced AI robot was given speaking time in the UN General Assembly yesterday. The invitation came after decades of wars, growing distrust of political leaders and repeated international…"
-   }
-  },
-  {
-   "id": "ad4009d48a5c9bf3",
-   "source": "cubadebate",
-   "name": "Cubadebate",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.cubadebate.cu/noticias/2026/10/21/el-real-madrid-sello-un-contundente-4-1-frente-al-rb-leipzig-en-el-santiago-bernabeu/",
-   "date": "2026-10-22T02:41:22+00:00",
-   "image": "https://media.cubadebate.cu/wp-content/uploads/2026/10/real-madrid--e1792636844120.png",
-   "title": {
-    "orig": "El Real Madrid selló un contundente 4-1 frente al RB Leipzig en el Santiago Bernabéu",
-    "it": "Il Real Madrid ha siglato una clamorosa vittoria per 4-1 contro l'RB Leipzig al Santiago Bernabéu",
-    "en": "Real Madrid sealed a resounding 4-1 victory against RB Leipzig at the Santiago Bernabéu"
-   },
-   "summary": {
-    "orig": "El Real Madrid goleó hoy 4-1 al Leipzig en el Santiago Bernabéu para prolongar su paso invicto en la Liga de Campeones del fútbol, con un desenlace vibrante y goles de factura espectacular. The post El Real Madrid selló un contundente 4-1 frente al RB Leipzig en el Santiago…",
-    "it": "Il Real Madrid ha battuto il Lipsia 4-1 oggi al Santiago Bernabéu e prolunga la sua serie di vittorie consecutive nella Champions League di calcio, con un risultato vibrante e gol spettacolari. Il post del Real Madrid ha siglato una clamorosa vittoria per 4-1 contro l'RB Leipzig a Santiago...",
-    "en": "Real Madrid beat Leipzig 4-1 today at the Santiago Bernabéu to extend its undefeated streak in the soccer Champions League, with a vibrant outcome and spectacular goals. The post Real Madrid sealed a resounding 4-1 victory against RB Leipzig in Santiago…"
-   }
-  },
-  {
-   "id": "e3d53f274c91776f",
-   "source": "cubadebate",
-   "name": "Cubadebate",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.cubadebate.cu/noticias/2026/10/21/diaz-canel-chequea-programa-integral-de-abasto-de-agua-en-la-habana-y-visita-el-municipio-capitalino-del-cerro/",
-   "date": "2026-10-22T02:18:37+00:00",
-   "image": "https://media.cubadebate.cu/wp-content/uploads/2026/10/chequo-abasto-de-agua.jpg",
-   "title": {
-    "orig": "Díaz-Canel chequea Programa Integral de Abasto de Agua en La Habana, y visita el municipio capitalino del Cerro",
-    "it": "Díaz-Canel verifica il Programma Integrale di Approvvigionamento Idrico dell'Avana e visita il municipio capoluogo di Cerro",
-    "en": "Díaz-Canel checks the Comprehensive Water Supply Program in Havana, and visits the capital municipality of Cerro"
-   },
-   "summary": {
-    "orig": "Este miércoles en la mañana el Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, visitó la fuente de abasto “Aguada del Cura”, ubicada en el capitalino municipio de Boyeros. Después, estuvo en tres…",
-    "it": "Il Primo Segretario del Comitato Centrale del Partito Comunista di Cuba e Presidente della Repubblica, Miguel Díaz-Canel Bermúdez, ha visitato questo mercoledì mattina la fonte di approvvigionamento “Aguada del Cura”, situata nel municipio capoluogo di Boyeros. Successivamente, era in tre...",
-    "en": "This Wednesday morning, the First Secretary of the Central Committee of the Communist Party of Cuba and President of the Republic, Miguel Díaz-Canel Bermúdez, visited the “Aguada del Cura” supply source, located in the capital municipality of Boyeros. Afterwards, he was in three…"
-   }
-  },
-  {
-   "id": "c59dedfe8a67479a",
-   "source": "cubadebate",
-   "name": "Cubadebate",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.cubadebate.cu/especiales/2026/10/21/argentina-milei-viaja-a-europa-las-calles-impugnan-una-democracia-sin-mayorias/",
-   "date": "2026-10-22T01:59:01+00:00",
-   "image": "https://media.cubadebate.cu/wp-content/uploads/2026/04/Nodal-Debate-e1785879471846.jpg",
-   "title": {
-    "orig": "Argentina. Milei viaja a Europa: las calles impugnan una “democracia” sin mayorías",
-    "it": "Argentina. Milei viaggia in Europa: le strade sfidano una “democrazia” senza maggioranze",
-    "en": "Argentina. Milei travels to Europe: the streets challenge a “democracy” without majorities"
-   },
-   "summary": {
-    "orig": "El presidente Javier Milei vuelve a viajar a Europa este lunes 19 de octubre, después de participar en una exposición petrolera en Neuquén, donde se encuentra Vaca Muerta, uno de los mayores yacimientos de hidrocarburos no convencionales del mundo. Partirá hacia Madrid para…",
-    "it": "Il presidente Javier Milei si recherà nuovamente in Europa questo lunedì, 19 ottobre, dopo aver partecipato a un'esposizione del petrolio a Neuquén, dove si trova Vaca Muerta, uno dei più grandi giacimenti di idrocarburi non convenzionali del mondo. Partirà per Madrid per...",
-    "en": "President Javier Milei will travel to Europe again this Monday, October 19, after participating in an oil exhibition in Neuquén, where Vaca Muerta is located, one of the largest unconventional hydrocarbon deposits in the world. He will leave for Madrid to…"
-   }
-  },
-  {
-   "id": "bd6f594239ddcd5e",
-   "source": "cubadebate",
-   "name": "Cubadebate",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.cubadebate.cu/noticias/2026/10/21/falla-informatica-obliga-a-empresas-y-gobiernos-a-cerrar-sitios-web/",
-   "date": "2026-10-21T23:26:44+00:00",
-   "image": "https://media.cubadebate.cu/wp-content/uploads/2026/10/fallo-informatico--e1792624581634.png",
-   "title": {
-    "orig": "Falla informática obliga a empresas y gobiernos a cerrar sitios web",
-    "it": "I guasti dei computer costringono aziende e governi a chiudere i siti web",
-    "en": "Computer failure forces companies and governments to close websites"
-   },
-   "summary": {
-    "orig": "Agencias gubernamentales y empresas de todo el mundo cerraron sitios web este miércoles después de que salieran a la luz dos fallas críticas relacionadas con PHP, un lenguaje de programación que sirve de base para una gran parte de internet. La Agencia de Seguridad Nacional de…",
-    "it": "Mercoledì le agenzie governative e le aziende di tutto il mondo hanno chiuso i siti web dopo che sono emerse due falle critiche che coinvolgevano PHP, un linguaggio di programmazione su cui si basa gran parte di Internet. L’Agenzia per la Sicurezza Nazionale di…",
-    "en": "Government agencies and companies around the world shut down websites on Wednesday after two critical flaws came to light involving PHP, a programming language that underpins much of the internet. The National Security Agency of…"
    }
   },
   {
@@ -8263,86 +8683,6 @@
    }
   },
   {
-   "id": "b61bc6545f0f3f88",
-   "source": "cubadebate",
-   "name": "Cubadebate",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.cubadebate.cu/noticias/2026/10/21/serie-nacional-avispas-se-posan-otra-vez-en-el-trono-oriental/",
-   "date": "2026-10-21T22:48:27+00:00",
-   "image": "https://media.cubadebate.cu/wp-content/uploads/2026/10/serie-nacional-de-beisbol-santiago-de-cuba-e1792622248803.jpg",
-   "title": {
-    "orig": "Serie Nacional: Avispas se posan otra vez en el trono oriental",
-    "it": "Serie Nazionale: Le vespe sbarcano nuovamente sul trono orientale",
-    "en": "National Series: Wasps land again on the eastern throne"
-   },
-   "summary": {
-    "orig": "Las Avispas de Santiago de Cuba aprovecharon hoy la derrota de los Alazanes de Granma para alcanzarlos otra vez en la cima de la Zona Oriental, en la continuación de la 65.ª Serie Nacional de Béisbol. The post Serie Nacional: Avispas se posan otra vez en el trono oriental first…",
-    "it": "Gli Avispas di Santiago di Cuba hanno approfittato oggi della sconfitta degli Alazanes di Granma per riconquistarsi il vertice della Zona Est, nel proseguimento della 65ª Serie Nazionale di Baseball. Il post National Series: le Vespe sbarcano di nuovo sul trono orientale per prime…",
-    "en": "The Avispas of Santiago de Cuba took advantage of the defeat of the Alazanes of Granma today to reach them again at the top of the Eastern Zone, in the continuation of the 65th National Baseball Series. The post National Series: Wasps land again on the eastern throne first…"
-   }
-  },
-  {
-   "id": "7ef27befde2857bb",
-   "source": "vermelho",
-   "name": "Vermelho",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://vermelho.org.br/2026/10/21/mauro-vieira-condena-plano-de-flavio-de-criar-equipe-de-transicao-com-os-eua/?utm_source=rss&utm_medium=rss&utm_campaign=mauro-vieira-condena-plano-de-flavio-de-criar-equipe-de-transicao-com-os-eua",
-   "date": "2026-10-21T22:32:32+00:00",
-   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/hmacmbdwoaeanj_-1024x613.webp",
-   "title": {
-    "orig": "Mauro Vieira condena plano de Flávio de criar equipe de transição com os EUA",
-    "it": "Mauro Vieira condanna il progetto di Flávio di creare una squadra di transizione con gli Stati Uniti",
-    "en": "Mauro Vieira condemns Flávio's plan to create a transition team with the USA"
-   },
-   "summary": {
-    "orig": "Chanceler afirma que iniciativa não tem precedentes na história diplomática e critica ameaças de aliados do candidato de promover uma “faxina” no Itamaraty",
-    "it": "Il Cancelliere afferma che l'iniziativa non ha precedenti nella storia diplomatica e critica le minacce degli alleati del candidato di promuovere una “pulizia” di Itamaraty",
-    "en": "Chancellor states that the initiative is unprecedented in diplomatic history and criticizes threats from the candidate's allies to promote a “cleaning” of Itamaraty"
-   }
-  },
-  {
-   "id": "5d4492a73cdad0a5",
-   "source": "vermelho",
-   "name": "Vermelho",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://vermelho.org.br/2026/10/21/jandira-reune-vozes-da-cultura-e-dos-movimentos-sociais-pela-vitoria-de-lula/?utm_source=rss&utm_medium=rss&utm_campaign=jandira-reune-vozes-da-cultura-e-dos-movimentos-sociais-pela-vitoria-de-lula",
-   "date": "2026-10-21T22:01:13+00:00",
-   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/Imagem-em-Alta-Resolucao-1024x693.png",
-   "title": {
-    "orig": "Jandira reúne vozes da cultura e dos movimentos sociais em live pela vitória de Lula",
-    "it": "Jandira riunisce voci della cultura e dei movimenti sociali in diretta per la vittoria di Lula",
-    "en": "Jandira brings together voices from culture and social movements live for Lula's victory"
-   },
-   "summary": {
-    "orig": "Bianca Borges, Fernanda Abreu, Diogo Nogueira e Ailton Krenak convocam a mobilização popular contra a volta do bolsonarismo",
-    "it": "Bianca Borges, Fernanda Abreu, Diogo Nogueira e Ailton Krenak chiedono una mobilitazione popolare contro il ritorno del bolsonarismo",
-    "en": "Bianca Borges, Fernanda Abreu, Diogo Nogueira and Ailton Krenak call for popular mobilization against the return of Bolsonarism"
-   }
-  },
-  {
-   "id": "4aa19b2306724667",
-   "source": "vermelho",
-   "name": "Vermelho",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://vermelho.org.br/2026/10/21/lula-cresce-e-tem-62-das-intencoes-de-voto-entre-beneficiarios-do-bolsa-familia/?utm_source=rss&utm_medium=rss&utm_campaign=lula-cresce-e-tem-62-das-intencoes-de-voto-entre-beneficiarios-do-bolsa-familia",
-   "date": "2026-10-21T21:36:00+00:00",
-   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/lula-pessoas_Foto-Ricardo-Stuckert-.jpg",
-   "title": {
-    "orig": "Lula cresce e tem 62% das intenções de voto entre beneficiários do Bolsa Família",
-    "it": "Lula cresce e ha il 62% delle intenzioni di voto tra i beneficiari della Bolsa Família",
-    "en": "Lula grows and has 62% of voting intentions among Bolsa Família beneficiaries"
-   },
-   "summary": {
-    "orig": "Flávio Bolsonaro (PL), que já chamou o programa de “bolsa farelo”, tem 27% e sua rejeição vai a 68% nesse público, de acordo com pesquisa Quaest",
-    "it": "Flávio Bolsonaro (PL), che ha già chiamato il programma “sacco di crusca”, ha il 27% e il suo rifiuto è del 68% tra questo pubblico, secondo un sondaggio Quaest",
-    "en": "Flávio Bolsonaro (PL), who has already called the program “bran bag”, has 27% and his rejection is 68% among this audience, according to a Quaest survey"
-   }
-  },
-  {
    "id": "32f0cab79c2d3308",
    "source": "semanariovoz",
    "name": "Semanario Voz",
@@ -8403,23 +8743,23 @@
    }
   },
   {
-   "id": "72da105e5d640e42",
-   "source": "vermelho",
-   "name": "Vermelho",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://vermelho.org.br/2026/10/21/as-vesperas-do-voto-juristas-reagem-a-ameaca-de-censura-no-whatsapp/?utm_source=rss&utm_medium=rss&utm_campaign=as-vesperas-do-voto-juristas-reagem-a-ameaca-de-censura-no-whatsapp",
-   "date": "2026-10-21T20:30:43+00:00",
-   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/Kassio-Nunes-Marques-e-Andre-Mendonca-tomam-posse-no-TSE.jpg-1024x576.webp",
+   "id": "13e9998076f1bc52",
+   "source": "granma",
+   "name": "Granma",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.granma.cu/cuba/2026-10-21/nueva-plataforma-digital-permite-visualizar-segundo-a-segundo-el-costo-del-bloqueo-de-eeuu-contra-cuba-21-10-2026-16-10-41",
+   "date": "2026-10-21T20:10:41+00:00",
+   "image": null,
    "title": {
-    "orig": "Às vésperas do voto, juristas reagem a ameaça de censura no WhatsApp",
-    "it": "Alla vigilia del voto, i giuristi reagiscono alla minaccia di censura su WhatsApp",
-    "en": "On the eve of the vote, jurists react to the threat of censorship on WhatsApp"
+    "orig": "Anuncian nueva plataforma digital que permite visualizar el costo del bloqueo de EE.UU. contra Cuba",
+    "it": "Annunciano una nuova piattaforma digitale che permette di visualizzare il costo del blocco statunitense contro Cuba",
+    "en": "They announce a new digital platform that allows you to visualize the cost of the US blockade against Cuba"
    },
    "summary": {
-    "orig": "Manifesto assinado por 110 especialistas alerta que proposta discutida no TSE ameaça a liberdade política e pode atingir milhões de apoiadores de Lula às vésperas do segundo turno.",
-    "it": "Il Manifesto firmato da 110 esperti avverte che la proposta discussa nel TSE minaccia la libertà politica e potrebbe colpire milioni di sostenitori di Lula alla vigilia del secondo turno.",
-    "en": "Manifesto signed by 110 experts warns that the proposal discussed in the TSE threatens political freedom and could affect millions of Lula's supporters on the eve of the second round."
+    "orig": "El nuevo repositorio online cubabloqueo.com es un sitio que conecta los datos del Informe de Cuba de 2026 con daños concretos: medicamentos, combustible, agua y recursos para las escuelas",
+    "it": "Il nuovo archivio online cubablocko.com è un sito che collega i dati del Rapporto Cuba 2026 con i danni specifici: medicinali, carburante, acqua e risorse per le scuole",
+    "en": "The new online repository cubablocko.com is a site that connects the data from the 2026 Cuba Report with specific damages: medicines, fuel, water and resources for schools"
    }
   },
   {
@@ -9660,346 +10000,6 @@
     "orig": "Arbejder du som rengøringsassistent, skraldemand, fabriksarbejder eller salgsassistent, så fortsætter du med stor sandsynlighed med at arbejde helt frem til pensionsalderen, der i dag er 67 år. Kun hver syvende ufaglærte har formue nok til at trække sig tilbage fem år før…",
     "it": "Se lavori come addetto alle pulizie, spazzino, operaio o commesso, molto probabilmente continuerai a lavorare fino all’età pensionabile, che attualmente è 67 anni. Solo una persona non qualificata su sette ha abbastanza ricchezza per andare in pensione cinque anni prima…",
     "en": "If you work as a cleaner, garbage man, factory worker or sales assistant, you will most likely continue to work right up to the retirement age, which is currently 67. Only one in seven unskilled people has enough wealth to retire five years before…"
-   }
-  },
-  {
-   "id": "124c5d564ccaccd5",
-   "source": "arbejderen",
-   "name": "Arbejderen",
-   "country": "DK",
-   "lang": "da",
-   "url": "https://arbejderen.dk/indland/nedskaeringer-i-lolland-kommune-truer-laererjob/",
-   "date": "2026-10-20T10:40:02+00:00",
-   "image": "https://arbejderen.dk/wp-content/uploads/2026/10/oestofteskoleafdeling-e1792496571504.jpg",
-   "title": {
-    "orig": "Nedskæringer i Lolland Kommune truer lærerjob, mens flertallet lover bedre kvalitet",
-    "it": "I tagli nel comune di Lolland minacciano i posti di lavoro nell’insegnamento, mentre la maggior parte promette una migliore qualità",
-    "en": "Cuts in Lolland Municipality threaten teaching jobs, while the majority promise better quality"
-   },
-   "summary": {
-    "orig": "Mellem 15 og 18 lærerstillinger er i fare som følge af de planlagte skoleændringer i Lolland Kommune. Forligspartierne lover stærkere faglige fællesskaber, men lærerformand René Rygaard frygter, at nedskæringer i Lolland Kommune vil forringe undervisningen. – Vi har endnu ikke…",
-    "it": "Tra i 15 e i 18 posti di insegnante sono a rischio a causa dei cambiamenti scolastici previsti nel comune di Lolland. I partiti di conciliazione promettono comunità professionali più forti, ma il presidente degli insegnanti René Rygaard teme che i tagli nel comune di Lolland danneggino l'insegnamento. - Non abbiamo ancora...",
-    "en": "Between 15 and 18 teaching positions are at risk as a result of the planned school changes in Lolland Municipality. The conciliation parties promise stronger professional communities, but teacher chairman René Rygaard fears that cuts in Lolland Municipality will impair teaching. - We have not yet..."
-   }
-  },
-  {
-   "id": "f9d2ec7420ff2bff",
-   "source": "arbejderen",
-   "name": "Arbejderen",
-   "country": "DK",
-   "lang": "da",
-   "url": "https://arbejderen.dk/debat/buskampagne-har-sat-fokus-paa-afprivatisering/",
-   "date": "2026-10-20T10:39:13+00:00",
-   "image": "https://arbejderen.dk/wp-content/uploads/2026/10/tryg.png",
-   "title": {
-    "orig": "Buskampagne har sat fokus på afprivatisering",
-    "it": "Buskampagne si è concentrato sulla deprivatizzazione",
-    "en": "Buskampagne has focused on deprivatisation"
-   },
-   "summary": {
-    "orig": "Kampagnen Sammen for Tryg Kollektiv Transport har sået et frø og sat ideer om afprivatisering af den kollektiv transport på dagsordenen. Kampagnen fik ben at gå på helt ind til de politiske beslutningstagere, til medier og Midttrafik. Buskampagnen har opfyldt sit mål og stopper.…",
-    "it": "La campagna Insieme per Tryg Kollektiv Transport ha gettato un seme e messo all'ordine del giorno idee sulla privatizzazione dei trasporti pubblici. La campagna ha guadagnato terreno fino ai decisori politici, ai media e al Midttrafik. La campagna degli autobus ha raggiunto il suo obiettivo e si sta fermando.…",
-    "en": "The campaign Together for Tryg Kollektiv Transport has sown a seed and put ideas about the privatization of public transport on the agenda. The campaign gained ground all the way to the political decision-makers, the media and Midttrafik. The bus campaign has met its goal and is stopping.…"
-   }
-  },
-  {
-   "id": "31c9a28ca348c8e7",
-   "source": "zeitungderarbeit",
-   "name": "Zeitung der Arbeit",
-   "country": "AT",
-   "lang": "de",
-   "url": "https://zeitungderarbeit.at/politik/schellhorn-will-laengere-oeffnungszeiten/",
-   "date": "2026-10-20T09:00:00+00:00",
-   "image": "https://zeitungderarbeit.at/wp-content/uploads/2026/10/Sepp_Schellhorn_-_Pressefoyer_nach_dem_Ministerrat_2026_BHO-9346.jpg",
-   "title": {
-    "orig": "Schellhorn will längere Öffnungszeiten",
-    "it": "Schellhorn vuole orari di apertura più lunghi",
-    "en": "Schellhorn wants longer opening hours"
-   },
-   "summary": {
-    "orig": "Staatssekretär Josef Schellhorn will die Geschäftsöffnungszeiten ausweiten. Was er als Anpassung an das 21. Jahrhundert verkauft, droht den Druck auf Beschäftigte weiter zu erhöhen. Moderne Nahversorgung braucht gute Arbeitsbedingungen statt längerer Öffnungszeiten. Wien.…",
-    "it": "Il segretario di Stato Josef Schellhorn vuole ampliare gli orari di apertura delle imprese. Ciò che lui spaccia per un adattamento al 21° secolo rischia di aumentare ulteriormente la pressione sui dipendenti. La moderna offerta locale necessita di buone condizioni di lavoro invece di orari di apertura più lunghi. Vienna.…",
-    "en": "State Secretary Josef Schellhorn wants to expand business opening hours. What he sells as an adaptation to the 21st century threatens to further increase the pressure on employees. Modern local supply needs good working conditions instead of longer opening hours. Vienna.…"
-   }
-  },
-  {
-   "id": "37c616f7b3489826",
-   "source": "zeitungderarbeit",
-   "name": "Zeitung der Arbeit",
-   "country": "AT",
-   "lang": "de",
-   "url": "https://zeitungderarbeit.at/international/sudan-drohnen-toeten-zivilisten-skp-zum-krieg/",
-   "date": "2026-10-20T04:30:00+00:00",
-   "image": "https://zeitungderarbeit.at/wp-content/uploads/2026/10/CORE_DUMP_Production_Stills_Alona_Rodeh_2024.jpg",
-   "title": {
-    "orig": "Sudan: Drohnen töten Zivilisten – SKP zum Krieg",
-    "it": "Sudan: i droni uccidono i civili – SKP alla guerra",
-    "en": "Sudan: Drones kill civilians – SKP to war"
-   },
-   "summary": {
-    "orig": "Mehr als 160 Tote durch Drohnenangriffe in wenigen Tagen, Millionen Vertriebene und eine Bevölkerung am Rand des Hungers: Der Krieg im Sudan verschärft sich weiter. Die Sudanesische Kommunistische Partei fordert die Beendigung des Krieges, eine zivile demokratische Herrschaft…",
-    "it": "Oltre 160 morti per gli attacchi dei droni in pochi giorni, milioni di sfollati e una popolazione sull’orlo della fame: la guerra in Sudan continua ad intensificarsi. Il Partito comunista sudanese chiede la fine della guerra, un governo democratico civile...",
-    "en": "More than 160 dead from drone attacks in just a few days, millions displaced and a population on the brink of hunger: the war in Sudan continues to intensify. The Sudanese Communist Party calls for an end to the war, civilian democratic rule..."
-   }
-  },
-  {
-   "id": "4151e4fdaf6dc41b",
-   "source": "granma",
-   "name": "Granma",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.granma.cu/cuba/2026-10-19/retablo-de-vidas-y-la-escuela-que-no-se-detiene-19-10-2026-21-10-37",
-   "date": "2026-10-20T01:10:37+00:00",
-   "image": "https://www.granma.cu//file/img/2026/10/medium/f0447958.jpg",
-   "title": {
-    "orig": "Retablo de vidas, y la escuela que no se detiene",
-    "it": "Pala delle vite, e della scuola che non si ferma",
-    "en": "Altarpiece of lives, and the school that does not stop"
-   },
-   "summary": {
-    "orig": "Detrás de cada niño que aprende, en la escuela primaria Comandante Pinares hay mucha gente que sostiene la enseñanza, con esa terquedad de los cubanos, a pesar del bloqueo",
-    "it": "Dietro ogni bambino che impara, nella scuola elementare Comandante Pinares ci sono tante persone che sostengono l'insegnamento, con quella caparbietà dei cubani, nonostante il blocco",
-    "en": "Behind every child who learns, at the Comandante Pinares primary school there are many people who support teaching, with that stubbornness of Cubans, despite the blockade"
-   }
-  },
-  {
-   "id": "e52b6646e5edf0a7",
-   "source": "granma",
-   "name": "Granma",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.granma.cu/deportes/2026-10-19/frederich-cepeda-400-jonrones-y-un-hombre-que-es-leyenda-19-10-2026-20-10-44",
-   "date": "2026-10-20T00:10:44+00:00",
-   "image": "https://www.granma.cu//file/img/2026/10/medium/f0447957.jpg",
-   "title": {
-    "orig": "Frederich Cepeda: 400 jonrones y un hombre que es leyenda",
-    "it": "Frederich Cepeda: 400 fuoricampo e un uomo che è una leggenda",
-    "en": "Frederich Cepeda: 400 home runs and a man who is a legend"
-   },
-   "summary": {
-    "orig": "A los 46 años, con casi tres décadas en los diamantes y todavía varios registros a su alcance, su historia continúa abierta",
-    "it": "A 46 anni, con quasi tre decenni di diamanti e ancora diversi record alla sua portata, la sua storia resta aperta.",
-    "en": "At 46 years old, with almost three decades in diamonds and still several records within his reach, his story remains open."
-   }
-  },
-  {
-   "id": "0c728c792105d96e",
-   "source": "workersworld",
-   "name": "Workers World",
-   "country": "US",
-   "lang": "en",
-   "url": "https://www.workers.org/2026/10/95456/?utm_source=rss&utm_medium=rss&utm_campaign=behind-french-uprising-impact-of-de-colonialization-in-the-global",
-   "date": "2026-10-19T23:35:33+00:00",
-   "image": "https://www.workers.org/wp-content/uploads/french-students1-1926.jpeg",
-   "title": {
-    "orig": "Behind French uprising: Impact of de-colonialization in Global South",
-    "it": "Dietro la rivolta francese: l’impatto della decolonializzazione nel Sud del mondo",
-    "en": "Behind French uprising: Impact of de-colonialization in Global South"
-   },
-   "summary": {
-    "orig": "Julia Wright sent the following, lightly edited message regarding protests happening in France on October 17, 2026. It also gives a good explanation of the importance of the immigrants in the movement, both today and in 1968. Students in France demonstrate for better schools. We…",
-    "it": "Julia Wright ha inviato il seguente messaggio, leggermente modificato, riguardante le proteste in corso in Francia il 17 ottobre 2026. Fornisce anche una buona spiegazione dell'importanza degli immigrati nel movimento, sia oggi che nel 1968. Gli studenti in Francia manifestano per scuole migliori. Noi…",
-    "en": "Julia Wright sent the following, lightly edited message regarding protests happening in France on October 17, 2026. It also gives a good explanation of the importance of the immigrants in the movement, both today and in 1968. Students in France demonstrate for better schools. We…"
-   }
-  },
-  {
-   "id": "dfdf54e3d247f375",
-   "source": "strugglelalucha",
-   "name": "Struggle – La Lucha",
-   "country": "US",
-   "lang": "en",
-   "url": "https://www.struggle-la-lucha.org/2026/10/19/struggle-%e2%98%85-la-lucha-pdf-october-19-2026/",
-   "date": "2026-10-19T18:29:46+00:00",
-   "image": "https://www.struggle-la-lucha.org/wp-content/uploads/2026/10/20SLL20Oct2026_540-326x245.jpg",
-   "title": {
-    "orig": "Struggle ★ La Lucha PDF – October 19, 2026",
-    "it": "Lotta ★ La Lucha PDF – 19 ottobre 2026",
-    "en": "Struggle ★ La Lucha PDF – October 19, 2026"
-   },
-   "summary": {
-    "orig": "Get PDF here ICE gestapo attacks Ilhan Omar Million Worker March Tribute: Chris Silvera’s legacy & where it can take us French youth rise against the bankers’ budget NYC takes to the streets against ICE",
-    "it": "Ottieni il PDF qui La Gestapo dell'ICE attacca Ilhan Omar Tributo alla Marcia dei Million Worker: l'eredità di Chris Silvera e dove può portarci I giovani francesi si sollevano contro il budget dei banchieri New York scende in piazza contro l'ICE",
-    "en": "Get PDF here ICE gestapo attacks Ilhan Omar Million Worker March Tribute: Chris Silvera’s legacy & where it can take us French youth rise against the bankers’ budget NYC takes to the streets against ICE"
-   }
-  },
-  {
-   "id": "6ce8eec98e5eb55d",
-   "source": "granma",
-   "name": "Granma",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.granma.cu/cultura/2026-10-19/regresa-la-fiesta-de-la-cultura-iberoamericana-19-10-2026-14-10-31",
-   "date": "2026-10-19T18:10:31+00:00",
-   "image": "https://www.granma.cu//file/img/2026/10/medium/f0447948.jpg",
-   "title": {
-    "orig": "Regresa la Fiesta de la Cultura Iberoamericana",
-    "it": "Ritorna il Festival della Cultura Iberoamericana",
-    "en": "The Ibero-American Culture Festival returns"
-   },
-   "summary": {
-    "orig": "La arrancada, el 24, se efectuará en la capital provincial, en el parque San José, identificado también como Plaza de Iberoamérica, que será tomado por los estudiantes de los centros de Enseñanza Artística, a la que está dedicada la fiesta",
-    "it": "La partenza, il 24, avrà luogo nel capoluogo di provincia, nel parco San José, identificato anche come Plaza de Iberoamérica, che sarà occupato dagli studenti dei Centri di Educazione Artistica, a cui è dedicato il festival",
-    "en": "The start, on the 24th, will take place in the provincial capital, in the San José park, also identified as Plaza de Iberoamérica, which will be taken over by students from the Artistic Education centers, to which the festival is dedicated"
-   }
-  },
-  {
-   "id": "1b53d3434e481a19",
-   "source": "granma",
-   "name": "Granma",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.granma.cu/cuba/2026-10-19/detalles-ampliados-de-la-investigacion-de-la-infiltracion-armada-desde-los-estados-unidos-19-10-2026-13-10-36",
-   "date": "2026-10-19T17:10:36+00:00",
-   "image": "https://www.granma.cu//file/img/2026/10/medium/f0447939.jpg",
-   "title": {
-    "orig": "Detalles ampliados de la investigación de la infiltración armada desde los Estados Unidos",
-    "it": "Dettagli ampliati delle indagini sull'infiltrazione armata dagli Stati Uniti",
-    "en": "Expanded Details of the Investigation of Armed Infiltration from the United States"
-   },
-   "summary": {
-    "orig": "Armas, Starlink, una finca en EE.UU. y un plan confeso: tomar unidades militares y provocar una intervención. La investigación amplía la denuncia",
-    "it": "Armi, Starlink, una fattoria negli Stati Uniti e un piano confessato: prendere unità militari e provocare un intervento. Le indagini ampliano la denuncia",
-    "en": "Weapons, Starlink, a farm in the US and a confessed plan: take military units and provoke an intervention. The investigation expands the complaint"
-   }
-  },
-  {
-   "id": "83ae015cba006405",
-   "source": "zeitungderarbeit",
-   "name": "Zeitung der Arbeit",
-   "country": "AT",
-   "lang": "de",
-   "url": "https://zeitungderarbeit.at/panorama/universitaeten-kuendigen-personalabbau-von-mindestens-zehn-prozent-an/",
-   "date": "2026-10-19T16:30:00+00:00",
-   "image": "https://zeitungderarbeit.at/wp-content/uploads/2026/10/Eva-Maria_Holzleitner_-_47._Bundesparteitag_SPOe_2026_BHO-2572.jpg",
-   "title": {
-    "orig": "Universitäten kündigen Personalabbau von mindestens zehn Prozent an",
-    "it": "Le università annunciano tagli al personale di almeno il 10%.",
-    "en": "Universities announce staff cuts of at least ten percent"
-   },
-   "summary": {
-    "orig": "Das Kürzungsbudget der Regierung bedroht Arbeitsplätze, wissenschaftlichen Nachwuchs und Forschungsprojekte. Die Partei der Arbeit Österreichs (PdA) fordert eine ausreichende Finanzierung des Bildungswesens und der Grundlagenforschung statt Milliarden für Aufrüstung. Wien. Die…",
-    "it": "I tagli al bilancio del governo minacciano posti di lavoro, giovani scienziati e progetti di ricerca. Il Partito laburista austriaco (PdA) chiede finanziamenti sufficienti per l’istruzione e la ricerca di base invece di spendere miliardi per il riarmo. Vienna. IL…",
-    "en": "The government's budget cuts threaten jobs, young scientists and research projects. The Austrian Labor Party (PdA) is calling for sufficient funding for education and basic research instead of spending billions on rearmament. Vienna. The…"
-   }
-  },
-  {
-   "id": "c2947f24296e0c9f",
-   "source": "liberationnews",
-   "name": "Liberation News",
-   "country": "US",
-   "lang": "en",
-   "url": "https://liberationnews.org/report-shows-sexualized-violence-against-palestinians-is-embedded-in-israeli-settler-colonialism/",
-   "date": "2026-10-19T15:24:28+00:00",
-   "image": "https://liberationnews.org/wp-content/uploads/2026/10/IMG_202505121410290-1-2.jpg",
-   "title": {
-    "orig": "Report shows sexualized violence against Palestinians is embedded in Israeli settler colonialism",
-    "it": "Il rapporto mostra che la violenza sessualizzata contro i palestinesi è radicata nel colonialismo dei coloni israeliani",
-    "en": "Report shows sexualized violence against Palestinians is embedded in Israeli settler colonialism"
-   },
-   "summary": {
-    "orig": "Justice for Palestinian victims of sexualized violence requires full self determination.",
-    "it": "La giustizia per le vittime palestinesi della violenza sessuale richiede la piena autodeterminazione.",
-    "en": "Justice for Palestinian victims of sexualized violence requires full self determination."
-   }
-  },
-  {
-   "id": "84008b6022b36000",
-   "source": "initiativecommuniste",
-   "name": "Initiative Communiste",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://initiative-communiste.fr/articles/international/la-france-aile-marchante-ou-bien-maillon-faible-de-la-destruction-euro-atlantique-du-monde/",
-   "date": "2026-10-19T14:39:00+00:00",
-   "image": "https://initiative-communiste.fr/wp-content/uploads/2026/10/20261006-Toulouse-lyceens-1-e1791305023309.jpg",
-   "title": {
-    "orig": "LA FRANCE, AILE MARCHANTE OU BIEN MAILLON FAIBLE DE LA DESTRUCTION EURO-ATLANTIQUE DU MONDE ?",
-    "it": "LA FRANCIA, ALA CAMMINANTE O ANELLO DEBOLE NELLA DISTRUZIONE EURO-ATLANTICA DEL MONDO?",
-    "en": "FRANCE, WALKING WING OR WEAK LINK IN THE EURO-ATLANTIC DESTRUCTION OF THE WORLD?"
-   },
-   "summary": {
-    "orig": "« Une chaîne vaut ce que vaut son maillon le plus faible » – Vladimir Ilitch Oulianov Sur le plan de la géopolitique mondiale, notre pays, aujourd’hui aile marchante de la marche à la guerre mondiale, représente aussi un espoir de rupture pour les peuples, pour la jeunesse du…",
-    "it": "“Una catena vale quanto vale il suo anello più debole” – Vladimir Ilyich Ulyanov Sul piano della geopolitica globale, il nostro Paese, oggi l’ala marcia della marcia verso la guerra mondiale, rappresenta anche una speranza di rottura per il popolo, per i giovani di...",
-    "en": "“A chain is worth what its weakest link is worth” – Vladimir Ilyich Ulyanov On the level of global geopolitics, our country, today the marching wing of the march to world war, also represents a hope of rupture for the people, for the youth of…"
-   }
-  },
-  {
-   "id": "0eb4ceb0e1d02d79",
-   "source": "zeitungderarbeit",
-   "name": "Zeitung der Arbeit",
-   "country": "AT",
-   "lang": "de",
-   "url": "https://zeitungderarbeit.at/klassenkampf/vw-beschaeftigte-sollen-zahlen-milliardenvermoegen-bleibt-unangetastet/",
-   "date": "2026-10-19T14:30:00+00:00",
-   "image": "https://zeitungderarbeit.at/wp-content/uploads/2026/10/VOLKSWAGEN_badge_on_a_car.jpg",
-   "title": {
-    "orig": "VW: Beschäftigte sollen zahlen, Milliardenvermögen bleibt unangetastet",
-    "it": "VW: I dipendenti dovrebbero pagare, i miliardi di asset rimangono intatti",
-    "en": "VW: Employees should pay, billions in assets remain untouched"
-   },
-   "summary": {
-    "orig": "Die Porsche-Piëch-Familie kontrolliert Volkswagen und verfügt über Milliardenvermögen – während die Belegschaft Reallohnverluste und Stellenabbau hinnehmen soll. Der Volkswagen-Konzern verschärft seinen Sparkurs auf Kosten der Beschäftigten. Wie die Süddeutsche Zeitung…",
-    "it": "La famiglia Porsche-Piëch controlla la Volkswagen e ha un patrimonio miliardario, mentre ci si aspetta che la forza lavoro accetti perdite salariali reali e tagli di posti di lavoro. Il Gruppo Volkswagen sta inasprendo le sue misure di austerità a scapito dei suoi dipendenti. Come la Süddeutsche Zeitung...",
-    "en": "The Porsche-Piëch family controls Volkswagen and has billions in assets - while the workforce is expected to accept real wage losses and job cuts. The Volkswagen Group is tightening its austerity measures at the expense of its employees. Like the Süddeutsche Zeitung…"
-   }
-  },
-  {
-   "id": "fe588f52d387106c",
-   "source": "strugglelalucha",
-   "name": "Struggle – La Lucha",
-   "country": "US",
-   "lang": "en",
-   "url": "https://www.struggle-la-lucha.org/2026/10/19/we-have-the-streets-new-orleans-holds-canal-street-for-palestine/",
-   "date": "2026-10-19T11:42:55+00:00",
-   "image": "https://www.struggle-la-lucha.org/wp-content/uploads/2026/10/NOLA1-326x245.jpg",
-   "title": {
-    "orig": "‘We have the streets’: New Orleans holds Canal Street for Palestine",
-    "it": "“Abbiamo le strade”: New Orleans detiene Canal Street per la Palestina",
-    "en": "‘We have the streets’: New Orleans holds Canal Street for Palestine"
-   },
-   "summary": {
-    "orig": "New Orleans, Oct. 17, 2026 – On Saturday evening, several hundred people marched for Palestine downtown, commemorating three years of resistance to the United States-Israeli genocide that intensified after Oct. 7, 2023. The march had",
-    "it": "New Orleans, 17 ottobre 2026 – Sabato sera, diverse centinaia di persone hanno marciato per il centro della Palestina, commemorando tre anni di resistenza al genocidio statunitense-israeliano che si è intensificato dopo il 7 ottobre 2023.",
-    "en": "New Orleans, Oct. 17, 2026 – On Saturday evening, several hundred people marched for Palestine downtown, commemorating three years of resistance to the United States-Israeli genocide that intensified after Oct. 7, 2023. The march had"
-   }
-  },
-  {
-   "id": "f90446dc44d00906",
-   "source": "strugglelalucha",
-   "name": "Struggle – La Lucha",
-   "country": "US",
-   "lang": "en",
-   "url": "https://www.struggle-la-lucha.org/2026/10/18/brazil-takes-to-the-streets-in-defense-of-lula-and-against-the-far-rights-advances/",
-   "date": "2026-10-18T22:23:38+00:00",
-   "image": "https://www.struggle-la-lucha.org/wp-content/uploads/2026/10/10-16-555514436378d6d20a8aac-23fcc0fa-326x245.webp",
-   "title": {
-    "orig": "Brazil takes to the streets in defense of Lula and against the far right’s advances",
-    "it": "Il Brasile scende in piazza in difesa di Lula e contro l’avanzata dell’estrema destra",
-    "en": "Brazil takes to the streets in defense of Lula and against the far right’s advances"
-   },
-   "summary": {
-    "orig": "Oct. 18, 2026 Brazil is experiencing a new wave of popular demonstrations that has brought thousands of people into the streets, from major cities to smaller towns, in a show of support for President Luiz",
-    "it": "18 ottobre 2026 Il Brasile sta vivendo una nuova ondata di manifestazioni popolari che ha portato migliaia di persone nelle strade, dalle grandi città ai paesi più piccoli, in una dimostrazione di sostegno al presidente Luiz",
-    "en": "Oct. 18, 2026 Brazil is experiencing a new wave of popular demonstrations that has brought thousands of people into the streets, from major cities to smaller towns, in a show of support for President Luiz"
-   }
-  },
-  {
-   "id": "87ef937b9202172e",
-   "source": "granma",
-   "name": "Granma",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.granma.cu/mundo/2026-10-18/el-diesel-ruso-y-sus-interpretaciones-18-10-2026-18-10-23",
-   "date": "2026-10-18T22:10:23+00:00",
-   "image": "https://www.granma.cu//file/img/2026/10/medium/f0447931.jpg",
-   "title": {
-    "orig": "El diésel ruso y sus interpretaciones",
-    "it": "Il diesel russo e le sue interpretazioni",
-    "en": "Russian diesel and its interpretations"
-   },
-   "summary": {
-    "orig": "«El petróleo ruso ha comenzado a llegar a los mercados globales, lo que tendrá un efecto positivo para su estabilización»",
-    "it": "«Il petrolio russo ha cominciato a raggiungere i mercati globali, il che avrà un effetto positivo sulla loro stabilizzazione»",
-    "en": "«Russian oil has begun to reach global markets, which will have a positive effect on their stabilization»"
    }
   }
  ]
