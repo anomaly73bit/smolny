@@ -1,7 +1,907 @@
 {
- "updated": "2026-10-25T16:36:52+00:00",
+ "updated": "2026-10-25T20:59:57+00:00",
  "count": 500,
  "items": [
+  {
+   "id": "ebf10e46b7f56f5a",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/tse-pausa-divulgacao-de-resultados-com-025-das-urnas-apuradas-apos-zanin-estender-votacao-ate-as-19h/",
+   "date": "2026-10-25T20:45:26+00:00",
+   "image": "https://www.brasildefato.com.br/wp-content/uploads/2026/03/tse_1908200980.webp",
+   "title": {
+    "orig": "TSE pausa divulgação de resultados com 0,25% das urnas apuradas após Zanin estender votação até as 19h",
+    "it": "Il TSE sospende la pubblicazione dei risultati con lo 0,25% dei voti contati, dopo che Zanin ha prolungato la votazione fino alle 19.00",
+    "en": "TSE pauses publishing results with 0.25% of votes counted after Zanin extends voting until 7pm"
+   },
+   "summary": {
+    "orig": "O Tribunal Superior Eleitoral (TSE) suspendeu neste domingo (25) a totalização dos votos do segundo turno, com 0,25% das urnas apuradas, depois da decisão do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), que prorrogou a votação até as 19h em todas as seções…",
+    "it": "La Corte Superiore Elettorale (TSE) ha sospeso questa domenica (25) lo spoglio dei voti del secondo turno, con lo 0,25% delle schede scrutinate, in seguito alla decisione del ministro Cristiano Zanin, del Tribunale Supremo Federale (STF), che ha prolungato le votazioni fino alle 19 in tutte le sezioni...",
+    "en": "The Superior Electoral Court (TSE) suspended this Sunday (25) the counting of votes in the second round, with 0.25% of the ballots counted, following the decision of Minister Cristiano Zanin, of the Federal Supreme Court (STF), who extended voting until 7pm in all sections…"
+   }
+  },
+  {
+   "id": "782f934656ae2c07",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/urna-e-trocada-em-gravatai-e-video-mostra-barraca-com-panfletos-perto-da-avenida-goethe-em-porto-alegre/",
+   "date": "2026-10-25T20:35:47+00:00",
+   "image": null,
+   "title": {
+    "orig": "Urna é trocada em Gravataí, e vídeo mostra barraca com panfletos perto da avenida Goethe, em Porto Alegre",
+    "it": "Scambio di urne a Gravataí e un video mostra una tenda con opuscoli vicino all'Avenida Goethe, a Porto Alegre",
+    "en": "Urn is exchanged in Gravataí, and video shows tent with pamphlets near Avenida Goethe, in Porto Alegre"
+   },
+   "summary": {
+    "orig": "Além das ocorrências já divulgadas no primeiro boletim deste domingo, o segundo turno da eleição presidencial teve outros registros no Rio Grande do Sul ao longo da manhã e da tarde deste domingo (25), de Porto Alegre ao interior do estado. Os dados abaixo vêm de boletins da…",
+    "it": "Oltre agli eventi già annunciati nel primo bollettino di questa domenica, il secondo turno delle elezioni presidenziali ha registrato altri record nel Rio Grande do Sul, durante la mattinata e il pomeriggio di questa domenica (25), da Porto Alegre all'interno dello Stato. I dati riportati di seguito provengono da bollettini di...",
+    "en": "In addition to the events already disclosed in the first bulletin this Sunday, the second round of the presidential election had other records in Rio Grande do Sul throughout the morning and afternoon of this Sunday (25), from Porto Alegre to the interior of the state. The data below comes from bulletins from…"
+   }
+  },
+  {
+   "id": "ee09fd2328a75b07",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/25/stf-prorroga-horario-de-votacao-para-ate-as-19h/?utm_source=rss&utm_medium=rss&utm_campaign=stf-prorroga-horario-de-votacao-para-ate-as-19h",
+   "date": "2026-10-25T20:32:04+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/onibus-ssa-ok-1-1024x574.png",
+   "title": {
+    "orig": "STF prorroga horário de votação até 19 horas",
+    "it": "La STF prolunga l'orario di votazione fino alle 19.00",
+    "en": "STF extends voting hours until 7pm"
+   },
+   "summary": {
+    "orig": "Corte atende pedido feito pela campanha do presidente Luiz Inácio Lula da Silva para que eleitores prejudicados por falta de transporte possam votar",
+    "it": "La Corte risponde alla richiesta avanzata dal presidente Luiz Inácio Lula da Silva affinché gli elettori colpiti dalla mancanza di trasporti possano votare",
+    "en": "Court responds to request made by President Luiz Inácio Lula da Silva's campaign so that voters affected by lack of transportation can vote"
+   }
+  },
+  {
+   "id": "beea46bedaf459c1",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/zanin-prorroga-votacao-ate-as-19h-em-todo-o-pais/",
+   "date": "2026-10-25T20:16:57+00:00",
+   "image": null,
+   "title": {
+    "orig": "Zanin prorroga votação até as 19h em todo o país",
+    "it": "Zanin proroga il voto fino alle 19 in tutto il Paese",
+    "en": "Zanin extends voting until 7pm across the country"
+   },
+   "summary": {
+    "orig": "O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), determinou neste domingo (25) a prorrogação do horário de votação até as 19h, no horário de Brasília, em todas as seções eleitorais do país. A decisão atende a um pedido da coligação do presidente Luiz Inácio Lula da…",
+    "it": "Il ministro Cristiano Zanin, del Tribunale Supremo Federale (STF), ha ordinato questa domenica (25) l'estensione dell'orario di voto fino alle 19, ora di Brasilia, in tutti i seggi elettorali del paese. La decisione risponde ad una richiesta della coalizione del presidente Luiz Inácio Lula da...",
+    "en": "Minister Cristiano Zanin, of the Federal Supreme Court (STF), ordered this Sunday (25) the extension of voting hours until 7 pm, Brasília time, in all electoral stations in the country. The decision responds to a request from the coalition of President Luiz Inácio Lula da…"
+   }
+  },
+  {
+   "id": "6805514c787f703d",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/uc-isci-yasamini-yitirmisti-zonguldaktaki-madenin-isletme-muduru-tutuklandi-415390",
+   "date": "2026-10-25T20:16:20+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/25/maden.jpg.webp?itok=pq3ZovEd",
+   "title": {
+    "orig": "Üç işçi yaşamını yitirmişti: Zonguldak’taki madenin işletme müdürü tutuklandı",
+    "it": "Tre operai hanno perso la vita: arrestato il direttore operativo della miniera di Zonguldak",
+    "en": "Three workers lost their lives: The operating manager of the mine in Zonguldak was arrested"
+   },
+   "summary": {
+    "orig": "Haber Merkezi Zonguldak’ta 3 işçinin yaşamını yitirdiği, 5 işçinin yaralandığı maden ocağındaki grizu patlamasına ilişkin tutuklananların sayısı 4’e yükseldi. Zonguldak'ın Kilimli ilçesine bağlı Gelik beldesinde 3 işçinin hayatını kaybettiği, 5 işçinin yaralandığı özel maden…",
+    "it": "News Center È salito a 4 il numero delle persone arrestate in merito all'esplosione di grisù nella miniera di Zonguldak, dove 3 lavoratori sono morti e 5 lavoratori sono rimasti feriti, è salito a 4. Miniera privata nella città di Gelik, nel distretto di Kilimli di Zonguldak, dove 3 lavoratori hanno perso la vita e 5 lavoratori sono rimasti feriti...",
+    "en": "News Center The number of people arrested regarding the firedamp explosion in the mine in Zonguldak, where 3 workers died and 5 workers were injured, increased to 4. Private mine in Gelik town of Zonguldak's Kilimli district, where 3 workers lost their lives and 5 workers were injured..."
+   }
+  },
+  {
+   "id": "74b49509e1304d99",
+   "source": "granma",
+   "name": "Granma",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.granma.cu/apuntes-de-cine/2026-10-25/la-pantalla-gala-un-contrapeso-al-poder-de-hollywood-25-10-2026-16-10-19",
+   "date": "2026-10-25T20:10:19+00:00",
+   "image": null,
+   "title": {
+    "orig": "La pantalla gala, un contrapeso al poder de Hollywood",
+    "it": "Lo schermo francese, contrappeso al potere di Hollywood",
+    "en": "The French screen, a counterweight to the power of Hollywood"
+   },
+   "summary": {
+    "orig": "A propósito del 27 Festival de Cine Francés en Cuba, del 22 de octubre al 4 de noviembre, nos acercamos a una de las industrias fílmicas más completas del mundo",
+    "it": "Per quanto riguarda il 27° Festival del Cinema Francese a Cuba, dal 22 ottobre al 4 novembre, ci avviciniamo ad una delle industrie cinematografiche più complete del mondo",
+    "en": "Regarding the 27th French Film Festival in Cuba, from October 22 to November 4, we approach one of the most complete film industries in the world"
+   }
+  },
+  {
+   "id": "2b8ccf7db0eeec0c",
+   "source": "granma",
+   "name": "Granma",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.granma.cu/deportes/2026-10-25/la-injusticia-mas-alla-del-esfuerzo-25-10-2026-16-10-15",
+   "date": "2026-10-25T20:10:15+00:00",
+   "image": null,
+   "title": {
+    "orig": "La injusticia más allá del esfuerzo",
+    "it": "Ingiustizia oltre ogni sforzo",
+    "en": "Injustice beyond effort"
+   },
+   "summary": {
+    "orig": "El bloqueo de Estados Unidos contra Cuba afecta gravemente las aspiraciones del movimiento deportivo",
+    "it": "Il blocco degli Stati Uniti contro Cuba incide gravemente sulle aspirazioni del movimento sportivo",
+    "en": "The United States blockade against Cuba seriously affects the aspirations of the sports movement"
+   }
+  },
+  {
+   "id": "0c91dcff9145e768",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/lula-vence-na-maior-parte-da-europa-e-amplia-vantagem-no-exterior/",
+   "date": "2026-10-25T20:06:11+00:00",
+   "image": null,
+   "title": {
+    "orig": "Lula vence na maior parte da Europa e amplia vantagem no exterior",
+    "it": "Lula vince in gran parte d'Europa e amplia il vantaggio all'estero",
+    "en": "Lula wins in most of Europe and expands advantage abroad"
+   },
+   "summary": {
+    "orig": "O presidente Luiz Inácio Lula da Silva (PT) venceu o segundo turno das eleições brasileiras de 2026 na maioria dos países europeus apurados. Até as 16h, no horário de Brasília, o petista estava à frente em 46 países ou territórios, enquanto Flávio Bolsonaro (PL) havia vencido em…",
+    "it": "Il presidente Luiz Inácio Lula da Silva (PT) ha vinto il secondo turno delle elezioni brasiliane del 2026 nella maggior parte dei paesi europei contati. Fino alle 16, ora di Brasilia, il membro del PT era in vantaggio in 46 paesi o territori, mentre Flávio Bolsonaro (PL) aveva vinto in...",
+    "en": "President Luiz Inácio Lula da Silva (PT) won the second round of the 2026 Brazilian elections in the majority of European countries counted. Until 4 pm, Brasília time, the PT member was ahead in 46 countries or territories, while Flávio Bolsonaro (PL) had won in…"
+   }
+  },
+  {
+   "id": "d52ba7505e40fa4a",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/deputada-samia-bomfim-pede-prisao-de-ricardo-nunes-por-descumprir-ordem-de-colocar-100-dos-onibus-de-sp-nas-ruas-na-eleicao/",
+   "date": "2026-10-25T19:49:42+00:00",
+   "image": null,
+   "title": {
+    "orig": "Deputada Sâmia Bomfim pede prisão de Ricardo Nunes por descumprir ordem de colocar 100% dos ônibus de SP nas ruas na eleição",
+    "it": "La deputata Sâmia Bomfim chiede l'arresto di Ricardo Nunes per non aver rispettato l'ordine di mettere in strada il 100% degli autobus SP durante le elezioni",
+    "en": "Deputy Sâmia Bomfim calls for the arrest of Ricardo Nunes for failing to comply with the order to put 100% of SP buses on the streets during the election"
+   },
+   "summary": {
+    "orig": "A deputada federal Sâmia Bomfim (Psol-SP) acionou a Justiça Eleitoral neste domingo (25) e pediu a prisão do prefeito de São Paulo, Ricardo Nunes (MDB), por descumprimento da ordem que obrigava a capital a manter 100% da frota de ônibus em circulação no dia do segundo turno. O…",
+    "it": "La deputata federale Sâmia Bomfim (Psol-SP) ha chiamato questa domenica (25) il tribunale elettorale e ha chiesto l'arresto del sindaco di San Paolo, Ricardo Nunes (MDB), per non aver rispettato l'ordine che obbligava la capitale a mantenere in circolazione il 100% del parco autobus il giorno del secondo turno. IL…",
+    "en": "Federal deputy Sâmia Bomfim (Psol-SP) called the Electoral Court this Sunday (25) and requested the arrest of the mayor of São Paulo, Ricardo Nunes (MDB), for failing to comply with the order that forced the capital to keep 100% of the bus fleet in circulation on the day of the second round. THE…"
+   }
+  },
+  {
+   "id": "6c95b48b86898d02",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/25/na-palestina-lula-vence-por-956-contra-44-de-flavio/?utm_source=rss&utm_medium=rss&utm_campaign=na-palestina-lula-vence-por-956-contra-44-de-flavio",
+   "date": "2026-10-25T19:37:05+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/Lula9-2048x1374-1-1024x687.jpg",
+   "title": {
+    "orig": "Na Palestina, Lula vence Flávio por 95,6% a 4,4%",
+    "it": "In Palestina Lula batte Flávio con il 95,6% e il 4,4%",
+    "en": "In Palestine, Lula beats Flávio by 95.6% to 4.4%"
+   },
+   "summary": {
+    "orig": "Denúncias contra os ataques israelenses em Gaza e defesa do reconhecimento da Palestina pela ONU marcam a atuação de Lula, que se reflete na ampla vantagem sobre o senador",
+    "it": "Le denunce contro gli attacchi israeliani a Gaza e la difesa del riconoscimento della Palestina da parte dell'ONU segnano la prestazione di Lula, che si riflette nel suo ampio vantaggio sul senatore",
+    "en": "Complaints against the Israeli attacks on Gaza and defending the recognition of Palestine by the UN mark Lula's performance, which is reflected in his broad advantage over the senator"
+   }
+  },
+  {
+   "id": "19a0f3ad363fc9e7",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/coligacao-de-lula-pede-ao-tse-extensao-do-horario-de-votacao-em-cidades-de-10-estados/",
+   "date": "2026-10-25T19:33:07+00:00",
+   "image": null,
+   "title": {
+    "orig": "Coligação de Lula pede ao TSE extensão do horário de votação em cidades de 10 estados",
+    "it": "La coalizione di Lula chiede al TSE di prolungare l'orario di voto nelle città di 10 stati",
+    "en": "Lula's coalition asks the TSE to extend voting hours in cities in 10 states"
+   },
+   "summary": {
+    "orig": "A Federação Brasil da Esperança, coligação do presidente Luiz Inácio Lula da Silva (PT), pediu ao Tribunal Superior Eleitoral (TSE) neste domingo (25) a extensão do horário de votação até as 19h em cidades de pelo menos nove estados: São Paulo, Alagoas, Pernambuco, Roraima…",
+    "it": "La Federazione Brasiliana della Speranza, una coalizione guidata dal presidente Luiz Inácio Lula da Silva (PT), ha chiesto questa domenica (25) alla Corte Elettorale Superiore (TSE) di estendere l'orario di voto fino alle 19 nelle città di almeno nove stati: San Paolo, Alagoas, Pernambuco, Roraima...",
+    "en": "The Brazilian Federation of Hope, a coalition led by President Luiz Inácio Lula da Silva (PT), asked the Superior Electoral Court (TSE) this Sunday (25) to extend voting hours until 7pm in cities in at least nine states: São Paulo, Alagoas, Pernambuco, Roraima..."
+   }
+  },
+  {
+   "id": "53c2b05014897c73",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/lula-vence-eleicoes-na-palestina-flavio-em-israel/",
+   "date": "2026-10-25T19:32:50+00:00",
+   "image": null,
+   "title": {
+    "orig": "Lula vence eleições na Palestina; Flávio Bolsonaro, em Israel",
+    "it": "Lula vince le elezioni in Palestina; Flavio Bolsonaro, in Israele",
+    "en": "Lula wins elections in Palestine; Flávio Bolsonaro, in Israel"
+   },
+   "summary": {
+    "orig": "Lula vence eleições na Palestina; Flávio, em Israel Fonte",
+    "it": "Lula vince le elezioni in Palestina; Flávio, in Israele Fonte",
+    "en": "Lula wins elections in Palestine; Flávio, in Israel Source"
+   }
+  },
+  {
+   "id": "66ff061ec4b7a0d4",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/micotakis-riyadda-yunanistan-suudi-arabistanin-patriot-bataryasi-talebini-kabul-etti-415389",
+   "date": "2026-10-25T19:30:40+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/25/micatakis_selman.jpg.webp?itok=SQU_MiEe",
+   "title": {
+    "orig": "Miçotakis Riyad'da: Yunanistan Suudi Arabistan’ın Patriot bataryası talebini kabul etti",
+    "it": "Mitsotakis a Riad: la Grecia ha accettato la richiesta dell'Arabia Saudita per una batteria Patriot",
+    "en": "Mitsotakis in Riyadh: Greece accepted Saudi Arabia's request for a Patriot battery"
+   },
+   "summary": {
+    "orig": "Dış Haberler Riyad’da Muhammed bin Selman ile bir araya gelen Miçotakis, Yunan Patriot bataryasının Suudi Arabistan’da kalmaya devam edeceğini söyledi. İran'ın da ele alındığı görüşmenin Avrupa ve Asya'yı Yunanistan ve Suudi Arabistan üzerinden birbirine bağlamayı amaçlayan…",
+    "it": "Foreign News Mitsotakis, che ha incontrato Mohammed bin Salman a Riyadh, ha affermato che la batteria dei Patriot greci continuerà a rimanere in Arabia Saudita. L'incontro, in cui si è parlato anche dell'Iran, mira a collegare Europa e Asia attraverso Grecia e Arabia Saudita.",
+    "en": "Foreign News Mitsotakis, who met with Mohammed bin Salman in Riyadh, said that the Greek Patriot battery will continue to stay in Saudi Arabia. The meeting, in which Iran was also discussed, aims to connect Europe and Asia through Greece and Saudi Arabia."
+   }
+  },
+  {
+   "id": "02610baf679fe34c",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/noticias/2026/10/25/presentaran-en-ecuador-una-accion-constitucional-para-exigir-la-liberacion-inmediata-de-luisa-gonzalez/",
+   "date": "2026-10-25T19:13:54+00:00",
+   "image": null,
+   "title": {
+    "orig": "Presentarán en Ecuador una acción constitucional para exigir la liberación inmediata de Luisa González",
+    "it": "Presenteranno un'azione costituzionale in Ecuador per chiedere l'immediata liberazione di Luisa González",
+    "en": "They will present a constitutional action in Ecuador to demand the immediate release of Luisa González"
+   },
+   "summary": {
+    "orig": "El excandidato presidencial ecuatoriano Andrés Arauz anunció que presentará una acción constitucional para solicitar la liberación inmediata de Luisa González, quien permanece hoy en prisión preventiva por un caso de presunto lavado de activos. En un mensaje publicado en X…",
+    "it": "L'ex candidato presidenziale ecuadoriano Andrés Arauz ha annunciato che presenterà un ricorso costituzionale per chiedere l'immediato rilascio di Luisa González, che si trova oggi in detenzione preventiva per un caso di presunto riciclaggio di denaro. In un messaggio pubblicato su X...",
+    "en": "Former Ecuadorian presidential candidate Andrés Arauz announced that he will present a constitutional action to request the immediate release of Luisa González, who remains in preventive detention today for a case of alleged money laundering. In a message published in X…"
+   }
+  },
+  {
+   "id": "1f7a7a7a98cc2010",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/economista-rebate-criticas-de-flavio-bolsonaro-sobre-divida-publica-conotacoes-morais-nao-se-aplicam-na-economia/",
+   "date": "2026-10-25T19:13:44+00:00",
+   "image": null,
+   "title": {
+    "orig": "Economista rebate críticas de Flávio Bolsonaro sobre dívida pública: ‘Conotações morais não se aplicam na economia’",
+    "it": "L’economista ribatte alle critiche di Flávio Bolsonaro sul debito pubblico: “Le connotazioni morali non si applicano all’economia”",
+    "en": "Economist counters criticism from Flávio Bolsonaro about public debt: ‘Moral connotations do not apply in the economy’"
+   },
+   "summary": {
+    "orig": "Economista lamenta que presidenciável tenha adotado discurso durante a corrida eleitoral e lembra que a dívida é um “fenômeno do capitalismo” Fonte",
+    "it": "L'economista si rammarica che il candidato alla presidenza abbia adottato un discorso durante la corsa elettorale e ricorda che il debito è un “fenomeno del capitalismo” Fonte",
+    "en": "Economist regrets that the presidential candidate adopted a speech during the electoral race and recalls that debt is a “phenomenon of capitalism” Source"
+   }
+  },
+  {
+   "id": "c558c1085a2cdfce",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/apos-denuncias-de-falta-de-onibus-nunes-marques-nao-descarta-estender-horario-de-votacao/",
+   "date": "2026-10-25T19:12:20+00:00",
+   "image": null,
+   "title": {
+    "orig": "Após denúncias de falta de ônibus, Nunes Marques não descarta estender horário de votação",
+    "it": "Dopo le segnalazioni di mancanza di autobus, Nunes Marques non esclude un prolungamento dell'orario di voto",
+    "en": "After reports of lack of buses, Nunes Marques does not rule out extending voting hours"
+   },
+   "summary": {
+    "orig": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, afirmou neste domingo (25) que vai analisar os pedidos para ampliar o horário de votação em cidades onde eleitores tiveram dificuldade para chegar às seções por causa da redução da frota de ônibus.…",
+    "it": "Il presidente della Corte Elettorale Superiore (TSE), il ministro Kassio Nunes Marques, ha dichiarato domenica (25) che analizzerà le richieste di prolungamento dell'orario di voto nelle città in cui gli elettori hanno avuto difficoltà a raggiungere i seggi elettorali a causa della riduzione del parco autobus.…",
+    "en": "The president of the Superior Electoral Court (TSE), minister Kassio Nunes Marques, stated this Sunday (25) that he will analyze requests to extend voting hours in cities where voters had difficulty reaching the polling stations due to the reduction in the bus fleet.…"
+   }
+  },
+  {
+   "id": "fac2bcf2cf6c92cf",
+   "source": "granma",
+   "name": "Granma",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.granma.cu/cuba/2026-10-25/reportan-lluvias-localmente-intensas-en-guantanamo-25-10-2026-15-10-13",
+   "date": "2026-10-25T19:10:13+00:00",
+   "image": null,
+   "title": {
+    "orig": "Reportan lluvias localmente intensas en Guantánamo",
+    "it": "Piogge localmente intense segnalate a Guantánamo",
+    "en": "Locally intense rains reported in Guantánamo"
+   },
+   "summary": {
+    "orig": "Lluvias intermitentes y muy nutridas en algunas localidades, afectan a esta provincia oriental desde la mañana de ayer, y continúan como la manifestación más notable del fenómeno meteorológico que actualmente afecta al país",
+    "it": "Piogge intermittenti e molto forti in alcune località colpiscono da ieri mattina questa provincia orientale e continuano ad essere la manifestazione più notevole del fenomeno meteorologico che attualmente colpisce il Paese.",
+    "en": "Intermittent and very heavy rains in some localities have affected this eastern province since yesterday morning, and continue as the most notable manifestation of the meteorological phenomenon that currently affects the country."
+   }
+  },
+  {
+   "id": "c5f45974a5e68ca3",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/que-horas-comeca-a-apuracao-do-segundo-turno-veja-horario-e-quando-sai-o-resultado/",
+   "date": "2026-10-25T19:06:37+00:00",
+   "image": null,
+   "title": {
+    "orig": "Que horas começa a apuração do segundo turno? Veja horário e quando sai o resultado",
+    "it": "A che ora inizia il conteggio del secondo turno? Vedi l'ora e quando verranno pubblicati i risultati",
+    "en": "What time does the counting of the second round start? See the time and when the results will be released"
+   },
+   "summary": {
+    "orig": "Eleitores de todo o país vão às urnas neste domingo (25) para escolher, no segundo turno, entre o presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, e o senador Flávio Bolsonaro (PL). A votação segue até as 17h, no horário de Brasília, e mais de 158 milhões de…",
+    "it": "Gli elettori di tutto il Paese si recheranno alle urne questa domenica (25) per scegliere, al secondo turno, tra il presidente Luiz Inácio Lula da Silva (PT), candidato alla rielezione, e il senatore Flávio Bolsonaro (PL). Le votazioni continueranno fino alle 17, ora di Brasilia, e più di 158 milioni...",
+    "en": "Voters across the country go to the polls this Sunday (25) to choose, in the second round, between President Luiz Inácio Lula da Silva (PT), candidate for re-election, and Senator Flávio Bolsonaro (PL). Voting continues until 5pm, Brasília time, and more than 158 million…"
+   }
+  },
+  {
+   "id": "0df399a54f267990",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/completo-desprezo-pela-vida-do-povo-negro-afirma-deputada-sobre-caso-de-homem-acorrentado-em-ato-bolsonarista-no-rj/",
+   "date": "2026-10-25T19:02:48+00:00",
+   "image": null,
+   "title": {
+    "orig": "‘Completo desprezo pela vida do povo negro’, afirma deputada sobre caso de homem acorrentado em ato bolsonarista no RJ",
+    "it": "“Completo disprezzo per la vita dei neri”, dice il deputato sul caso di un uomo incatenato in un atto bolsonarista in RJ",
+    "en": "‘Complete contempt for the lives of black people’, says deputy about case of man chained in a Bolsonarist act in RJ"
+   },
+   "summary": {
+    "orig": "Parlamentar também assegurou que as mulheres podem garantir derrota da extrema direita no Brasil Fonte",
+    "it": "La parlamentare ha inoltre assicurato che le donne possono garantire la sconfitta dell'estrema destra in Brasile. Fonte",
+    "en": "Parliamentarian also assured that women can guarantee the defeat of the extreme right in Brazil Source"
+   }
+  },
+  {
+   "id": "a33b2bc7d166a2f5",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/25/nao-vamos-permitir-roubalheira-diz-lula-sobre-falta-de-transporte-no-2o-turno/?utm_source=rss&utm_medium=rss&utm_campaign=nao-vamos-permitir-roubalheira-diz-lula-sobre-falta-de-transporte-no-2o-turno",
+   "date": "2026-10-25T18:52:22+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/lula-declaeacao-1024x776.png",
+   "title": {
+    "orig": "Não vamos permitir roubalheira, diz Lula sobre falta de transporte no 2º turno",
+    "it": "Non permetteremo i furti, dice Lula per la mancanza di trasporti nel 2° turno",
+    "en": "We will not allow robbery, says Lula about lack of transport in the 2nd shift"
+   },
+   "summary": {
+    "orig": "Presidente também pediu que eleitores não desistam de votar. Denúncias pelo país mostram redução na frota e PT pede ampliação do horário de votação ao TSE",
+    "it": "Il Presidente ha inoltre chiesto agli elettori di non rinunciare al voto. Rapporti in tutto il paese mostrano una riduzione della flotta e il PT chiede al TSE di prolungare l'orario di voto",
+    "en": "The President also asked voters not to give up voting. Reports across the country show a reduction in the fleet and PT asks the TSE to extend voting hours"
+   }
+  },
+  {
+   "id": "f7654dbe12cdad27",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/abdnin-gozden-dusmus-kuklasi-machado-yeniden-venezuelada-415388",
+   "date": "2026-10-25T18:51:37+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/25/machado.jpg.webp?itok=xNwG7t2a",
+   "title": {
+    "orig": "ABD’nin gözden düşmüş kuklası Machado yeniden Venezuela’da",
+    "it": "Il burattino statunitense caduto in disgrazia Machado è di nuovo in Venezuela",
+    "en": "Disgraced US puppet Machado is in Venezuela again"
+   },
+   "summary": {
+    "orig": "Dış Haberler ABD’nin Venezuela’ya saldırarak Devlet Başkanı Maduro’yu kaçırmasından bir ay önce ülkeden gizlice çıkardığı “muhalif” Maria Corina Machado yaklaşık 11 ay sonra ülkeye geri döndü. Ancak Machado'nun şimdi Rodriguez hükümetiyle \"ABD-İsrail'e hizmet\" yarışına girerek…",
+    "it": "Notizie straniere La \"dissidente\" Maria Corina Machado, segretamente espulsa dal paese un mese prima che gli Stati Uniti attaccassero il Venezuela e rapissero il presidente Maduro, è tornata nel paese circa 11 mesi dopo. Tuttavia, Machado è ora in competizione con il governo Rodriguez per \"servire gli Stati Uniti-Israele\"...",
+    "en": "Foreign News The \"dissident\" Maria Corina Machado, who was secretly expelled from the country a month before the USA attacked Venezuela and kidnapped President Maduro, returned to the country approximately 11 months later. However, Machado is now competing with the Rodriguez government to \"serve the US-Israel\"..."
+   }
+  },
+  {
+   "id": "4f6c6402f14bb252",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/lula-diz-que-falta-de-onibus-em-cidades-e-banditismo-e-pede-extensao-da-votacao/",
+   "date": "2026-10-25T18:50:56+00:00",
+   "image": null,
+   "title": {
+    "orig": "Lula diz que falta de ônibus em cidades é ‘banditismo’ e pede extensão da votação",
+    "it": "Lula dice che la mancanza di autobus nelle città è “banditismo” e chiede una proroga del voto",
+    "en": "Lula says the lack of buses in cities is ‘banditry’ and calls for an extension of the vote"
+   },
+   "summary": {
+    "orig": "O presidente Luiz Inácio Lula da Silva (PT) afirmou neste domingo (25) que a falta de ônibus registrada em cidades baianas e em São Paulo representa um “banditismo” e “mau caratismo” de prefeitos. Lula reforçou o pedido feito pelo PT ao TSE (Tribunal Superior Eleitoral) para que…",
+    "it": "Il presidente Luiz Inácio Lula da Silva (PT) ha dichiarato domenica (25) che la mancanza di autobus registrata nelle città di Bahia e San Paolo rappresenta “banditismo” e “cattivo comportamento” da parte dei sindaci. Lula ha rafforzato la richiesta avanzata dal PT al TSE (Tribunale Elettorale Superiore) affinché...",
+    "en": "President Luiz Inácio Lula da Silva (PT) stated this Sunday (25) that the lack of buses recorded in cities in Bahia and São Paulo represents “banditry” and “bad behavior” on the part of mayors. Lula reinforced the request made by the PT to the TSE (Superior Electoral Court) so that…"
+   }
+  },
+  {
+   "id": "d9b76743f12a6d56",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/monde/cisjordanie/800-000-manifestants-dans-la-rue-des-milices-dextreme-droite-en-embuscade-marche-blanche-a-trappes-apres-lattentat-raciste-congres-du-rn-ce-quil-ne-fallait",
+   "date": "2026-10-25T18:28:18+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/p2-3-manif_LUN-2.jpg?w=1200",
+   "title": {
+    "orig": "800 000 manifestants dans la rue, des milices d’extrême droite en embuscade, marche blanche à Trappes après l’attentat raciste, congrès du RN… Ce qu’il ne fallait pas manquer ce week-end",
+    "it": "800.000 manifestanti in strada, milizie di estrema destra in agguato, marcia dei bianchi a Trappes dopo l'attacco razzista, congresso della RN... Cosa non perdere questo fine settimana",
+    "en": "800,000 demonstrators in the street, far-right militias in ambush, white march in Trappes after the racist attack, RN congress… What not to miss this weekend"
+   },
+   "summary": {
+    "orig": "Pas de panique si vous avez décroché de l’actualité ce week-end, « l’Humanité » vous fait un récap' de ce qu’il ne fallait pas manquer ces 24 et 25 octobre 2026.",
+    "it": "Niente panico se hai colto la notizia questo fine settimana, \"L'Humanité\" ti riepiloga ciò che non devi perderti il 24 e 25 ottobre 2026.",
+    "en": "Don't panic if you caught the news this weekend, \"L'Humanité\" gives you a recap of what you shouldn't miss on October 24 and 25, 2026."
+   }
+  },
+  {
+   "id": "9c6d2fd1460c1e92",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/societe/racisme/a-trappes-londe-de-choc-dun-attentat-raciste",
+   "date": "2026-10-25T18:20:05+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/AFP_D4D29NF.jpg?w=1200",
+   "title": {
+    "orig": "À Trappes, l’onde de choc après l’attentat raciste",
+    "it": "A Trappes, l'onda d'urto dopo l'aggressione razzista",
+    "en": "In Trappes, the shock wave after the racist attack"
+   },
+   "summary": {
+    "orig": "De nombreuses voix s’élèvent pour dénoncer l’attaque raciste de Trappes du vendredi 25 octobre. Plusieurs appels au rassemblement ont été lancés pour ce lundi. La garde à vue de l’auteur de l’attaque a été suspendue ce dimanche, pour une période de quarante-huit heures d'«…",
+    "it": "Molte voci si levano per denunciare l'attacco razzista avvenuto a Trappes venerdì 25 ottobre. Per questo lunedì sono stati lanciati diversi appelli ad una manifestazione. La custodia cautelare dell’autore dell’aggressione è stata sospesa questa domenica, per un periodo di quarantotto ore “…",
+    "en": "Many voices are being raised to denounce the racist attack in Trappes on Friday October 25. Several calls for a rally have been launched for this Monday. The police custody of the perpetrator of the attack was suspended this Sunday, for a period of forty-eight hours “…"
+   }
+  },
+  {
+   "id": "831700fcfa963661",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/sports/badminton/christo-popov-vainqueur-aux-internationaux-de-france-de-badminton-et-nouveau-numero-un-mondial",
+   "date": "2026-10-25T18:19:28+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/p4-popov_LUN.jpg?w=1200",
+   "title": {
+    "orig": "Christo Popov, vainqueur aux Internationaux de France de badminton et nouveau numéro un mondial",
+    "it": "Christo Popov, vincitore del torneo di badminton Open di Francia e nuovo numero uno del mondo",
+    "en": "Christo Popov, winner of the French Open badminton tournament and new world number one"
+   },
+   "summary": {
+    "orig": "Après sa victoire lors des Internationaux de France à Tremblay ce dimanche 25 octobre, Christo Popov va s’installer à la première place du classement mondial de badminton en simple. Un exploit sans précédent pour un badiste français.",
+    "it": "Dopo la vittoria agli Open di Francia di Tremblay questa domenica, 25 ottobre, Christo Popov salirà al primo posto nella classifica mondiale dei singoli di badminton. Un'impresa senza precedenti per una badista francese.",
+    "en": "After his victory at the French Open in Tremblay this Sunday, October 25, Christo Popov will move to first place in the world singles badminton rankings. An unprecedented feat for a French badista."
+   }
+  },
+  {
+   "id": "b82f535ececb50fc",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/politique/immigration-sans-papiers/ils-ont-voulu-embarquer-les-sans-papiers-200-militants-bloques-par-la-gendarmerie-alors-quils-tentaient-de-rejoindre-la-manifestation-contre-le-rn",
+   "date": "2026-10-25T18:13:37+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-25-at-17.53.02.jpg?w=1200",
+   "title": {
+    "orig": "« Ils ont voulu embarquer les sans-papiers » : 200 militants bloqués par la gendarmerie alors qu’ils tentaient de rejoindre la manifestation contre le RN",
+    "it": "“Volevano prendere a bordo gli immigrati privi di documenti”: 200 attivisti bloccati dalla gendarmeria mentre cercavano di unirsi alla manifestazione contro la RN",
+    "en": "“They wanted to take undocumented immigrants on board”: 200 activists blocked by the gendarmerie while they tried to join the demonstration against the RN"
+   },
+   "summary": {
+    "orig": "Trois des cinq cars affrétés par le collectif de la Marche des solidarités, venu de Paris, ont été empêchés d’atteindre Orléans pour défiler contre la présence du Rassemblement national qui organisait son congrès annuel.",
+    "it": "A tre dei cinque autobus noleggiati dal collettivo Marcia Solidale, provenienti da Parigi, è stato impedito di raggiungere Orléans per marciare contro la presenza del Raggruppamento Nazionale che stava organizzando il suo congresso annuale.",
+    "en": "Three of the five buses chartered by the Solidarity March collective, coming from Paris, were prevented from reaching Orléans to march against the presence of the National Rally which was organizing its annual congress."
+   }
+  },
+  {
+   "id": "d13e2e414776ca20",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/izmirde-yeni-partiden-istifa-eden-yaklasik-200-kisi-chpye-katildi-415387",
+   "date": "2026-10-25T18:04:59+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/25/izmir_chp.jpg.webp?itok=XLRpZE3Q",
+   "title": {
+    "orig": "İzmir'de Yeni Parti'den istifa eden yaklaşık 200 kişi CHP'ye katıldı",
+    "it": "Circa 200 persone che si sono dimesse dal Nuovo Partito a Izmir si sono unite al CHP",
+    "en": "Approximately 200 people who resigned from the New Party in Izmir joined the CHP"
+   },
+   "summary": {
+    "orig": "Haber Merkezi Aralarında Yeni Parti Buca kurucu ilçe yöneticilerinin de bulunduğu yaklaşık 200 kişi, partilerinden istifa ederek CHP'ye katıldı. İzmir'de, aralarında Yeni Parti Buca kurucu ilçe yöneticilerinin de bulunduğu yaklaşık 200 kişi, partilerinden istifa ederek CHP'ye…",
+    "it": "Centro notizie Circa 200 persone, compresi gli amministratori distrettuali fondatori del Nuovo Partito Buca, si sono dimessi dai loro partiti e si sono uniti al CHP. A Izmir, circa 200 persone, compresi i dirigenti distrettuali fondatori del Nuovo Partito Buca, si sono dimessi dal loro partito e si sono uniti al CHP.",
+    "en": "News Center Approximately 200 people, including the founding district administrators of New Party Buca, resigned from their parties and joined the CHP. In Izmir, approximately 200 people, including the founding district managers of New Party Buca, resigned from their party and joined CHP."
+   }
+  },
+  {
+   "id": "017216a34d0d6a31",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/culture-et-savoir/mouvement-lyceen/demain-des-laube-jirai-manifester-malgre-la-repression-et-la-strategie-de-la-tension-la-contestation-sociale-ne-sessouffle-pas",
+   "date": "2026-10-25T18:00:56+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/p2-3-manif_LUN-2.jpg?w=1200",
+   "title": {
+    "orig": "« Demain, dès l’aube, j’irai manifester » : malgré la répression et la stratégie de la tension, 800 000 personnes dans les cortèges",
+    "it": "“Domani, dall’alba, andrò a manifestare”: nonostante la repressione e la strategia della tensione, 800mila persone in corteo",
+    "en": "“Tomorrow, from dawn, I will go and demonstrate”: despite the repression and the strategy of tension, 800,000 people in the processions"
+   },
+   "summary": {
+    "orig": "En dépit de la stratégie de la tension choisie par le pouvoir, des interdictions de manifester et de la répression, des centaines de milliers de personnes ont de nouveau défilé dans tout le pays, samedi 24 octobre, pour se faire entendre.",
+    "it": "Nonostante la strategia della tensione scelta dal potere, il divieto di manifestazioni e la repressione, centinaia di migliaia di persone hanno marciato ancora una volta in tutto il paese sabato 24 ottobre per farsi sentire.",
+    "en": "Despite the strategy of tension chosen by those in power, bans on demonstrations and repression, hundreds of thousands of people once again marched throughout the country on Saturday October 24 to make themselves heard."
+   }
+  },
+  {
+   "id": "756afa20326934e8",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/politique/jordan-bardella/au-congres-du-rn-a-orleans-des-journalistes-agresses-et-la-promesse-dun-etat-autoritaire",
+   "date": "2026-10-25T17:55:31+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/p8-rn_LUN.jpg?w=1200",
+   "title": {
+    "orig": "Au congrès du RN à Orléans, des journalistes agressés et la promesse d’un État autoritaire",
+    "it": "Al congresso della RN di Orléans, i giornalisti hanno attaccato la promessa di uno Stato autoritario",
+    "en": "At the RN congress in Orléans, journalists attacked and the promise of an authoritarian state"
+   },
+   "summary": {
+    "orig": "Alors qu’il devait être la première étape de la campagne présidentielle de Marine Le Pen, le congrès du RN s’est transformé en pugilat contre la presse.",
+    "it": "Mentre doveva essere la prima tappa della campagna presidenziale di Marine Le Pen, il congresso della RN si è trasformato in una scazzottata contro la stampa.",
+    "en": "While it was to be the first stage of Marine Le Pen's presidential campaign, the RN congress turned into a fistfight against the press."
+   }
+  },
+  {
+   "id": "e2dbd1c8ea642aef",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/istanbul-barosunda-secim-umit-kocasakal-baskan-oldu-415386",
+   "date": "2026-10-25T17:53:49+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/25/kocasakal.jpg.webp?itok=U90I24cu",
+   "title": {
+    "orig": "İstanbul Barosu’nda seçim: Ümit Kocasakal başkan oldu",
+    "it": "Elezione nell'Ordine degli avvocati di Istanbul: Ümit Kocasakal diventa presidente",
+    "en": "Election in Istanbul Bar Association: Ümit Kocasakal became the president"
+   },
+   "summary": {
+    "orig": "Haber Merkezi İstanbul Barosu'nda yapılan seçimde resmi olmayan sonuçlara göre başkanlığına Cumhuriyetçi Güç Birliği Grubu adayı Ümit Kocasakal seçildi. İstanbul Barosu’nun 128. Olağan Genel Kurulu’nda resmi olmayan sonuçlara göre, Cumhuriyetçi Güç Birliği Grubu adayı Ümit…",
+    "it": "Centro notizie Secondo i risultati non ufficiali delle elezioni tenutesi presso l'Ordine degli avvocati di Istanbul, Ümit Kocasakal, candidato del Gruppo repubblicano per l'unità del potere, è stato eletto presidente. Secondo i risultati non ufficiali della 128a Assemblea Generale Ordinaria dell'Ordine degli Avvocati di Istanbul, il candidato del Gruppo per l'Unità del Potere Repubblicano Ümit...",
+    "en": "News Center According to the unofficial results of the election held in the Istanbul Bar Association, Ümit Kocasakal, candidate of the Republican Power Unity Group, was elected as its president. According to the unofficial results of the 128th Ordinary General Assembly of the Istanbul Bar Association, Republican Power Unity Group candidate Ümit…"
+   }
+  },
+  {
+   "id": "d2c84e0af301d58f",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/monde/albanie/le-premier-ministre-albanais-edi-rama-veut-durcir-la-repression-des-manifestations-en-sinspirant-du-modele-francais-casseurs-payeurs",
+   "date": "2026-10-25T17:53:15+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/albanie-inspiration-francaise.jpg?w=1200",
+   "title": {
+    "orig": "Le premier ministre albanais Edi Rama veut durcir la répression des manifestations en s’inspirant… du modèle français « casseurs-payeurs »",
+    "it": "Il primo ministro albanese Edi Rama vuole inasprire la repressione delle manifestazioni ispirandosi al... modello francese dei “teppisti-pagatori”",
+    "en": "Albanian Prime Minister Edi Rama wants to toughen up the repression of demonstrations by drawing inspiration from... the French “thugs-payers” model"
+   },
+   "summary": {
+    "orig": "Le premier ministre albanais Edi Rama entend durcir dans les prochains jours la législation encadrant les manifestations anti gouvernementales portées par la jeunesse qui secouent le pays depuis plusieurs mois, disant vouloir s’inspirer du « modèle français casseurs-payeurs ».",
+    "it": "Il primo ministro albanese Edi Rama intende inasprire nei prossimi giorni la legislazione che regola le manifestazioni antigovernative guidate dai giovani che scuotono il Paese da diversi mesi, affermando di volersi ispirare al “modello francese dei delinquenti-pagatori”.",
+    "en": "Albanian Prime Minister Edi Rama intends to toughen in the coming days the legislation governing the anti-government demonstrations led by youth which have shaken the country for several months, saying he wants to be inspired by the “French thugs-payers model”."
+   }
+  },
+  {
+   "id": "990a32dccad7a162",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/noticias/2026/10/25/cuba-cierra-el-continental-de-boxeo-de-puebla-con-oro-de-saidel-horta-y-cinco-plazas-para-lima-2027/",
+   "date": "2026-10-25T17:44:26+00:00",
+   "image": null,
+   "title": {
+    "orig": "Cuba cierra el Continental de Boxeo de Puebla con oro de Saidel Horta y cinco plazas para Lima 2027",
+    "it": "Cuba chiude il Campionato Continentale di Puebla con l'oro di Saidel Horta e cinque posti per Lima 2027",
+    "en": "Cuba closes the Puebla Continental Boxing Championship with gold from Saidel Horta and five places for Lima 2027"
+   },
+   "summary": {
+    "orig": "El subcampeón mundial de 2023 Saidel Horta (60 kg) ganó el oro 5-0 ante el dominicano Ezequiel Medina, en una pelea detenida en el primer asalto por heridas de ambos. Cuba sumó las platas de Yusnier Sorsano (70 kg) y Nelson Williams (90 kg), y los bronces de Luis Enrique Vinent…",
+    "it": "Il secondo classificato al mondo 2023 Saidel Horta (60 kg) ha vinto l'oro 5-0 contro il dominicano Ezequiel Medina, in un combattimento interrotto al primo turno a causa degli infortuni di entrambi. Cuba ha aggiunto gli argenti di Yusnier Sorsano (70 kg) e Nelson Williams (90 kg), e i bronzi di Luis Enrique Vinent...",
+    "en": "The 2023 world runner-up Saidel Horta (60 kg) won the gold 5-0 against the Dominican Ezequiel Medina, in a fight stopped in the first round due to injuries to both. Cuba added the silvers of Yusnier Sorsano (70 kg) and Nelson Williams (90 kg), and the bronzes of Luis Enrique Vinent..."
+   }
+  },
+  {
+   "id": "03e378dd5917a979",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/monde/cisjordanie/2-600-palestiniens-expulses-dhebron-par-larmee-israelienne-une-operation-de-punition-collective-dans-limpunite-la-plus-totale",
+   "date": "2026-10-25T17:44:03+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/p12-hebron_LUN.jpg?w=1200",
+   "title": {
+    "orig": "L’armée israélienne expulse 2 600 Palestiniens d’Hébron : une opération de punition collective dans l’impunité la plus totale",
+    "it": "L'esercito israeliano espelle 2.600 palestinesi da Hebron: un'operazione di punizione collettiva nella totale impunità",
+    "en": "The Israeli army expels 2,600 Palestinians from Hebron: an operation of collective punishment with total impunity"
+   },
+   "summary": {
+    "orig": "L’armée israélienne a entamé une opération de grande envergure dans la ville de Hébron en expulsant plus de 2 600 habitants d’un quartier palestinien. Tous sont de la même famille que les deux assaillants ayant tué deux soldats israéliens il y a quelques jours. L’opération se…",
+    "it": "L'esercito israeliano ha avviato un'operazione su larga scala nella città di Hebron espellendo più di 2.600 residenti da un quartiere palestinese. Appartengono tutti alla stessa famiglia dei due attentatori che pochi giorni fa hanno ucciso due soldati israeliani. L’operazione è…",
+    "en": "The Israeli army began a large-scale operation in the city of Hebron by expelling more than 2,600 residents from a Palestinian neighborhood. All are from the same family as the two attackers who killed two Israeli soldiers a few days ago. The operation is…"
+   }
+  },
+  {
+   "id": "07892a56d926ceee",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/akin-gurlekten-gonullu-iade-savunusu-hukuki-sorumlulugu-ortadan-kaldirmaz-iddialar-ayrica",
+   "date": "2026-10-25T17:35:13+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/25/gurlek.jpg.webp?itok=4Lruucqc",
+   "title": {
+    "orig": "Akın Gürlek’ten ‘gönüllü iade’ savunusu: ‘Hukuki sorumluluğu ortadan kaldırmaz, iddialar ayrıca değerlendirilecek’",
+    "it": "La difesa di Akın Gürlek contro l'estradizione volontaria: \"Non elimina la responsabilità legale, le accuse verranno valutate separatamente\"",
+    "en": "Akın Gürlek's defense of 'voluntary extradition': 'It does not eliminate legal liability, the allegations will be evaluated separately'"
+   },
+   "summary": {
+    "orig": "Haber Merkezi Fon soruşturmaları kapsamında yapılan “gönüllü iadeler\"in hukuki sorumluluğu ortadan kaldırmayacağını söyleyen Adalet Bakanı Gürlek “hiçbir hukuka aykırılığın karşılıksız kalmaması” için çalışacaklarını iddia etti. Fon vurgunundaki isimlerden, istifa eden AKP Genel…",
+    "it": "Affermando che i \"ritorni volontari\" effettuati nell'ambito delle indagini del Fondo News Center non elimineranno la responsabilità legale, il ministro della Giustizia Gürlek ha affermato che lavoreranno per garantire che \"nessuna illegalità rimanga senza risposta\". Dimesso il generale dell'AKP, uno dei nomi coinvolti nel profitto dei fondi...",
+    "en": "Stating that \"voluntary returns\" made within the scope of News Center Fund investigations will not eliminate legal liability, Minister of Justice Gürlek claimed that they will work to ensure that \"no illegality goes unanswered\". Resigned AKP General, one of the names involved in fund profiteering..."
+   }
+  },
+  {
+   "id": "c0d94d9537d4f870",
+   "source": "zeitungderarbeit",
+   "name": "Zeitung der Arbeit",
+   "country": "AT",
+   "lang": "de",
+   "url": "https://zeitungderarbeit.at/klassenkampf/ihs-chef-gegen-hoehere-loehne-die-beschaeftigten-sollen-die-rechnung-zahlen/",
+   "date": "2026-10-25T17:30:00+00:00",
+   "image": null,
+   "title": {
+    "orig": "IHS-Chef gegen höhere Löhne: Die Beschäftigten sollen die Rechnung zahlen",
+    "it": "Capo IHS contro salari più alti: i dipendenti dovrebbero pagare il conto",
+    "en": "IHS boss against higher wages: Employees should pay the bill"
+   },
+   "summary": {
+    "orig": "Holger Bonin, Chef des Instituts für Höhere Studien (IHS), stellt die bisherige Lohnpolitik infrage und fordert eine stärkere Differenzierung der Kollektivvertragsabschlüsse nach Branchen. Gerade im Handel, wo rund 420.000 Beschäftigte und 19.000 Lehrlinge von den laufenden…",
+    "it": "Holger Bonin, direttore dell'Istituto di studi avanzati (IHS), mette in discussione l'attuale politica salariale e chiede una maggiore differenziazione dei contratti collettivi per settore. Soprattutto nel commercio al dettaglio, dove circa 420.000 dipendenti e 19.000 apprendisti beneficiano del continuo...",
+    "en": "Holger Bonin, head of the Institute for Advanced Studies (IHS), questions the current wage policy and calls for greater differentiation of collective agreements by industry. Especially in retail, where around 420,000 employees and 19,000 apprentices benefit from the ongoing…"
+   }
+  },
+  {
+   "id": "ffd5b4d7a3374d03",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/monde/7-octobre-un-an-apres/a-tel-aviv-la-colere-incandescente-des-familles-des-victimes-du-7-octobre-contre-benyamin-netanyahou",
+   "date": "2026-10-25T17:25:36+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/p13-tel-aviv_LUN.jpg?w=1200",
+   "title": {
+    "orig": "À Tel-Aviv, la colère incandescente des familles des victimes du 7-Octobre contre Benyamin Netanyahou",
+    "it": "A Tel Aviv, la rabbia incandescente dei familiari delle vittime del 7 ottobre contro Benyamin Netanyahu",
+    "en": "In Tel Aviv, the incandescent anger of the families of the victims of October 7 against Benyamin Netanyahu"
+   },
+   "summary": {
+    "orig": "Plusieurs milliers de personnes ont convergé, samedi 24 octobre, à Tel-Aviv, à l’appel d’un collectif de familles d’otages du 7 octobre 2023. Trois jours avant les élections législatives israéliennes, elles réclament toujours des comptes à Benyamin Netanyahou sur les failles…",
+    "it": "Diverse migliaia di persone si sono riunite sabato 24 ottobre a Tel Aviv, su appello di un collettivo di famiglie di ostaggi del 7 ottobre 2023. Tre giorni prima delle elezioni legislative israeliane, chiedono ancora la responsabilità di Benyamin Netanyahu per le colpe...",
+    "en": "Several thousand people converged on Saturday, October 24, in Tel Aviv, at the call of a collective of families of hostages from October 7, 2023. Three days before the Israeli legislative elections, they are still demanding accountability from Benyamin Netanyahu for the flaws..."
+   }
+  },
+  {
+   "id": "6fb560cfb8a5ecd8",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/25/lula-repudia-atos-de-violencia-politica-caso-mais-grave-ocorreu-em-mg/?utm_source=rss&utm_medium=rss&utm_campaign=lula-repudia-atos-de-violencia-politica-caso-mais-grave-ocorreu-em-mg",
+   "date": "2026-10-25T17:18:52+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/lula-coletiva.jpg",
+   "title": {
+    "orig": "Lula repudia atos de violência política; caso mais grave ocorreu em MG",
+    "it": "Lula ripudia gli atti di violenza politica; il caso più grave si è verificato in MG",
+    "en": "Lula repudiates acts of political violence; most serious case occurred in MG"
+   },
+   "summary": {
+    "orig": "Entre ontem e hoje, foram noticiados casos de agressão contra militantes de esquerda, que se somam a outros relatados durante o primeiro e o segundo turno",
+    "it": "Tra ieri e oggi sono stati segnalati casi di aggressione contro attivisti di sinistra, oltre ad altri denunciati durante il primo e il secondo round",
+    "en": "Between yesterday and today, cases of aggression against left-wing activists were reported, in addition to others reported during the first and second rounds"
+   }
+  },
+  {
+   "id": "606fd7681b21e5d0",
+   "source": "granma",
+   "name": "Granma",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.granma.cu/cuba/2026-10-25/avanza-distribucion-gradual-de-alimentos-a-personas-con-mayor-vulnerabilidad-de-granma-25-10-2026-13-10-48",
+   "date": "2026-10-25T17:10:48+00:00",
+   "image": null,
+   "title": {
+    "orig": "Avanza distribución gradual de alimentos a personas con mayor vulnerabilidad de Granma",
+    "it": "Prosegue la distribuzione graduale di cibo alle persone più vulnerabili di Granma",
+    "en": "Gradual distribution of food to the most vulnerable people in Granma advances"
+   },
+   "summary": {
+    "orig": "El ritmo de las entregas está supeditado al combustible disponible, de ahí que se intente concentrar los tres productos antes de emprender los recorridos.",
+    "it": "Il ritmo delle consegne dipende dal carburante disponibile, quindi si cerca di concentrare i tre prodotti prima di intraprendere le rotte.",
+    "en": "The pace of deliveries is subject to the fuel available, hence an attempt is made to concentrate the three products before embarking on the routes."
+   }
+  },
+  {
+   "id": "84ac9acd8ca14897",
+   "source": "granma",
+   "name": "Granma",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.granma.cu/deportes/2026-10-25/cuba-se-despide-del-panamericano-sub-18-sin-boleto-mundialista-25-10-2026-13-10-44",
+   "date": "2026-10-25T17:10:44+00:00",
+   "image": null,
+   "title": {
+    "orig": "Cuba se despide del Panamericano Sub-18 sin boleto mundialista",
+    "it": "Cuba dice addio alla Panamericana Under 18 senza biglietto per la Coppa del Mondo",
+    "en": "Cuba says goodbye to the Pan American U-18 without a World Cup ticket"
+   },
+   "summary": {
+    "orig": "El relevo no logró respaldar la gran apertura de Chrystofer Sarría",
+    "it": "Il sollievo non è riuscito a sostenere l'inaugurazione di Chrystofer Sarría",
+    "en": "The relief failed to support Chrystofer Sarría's grand opening"
+   }
+  },
+  {
+   "id": "f9cded34d4dfc7d7",
+   "source": "granma",
+   "name": "Granma",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.granma.cu/mundo/2026-10-25/bloqueo-y-desverguenza-25-10-2026-13-10-37",
+   "date": "2026-10-25T17:10:37+00:00",
+   "image": null,
+   "title": {
+    "orig": "Bloqueo… y desvergüenza",
+    "it": "Blocco… e spudoratezza",
+    "en": "Blockade… and shamelessness"
+   },
+   "summary": {
+    "orig": "Cuba ha sido, por todos estos años, un asiento para el diálogo y la paz",
+    "it": "Cuba è stata, per tutti questi anni, una sede di dialogo e di pace",
+    "en": "Cuba has been, for all these years, a seat for dialogue and peace"
+   }
+  },
+  {
+   "id": "980503ba78b5768d",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/culture-et-savoir/feminisme/a-saint-denis-haxan-donne-une-incarnation-vive-aux-lectures-feministes-de-la-sorciere",
+   "date": "2026-10-25T17:03:38+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/p19-Haxan_LUN.jpg?w=1200",
+   "title": {
+    "orig": "À Saint-Denis, « Häxan » donne une incarnation vive aux lectures féministes de la sorcière",
+    "it": "A Saint-Denis, “Häxan” dà una vivida incarnazione alle letture femministe della strega",
+    "en": "In Saint-Denis, “Häxan” gives a vivid incarnation to feminist readings of the witch"
+   },
+   "summary": {
+    "orig": "Porté par la jeune compagnie du même nom, Häxan – la sorcière, en suédois – donne une incarnation vive aux lectures féministes de cette figure mythique et politique.",
+    "it": "Portato avanti dalla giovane compagnia omonima, Häxan – la strega, in svedese – dà una vivida incarnazione alle letture femministe di questa figura mitica e politica.",
+    "en": "Carried by the young company of the same name, Häxan – the witch, in Swedish – gives a vivid incarnation to feminist readings of this mythical and political figure."
+   }
+  },
+  {
+   "id": "2b231d2952f47aa4",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/social-et-economie/metootheatre/agressions-sexuelles-soumission-chimique-comment-le-directeur-de-lecole-de-clown-le-samovar-a-tente-detouffer-une-enquete-sur-les-vss",
+   "date": "2026-10-25T17:00:00+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/iStock-2039486210.jpg?w=1200",
+   "title": {
+    "orig": "Agressions sexuelles, soumission chimique… Comment le directeur de l’école de clown Le Samovar a tenté d’étouffer une enquête sur les VSS",
+    "it": "Violenza sessuale, sottomissione chimica... Come il direttore della scuola di clown Le Samovar ha cercato di soffocare un'indagine sulla violenza di genere",
+    "en": "Sexual assault, chemical submission… How the director of the Le Samovar clown school tried to stifle an investigation into SGBV"
+   },
+   "summary": {
+    "orig": "Longtemps considéré comme un lieu de référence pour l’enseignement du clown, le Samovar traverse la plus grave crise de son histoire, après une enquête indépendante sur les violences sexistes, sexuelles et morales mettant en cause son fondateur. Face à l’absence de sanctions et…",
+    "it": "Considerato a lungo luogo di riferimento per l'insegnamento del clown, il Samovar sta attraversando la crisi più grave della sua storia, dopo un'indagine indipendente sulle violenze sessiste, sessuali e morali che hanno coinvolto il suo fondatore. Di fronte all’assenza di sanzioni e…",
+    "en": "Long considered a reference place for clown teaching, the Samovar is going through the most serious crisis in its history, after an independent investigation into sexist, sexual and moral violence involving its founder. Faced with the absence of sanctions and…"
+   }
+  },
+  {
+   "id": "4bc57dbebc1c6a07",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/gorevden-alinan-oktay-saral-kimdir-onu-hangi-vukuatlariyla-taniyoruz-415384",
+   "date": "2026-10-25T16:49:12+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/25/saral.jpg.webp?itok=Eiz2kGo0",
+   "title": {
+    "orig": "Görevden alınan Oktay Saral kimdir, onu hangi vukuatlarıyla tanıyoruz?",
+    "it": "Chi è Oktay Saral, che è stato licenziato, e da quali incidenti lo conosciamo?",
+    "en": "Who is Oktay Saral, who was dismissed, and what incidents do we know him from?"
+   },
+   "summary": {
+    "orig": "Haber Merkezi Cumhurbaşkanı Başdanışmanı Oktay Saral, “sultanım” dediği Erdoğan tarafından, Azerbaycan’ın talebi üzerine görevden alındı. Tokmakla saldırı, eşe darp, muhaliflere tehditle gündeme gelen Saral’ı tanıyalım… Meclis’te elinde tokmakla muhalif vekillere saldıran, bir…",
+    "it": "Il consigliere capo del Centro notizie del presidente Oktay Saral è stato licenziato da Erdoğan, che ha definito \"il mio sultano\", su richiesta dell'Azerbaigian. Conosciamo meglio Saral, che si è fatto notare con attacchi con il martelletto, percosse alla moglie e minacce all'opposizione... Ha attaccato i deputati dell'opposizione con il martelletto in mano al Parlamento, un...",
+    "en": "News Center Chief Advisor to the President Oktay Saral was dismissed by Erdoğan, whom he called \"my sultan\", upon the request of Azerbaijan. Let's get to know Saral, who came to the fore with attacks with a gavel, beating his wife, and threats to the opposition... He attacked opposition MPs with a gavel in his hand in the Parliament, a..."
+   }
+  },
+  {
+   "id": "29beb067d8097f90",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/societe/pcf/le-pcf-victime-dune-cyberattaque-appelle-ses-adherents-a-la-vigilance",
+   "date": "2026-10-25T16:47:44+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/pcf-cyberattaque.jpg?w=1200",
+   "title": {
+    "orig": "Le PCF, victime d’une cyberattaque, appelle ses adhérents à la vigilance",
+    "it": "Il PCF, vittima di un attacco informatico, invita i suoi membri alla vigilanza",
+    "en": "The PCF, victim of a cyberattack, calls on its members to be vigilant"
+   },
+   "summary": {
+    "orig": "Le Parti communiste français a annoncé vendredi 23 octobre une fuite de son fichier d’adhérents et de sympathisants, dont l’ampleur reste à déterminer. Le PCF va porter plainte et appelle à la vigilance face aux risques d’hameçonnage.",
+    "it": "Il Partito comunista francese ha annunciato venerdì 23 ottobre una fuga di notizie sui suoi iscritti e simpatizzanti, la cui portata resta da definire. Il PCF sporgerà denuncia e invita alla vigilanza sui rischi di phishing.",
+    "en": "The French Communist Party announced on Friday October 23 a leak of its file of members and sympathizers, the extent of which remains to be determined. The PCF will file a complaint and calls for vigilance regarding the risks of phishing."
+   }
+  },
+  {
+   "id": "9d441dec3fd90de0",
+   "source": "morningstar",
+   "name": "Morning Star",
+   "country": "GB",
+   "lang": "en",
+   "url": "https://morningstaronline.co.uk/article/activists-brave-storm-call-axe-us-spy-base",
+   "date": "2026-10-25T16:29:50+00:00",
+   "image": null,
+   "title": {
+    "orig": "Activists brave storm in call to axe US spy base",
+    "it": "Gli attivisti sfidano la tempesta nell'appello a distruggere la base di spionaggio americana",
+    "en": "Activists brave storm in call to axe US spy base"
+   },
+   "summary": {
+    "orig": "Extreme weather did not dampen the spirits of those out in force yesterday demanding the closure of RAF Menwith Hill",
+    "it": "Il tempo estremo non ha smorzato lo spirito di coloro che ieri erano in forze a chiedere la chiusura della RAF Menwith Hill",
+    "en": "Extreme weather did not dampen the spirits of those out in force yesterday demanding the closure of RAF Menwith Hill"
+   }
+  },
   {
    "id": "0db0f4ac6e722c5c",
    "source": "cubadebate",
@@ -160,6 +1060,26 @@
     "orig": "Au lendemain de l’attentat raciste de Trappes, qui a causé la mort d’un homme et blessé cinq personnes, le maire de la ville, Ali Rabeh (Génération·s), revient avec émotion sur les causes profondes de ce drame.",
     "it": "Il giorno dopo l'attacco razzista di Trappes, che ha provocato la morte di un uomo e il ferimento di cinque persone, il sindaco della città, Ali Rabeh (Génération·s), ripercorre con commozione le cause profonde di questa tragedia.",
     "en": "The day after the racist attack in Trappes, which caused the death of a man and injured five people, the mayor of the city, Ali Rabeh (Génération·s), looks back with emotion on the root causes of this tragedy."
+   }
+  },
+  {
+   "id": "787baf75a4ba1855",
+   "source": "morningstar",
+   "name": "Morning Star",
+   "country": "GB",
+   "lang": "en",
+   "url": "https://morningstaronline.co.uk/article/budget-set-boost-social-housing-and-expand-powers-englands-mayors",
+   "date": "2026-10-25T15:49:01+00:00",
+   "image": null,
+   "title": {
+    "orig": "Budget set to boost social housing and expand the powers of England’s mayors",
+    "it": "Budget destinato a promuovere l’edilizia sociale ed espandere i poteri dei sindaci inglesi",
+    "en": "Budget set to boost social housing and expand the powers of England’s mayors"
+   },
+   "summary": {
+    "orig": "THE Budget will provide more than £1 billion for social and affordable housing and give England’s mayors greater powers, the Treasury said over the weekend. The money takes funding for the 10-year social and affordable homes programme to more than £40bn. Councils will also be…",
+    "it": "Il Bilancio fornirà più di 1 miliardo di sterline per l’edilizia sociale e a prezzi accessibili e darà ai sindaci inglesi maggiori poteri, ha affermato il Tesoro durante il fine settimana. Il denaro porta i finanziamenti per il programma decennale di case sociali e accessibili a oltre 40 miliardi di sterline. Anche i Consigli saranno...",
+    "en": "THE Budget will provide more than £1 billion for social and affordable housing and give England’s mayors greater powers, the Treasury said over the weekend. The money takes funding for the 10-year social and affordable homes programme to more than £40bn. Councils will also be…"
    }
   },
   {
@@ -363,6 +1283,26 @@
    }
   },
   {
+   "id": "a24943ef5c15bf42",
+   "source": "morningstar",
+   "name": "Morning Star",
+   "country": "GB",
+   "lang": "en",
+   "url": "https://morningstaronline.co.uk/article/burnhams-anachronistic-bid-overturn-brexit-eroding-his-credibility-say-communists",
+   "date": "2026-10-25T15:13:05+00:00",
+   "image": null,
+   "title": {
+    "orig": "Burnham’s ‘anachronistic’ bid to overturn Brexit eroding his credibility, say communists",
+    "it": "Il tentativo “anacronistico” di Burnham di ribaltare la Brexit erodendo la sua credibilità, dicono i comunisti",
+    "en": "Burnham’s ‘anachronistic’ bid to overturn Brexit eroding his credibility, say communists"
+   },
+   "summary": {
+    "orig": "ANDY BURNHAM’S “anachronistic” desire to overturn the Brexit referendum is eroding his credibility fast, communists warned today. The Prime Minister has said he wants to consider options for a new relationship with the European Union, potentially including a return to full EU…",
+    "it": "Il desiderio “anacronistico” di ANDY BURNHAM di ribaltare il referendum sulla Brexit sta erodendo rapidamente la sua credibilità, hanno avvertito oggi i comunisti. Il Primo Ministro ha affermato di voler considerare le opzioni per un nuovo rapporto con l’Unione Europea, incluso potenzialmente un ritorno all’UE a pieno titolo…",
+    "en": "ANDY BURNHAM’S “anachronistic” desire to overturn the Brexit referendum is eroding his credibility fast, communists warned today. The Prime Minister has said he wants to consider options for a new relationship with the European Union, potentially including a return to full EU…"
+   }
+  },
+  {
    "id": "fd2272fb425c9865",
    "source": "granma",
    "name": "Granma",
@@ -483,6 +1423,26 @@
    }
   },
   {
+   "id": "f5e7732c96e657d6",
+   "source": "morningstar",
+   "name": "Morning Star",
+   "country": "GB",
+   "lang": "en",
+   "url": "https://morningstaronline.co.uk/article/world-brief-october-25-2026",
+   "date": "2026-10-25T14:33:34+00:00",
+   "image": null,
+   "title": {
+    "orig": "World in brief: October 25, 2026",
+    "it": "Il mondo in breve: 25 ottobre 2026",
+    "en": "World in brief: October 25, 2026"
+   },
+   "summary": {
+    "orig": "NORTH KOREA : North Korean leader Kim Jong Un visited China on Saturday, inaugurating a new bridge that connects the two countries and vowing to expand co-operation with his powerful neighbour. Mr Kim arrived in the Chinese border city of Dandong on Saturday after crossing the…",
+    "it": "COREA DEL NORD: Sabato il leader nordcoreano Kim Jong Un ha visitato la Cina, inaugurando un nuovo ponte che collega i due paesi e promettendo di espandere la cooperazione con il suo potente vicino. Il signor Kim è arrivato sabato nella città cinese di confine di Dandong dopo aver attraversato il...",
+    "en": "NORTH KOREA : North Korean leader Kim Jong Un visited China on Saturday, inaugurating a new bridge that connects the two countries and vowing to expand co-operation with his powerful neighbour. Mr Kim arrived in the Chinese border city of Dandong on Saturday after crossing the…"
+   }
+  },
+  {
    "id": "48272977091abe4f",
    "source": "brasildefato",
    "name": "Brasil de Fato",
@@ -503,6 +1463,26 @@
    }
   },
   {
+   "id": "6ed13a79e65029df",
+   "source": "morningstar",
+   "name": "Morning Star",
+   "country": "GB",
+   "lang": "en",
+   "url": "https://morningstaronline.co.uk/article/police-and-protesters-clash-across-france",
+   "date": "2026-10-25T14:27:15+00:00",
+   "image": null,
+   "title": {
+    "orig": "Police and protesters clash across France",
+    "it": "Polizia e manifestanti si scontrano in tutta la Francia",
+    "en": "Police and protesters clash across France"
+   },
+   "summary": {
+    "orig": "FRENCH authorities clashed with protesters in Paris as more than half a million people took to the streets across France over school funding and soaring living costs in a fresh challenge to President Emmanuel Macron. Police made nearly 1,000 arrests, the government said. The…",
+    "it": "Le autorità FRANCESI si sono scontrate con i manifestanti a Parigi mentre più di mezzo milione di persone sono scese in piazza in tutta la Francia per i finanziamenti scolastici e l’aumento del costo della vita in una nuova sfida al presidente Emmanuel Macron. La polizia ha effettuato quasi 1.000 arresti, ha detto il governo. IL…",
+    "en": "FRENCH authorities clashed with protesters in Paris as more than half a million people took to the streets across France over school funding and soaring living costs in a fresh challenge to President Emmanuel Macron. Police made nearly 1,000 arrests, the government said. The…"
+   }
+  },
+  {
    "id": "c47b55ed9245ee9d",
    "source": "nhandan",
    "name": "Nhân Dân",
@@ -520,6 +1500,26 @@
     "orig": "Emphasising that attracting and effectively utilising talent is a decisive factor in harnessing the intellectual potential of the Vietnamese people, Lieutenant General Nguyen Thanh Tuan, former Director of the Department of Political Education and Information, affirmed that when…",
     "it": "Sottolineando che attrarre e utilizzare efficacemente i talenti è un fattore decisivo per sfruttare il potenziale intellettuale del popolo vietnamita, il tenente generale Nguyen Thanh Tuan, ex direttore del Dipartimento di educazione e informazione politica, ha affermato che quando...",
     "en": "Emphasising that attracting and effectively utilising talent is a decisive factor in harnessing the intellectual potential of the Vietnamese people, Lieutenant General Nguyen Thanh Tuan, former Director of the Department of Political Education and Information, affirmed that when…"
+   }
+  },
+  {
+   "id": "8874917fd1db7bc6",
+   "source": "morningstar",
+   "name": "Morning Star",
+   "country": "GB",
+   "lang": "en",
+   "url": "https://morningstaronline.co.uk/article/britain-climate-chaos-and-war-our-road-ruin",
+   "date": "2026-10-25T14:24:59+00:00",
+   "image": null,
+   "title": {
+    "orig": "Britain, climate chaos and war: our road to ruin",
+    "it": "Gran Bretagna, caos climatico e guerra: la nostra strada verso la rovina",
+    "en": "Britain, climate chaos and war: our road to ruin"
+   },
+   "summary": {
+    "orig": "ANOTHER storm knocks out power from tens of thousands of homes, disrupts rail and road transport and prompts flood warnings across large swathes of Britain. The scientific consensus is that increasingly severe weather is here to stay, even if emissions reduction targets can be…",
+    "it": "UN’ALTRA tempesta interrompe la corrente elettrica a decine di migliaia di case, interrompe il trasporto ferroviario e stradale e fa scattare l’allarme inondazioni in vaste aree della Gran Bretagna. Il consenso scientifico è che il clima sempre più rigido è destinato a durare, anche se gli obiettivi di riduzione delle emissioni possono essere...",
+    "en": "ANOTHER storm knocks out power from tens of thousands of homes, disrupts rail and road transport and prompts flood warnings across large swathes of Britain. The scientific consensus is that increasingly severe weather is here to stay, even if emissions reduction targets can be…"
    }
   },
   {
@@ -580,6 +1580,26 @@
     "orig": "Haber Merkezi DEM Parti Eş Genel Başkanı Bakırhan, yürütülen tartışmalarda iktidarın artık somut adımlar atması gerektiğini söyledi. Sürecin temposunda düşüş olduğunu söyleyen Bakırhan; kayyımlara son verilmesi, AİHM kararlarının uygulanması ve Öcalan ile görüşme engellerinin…",
     "it": "Bakırhan, co-presidente del partito DEM del News Center, ha affermato che il governo dovrebbe ora compiere passi concreti nelle discussioni. Bakırhan ha affermato che c'è stata una diminuzione del ritmo del processo; licenziamento dei fiduciari, attuazione delle decisioni della CEDU e ostacoli all’incontro con Öcalan…",
     "en": "News Center DEM Party Co-Chairman Bakırhan said that the government should now take concrete steps in the discussions. Bakırhan said that there was a decrease in the tempo of the process; termination of trustees, implementation of ECHR decisions and obstacles to meeting with Öcalan…"
+   }
+  },
+  {
+   "id": "fca5de5b7be776a8",
+   "source": "morningstar",
+   "name": "Morning Star",
+   "country": "GB",
+   "lang": "en",
+   "url": "https://morningstaronline.co.uk/article/israel-presses-ahead-army-operation-occupied-west-bank",
+   "date": "2026-10-25T14:14:25+00:00",
+   "image": null,
+   "title": {
+    "orig": "Israel presses ahead with army operation in occupied West Bank",
+    "it": "Israele prosegue l’operazione militare nella Cisgiordania occupata",
+    "en": "Israel presses ahead with army operation in occupied West Bank"
+   },
+   "summary": {
+    "orig": "THE Israeli military pressed ahead with a massive military operation in the occupied West Bank today that has displaced thousands of Palestinians and placed major restrictions on movement. The move follows a gun attack last week that killed two Israeli soldiers and wounded three…",
+    "it": "Oggi l’esercito israeliano ha portato avanti una massiccia operazione militare nella Cisgiordania occupata che ha sfollato migliaia di palestinesi e ha imposto importanti restrizioni ai movimenti. La mossa segue un attacco a mano armata della scorsa settimana che ha ucciso due soldati israeliani e ne ha feriti tre...",
+    "en": "THE Israeli military pressed ahead with a massive military operation in the occupied West Bank today that has displaced thousands of Palestinians and placed major restrictions on movement. The move follows a gun attack last week that killed two Israeli soldiers and wounded three…"
    }
   },
   {
@@ -723,6 +1743,26 @@
    }
   },
   {
+   "id": "2f467b660136e503",
+   "source": "morningstar",
+   "name": "Morning Star",
+   "country": "GB",
+   "lang": "en",
+   "url": "https://morningstaronline.co.uk/article/anti-racists-call-protest-against-white-supremacist-talk-oxford-university",
+   "date": "2026-10-25T13:56:14+00:00",
+   "image": null,
+   "title": {
+    "orig": "Anti-racists call for protest against white supremacist talk at Oxford University",
+    "it": "Gli antirazzisti chiedono di protestare contro i discorsi suprematisti bianchi all'Università di Oxford",
+    "en": "Anti-racists call for protest against white supremacist talk at Oxford University"
+   },
+   "summary": {
+    "orig": "ANTI-RACISM campaigners have called a demonstration against Nathan Cofnas’s talk at Oxford University’s Oriel College over his white supremacist views. The US researcher has been invited by the University of Oxford Reform Society to speak on November 17. The event is billed as…",
+    "it": "Gli attivisti ANTI-RAZZISMO hanno indetto una manifestazione contro il discorso di Nathan Cofnas all’Oriel College dell’Università di Oxford sulle sue opinioni suprematiste bianche. Il ricercatore statunitense è stato invitato dalla Reform Society dell'Università di Oxford a parlare il 17 novembre. L'evento è pubblicizzato come...",
+    "en": "ANTI-RACISM campaigners have called a demonstration against Nathan Cofnas’s talk at Oxford University’s Oriel College over his white supremacist views. The US researcher has been invited by the University of Oxford Reform Society to speak on November 17. The event is billed as…"
+   }
+  },
+  {
    "id": "ee9b38a9b978d474",
    "source": "strugglelalucha",
    "name": "Struggle – La Lucha",
@@ -740,6 +1780,26 @@
     "orig": "By José Ernesto Nováez Guerrero and Joshua Suarez Trump once again threatened Cuba at a rally held Oct. 23 in Florida, as part of a nationwide tour the president is undertaking ahead of the midterm",
     "it": "di José Ernesto Nováez Guerrero e Joshua Suarez Trump ha minacciato ancora una volta Cuba in una manifestazione tenutasi il 23 ottobre in Florida, nell'ambito di un tour nazionale che il presidente sta intraprendendo in vista del mandato di metà mandato",
     "en": "By José Ernesto Nováez Guerrero and Joshua Suarez Trump once again threatened Cuba at a rally held Oct. 23 in Florida, as part of a nationwide tour the president is undertaking ahead of the midterm"
+   }
+  },
+  {
+   "id": "0d34f73fde6b2006",
+   "source": "morningstar",
+   "name": "Morning Star",
+   "country": "GB",
+   "lang": "en",
+   "url": "https://morningstaronline.co.uk/article/action-jackson-fires-villa-victory-over-marescas-man-city",
+   "date": "2026-10-25T13:46:09+00:00",
+   "image": null,
+   "title": {
+    "orig": "Action Jackson fires Villa to victory over Maresca’s Man City",
+    "it": "Action Jackson porta Villa alla vittoria sul Manchester City di Maresca",
+    "en": "Action Jackson fires Villa to victory over Maresca’s Man City"
+   },
+   "summary": {
+    "orig": "Aston Villa 2-1 Manchester City by Gene Sylvester at Villa Park ENZO MARESCA’S men arrived in the Midlands as the only unbeaten team in the Premier League, while also boasting the only 100 per cent record, but Unai Emery’s Villa have made a habit of putting title contenders…",
+    "it": "Aston Villa - Manchester City 2-1 di Gene Sylvester al Villa Park Gli uomini di ENZO MARESCA sono arrivati nelle Midlands come l'unica squadra imbattuta in Premier League, vantando anche l'unico record del 100%, ma il Villa di Unai Emery ha preso l'abitudine di mettere in campo i contendenti al titolo...",
+    "en": "Aston Villa 2-1 Manchester City by Gene Sylvester at Villa Park ENZO MARESCA’S men arrived in the Midlands as the only unbeaten team in the Premier League, while also boasting the only 100 per cent record, but Unai Emery’s Villa have made a habit of putting title contenders…"
    }
   },
   {
@@ -800,6 +1860,26 @@
     "orig": "Данные ФОМ и ВЦИОМ вновь демонстрируют удивительную метаморфозу. После выборов в Госдуму рейтинг КПРФ заметно вырос. По последним замерам ФОМ наша поддержка держится на уровне 14–15%. ВЦИОМ же, который в начале октября расщедрился до 18,8%, … Читать дальше →",
     "it": "I dati di FOM e VTsIOM dimostrano ancora una volta una sorprendente metamorfosi. Dopo le elezioni alla Duma di Stato, il rating del Partito Comunista della Federazione Russa è aumentato notevolmente. Secondo le ultime misurazioni FOM, il nostro supporto rimane al livello del 14–15%. VTsIOM, che all'inizio di ottobre ha aumentato la propria quota al 18,8%, ... Per saperne di più →",
     "en": "Data from FOM and VTsIOM again demonstrate an amazing metamorphosis. After the elections to the State Duma, the rating of the Communist Party of the Russian Federation increased noticeably. According to the latest FOM measurements, our support remains at the level of 14–15%. VTsIOM, which in early October increased its share to 18.8%, ... Read more →"
+   }
+  },
+  {
+   "id": "2b8942dc4ef400ce",
+   "source": "morningstar",
+   "name": "Morning Star",
+   "country": "GB",
+   "lang": "en",
+   "url": "https://morningstaronline.co.uk/article/jewish-voice-liberation-slams-antisemitism-schools-review-politically-biased",
+   "date": "2026-10-25T13:36:05+00:00",
+   "image": null,
+   "title": {
+    "orig": "Jewish Voice for Liberation slams antisemitism in schools review as politically biased",
+    "it": "Jewish Voice for Liberation accusa l'antisemitismo nelle recensioni scolastiche di essere politicamente parziale",
+    "en": "Jewish Voice for Liberation slams antisemitism in schools review as politically biased"
+   },
+   "summary": {
+    "orig": "JEWISH campaigners have condemned a review of antisemitism in schools as politically biased and drawing inappropriate conclusions from flawed data. Commissioned by the government, Sir David Bell’s review published last week made 27 recommendations, including strengthening…",
+    "it": "Gli attivisti EBRAICI hanno condannato una revisione dell'antisemitismo nelle scuole in quanto politicamente parziale e che trae conclusioni inappropriate da dati errati. Commissionata dal governo, la revisione di Sir David Bell pubblicata la scorsa settimana conteneva 27 raccomandazioni, tra cui il rafforzamento...",
+    "en": "JEWISH campaigners have condemned a review of antisemitism in schools as politically biased and drawing inappropriate conclusions from flawed data. Commissioned by the government, Sir David Bell’s review published last week made 27 recommendations, including strengthening…"
    }
   },
   {
@@ -2163,6 +3243,66 @@
    }
   },
   {
+   "id": "cfc51d48d35e646e",
+   "source": "marx21",
+   "name": "Marx21",
+   "country": "IT",
+   "lang": "it",
+   "url": "https://www.marx21.it/editoriali/la-rabbia-sociale-e-il-fallimento-della-politica-editoriale/",
+   "date": "2026-10-25T06:00:00+00:00",
+   "image": "https://www.marx21.it/wp-content/uploads/2026/10/armi-e-poverta.jpeg",
+   "title": {
+    "orig": "La rabbia sociale e il fallimento della politica. Editoriale",
+    "it": "La rabbia sociale e il fallimento della politica. Editoriale",
+    "en": "Social anger and the failure of politics. Editorial"
+   },
+   "summary": {
+    "orig": "di Marco Pondrelli «Adesso immaginate che quella bambina sia bianca». È con questa frase, nel film Il momento di uccidere, che Matthew McConaughey cerca di convincere una giuria di bianchi ad assolvere il suo cliente, un uomo afroamericano che ha ucciso gli assassini della…",
+    "it": "di Marco Pondrelli «Adesso immaginate che quella bambina sia bianca». È con questa frase, nel film Il momento di uccidere, che Matthew McConaughey cerca di convincere una giuria di bianchi ad assolvere il suo cliente, un uomo afroamericano che ha ucciso gli assassini della…",
+    "en": "by Marco Pondrelli «Now imagine that little girl is white». It is with this phrase, in the film A Time to Kill, that Matthew McConaughey tries to convince an all-white jury to acquit his client, an African-American man who killed the murderers of…"
+   }
+  },
+  {
+   "id": "c0b06a965c40eb56",
+   "source": "marx21",
+   "name": "Marx21",
+   "country": "IT",
+   "lang": "it",
+   "url": "https://www.marx21.it/en/social-anger-and-the-failure-of-politics-editorial/",
+   "date": "2026-10-25T05:59:00+00:00",
+   "image": "https://www.marx21.it/wp-content/uploads/2026/10/armi-e-poverta.jpeg",
+   "title": {
+    "orig": "Social anger and the failure of politics. Editorial",
+    "it": "Social anger and the failure of politics. Editorial",
+    "en": "Social anger and the failure of politics. Editorial"
+   },
+   "summary": {
+    "orig": "by Marco Pondrelli «Now imagine that that little girl were white.» It is with this sentence, in the film A Time to Kill, that Matthew McConaughey tries to convince a jury of white people to acquit his client, an African American man who has killed the murderers of his daughter.…",
+    "it": "by Marco Pondrelli «Now imagine that that little girl were white.» It is with this sentence, in the film A Time to Kill, that Matthew McConaughey tries to convince a jury of white people to acquit his client, an African American man who has killed the murderers of his daughter.…",
+    "en": "by Marco Pondrelli «Now imagine that that little girl were white.» It is with this sentence, in the film A Time to Kill, that Matthew McConaughey tries to convince a jury of white people to acquit his client, an African American man who killed the murderers of his daughter.…"
+   }
+  },
+  {
+   "id": "c7694fc2c907af27",
+   "source": "marx21",
+   "name": "Marx21",
+   "country": "IT",
+   "lang": "it",
+   "url": "https://www.marx21.it/fr/la-colere-sociale-et-lechec-de-la-politique-editorial/",
+   "date": "2026-10-25T05:58:00+00:00",
+   "image": "https://www.marx21.it/wp-content/uploads/2026/10/armi-e-poverta.jpeg",
+   "title": {
+    "orig": "La colère sociale et l’échec de la politique. Éditorial",
+    "it": "La colère sociale et l’échec de la politique. Éditorial",
+    "en": "La colère sociale et l’échec de la politique. Editorial"
+   },
+   "summary": {
+    "orig": "par Marco Pondrelli « Maintenant, imaginez que cette petite fille soit blanche. » C’est avec cette phrase, dans le film Le Droit de tuer, que Matthew McConaughey cherche à convaincre un jury de Blancs d’acquitter son client, un homme afro-américain qui a tué les assassins de sa…",
+    "it": "par Marco Pondrelli « Maintenant, imaginez que cette petite fille soit blanche. » C’est avec cette phrase, dans le film Le Droit de tuer, que Matthew McConaughey cherche à convaincre un jury de Blancs d’acquitter son client, un homme afro-américain qui a tué les assassins de sa…",
+    "en": "by Marco Pondrelli « Maintenant, imagine that this petite girl is white. » There is this phrase, in the film Le Droit de tuer, that Matthew McConaughey seeks to convince a jury of Blancs to acquire his client, an Afro-American man here to all the assassins of knowing…"
+   }
+  },
+  {
    "id": "0b9a17b5ec3ffc87",
    "source": "nhandan",
    "name": "Nhân Dân",
@@ -2983,26 +4123,6 @@
    }
   },
   {
-   "id": "22597b3f2f0c8418",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/24/em-copacabana-lula-cita-caso-ana-clara-e-diz-que-mulheres-vao-decidir-eleicao/",
-   "date": "2026-10-24T18:36:05+00:00",
-   "image": null,
-   "title": {
-    "orig": "Em Copacabana, Lula cita caso Ana Clara e diz que mulheres vão decidir eleição",
-    "it": "A Copacabana Lula cita il caso Ana Clara e dice che le donne decideranno le elezioni",
-    "en": "In Copacabana, Lula cites the Ana Clara case and says that women will decide the election"
-   },
-   "summary": {
-    "orig": "O presidente Luiz Inácio Lula da Silva (PT) começou este sábado (24), último dia de campanha das eleições de 2026, em um ato que reuniu centenas de milhares de pessoas na praia de Copacabana. Acompanhado por Eduardo Paes (PSD), Benedita da Silva (PT), pelo prefeito Eduardo…",
-    "it": "Il presidente Luiz Inácio Lula da Silva (PT) ha iniziato questo sabato (24), ultimo giorno della campagna per le elezioni del 2026, in un evento che ha riunito centinaia di migliaia di persone sulla spiaggia di Copacabana. Accompagnato da Eduardo Paes (PSD), Benedita da Silva (PT), dal sindaco Eduardo…",
-    "en": "President Luiz Inácio Lula da Silva (PT) began this Saturday (24), the last day of campaigning for the 2026 elections, in an event that brought together hundreds of thousands of people on Copacabana beach. Accompanied by Eduardo Paes (PSD), Benedita da Silva (PT), by Mayor Eduardo…"
-   }
-  },
-  {
    "id": "507e2e8d56b41151",
    "source": "vermelho",
    "name": "Vermelho",
@@ -3243,26 +4363,6 @@
    }
   },
   {
-   "id": "2509014c248a98d1",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/colunista/cese/2026/10/24/entre-noticias-e-resistencias-a-luta-do-tururu-pelo-direito-a-comunicacao/",
-   "date": "2026-10-24T17:33:52+00:00",
-   "image": null,
-   "title": {
-    "orig": "Entre notícias e resistências: a luta do Tururu pelo direito à comunicação",
-    "it": "Tra cronaca e resistenza: la lotta di Tururu per il diritto alla comunicazione",
-    "en": "Between news and resistance: Tururu's fight for the right to communication"
-   },
-   "summary": {
-    "orig": "Por André Fidelis* Historicamente a comunidade do Tururu é estereotipada na grande mídia como um local estritamente violento. Há registros, por exemplo, da década de 70, do Diário de Pernambuco (jornal de grande circulação local) que já estigmatizava a comunidade como violenta…",
-    "it": "Di André Fidelis* Storicamente, la comunità Tururu è stereotipata nei media mainstream come un luogo strettamente violento. Ci sono documenti, ad esempio, degli anni '70, del Diário de Pernambuco (un giornale a grande diffusione locale) che già stigmatizzava la comunità come violenta...",
-    "en": "By André Fidelis* Historically, the Tururu community is stereotyped in the mainstream media as a strictly violent place. There are records, for example, from the 70s, from the Diário de Pernambuco (a newspaper with large local circulation) that already stigmatized the community as violent..."
-   }
-  },
-  {
    "id": "8686fca2a8014fe5",
    "source": "mundoobrero",
    "name": "Mundo Obrero",
@@ -3383,26 +4483,6 @@
    }
   },
   {
-   "id": "580e61eb5c2bb0bb",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/24/prospera-mei-entenda-o-que-muda-para-os-pequenos-negocios/",
-   "date": "2026-10-24T17:02:33+00:00",
-   "image": null,
-   "title": {
-    "orig": "Prospera MEI: entenda o que muda para os pequenos negócios",
-    "it": "Prospera MEI: capire cosa cambia per le piccole imprese",
-    "en": "Prospera MEI: understand what changes for small businesses"
-   },
-   "summary": {
-    "orig": "No último dia 13 de outubro, o Governo Federal apresentou um pacote de medidas voltado aos Microempreendedores Individuais (MEIs). Dentre as mudanças estão o perdão de dívidas tributárias com a União, o aumento gradual do limite de faturamento, a ampliação da possibilidade de…",
-    "it": "Il 13 ottobre, il governo federale ha presentato un pacchetto di misure rivolte ai microimprenditori individuali (MEI). Tra le novità figurano la remissione dei debiti fiscali con l'Unione, l'aumento graduale del limite delle entrate, l'ampliamento della possibilità di...",
-    "en": "On October 13th, the Federal Government presented a package of measures aimed at Individual Microentrepreneurs (MEIs). Among the changes are the forgiveness of tax debts with the Union, the gradual increase in the revenue limit, the expansion of the possibility of…"
-   }
-  },
-  {
    "id": "9246838acb3c6ab3",
    "source": "humanite",
    "name": "L'Humanité",
@@ -3440,26 +4520,6 @@
     "orig": "Haber Merkezi İngiltere hükümeti, halka en az 3 gün yetecek kadar konserve yiyecek ve su stoklaması yapma çağrısında bulundu. \"Tehditler varsayımsal değil, gerçek\" diyen Savunma Bakanı Streeting, Rusya'nın kritik altyapıları hedef alabileceğini iddia etti. İngiltere hükümeti…",
     "it": "News Centre Il governo del Regno Unito ha invitato i cittadini a conservare abbastanza cibo in scatola e acqua per almeno 3 giorni. \"Le minacce non sono ipotetiche, sono reali\", ha affermato il ministro della Difesa Streeting, sostenendo che la Russia potrebbe prendere di mira le infrastrutture critiche. Governo del Regno Unito…",
     "en": "News Center The UK government called on the public to stock enough canned food and water for at least 3 days. \"Threats are not hypothetical, they are real,\" said Defense Minister Streeting, claiming that Russia could target critical infrastructures. UK government…"
-   }
-  },
-  {
-   "id": "cff1e97a7ca855de",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/24/mae-de-ana-clara-chama-flavio-bolsonaro-de-monstro-durante-debate-da-globo/",
-   "date": "2026-10-24T16:43:02+00:00",
-   "image": null,
-   "title": {
-    "orig": "Mãe de Ana Clara chama Flávio Bolsonaro de “monstro” durante debate da Globo",
-    "it": "La madre di Ana Clara definisce Flávio Bolsonaro un “mostro” durante il dibattito su Globo",
-    "en": "Ana Clara's mother calls Flávio Bolsonaro a “monster” during Globo debate"
-   },
-   "summary": {
-    "orig": "“Ele é um monstro, igual ao monstro que matou a minha filha.” A declaração é de Cristiane Gomes da Silva, mãe de Ana Clara, menina de 5 anos morta por tiros de fuzil em Niterói (RJ). Ela reagiu após Flávio Bolsonaro (PL) defender, durante o debate da TV Globo nesta sexta-feira…",
-    "it": "\"È un mostro, proprio come il mostro che ha ucciso mia figlia.\" La dichiarazione è di Cristiane Gomes da Silva, madre di Ana Clara, una bambina di 5 anni uccisa a colpi di fucile a Niterói (RJ). Lei ha reagito dopo che Flávio Bolsonaro (PL) ha difeso, durante il dibattito su TV Globo questo venerdì...",
-    "en": "“He’s a monster, just like the monster that killed my daughter.” The statement is from Cristiane Gomes da Silva, mother of Ana Clara, a 5-year-old girl killed by rifle shots in Niterói (RJ). She reacted after Flávio Bolsonaro (PL) defended, during the TV Globo debate this Friday…"
    }
   },
   {
@@ -3664,26 +4724,6 @@
    "synth_tries": 1
   },
   {
-   "id": "310ea09860e81619",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/24/neidinha-surui-reflete-sobre-eleicoes-que-pais-quero-deixar-para-os-meus-netos/",
-   "date": "2026-10-24T16:00:00+00:00",
-   "image": "https://www.brasildefato.com.br/wp-content/uploads/2026/10/whatsapp-image-2026-10-23-at-200600-fc53eb45.webp",
-   "title": {
-    "orig": "Neidinha Suruí reflete sobre eleições: ‘Que país quero deixar para os meus netos?’",
-    "it": "Neidinha Suruí riflette sulle elezioni: “Quale paese voglio lasciare ai miei nipoti?”",
-    "en": "Neidinha Suruí reflects on elections: ‘Which country do I want to leave to my grandchildren?’"
-   },
-   "summary": {
-    "orig": "A indigenista Neidinha Suruí lidera desde 1992 a Associação de Defesa Etnoambiental Kanindé e, neste ano, tentou uma vaga no Câmara dos Deputados pelo PSB de Rondônia. Não conseguiu, mas avalia o pleito como um marcador de luta importante. Ao Bem Viver na TV, Suruí critica a…",
-    "it": "La donna indigena Neidinha Suruí guida l'Associazione di difesa etno-ambientale Kanindé dal 1992 e, quest'anno, ha cercato un seggio alla Camera dei Deputati per il PSB di Rondônia. Non ci è riuscito, ma vede le elezioni come un importante segnale della lotta. Su Bem Viver in TV, Suruí critica...",
-    "en": "Indigenous woman Neidinha Suruí has led the Kanindé Ethno-environmental Defense Association since 1992 and, this year, sought a seat in the Chamber of Deputies for the PSB of Rondônia. He didn't succeed, but he sees the election as an important marker of the fight. On Bem Viver on TV, Suruí criticizes…"
-   }
-  },
-  {
    "id": "2b49b6d435c8776a",
    "source": "humanite",
    "name": "L'Humanité",
@@ -3721,46 +4761,6 @@
     "orig": "La situation se tend sur le cour de Vincennes, à Paris, où des détonations résonnent et des gaz lacrymogènes ont été employés, indique notre collègue Lisa Guillemin, présente sur place.",
     "it": "La situazione è tesa nel cortile di Vincennes, a Parigi, dove risuonano delle detonazioni e sono stati utilizzati gas lacrimogeni, indica la nostra collega Lisa Guillemin, presente sul posto.",
     "en": "The situation is tense in the courtyard of Vincennes, in Paris, where detonations resonate and tear gas was used, indicates our colleague Lisa Guillemin, present on site."
-   }
-  },
-  {
-   "id": "73277eed09cff074",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/medias/lfi/congres-du-rn-a-orleans-jordan-bardella-reelu-a-99-des-voix-a-la-tete-du-parti-dextreme-droite",
-   "date": "2026-10-24T15:53:53+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/REA11998575_pr.jpg?w=800",
-   "title": {
-    "orig": "Congrès du RN à Orléans : Jordan Bardella réélu à 99 % des voix à la tête du parti d’extrême droite",
-    "it": "Congresso RN a Orléans: Jordan Bardella rieletto con il 99% dei voti alla guida del partito di estrema destra",
-    "en": "RN Congress in Orléans: Jordan Bardella re-elected with 99% of the votes at the head of the far-right party"
-   },
-   "summary": {
-    "orig": "L’eurodéputé a été reconduit à la présidence de la formation lepéniste avec 98,98 % des voix, ce 24 octobre.",
-    "it": "L'eurodeputato è stato riconfermato presidente del partito lepenista con il 98,98% dei voti il 24 ottobre.",
-    "en": "The MEP was reappointed president of the Lepenist party with 98.98% of the votes on October 24."
-   }
-  },
-  {
-   "id": "6810c91657808c37",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/24/votar-no-segundo-turno-vale-como-prova-de-vida-do-inss-entenda/",
-   "date": "2026-10-24T15:53:13+00:00",
-   "image": null,
-   "title": {
-    "orig": "Votar no segundo turno vale como prova de vida do INSS; entenda",
-    "it": "Il voto al secondo turno vale come prova della vita dell'INSS; capire",
-    "en": "Voting in the second round is valid as proof of INSS life; understand"
-   },
-   "summary": {
-    "orig": "Aposentados, pensionistas e beneficiários do Benefício de Prestação Continuada (BPC) que comparecerem às urnas neste domingo (25), segundo turno das eleições, poderão ter a prova de vida atualizada automaticamente pelo Instituto Nacional do Seguro Social (INSS). Segundo…",
-    "it": "I pensionati e i beneficiari del sussidio di pagamento continuo (BPC) che si recheranno alle urne questa domenica (25), secondo turno elettorale, potranno far aggiornare automaticamente la loro prova di vita dall'Istituto nazionale di previdenza sociale (INSS). Secondo…",
-    "en": "Retirees, pensioners and beneficiaries of the Continuous Payment Benefit (BPC) who go to the polls this Sunday (25), the second round of elections, will be able to have their proof of life automatically updated by the National Social Security Institute (INSS). Second…"
    }
   },
   {
@@ -3824,26 +4824,6 @@
    }
   },
   {
-   "id": "bf708c58e0dd035e",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/-/-/les-partis-de-gauche-saluent-une-manifestation-massive-ce-24-octobre",
-   "date": "2026-10-24T15:45:19+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2024/04/9.jpg?w=672",
-   "title": {
-    "orig": "Les partis de gauche saluent une manifestation massive ce 24 octobre",
-    "it": "I partiti di sinistra accolgono con favore una massiccia manifestazione questo 24 ottobre",
-    "en": "Left-wing parties welcome a massive demonstration this October 24"
-   },
-   "summary": {
-    "orig": "« Malgré les interdictions, la répression, nous étions des centaines de milliers en France, plus de 100 000 à Paris », a déclaré Fabien Roussel sur X. « Si le gouvernement n’annonce pas des mesures contre la vie chère, pour les salaires, pour la jeunesse le mouvement devra…",
-    "it": "“Nonostante i divieti e la repressione, eravamo centinaia di migliaia in Francia, più di 100.000 a Parigi”, ha dichiarato Fabien Roussel",
-    "en": "“Despite the bans, the repression, there were hundreds of thousands of us in France, more than 100,000 in Paris,” declared Fabien Roussel on"
-   }
-  },
-  {
    "id": "722a8d5e1c70131c",
    "source": "contropiano",
    "name": "Contropiano",
@@ -3864,46 +4844,6 @@
    }
   },
   {
-   "id": "d08abf2dcae12d76",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/social-et-economie/cgt/24-octobre-la-rue-parisienne-repond-par-le-calme-aux-provocations-demmanuel-macron-et-prepare-la-greve-du-5-novembre",
-   "date": "2026-10-24T15:30:29+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-15.43.56-edited.jpeg?w=1200",
-   "title": {
-    "orig": "24 octobre : la rue parisienne répond par le calme aux provocations d’Emmanuel Macron, et prépare la grève du 5 novembre",
-    "it": "24 ottobre: le strade parigine rispondono con calma alle provocazioni di Emmanuel Macron e preparano lo sciopero del 5 novembre",
-    "en": "October 24: the Parisian street responds with calm to Emmanuel Macron's provocations, and prepares the strike of November 5"
-   },
-   "summary": {
-    "orig": "Loin d’affaiblir la mobilisation sociale, les mesures répressives ont galvanisé les manifestants dans la capitale, ce samedi. Les syndicats ont désormais les yeux rivés sur la journée de mobilisation interprofessionnelle du 5 novembre.",
-    "it": "Lungi dall'indebolire la mobilitazione sociale, le misure repressive hanno galvanizzato i manifestanti nella capitale questo sabato. I sindacati hanno ormai gli occhi puntati sulla giornata di mobilitazione interprofessionale del 5 novembre.",
-    "en": "Far from weakening social mobilization, the repressive measures galvanized demonstrators in the capital this Saturday. The unions now have their eyes fixed on the day of inter-professional mobilization on November 5."
-   }
-  },
-  {
-   "id": "f26e51cfb35ad48a",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/sciences/deces/mort-de-claude-cohen-tannoudji-prix-nobel-de-physique-en-1997",
-   "date": "2026-10-24T15:24:02+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/REA1100403_pr.jpg?w=800",
-   "title": {
-    "orig": "Mort de Claude Cohen-Tannoudji, prix Nobel de Physique en 1997",
-    "it": "Morte di Claude Cohen-Tannoudji, Premio Nobel per la fisica nel 1997",
-    "en": "Death of Claude Cohen-Tannoudji, Nobel Prize in Physics in 1997"
-   },
-   "summary": {
-    "orig": "Il avait réussi l’exploit, avec ses colauréats du Prix Nobel, d’emprisonner les atomes. Brillant chercheur, professeur unanimement apprécié et reconnu, il s’est éteint jeudi 22 avril à l’âge de 93 ans.",
-    "it": "Insieme ai suoi colleghi vincitori del premio Nobel, era riuscito nell'impresa di intrappolare gli atomi. Brillante ricercatore, professore unanimemente apprezzato e riconosciuto, è morto giovedì 22 aprile all'età di 93 anni.",
-    "en": "He had achieved the feat, with his fellow Nobel Prize winners, of trapping atoms. A brilliant researcher, a unanimously appreciated and recognized professor, he died on Thursday April 22 at the age of 93."
-   }
-  },
-  {
    "id": "d125b6ec60e1105d",
    "source": "vermelho",
    "name": "Vermelho",
@@ -3921,26 +4861,6 @@
     "orig": "Agências de checagem apontam que presidente baseou declarações em dados oficiais, enquanto senador bolsonarista acumulou volume três vezes maior de mentiras",
     "it": "Le agenzie di controllo sottolineano che il presidente ha basato le dichiarazioni su dati ufficiali, mentre il senatore Bolsonaro ha accumulato un volume di bugie tre volte superiore",
     "en": "Checking agencies point out that the president based statements on official data, while the Bolsonaro senator accumulated three times the volume of lies"
-   }
-  },
-  {
-   "id": "86b6ab5fb0049682",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/24/checagem-aponta-falsidades-e-distorcoes-de-flavio-sobre-bolsa-familia-seguranca-e-patrimonio-de-lula/",
-   "date": "2026-10-24T15:21:00+00:00",
-   "image": null,
-   "title": {
-    "orig": "Checagem aponta falsidades e distorções de Flávio sobre Bolsa Família, segurança e patrimônio de Lula",
-    "it": "Check evidenzia le falsità e le distorsioni di Flávio su Bolsa Família, sicurezza e patrimonio di Lula",
-    "en": "Check points out Flávio's falsehoods and distortions about Bolsa Família, security and Lula's assets"
-   },
-   "summary": {
-    "orig": "Diversas declarações de Flávio Bolsonaro (PL) sobre o Bolsa Família, o patrimônio do presidente Luiz Inácio Lula da Silva (PT) e políticas de segurança foram contestadas por verificações realizadas durante o debate da TV Globo, nesta sexta-feira (23). Os dois candidatos…",
-    "it": "Diverse dichiarazioni di Flávio Bolsonaro (PL) sulla Bolsa Família, sul patrimonio del presidente Luiz Inácio Lula da Silva (PT) e sulle politiche di sicurezza sono state messe in discussione dai controlli effettuati durante il dibattito di TV Globo, questo venerdì (23). I due candidati...",
-    "en": "Several statements by Flávio Bolsonaro (PL) about Bolsa Família, the assets of President Luiz Inácio Lula da Silva (PT) and security policies were challenged by checks carried out during the TV Globo debate, this Friday (23). The two candidates…"
    }
   },
   {
@@ -4004,26 +4924,6 @@
    }
   },
   {
-   "id": "89a43f663d4470d2",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/-/-/110-000-manifestants-a-paris-selon-la-prefecture",
-   "date": "2026-10-24T15:10:11+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2024/04/9.jpg?w=672",
-   "title": {
-    "orig": "110 000 manifestants à Paris, selon la préfecture",
-    "it": "110.000 manifestanti a Parigi, secondo la prefettura",
-    "en": "110,000 demonstrators in Paris, according to the prefecture"
-   },
-   "summary": {
-    "orig": "110 000 personnes ont manifesté à Paris ce samedi 24 octobre, selon la préfecture de police, qui a relevé une situation \"calme\". Plus de 3.000 contrôles et 65 interpellations ont été réalisés. La tête du cortège a atteint la porte de Vincennes. Les chiffres des syndicats sont…",
-    "it": "110.000 persone hanno manifestato a Parigi questo sabato 24 ottobre, secondo la questura, che ha constatato una situazione “calma”. Sono stati effettuati oltre 3mila controlli e 65 arresti. La testa del corteo raggiunse la Porte de Vincennes. I dati del sindacato sono...",
-    "en": "110,000 people demonstrated in Paris this Saturday, October 24, according to the police headquarters, which noted a “calm” situation. More than 3,000 checks and 65 arrests were carried out. The head of the procession reached the Porte de Vincennes. The union figures are…"
-   }
-  },
-  {
    "id": "0622de07ffe0416a",
    "source": "vermelho",
    "name": "Vermelho",
@@ -4041,86 +4941,6 @@
     "orig": "A dona do Google, X e WhatsApp concluiu que o funcionamento do canal no WhatsApp não descumpriu as diretrizes do aplicativo",
     "it": "Il proprietario di Google, X e WhatsApp ha concluso che il funzionamento del canale su WhatsApp non violava le linee guida dell'applicazione",
     "en": "The owner of Google, X and WhatsApp concluded that the operation of the channel on WhatsApp did not violate the application's guidelines"
-   }
-  },
-  {
-   "id": "d37d02fa01be3477",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/societe/antiterrorisme/parce-que-je-suis-noire-ca-aurait-pu-etre-moi-de-plaisir-a-trappes-la-population-solidaire-et-sous-le-choc-de-lattentat-raciste",
-   "date": "2026-10-24T15:00:00+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-16.43.47-edited.jpeg?w=1200",
-   "title": {
-    "orig": "« Parce que je suis noire, ça aurait pu être moi » : de Plaisir à Trappes, la population solidaire et sous le choc de l’attentat raciste",
-    "it": "“Perché sono nero, avrei potuto essere io”: da Plaisir a Trappes, la popolazione solidale e sotto shock per l’attacco razzista",
-    "en": "“Because I am black, it could have been me”: from Plaisir to Trappes, the population in solidarity and in shock of the racist attack"
-   },
-   "summary": {
-    "orig": "Au lendemain de l’attentat raciste commis par Kevin T., 39 ans, vendredi 23 octobre à Trappes, le quartier où il résidait à Plaisir est sous le choc. L’émotion des passants exprimée envers les victimes est aussi traversée par la peur et la colère.",
-    "it": "Il giorno dopo l'aggressione razzista commessa da Kevin T., 39 anni, venerdì 23 ottobre a Trappes, il quartiere in cui viveva a Plaisir, era sotto shock. La commozione dei passanti espressa nei confronti delle vittime è attraversata anche da paura e rabbia.",
-    "en": "The day after the racist attack committed by Kevin T., 39, on Friday October 23 in Trappes, the neighborhood where he lived in Plaisir was in shock. The emotion of passers-by expressed towards the victims is also crossed by fear and anger."
-   }
-  },
-  {
-   "id": "b957113950387b0e",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/-/-/nantes-plusieurs-interpellations-selon-la-prefecture",
-   "date": "2026-10-24T14:52:57+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2024/04/9.jpg?w=672",
-   "title": {
-    "orig": "Nantes : plusieurs interpellations, selon la préfecture",
-    "it": "Nantes: diversi arresti, secondo la prefettura",
-    "en": "Nantes: several arrests, according to the prefecture"
-   },
-   "summary": {
-    "orig": "La préfecture des Pays de la Loire et de Loire-Atlantique a indiqué que « des individus ont tenté de forcer le périmètre interdit aux rassemblements non déclarés » à Nantes. Des lacrymogènes et des canons à eau ont été employé, « après avoir effectué les sommations préalables ».…",
-    "it": "La prefettura dei Paesi della Loira e della Loira Atlantica ha segnalato che “individui hanno tentato di forzare il perimetro vietato agli assembramenti non dichiarati” a Nantes. Sono stati utilizzati gas lacrimogeni e idranti, “dopo aver effettuato gli avvertimenti preventivi”.…",
-    "en": "The prefecture of Pays de la Loire and Loire-Atlantique indicated that “individuals attempted to force the perimeter prohibited to undeclared gatherings” in Nantes. Tear gas and water cannons were used, “after having carried out prior warnings”.…"
-   }
-  },
-  {
-   "id": "da0a86debbf34abc",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/24/live-de-janones-ultrapassa-800-mil-espectadores-simultaneos-e-tem-participacao-de-lula/",
-   "date": "2026-10-24T14:41:37+00:00",
-   "image": null,
-   "title": {
-    "orig": "Live de Janones ultrapassa 800 mil espectadores simultâneos e tem participação de Lula",
-    "it": "Live di Janones supera gli 800mila spettatori simultanei e ha come protagonista Lula",
-    "en": "Live by Janones exceeds 800 thousand simultaneous viewers and features Lula"
-   },
-   "summary": {
-    "orig": "A transmissão ao vivo comandada pelo deputado federal André Janones (Rede-MG) em apoio à reeleição do presidente Luiz Inácio Lula da Silva (PT) segue no ar neste sábado (24), com centenas de milhares de espectadores simultâneos. Iniciada após o debate da TV Globo entre Lula e…",
-    "it": "La diretta guidata dal deputato federale André Janones (Rede-MG) a sostegno della rielezione del presidente Luiz Inácio Lula da Silva (PT) continua questo sabato (24), con centinaia di migliaia di spettatori simultanei. Iniziato dopo il dibattito di Tv Globo tra Lula e...",
-    "en": "The live broadcast led by federal deputy André Janones (Rede-MG) in support of the re-election of President Luiz Inácio Lula da Silva (PT) continues on air this Saturday (24), with hundreds of thousands of simultaneous viewers. Started after the TV Globo debate between Lula and…"
-   }
-  },
-  {
-   "id": "3e120b70ca329901",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/social-et-economie/droit-de-manifester/24-octobre-notre-journaliste-en-direct-de-la-manifestation-parisienne",
-   "date": "2026-10-24T14:37:16+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/maxresdefault-2_a48f2f.jpg?w=1200",
-   "title": {
-    "orig": "24 octobre : notre journaliste en direct de la manifestation parisienne",
-    "it": "24 ottobre: il nostro giornalista in diretta dalla manifestazione parigina",
-    "en": "October 24: our journalist live from the Parisian demonstration"
-   },
-   "summary": {
-    "orig": "Notre journaliste Diane Bonneau raconte la mobilisation du 24 octobre, en direct depuis la porte d’Italie, point de départ du cortège parisien. Sur le même thème La préfecture de police a validé le parcours proposé par la CGT, entre la place de la Bastille et celle de la Nation.…",
-    "it": "La nostra giornalista Diane Bonneau racconta la mobilitazione del 24 ottobre, in diretta dalla Porte d'Italie, punto di partenza del corteo parigino. Sullo stesso tema La Questura ha convalidato il percorso proposto dalla CGT, tra Place de la Bastille e quella della Nazione.…",
-    "en": "Our journalist Diane Bonneau recounts the mobilization of October 24, live from the Porte d’Italie, the starting point of the Parisian procession. On the same theme The police headquarters has validated the route proposed by the CGT, between the Place de la Bastille and that of the Nation.…"
    }
   },
   {
@@ -4144,26 +4964,6 @@
    }
   },
   {
-   "id": "364204f317c0fd4a",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/-/-/a-bordeaux-les-syndicats-revendiquent-15-000-manifestants-malgre-une-interdiction",
-   "date": "2026-10-24T14:28:01+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2024/04/9.jpg?w=672",
-   "title": {
-    "orig": "A Bordeaux, les syndicats revendiquent 15 000 manifestants malgré une interdiction",
-    "it": "A Bordeaux i sindacati chiedono 15.000 manifestanti nonostante il divieto",
-    "en": "In Bordeaux, unions demand 15,000 demonstrators despite a ban"
-   },
-   "summary": {
-    "orig": "La préfète de Gironde Sophie Brocas a interdit hier la manifestation prévue ce 24 octobre. Comme à Paris, le tribunal administratif, saisi par les syndicats hier soir, n'a pas eu le temps de statuer sur le sort de ce rassemblement. Ni cette situation, ni la pluie n'ont pourtant…",
-    "it": "Il prefetto della Gironda Sophie Brocas ha vietato ieri la manifestazione prevista per il 24 ottobre. Come a Parigi, il tribunale amministrativo, sequestrato ieri sera dai sindacati, non ha avuto il tempo di pronunciarsi sulla sorte di questo raduno. Ma né questa situazione né la pioggia...",
-    "en": "The prefect of Gironde Sophie Brocas yesterday banned the demonstration planned for October 24. As in Paris, the administrative court, seized by the unions yesterday evening, did not have time to rule on the fate of this gathering. However, neither this situation nor the rain..."
-   }
-  },
-  {
    "id": "0686c00461ce6032",
    "source": "sol",
    "name": "soL Haber",
@@ -4181,26 +4981,6 @@
     "orig": "Haber Merkezi Basın meslek örgütleri, gazetecilere yönelik gözaltı, tutuklama ve baskılara karşı İstanbul, Ankara, İzmir başta olmak üzere birçok kentte yürüdü. TELE 1'e kayyım atanmasının birinci yılında Kadıköy'de yapılan yürüyüşe yüzlerce gazeteci ve binlerce yurttaş katıldı.…",
     "it": "News Center Le organizzazioni professionali della stampa hanno marciato in molte città, soprattutto Istanbul, Ankara e Izmir, contro la detenzione, l'arresto e la pressione sui giornalisti. Centinaia di giornalisti e migliaia di cittadini hanno partecipato alla marcia a Kadıköy nel primo anniversario della nomina di un amministratore di TELE 1.…",
     "en": "News Center Press professional organizations marched in many cities, especially Istanbul, Ankara and Izmir, against the detention, arrest and pressure on journalists. Hundreds of journalists and thousands of citizens attended the march in Kadıköy on the first anniversary of the appointment of a trustee to TELE 1.…"
-   }
-  },
-  {
-   "id": "4cd82ea1f80d539d",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/-/-/paris-cortege-en-musique-et-florilege-de-pancartes",
-   "date": "2026-10-24T14:23:41+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2024/04/9.jpg?w=672",
-   "title": {
-    "orig": "Paris : cortège en musique et florilège de pancartes",
-    "it": "Parigi: corteo musicale e antologia dei segni",
-    "en": "Paris: musical procession and anthology of signs"
-   },
-   "summary": {
-    "orig": "Le cortège parisien se poursuit, en musique. Petit florilège de pancartes et d'affiches, par nos collègues présents dans la manifestation.",
-    "it": "Il corteo parigino continua, con la musica. Piccola antologia di segnaletica e manifesti, a cura dei nostri colleghi presenti all'evento.",
-    "en": "The Parisian procession continues, with music. Small anthology of signs and posters, by our colleagues present at the event."
    }
   },
   {
@@ -4264,46 +5044,6 @@
    }
   },
   {
-   "id": "0f5f2f8d8736ab10",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/24/como-foi-o-acidente-de-trabalho-em-que-lula-perdeu-o-dedo-flavio-bolsonaro-zombou-da-amputacao/",
-   "date": "2026-10-24T14:09:12+00:00",
-   "image": null,
-   "title": {
-    "orig": "Como foi o acidente de trabalho em que Lula perdeu o dedo; Flávio Bolsonaro zombou da amputação",
-    "it": "Qual è stato l'incidente sul lavoro in cui Lula ha perso un dito? Flávio Bolsonaro si è fatto beffe dell'amputazione",
-    "en": "What was the work accident in which Lula lost his finger? Flávio Bolsonaro mocked amputation"
-   },
-   "summary": {
-    "orig": "Durante o debate presidencial da TV Globo nesta sexta feira (24), o presidente Luiz Inácio Lula da Silva (PT) relembrou o episódio em que perdeu o dedo enquanto trabalhava. O fato foi relembrado após o candidato Flávio Bolsonaro (PL) zombar da condição do adversário com a frase…",
-    "it": "Durante il dibattito presidenziale su TV Globo questo venerdì (24), il presidente Luiz Inácio Lula da Silva (PT) ha ricordato l'episodio in cui ha perso un dito mentre lavorava. Il fatto è stato ricordato dopo che il candidato Flávio Bolsonaro (PL) si è fatto beffe delle condizioni del suo avversario con la frase...",
-    "en": "During the presidential debate on TV Globo this Friday (24), President Luiz Inácio Lula da Silva (PT) recalled the episode in which he lost his finger while working. The fact was recalled after candidate Flávio Bolsonaro (PL) mocked his opponent's condition with the phrase..."
-   }
-  },
-  {
-   "id": "38d4c53ba02c893c",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/-/-/a-paris-la-manifestation-se-deroule-dans-le-calme",
-   "date": "2026-10-24T13:59:52+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2024/04/9.jpg?w=672",
-   "title": {
-    "orig": "À Paris, la manifestation se déroule dans le calme",
-    "it": "A Parigi la manifestazione si svolge pacificamente",
-    "en": "In Paris, the demonstration takes place peacefully"
-   },
-   "summary": {
-    "orig": "Le cortège parisien avance dans le calme Porte de Charenton, indique notre collègue Lisa Guillemin.",
-    "it": "Il corteo parigino avanza nella tranquilla Porte de Charenton, indica la nostra collega Lisa Guillemin.",
-    "en": "The Parisian procession advances in the calm Porte de Charenton, indicates our colleague Lisa Guillemin."
-   }
-  },
-  {
    "id": "c7e59251d0660a24",
    "source": "contropiano",
    "name": "Contropiano",
@@ -4344,26 +5084,6 @@
    }
   },
   {
-   "id": "2e89280c28a8addf",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/-/-/siamo-tutti-antifascisti-resonne-dans-le-cortege-parisien",
-   "date": "2026-10-24T13:44:11+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2024/04/9.jpg?w=672",
-   "title": {
-    "orig": "“Siamo tutti antifascisti” résonne dans le cortège parisien",
-    "it": "“Siamo tutti antifascisti” risuona nel corteo parigino",
-    "en": "“Siamo tutti antifascisti” resonates in the Parisian procession"
-   },
-   "summary": {
-    "orig": "À Paris, la manifestation s'avance aux sons des \"Siamo tutti antifascisti\", rapporte notre collègue Elora Mazzini depuis le cortège.",
-    "it": "A Parigi la manifestazione avanza al suono di \"Siamo tutti antifascisti\", riferisce dal corteo la nostra collega Elora Mazzini.",
-    "en": "In Paris, the demonstration advances to the sounds of \"Siamo tutti antifascisti\", reports our colleague Elora Mazzini from the procession."
-   }
-  },
-  {
    "id": "da2f618ba60bb34c",
    "source": "cubadebate",
    "name": "Cubadebate",
@@ -4381,46 +5101,6 @@
     "orig": "Según la UNE, se estima para el horario pico una disponibilidad de 1 015 MW con una demanda máxima de 2 850 MW, para un déficit de 1 835 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1 865 MW en este horario. Para el horario de la media…",
     "it": "Secondo l'UNE, si stima una disponibilità di 1.015 MW nelle ore di punta con una domanda massima di 2.850 MW, per un deficit di 1.835 MW, quindi se le condizioni previste perdurano, si prevede un impatto di 1.865 MW durante questo periodo. Per il tempo medio…",
     "en": "According to the UNE, an availability of 1,015 MW is estimated for peak hours with a maximum demand of 2,850 MW, for a deficit of 1,835 MW, so if the expected conditions continue, an impact of 1,865 MW is forecast during this time. For the average time…"
-   }
-  },
-  {
-   "id": "8531abd8285cc063",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/24/lula-estara-presente-nos-atos-de-copacabana-e-da-avenida-paulista-neste-sabado-24/",
-   "date": "2026-10-24T13:37:20+00:00",
-   "image": null,
-   "title": {
-    "orig": "Lula estará presente nos atos de Copacabana e da avenida Paulista neste sábado (24)",
-    "it": "Lula sarà presente agli eventi di Copacabana e Avenida Paulista questo sabato (24)",
-    "en": "Lula will be present at the events in Copacabana and Avenida Paulista this Saturday (24)"
-   },
-   "summary": {
-    "orig": "O presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, participa neste sábado (24) de caminhadas em Copacabana, no Rio de Janeiro, e na avenida Paulista, em São Paulo. Os eventos encerram sua agenda de rua antes do segundo turno da eleição presidencial, que será…",
-    "it": "Il presidente Luiz Inácio Lula da Silva (PT), candidato alla rielezione, partecipa questo sabato (24) alle passeggiate a Copacabana, a Rio de Janeiro, e nell'Avenida Paulista, a San Paolo. Gli eventi concludono la tua agenda di strada prima del secondo turno delle elezioni presidenziali, che sarà...",
-    "en": "President Luiz Inácio Lula da Silva (PT), candidate for re-election, takes part this Saturday (24) in walks in Copacabana, in Rio de Janeiro, and on Avenida Paulista, in São Paulo. The events conclude your street agenda before the second round of the presidential election, which will be…"
-   }
-  },
-  {
-   "id": "ee329f73a63f95ee",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/24/nao-e-uma-escolha-dificil-ha-um-unico-projeto-comprometido-com-e-educacao/",
-   "date": "2026-10-24T13:35:43+00:00",
-   "image": null,
-   "title": {
-    "orig": "Não é uma escolha difícil: há um único projeto comprometido com a educação",
-    "it": "Non è una scelta difficile: c'è un unico progetto impegnato sull'educazione",
-    "en": "It's not a difficult choice: there is a single project committed to education"
-   },
-   "summary": {
-    "orig": "A educação é um direito social assegurado na Constituição Federal. Como direito, deve-se assegurar sua viabilidade por meio do acesso, da permanência, de condições de qualidade e do respeito à diferença e à diversidade em todas as suas formas. Garantir o acesso à educação…",
-    "it": "L’istruzione è un diritto sociale garantito dalla Costituzione federale. In quanto diritto, la sua praticabilità deve essere garantita attraverso l’accesso, la permanenza, condizioni di qualità e il rispetto della differenza e della diversità in tutte le sue forme. Garantire l’accesso all’istruzione…",
-    "en": "Education is a social right guaranteed in the Federal Constitution. As a right, its viability must be ensured through access, permanence, quality conditions and respect for difference and diversity in all its forms. Guarantee access to education…"
    }
   },
   {
@@ -4744,26 +5424,6 @@
    }
   },
   {
-   "id": "1325f5dfc5d4c67e",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/24/projeto-abre-inscricoes-para-formacao-gratuita-de-agentes-de-leitura-em-oito-cidades-pernambucanas/",
-   "date": "2026-10-24T12:00:00+00:00",
-   "image": null,
-   "title": {
-    "orig": "Projeto abre inscrições para formação gratuita de agentes de leitura em oito cidades pernambucanas",
-    "it": "Il progetto apre le iscrizioni per la formazione gratuita degli agenti di lettura in otto città del Pernambuco",
-    "en": "Project opens registrations for free training of reading agents in eight cities in Pernambuco"
-   },
-   "summary": {
-    "orig": "Iniciativa é voltada para interessados em ampliar acesso à leitura em territórios espalhados pelo estado Fonte",
-    "it": "L'iniziativa è rivolta a chi è interessato ad ampliare l'accesso alla lettura nei territori diffusi su tutto lo Stato Fonte",
-    "en": "Initiative is aimed at those interested in expanding access to reading in territories spread across the state Source"
-   }
-  },
-  {
    "id": "a28cf4e870d3c984",
    "source": "sol",
    "name": "soL Haber",
@@ -4884,26 +5544,6 @@
    }
   },
   {
-   "id": "056998e4c7980643",
-   "source": "sol",
-   "name": "soL Haber",
-   "country": "TR",
-   "lang": "tr",
-   "url": "https://haber.sol.org.tr/kuba-gercegi/abluka-gunlukleri-234-23-ekim-2026-cuma-415345",
-   "date": "2026-10-24T10:06:05+00:00",
-   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/24/kuba-5.png.webp?itok=RfdBFXcR",
-   "title": {
-    "orig": "Abluka Günlükleri 234 | 23 Ekim 2026 Cuma",
-    "it": "Cronache del blocco 234 | Venerdì 23 ottobre 2026",
-    "en": "Blockade Chronicles 234 | Friday, October 23, 2026"
-   },
-   "summary": {
-    "orig": "Haber Merkezi Küba’nın Birleşmiş Milletler Genel Kurulu’na sunduğu rapora göre, ABD’nin ekonomik, ticari ve mali ablukası Mart 2025–Şubat 2026 döneminde ülkeye 8 milyar 83 milyon dolar zarar verdi. Önceki raporlama dönemine göre yüzde 7 artan bu tutar, ablukanın yol açtığı…",
-    "it": "News Center Secondo il rapporto presentato da Cuba all’Assemblea Generale delle Nazioni Unite, il blocco economico, commerciale e finanziario degli Stati Uniti ha causato danni per 8 miliardi e 83 milioni di dollari al paese tra marzo 2025 e febbraio 2026. Questa cifra, aumentata del 7% rispetto al periodo precedente, riflette gli effetti del blocco.",
-    "en": "News Center According to the report submitted by Cuba to the United Nations General Assembly, the US economic, commercial and financial blockade caused 8 billion 83 million dollars of damage to the country between March 2025 and February 2026. This amount, which increased by 7 percent compared to the previous reporting period, reflects the effects of the blockade."
-   }
-  },
-  {
    "id": "e4a30699572fe2a3",
    "source": "nhandan",
    "name": "Nhân Dân",
@@ -4981,46 +5621,6 @@
     "orig": "Khanh Hoa Province held the opening ceremony of its 2026 Digital Technology Festival in Nha Trang on October 24, under the theme “From architecture, platforms and data to tangible results: Improving local governance efficiency”. Digital technology and AI pave way for…",
     "it": "La provincia di Khanh Hoa ha tenuto la cerimonia di apertura del Festival della tecnologia digitale 2026 a Nha Trang il 24 ottobre, sul tema “Da architettura, piattaforme e dati a risultati tangibili: migliorare l’efficienza della governance locale”. La tecnologia digitale e l’intelligenza artificiale aprono la strada a…",
     "en": "Khanh Hoa Province held the opening ceremony of its 2026 Digital Technology Festival in Nha Trang on October 24, under the theme “From architecture, platforms and data to tangible results: Improving local governance efficiency”. Digital technology and AI pave way for…"
-   }
-  },
-  {
-   "id": "027a9fc67a903df1",
-   "source": "sol",
-   "name": "soL Haber",
-   "country": "TR",
-   "lang": "tr",
-   "url": "https://haber.sol.org.tr/haber/gazeteciler-sansure-baskiya-karsi-bir-araya-geliyor-415343",
-   "date": "2026-10-24T09:10:29+00:00",
-   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/24/hur.jpg.webp?itok=mbmgMZgz",
-   "title": {
-    "orig": "Gazeteciler sansüre, baskıya karşı bir araya geliyor",
-    "it": "I giornalisti si uniscono contro la censura e l'oppressione",
-    "en": "Journalists come together against censorship and oppression"
-   },
-   "summary": {
-    "orig": "Haber Merkezi Gazetecilere yönelik tutuklamalar, yayın yasakları ve erişim engellerine karşı bir araya gelen basın meslek örgütleri bugün İstanbul, Ankara ve İzmir'in de aralarında bulunduğu 10 ilde eşzamanlı eylemler düzenliyor. Çok sayıda basın meslek örgütü ortak eylem…",
-    "it": "News Center Le organizzazioni professionali della stampa, unendosi contro gli arresti, i divieti di pubblicazione e le barriere di accesso contro i giornalisti, stanno organizzando azioni simultanee in 10 province, tra cui Istanbul, Ankara e Izmir. Molte organizzazioni professionali della stampa hanno intrapreso un’azione congiunta…",
-    "en": "News Center Press professional organizations, coming together against arrests, publication bans and access barriers against journalists, are organizing simultaneous actions in 10 provinces, including Istanbul, Ankara and Izmir. Many press professional organizations took joint action…"
-   }
-  },
-  {
-   "id": "6e0a864650200f99",
-   "source": "sol",
-   "name": "soL Haber",
-   "country": "TR",
-   "lang": "tr",
-   "url": "https://haber.sol.org.tr/haber/sabahin-berat-albayrak-cikisina-akpli-isimden-yanit-yasananlar-17-aralika-asla-benzetilemez",
-   "date": "2026-10-24T09:10:20+00:00",
-   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/24/ab.webp?itok=_JY_1TxC",
-   "title": {
-    "orig": "Sabah'ın Berat Albayrak çıkışına AKP'li isimden yanıt: 'Yaşananlar 17 Aralık'a asla benzetilemez'",
-    "it": "Risposta di un membro dell'AKP alla dichiarazione di Sabah a Berat Albayrak: \"Quello che è successo non potrà mai essere paragonato al 17 dicembre\"",
-    "en": "Response from AKP member to Sabah's Berat Albayrak statement: 'What happened can never be compared to December 17'"
-   },
-   "summary": {
-    "orig": "Haber Merkezi Fon vurgununun iktidar bloğunda yarattığı fay hattı derinleşiyor. Berat Albayrak’ın adının geçmesi üzerine Sabah gazetesinin yandaş isimlere yönelttiği \"FETÖ\" ve \"taşeron\" suçlamalarına karşı Abdulkadir Selvi sessizliğini Erdoğan'a biat yazısıyla korurken, AKP'li…",
-    "it": "News Center La linea di faglia creata dal profitto dei fondi nel blocco dominante si sta approfondendo. Mentre Abdulkadir Selvi ha mantenuto il silenzio di fronte alle accuse di \"FETO\" e di \"subappaltatore\" rivolte contro esponenti filogovernativi dal quotidiano Sabah dopo che era stato menzionato il nome di Berat Albayrak, con una lettera di fedeltà a Erdoğan, i membri dell'AKP...",
-    "en": "News Center The fault line created by fund profiteering in the ruling bloc is deepening. While Abdulkadir Selvi maintained his silence against the \"FETO\" and \"subcontractor\" accusations leveled against pro-government figures by Sabah newspaper after Berat Albayrak's name was mentioned, with a letter of allegiance to Erdoğan, AKP members..."
    }
   },
   {
@@ -5161,26 +5761,6 @@
     "orig": "The Faculty of Sociology and Social Work at the University of Social Sciences and Humanities, Viet Nam National University, Ha Noi, held a national scientific conference entitled “Sociology and social work in the digital era and sustainable development” in Ha Noi on October 23.…",
     "it": "La Facoltà di Sociologia e Servizio Sociale dell'Università di Scienze Sociali e Umanistiche, Università Nazionale del Vietnam, Ha Noi, ha tenuto ad Ha Noi il 23 ottobre una conferenza scientifica nazionale dal titolo “Sociologia e lavoro sociale nell'era digitale e nello sviluppo sostenibile”.…",
     "en": "The Faculty of Sociology and Social Work at the University of Social Sciences and Humanities, Viet Nam National University, Ha Noi, held a national scientific conference entitled “Sociology and social work in the digital era and sustainable development” in Ha Noi on October 23.…"
-   }
-  },
-  {
-   "id": "5e35ae42fee26e3e",
-   "source": "sol",
-   "name": "soL Haber",
-   "country": "TR",
-   "lang": "tr",
-   "url": "https://haber.sol.org.tr/haber/murat-agirelin-avukati-yalnizca-iki-soru-soruldu-para-hareketi-sorulmadi-masak-incelemesi",
-   "date": "2026-10-24T08:21:20+00:00",
-   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/24/agirel.jpg.webp?itok=sg7AxXd2",
-   "title": {
-    "orig": "Murat Ağırel'in avukatı: Yalnızca iki soru soruldu, para hareketi sorulmadı, MASAK incelemesi talep ettik",
-    "it": "Avvocato di Murat Ağırel: sono state poste solo due domande, non è stato chiesto alcun movimento di denaro, abbiamo richiesto la revisione MASAK",
-    "en": "Murat Ağırel's lawyer: Only two questions were asked, no money movement was asked, we requested MASAK review"
-   },
-   "summary": {
-    "orig": "Haber Merkezi \"Sarıgül soruşturması\"nda tutuklanan gazeteci Murat Ağırel'in avukatı Oğuzhan Aslan, Ağırel'in hesaplarında \"şaibe\" bulunduğu yönündeki iddiaları yalanladı. Avukat, emniyette de savcılıkta da aynı iki sorunun sorulduğunu vurguladı. Fon vurgununa ilişkin yaptığı…",
-    "it": "Il News Center Oğuzhan Aslan, l'avvocato del giornalista Murat Ağırel, arrestato nell'ambito dell'\"indagine Sarıgül\", ha negato le accuse secondo cui vi era \"vergogna\" nei resoconti di Ağırel. L'avvocato ha sottolineato che sia alla polizia che alla procura vengono poste le stesse due domande. Quello che ha fatto riguardo allo sfruttamento dei fondi…",
-    "en": "News Center Oğuzhan Aslan, the lawyer of journalist Murat Ağırel, who was arrested in the \"Sarıgül investigation\", denied the allegations that there was \"shame\" in Ağırel's accounts. The lawyer emphasized that the same two questions are asked in both the police and the prosecutor's office. What he made regarding the fund profiteering…"
    }
   },
   {
@@ -5344,26 +5924,6 @@
    }
   },
   {
-   "id": "6b9f75e329cda6c6",
-   "source": "sol",
-   "name": "soL Haber",
-   "country": "TR",
-   "lang": "tr",
-   "url": "https://haber.sol.org.tr/haber/trumptan-savas-gemisi-tehdidi-rubiodan-sefil-cagri-kuba-tehditlere-bagimsizligina-sahip",
-   "date": "2026-10-24T06:20:47+00:00",
-   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/24/abd.jpg.webp?itok=eY1oMiqu",
-   "title": {
-    "orig": "Trump’tan savaş gemisi tehdidi, Rubio’dan sefil çağrı: Küba tehditlere bağımsızlığına sahip çıkarak yanıt veriyor",
-    "it": "Minaccia della nave da guerra di Trump, miserabile appello di Rubio: Cuba risponde alle minacce difendendo la sua indipendenza",
-    "en": "Warship threat from Trump, miserable call from Rubio: Cuba responds to threats by defending its independence"
-   },
-   "summary": {
-    "orig": "Haber Merkezi Yıllardır uyguladığı ağır ablukaya rağmen Küba halkına diz çöktüremeyen ABD, çareyi ajanlık çağrısında buldu. Katliamcı ABD'nin Dışişleri Bakanı Marco Rubio, Küba'da rejim değişikliği arayanlara \"CIA ile işbirliği yapmaları\" çağrısında bulundu. Bakan bu…",
-    "it": "News Center Gli Stati Uniti, che non sono riusciti a mettere in ginocchio il popolo cubano nonostante il pesante blocco imposto da anni, hanno trovato la soluzione nell'appello allo spionaggio. Il sanguinario segretario di Stato americano, Marco Rubio, ha invitato coloro che cercano un cambio di regime a Cuba a “cooperare con la CIA”. Questo è il ministro...",
-    "en": "News Center The USA, which could not bring the Cuban people to their knees despite the heavy blockade it had imposed for years, found the solution in the call of spying. The murderous US Secretary of State, Marco Rubio, called on those seeking regime change in Cuba to \"cooperate with the CIA\". This is the minister..."
-   }
-  },
-  {
    "id": "e5497647738083f2",
    "source": "contropiano",
    "name": "Contropiano",
@@ -5504,26 +6064,6 @@
    }
   },
   {
-   "id": "5b1894d3cde58d32",
-   "source": "sol",
-   "name": "soL Haber",
-   "country": "TR",
-   "lang": "tr",
-   "url": "https://haber.sol.org.tr/haber/milas-belediyesi-operasyonu-belediye-baskani-dahil-18-kisi-tutuklandi-415340",
-   "date": "2026-10-24T05:12:47+00:00",
-   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/24/f1b3be95-04ec-472f-ac3b-e89c070b8ff7-w.jpeg.webp?itok=zGM-LszF",
-   "title": {
-    "orig": "Milas Belediyesi operasyonu: Belediye Başkanı dahil 18 kişi tutuklandı",
-    "it": "Operazione del comune di Milas: arrestate 18 persone, compreso il sindaco",
-    "en": "Milas Municipality operation: 18 people, including the Mayor, were arrested"
-   },
-   "summary": {
-    "orig": "Haber Merkezi Muğla Cumhuriyet Başsavcılığı'nca Milas Belediyesi'ne yönelik yürütülen soruşturma kapsamında gözaltına alınan Belediye Başkanı Fevzi Topuz ve oğlu Doruk Topuz'un da aralarında bulunduğu 18 kişi tutuklandı. Belediyelere operasyonlar sürüyor. Muğla Cumhuriyet…",
-    "it": "News Center 18 persone, tra cui il sindaco Fevzi Topuz e suo figlio Doruk Topuz, che erano state arrestate nell'ambito dell'indagine condotta dalla procura generale di Muğla contro il comune di Milas, sono state arrestate. Continuano le operazioni contro i Comuni. Repubblica di Muğla…",
-    "en": "News Center 18 people, including Mayor Fevzi Topuz and his son Doruk Topuz, who were detained within the scope of the investigation carried out by the Muğla Chief Public Prosecutor's Office against Milas Municipality, were arrested. Operations against municipalities continue. Muğla Republic…"
-   }
-  },
-  {
    "id": "71b48c927bcb9ab5",
    "source": "marx21",
    "name": "Marx21",
@@ -5541,26 +6081,6 @@
     "orig": "di Giulio Chinappi da https://giuliochinappi.com Il volume di Jiang Hui affronta il significato internazionale dell’esperienza cinese, collegando sviluppo delle forze produttive, indipendenza nazionale e prospettiva comunista. Una lettura utile per comprendere la transizione…",
     "it": "di Giulio Chinappi da https://giuliochinappi.com Il volume di Jiang Hui affronta il significato internazionale dell’esperienza cinese, collegando sviluppo delle forze produttive, indipendenza nazionale e prospettiva comunista. Una lettura utile per comprendere la transizione…",
     "en": "by Giulio Chinappi from https://giuliochinappi.com Jiang Hui's volume addresses the international significance of the Chinese experience, connecting the development of productive forces, national independence and the communist perspective. A useful read to understand the transition…"
-   }
-  },
-  {
-   "id": "1290da4051bdf7a4",
-   "source": "sol",
-   "name": "soL Haber",
-   "country": "TR",
-   "lang": "tr",
-   "url": "https://haber.sol.org.tr/haber/thtmden-ankarada-cumhuriyet-bulusmasi-cumhuriyeti-mucadele-ederek-kazanacagiz-415325",
-   "date": "2026-10-24T04:58:09+00:00",
-   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/23/thtm-kapak.jpeg.webp?itok=kgEXbrDK",
-   "title": {
-    "orig": "THTM’den Ankara'da Cumhuriyet buluşması: 'Cumhuriyeti mücadele ederek kazanacağız’",
-    "it": "Incontro repubblicano del THTM ad Ankara: 'Vinceremo la Repubblica combattendo'",
-    "en": "THTM's Republic meeting in Ankara: 'We will win the Republic by fighting'"
-   },
-   "summary": {
-    "orig": "Haber Merkezi Türkiye Halk Temsilcileri Meclisi, Cumhuriyetçiler Kurultayı bileşenlerinin katılımıyla Ankara'da Cumhuriyet’in geleceği ve yeniden kazanılmasının tartışıldığı bir forum düzenledi. Yurttaşların yoğun ilgi gösterdiği etkinlikte yedi ayrı başlıkta cumhuriyeti kazanma…",
-    "it": "Centro notizie L'Assemblea dei rappresentanti del popolo della Turchia ha organizzato ad Ankara un forum con la partecipazione dei membri del Congresso repubblicano, dove si è discusso del futuro e della riconquista della Repubblica. Vincere la repubblica sotto sette titoli diversi in un evento che ha suscitato grande interesse da parte dei cittadini...",
-    "en": "News Center The Assembly of People's Representatives of Türkiye organized a forum in Ankara with the participation of the members of the Republican Congress, where the future and regaining of the Republic were discussed. Winning the republic under seven different headings in the event that attracted great interest from citizens…"
    }
   },
   {
@@ -6221,6 +6741,26 @@
     "orig": "La historia de la inmigración japonesa a Cuba puede dividirse aproximadamente en cinco períodos. Desde la llegada oficial del primer inmigrante nipón en 1898 hasta el inicio de la Segunda Guerra Mundial (1939-1945) creció la afluencia de ciudadanos de ese país, en su mayoría…",
     "it": "La storia dell'immigrazione giapponese a Cuba può essere approssimativamente suddivisa in cinque periodi. Dall'arrivo ufficiale del primo immigrato giapponese nel 1898 fino all'inizio della Seconda Guerra Mondiale (1939-1945), l'afflusso di cittadini di quel paese crebbe, soprattutto...",
     "en": "The history of Japanese immigration to Cuba can be roughly divided into five periods. From the official arrival of the first Japanese immigrant in 1898 until the start of the Second World War (1939-1945), the influx of citizens of that country grew, mostly..."
+   }
+  },
+  {
+   "id": "f81cd8b0f4307534",
+   "source": "rizospastis",
+   "name": "Rizospastis",
+   "country": "GR",
+   "lang": "el",
+   "url": "https://www.rizospastis.gr/story.do?id=13457251",
+   "date": "2026-10-23T21:00:00+00:00",
+   "image": "https://www.rizospastis.gr/getImage.do?size=medium&id=1274564",
+   "title": {
+    "orig": "ΕΝΑΝΤΙΑ ΣΤΟΝ ΙΜΠΕΡΙΑΛΙΣΤΙΚΟ ΠΟΛΕΜΟ ΚΑΙ ΤΗΝ ΕΜΠΛΟΚΗ: Στις 30 Οκτώβρη παντού ξεσηκωμός! Παλλαϊκή δράση στο πλευρό των λιμενεργατών",
+    "it": "CONTRO LA GUERRA E L'IMPEGNO IMPERIALISTA: Il 30 ottobre, rivolta ovunque! Azione pallaica dalla parte dei portuali",
+    "en": "AGAINST THE IMPERIALIST WAR AND ENGAGEMENT: On October 30, uprising everywhere! Pallaic action on the side of the dock workers"
+   },
+   "summary": {
+    "orig": "«Οι λιμενεργάτες δεν δουλεύουν για τον πόλεμο! Λιμάνια των λαών και της ειρήνης - όχι βάσεις των ιμπεριαλιστών!». Ελπιδοφόρος διεθνιστικός ταξικός συντονισμός με πάνω από 100 λιμάνια, σε 4 ηπείρους...",
+    "it": "\"I portuali non lavorano per la guerra! Porti dei popoli e della pace, non basi degli imperialisti!\" Promettente coordinamento di classe internazionale con oltre 100 porti, in 4 continenti...",
+    "en": "\"Dockers don't work for war! Ports of peoples and peace - not bases of imperialists!' Promising international class coordination with over 100 ports, on 4 continents..."
    }
   },
   {
@@ -6964,46 +7504,6 @@
    }
   },
   {
-   "id": "290e764658da4c20",
-   "source": "vermelho",
-   "name": "Vermelho",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://vermelho.org.br/2026/10/23/meta-tem-ate-hoje-para-provar-isonomia-e-evitar-multa-de-r-1-milhao-por-dia/?utm_source=rss&utm_medium=rss&utm_campaign=meta-tem-ate-hoje-para-provar-isonomia-e-evitar-multa-de-r-1-milhao-por-dia",
-   "date": "2026-10-23T14:52:04+00:00",
-   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/Screenshot_2026-10-23-11-48-46-871_com.android.chrome-edit-1024x568.jpg",
-   "title": {
-    "orig": "Meta tem até hoje para provar isonomia e evitar multa de R$ 1 milhão por dia",
-    "it": "L’obiettivo ha tempo fino ad oggi per dimostrare l’uguaglianza ed evitare una multa di 1 milione di R$ al giorno",
-    "en": "The target has until today to prove equality and avoid a fine of R$1 million per day"
-   },
-   "summary": {
-    "orig": "​50 entidades entregam manifesto contra censura das plataformas digitais ao TSE",
-    "it": "​50 entità consegnano al TSE un manifesto contro la censura delle piattaforme digitali",
-    "en": "​50 entities deliver manifesto against censorship of digital platforms to the TSE"
-   }
-  },
-  {
-   "id": "c3246e19a8dc2793",
-   "source": "vermelho",
-   "name": "Vermelho",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://vermelho.org.br/2026/10/23/governo-noboa-prende-principal-lideranca-da-esquerda-do-equador/?utm_source=rss&utm_medium=rss&utm_campaign=governo-noboa-prende-principal-lideranca-da-esquerda-do-equador",
-   "date": "2026-10-23T14:50:33+00:00",
-   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-11.47.45.jpeg",
-   "title": {
-    "orig": "Governo Noboa prende principal liderança da esquerda do Equador",
-    "it": "Il governo Noboa arresta la principale leadership della sinistra in Ecuador",
-    "en": "Noboa government arrests main leftist leadership in Ecuador"
-   },
-   "summary": {
-    "orig": "Prisão de Luisa González ocorre a cinco semanas das eleições locais, após seu partido ser impedido de disputar; Coletivos denunciam escalada de lawfare e exigem liberdade imediata",
-    "it": "L'arresto di Luisa González avviene cinque settimane prima delle elezioni locali, dopo che al suo partito è stato impedito di candidarsi; I collettivi denunciano l’escalation della legislazione e chiedono libertà immediata",
-    "en": "Luisa González's arrest takes place five weeks before local elections, after her party was prevented from contesting; Collectives denounce escalation of lawfare and demand immediate freedom"
-   }
-  },
-  {
    "id": "6160bc781b28f82a",
    "source": "morningstar",
    "name": "Morning Star",
@@ -7021,26 +7521,6 @@
     "orig": "Britain is paying the price for leaving energy security to private profit. It’s time workers and their unions set the agenda for a fair transition, says MATT KERR",
     "it": "La Gran Bretagna sta pagando il prezzo per aver lasciato la sicurezza energetica al profitto privato. È giunto il momento che i lavoratori e i loro sindacati definiscano l’agenda per una transizione equa, afferma MATT KERR",
     "en": "Britain is paying the price for leaving energy security to private profit. It’s time workers and their unions set the agenda for a fair transition, says MATT KERR"
-   }
-  },
-  {
-   "id": "eb07716bac7146fb",
-   "source": "vermelho",
-   "name": "Vermelho",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://vermelho.org.br/2026/10/23/crise-neoliberal-leva-milhares-as-ruas-da-europa-apos-protestos-na-franca/?utm_source=rss&utm_medium=rss&utm_campaign=crise-neoliberal-leva-milhares-as-ruas-da-europa-apos-protestos-na-franca",
-   "date": "2026-10-23T14:43:41+00:00",
-   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-11.41.32.jpeg",
-   "title": {
-    "orig": "Crise neoliberal leva milhares às ruas da Europa após protestos na França",
-    "it": "La crisi neoliberale porta migliaia di persone nelle strade d’Europa dopo le proteste in Francia",
-    "en": "Neoliberal crisis takes thousands to the streets of Europe after protests in France"
-   },
-   "summary": {
-    "orig": "Atos de estudantes e trabalhadores na Grécia, França, Portugal, Itália e Albânia contestam cortes nos serviços públicos, inflação, precariedade escolar e crise da moradia",
-    "it": "Gli atti di studenti e lavoratori in Grecia, Francia, Portogallo, Italia e Albania contestano tagli ai servizi pubblici, inflazione, precarietà scolastica e crisi abitativa",
-    "en": "Acts by students and workers in Greece, France, Portugal, Italy and Albania contest cuts in public services, inflation, school precariousness and housing crisis"
    }
   },
   {
@@ -7104,26 +7584,6 @@
    }
   },
   {
-   "id": "63538170234d43b9",
-   "source": "vermelho",
-   "name": "Vermelho",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://vermelho.org.br/2026/10/23/reeleger-lula-uma-vitoria-necessaria-e-possivel/?utm_source=rss&utm_medium=rss&utm_campaign=reeleger-lula-uma-vitoria-necessaria-e-possivel",
-   "date": "2026-10-23T14:27:46+00:00",
-   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/lula-paulista_Foto-Ricardo-Stuckert-1-1024x643.jpg",
-   "title": {
-    "orig": "Reeleger Lula: uma vitória necessária e possível",
-    "it": "Rieleggere Lula: una vittoria necessaria e possibile",
-    "en": "Re-electing Lula: a necessary and possible victory"
-   },
-   "summary": {
-    "orig": "A disputa exige força popular para defender a democracia, ampliar direitos e garantir ao Brasil um caminho soberano",
-    "it": "La disputa richiede la forza popolare per difendere la democrazia, espandere i diritti e garantire al Brasile un percorso sovrano",
-    "en": "The dispute requires popular strength to defend democracy, expand rights and guarantee Brazil a sovereign path"
-   }
-  },
-  {
    "id": "a335f298e774e4d8",
    "source": "morningstar",
    "name": "Morning Star",
@@ -7181,26 +7641,6 @@
     "orig": "BEN CHACKO joins a multinational delegation to see first-hand Chinese advances in building an ecological civilisation and speak to global experts on its successes",
     "it": "BEN CHACKO si unisce a una delegazione multinazionale per vedere in prima persona i progressi cinesi nella costruzione di una civiltà ecologica e parlare con esperti globali dei suoi successi",
     "en": "BEN CHACKO joins a multinational delegation to see first-hand Chinese advances in building an ecological civilisation and speak to global experts on its successes"
-   }
-  },
-  {
-   "id": "ee3de4751b4fb33d",
-   "source": "cubadebate",
-   "name": "Cubadebate",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.cubadebate.cu/noticias/2026/10/23/une-pronostica-para-este-viernes-una-afectacion-de-1850-mw-para-el-horario-de-maxima-demanda/",
-   "date": "2026-10-23T14:04:32+00:00",
-   "image": null,
-   "title": {
-    "orig": "UNE pronostica para este viernes una afectación de 1850 MW para el horario de máxima demanda",
-    "it": "L'UNE prevede per questo venerdì un impatto di 1850 MW per il programma di punta della domanda",
-    "en": "UNE predicts for this Friday an impact of 1850 MW for the peak demand schedule"
-   },
-   "summary": {
-    "orig": "La UNE pronostica para el horario pico de este viernes una afectación de 1850 MW, al tiempo que se encuentran en avería las unidades 1 y 2 de la CTE Santa Cruz, la unidad 2 de la CTE Felton y las unidades 3 y 6 de la CTE Renté. La disponibilidad del SEN a las 06:00 horas fue de…",
-    "it": "L'UNE prevede per le ore di punta di questo venerdì un impatto di 1.850 MW, mentre le unità 1 e 2 della CTE Santa Cruz, l'unità 2 della CTE Felton e le unità 3 e 6 della CTE Renté sono in guasto. La disponibilità del SEN alle ore 06:00 era...",
-    "en": "The UNE predicts for this Friday's peak hours an impact of 1,850 MW, while units 1 and 2 of the CTE Santa Cruz, unit 2 of the CTE Felton and units 3 and 6 of the CTE Renté are in breakdown. The availability of the SEN at 06:00 hours was…"
    }
   },
   {
@@ -7301,26 +7741,6 @@
     "orig": "THOUSANDS of Christmas shoppers on London’s Oxford Street will have their faces scanned “without choice” by live facial recognition cameras, with the technology due to be installed in December. It will be among the first areas to have permanent infrastructure scanning faces and…",
     "it": "MIGLIAIA di acquirenti di Natale in Oxford Street a Londra vedranno i loro volti scansionati “senza scelta” da telecamere di riconoscimento facciale dal vivo, con la tecnologia che sarà installata a dicembre. Sarà tra le prime aree ad avere volti di scansione permanenti dell'infrastruttura e...",
     "en": "THOUSANDS of Christmas shoppers on London’s Oxford Street will have their faces scanned “without choice” by live facial recognition cameras, with the technology due to be installed in December. It will be among the first areas to have permanent infrastructure scanning faces and…"
-   }
-  },
-  {
-   "id": "3d78c22e79d0e95d",
-   "source": "cubadebate",
-   "name": "Cubadebate",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.cubadebate.cu/noticias/2026/10/23/lula-y-flavio-bolsonaro-protagonizaran-ultimo-cara-a-cara-previo-a-segunda-vuelta-electoral/",
-   "date": "2026-10-23T13:27:30+00:00",
-   "image": null,
-   "title": {
-    "orig": "Lula y Flávio Bolsonaro protagonizarán último cara a cara previo a segunda vuelta electoral",
-    "it": "Lula e Flávio Bolsonaro saranno i protagonisti dell'ultimo faccia a faccia prima della seconda tornata elettorale",
-    "en": "Lula and Flávio Bolsonaro will star in the last face to face before the second electoral round"
-   },
-   "summary": {
-    "orig": "El encuentro, organizado por la cadena de televisión Globo en Brasil y previo al balotaje de este domingo 25 de octubre, tendrá reglas que restringen el movimiento de los respectivos candidatos del Partido de los Trabajadores y el Partido Liberal, y verificaciones de…",
-    "it": "L'incontro, organizzato dalla rete televisiva Globo in Brasile e prima del ballottaggio di questa domenica, 25 ottobre, prevederà norme che limiteranno la circolazione dei rispettivi candidati del Partito dei Lavoratori e del Partito Liberale, e verifiche...",
-    "en": "The meeting, organized by the Globo television network in Brazil and prior to the runoff this Sunday, October 25, will have rules that restrict the movement of the respective candidates of the Workers' Party and the Liberal Party, and verifications of..."
    }
   },
   {
@@ -8824,46 +9244,6 @@
    }
   },
   {
-   "id": "caeb8c0d0b4d146e",
-   "source": "granma",
-   "name": "Granma",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.granma.cu/deportes/2026-10-22/las-medallas-de-dakar-2026-un-pedazo-de-la-historia-de-senegal-22-10-2026-14-10-36",
-   "date": "2026-10-22T18:10:36+00:00",
-   "image": "https://www.granma.cu//file/img/2026/10/medium/f0448049.jpg",
-   "title": {
-    "orig": "Las medallas de Dakar-2026, un pedazo de la historia de Senegal",
-    "it": "Le medaglie della Dakar-2026, un pezzo di storia del Senegal",
-    "en": "The Dakar-2026 medals, a piece of Senegal's history"
-   },
-   "summary": {
-    "orig": "El león y el árbol baobab, símbolos emblemáticos de la nación africana, aparecen en el centro de las preseas",
-    "it": "Al centro delle medaglie compaiono il leone e il baobab, simboli emblematici della nazione africana",
-    "en": "The lion and the baobab tree, emblematic symbols of the African nation, appear in the center of the medals"
-   }
-  },
-  {
-   "id": "6d4988e72555289b",
-   "source": "granma",
-   "name": "Granma",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.granma.cu/cuba/2026-10-22/instrucciones-de-la-comandancia-general-a-todos-los-comandantes-del-ejercito-rebelde-y-al-pueblo-22-10-2026-14-10-32",
-   "date": "2026-10-22T18:10:32+00:00",
-   "image": "https://www.granma.cu//file/img/2026/10/medium/f0448048.jpg",
-   "title": {
-    "orig": "Instrucciones de la Comandancia General a todos los Comandantes del Ejército Rebelde y al pueblo",
-    "it": "Istruzioni del Comando Generale a tutti i comandanti dell'Esercito Ribelle e al popolo",
-    "en": "Instructions from the General Command to all Commanders of the Rebel Army and the people"
-   },
-   "summary": {
-    "orig": "«¡Más unidos y más firmes que nunca deben estar el pueblo y el Ejército Rebelde, para no dejarse arrebatar la victoria que ha costado tanta sangre!»",
-    "it": "«Il popolo e l'Esercito Ribelle devono essere più uniti e più saldi che mai, per non lasciarsi togliere la vittoria che è costata tanto sangue!»",
-    "en": "«The people and the Rebel Army must be more united and firmer than ever, to not let the victory that has cost so much blood be taken away from them!»"
-   }
-  },
-  {
    "id": "00fe0408a1b30949",
    "source": "fightback",
    "name": "Fight Back! News",
@@ -8941,26 +9321,6 @@
     "orig": "Die Kollektivvertragsverhandlungen für 420.000 Handelsangestellte und 19.000 Lehrlinge haben am Donnerstag begonnen. Die Gewerkschaft GPA fordert 3,8 Prozent mehr Gehalt und Verbesserungen bei den Arbeitsbedingungen. Die Konzernvertreter lehnen die Forderungen ab und legten in…",
     "it": "Giovedì sono iniziate le trattative collettive per 420.000 dipendenti commerciali e 19.000 apprendisti. Il sindacato GPA chiede il 3,8% in più di stipendio e miglioramenti nelle condizioni di lavoro. I rappresentanti dell’azienda respingono le richieste e…",
     "en": "Collective bargaining negotiations for 420,000 commercial employees and 19,000 apprentices began on Thursday. The GPA union is demanding 3.8 percent more salary and improvements in working conditions. The company representatives reject the demands and…"
-   }
-  },
-  {
-   "id": "2392862649fed02e",
-   "source": "granma",
-   "name": "Granma",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.granma.cu/cultura/2026-10-22/todas-las-voces-importan-22-10-2026-12-10-52",
-   "date": "2026-10-22T16:10:52+00:00",
-   "image": "https://www.granma.cu//file/img/2026/10/medium/f0448043.jpg",
-   "title": {
-    "orig": "Todas las voces importan",
-    "it": "Tutte le voci contano",
-    "en": "All voices matter"
-   },
-   "summary": {
-    "orig": "El espacio busca construir consensos, aportar desde la participación ciudadana y ser parte del análisis sobre temas de profundo impacto en la vida nacional",
-    "it": "Lo spazio cerca di creare consenso, contribuire attraverso la partecipazione dei cittadini e far parte dell'analisi su questioni di profondo impatto sulla vita nazionale.",
-    "en": "The space seeks to build consensus, contribute through citizen participation and be part of the analysis on issues of profound impact on national life."
    }
   },
   {
@@ -9081,66 +9441,6 @@
     "orig": "Statement from the International Mobilization4Mumia The International Mobilization4Mumia extends our support for and solidarity with the brave and courageous students in France, now in their fourth week of mass demonstrations over severe teacher shortages, lack",
     "it": "Dichiarazione della Mobilitazione Internazionale4Mumia La Mobilitazione Internazionale4Mumia estende il nostro sostegno e la nostra solidarietà agli studenti coraggiosi e coraggiosi in Francia, ora alla loro quarta settimana di manifestazioni di massa per la grave carenza di insegnanti, la mancanza",
     "en": "Statement from the International Mobilization4Mumia The International Mobilization4Mumia extends our support for and solidarity with the brave and courageous students in France, now in their fourth week of mass demonstrations over severe teacher shortages, lack"
-   }
-  },
-  {
-   "id": "f37d4fdcb2e85c0c",
-   "source": "granma",
-   "name": "Granma",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.granma.cu/cuba/2026-10-22/octubre-de-1962-fue-la-prueba-de-fuego-un-pais-pequeno-demostro-la-capacidad-de-resistencia-de-un-pueblo-22-10-2026-11-10-27",
-   "date": "2026-10-22T15:10:27+00:00",
-   "image": "https://www.granma.cu//file/img/2026/10/medium/f0448041.jpg",
-   "title": {
-    "orig": "«Como en 1962, la patria no se mide por la magnitud de la amenaza, sino por la firmeza con la que la enfrenta»",
-    "it": "\"Come nel 1962, il Paese non si misura dall'entità della minaccia, ma dalla fermezza con cui la affronta\"",
-    "en": "\"As in 1962, the country is not measured by the magnitude of the threat, but by the firmness with which it faces it\""
-   },
-   "summary": {
-    "orig": "Roberto Morales Ojeda, miembro del Buró Político y Secretario de Organización del Comité Central del Partido, recordó este jueves la Crisis de Octubre de 1962, cuando un país pequeño, sitiado y amenazado con la aniquilación, demostró que la capacidad de resistencia se mide en la…",
-    "it": "Roberto Morales Ojeda, membro dell'Ufficio Politico e Segretario dell'Organizzazione del Comitato Centrale del Partito, ha ricordato questo giovedì la Crisi dell'Ottobre del 1962, quando un piccolo paese, assediato e minacciato di annientamento, dimostrò che la capacità di resistenza si misura in...",
-    "en": "Roberto Morales Ojeda, member of the Political Bureau and Secretary of Organization of the Central Committee of the Party, recalled this Thursday the October Crisis of 1962, when a small country, besieged and threatened with annihilation, demonstrated that the capacity for resistance is measured in…"
-   }
-  },
-  {
-   "id": "9c9284dc3a33a0d9",
-   "source": "granma",
-   "name": "Granma",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.granma.cu/deportes/2026-10-22/tres-nuevos-boletos-panamericanos-del-boxeo-cubano-22-10-2026-11-10-18",
-   "date": "2026-10-22T15:10:18+00:00",
-   "image": "https://www.granma.cu//file/img/2026/10/medium/f0448039.jpg",
-   "title": {
-    "orig": "Tres nuevos boletos panamericanos del boxeo cubano",
-    "it": "Tre nuovi biglietti panamericani per la boxe cubana",
-    "en": "Three new Pan American tickets for Cuban boxing"
-   },
-   "summary": {
-    "orig": "En el mundial juvenil, Julio Chivás avanzó a la ronda de los ocho mejores",
-    "it": "Nel campionato mondiale giovanile, Julio Chivás è arrivato al girone dei migliori otto",
-    "en": "In the youth world championship, Julio Chivás advanced to the round of the best eight"
-   }
-  },
-  {
-   "id": "411df0b277fb7579",
-   "source": "granma",
-   "name": "Granma",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.granma.cu/cuba/2026-10-22/realizan-audiencia-parlamentaria-cubanoesunaamenaza-el-bloqueo-si-22-10-2026-11-10-11",
-   "date": "2026-10-22T15:10:11+00:00",
-   "image": "https://www.granma.cu//file/img/2026/10/medium/f0448045.jpg",
-   "title": {
-    "orig": "Celebran Audiencia Pública Parlamentaria Cuba no es una amenaza, el bloqueo sí",
-    "it": "Tengono un'udienza pubblica parlamentare. Cuba non è una minaccia, lo è il blocco",
-    "en": "They hold a Parliamentary Public Hearing Cuba is not a threat, the blockade is"
-   },
-   "summary": {
-    "orig": "La Audiencia Pública Parlamentaria se realizó en el Instituto Nacional de Oncología y Radiobiología, a pocos días de la votación en Naciones Unidas contra el cerco económico, comercial y financiero impuesto por Estados Unidos a la Isla",
-    "it": "L'Udienza Parlamentare Pubblica si è tenuta presso l'Istituto Nazionale di Oncologia e Radiobiologia, pochi giorni dopo il voto delle Nazioni Unite contro il blocco economico, commerciale e finanziario imposto dagli Stati Uniti sull'Isola.",
-    "en": "The Parliamentary Public Hearing was held at the National Institute of Oncology and Radiobiology, a few days after the vote in the United Nations against the economic, commercial and financial blockade imposed by the United States on the Island."
    }
   },
   {
@@ -9344,86 +9644,6 @@
    }
   },
   {
-   "id": "bf61116dc48a701a",
-   "source": "morningstar",
-   "name": "Morning Star",
-   "country": "GB",
-   "lang": "en",
-   "url": "https://morningstaronline.co.uk/article/world-brief-october-22-2026",
-   "date": "2026-10-22T13:28:54+00:00",
-   "image": null,
-   "title": {
-    "orig": "World in brief: October 22, 2026",
-    "it": "Il mondo in breve: 22 ottobre 2026",
-    "en": "World in brief: October 22, 2026"
-   },
-   "summary": {
-    "orig": "UKRAINE : Russian attacks on Ukraine’s capital Kiev with ballistic missiles and drones early today killed one person and wounded 22, Ukrainian authorities said. The attack damaged homes, transport infrastructure and other civilian sites in several districts of the city…",
-    "it": "UCRAINA: Gli attacchi russi alla capitale ucraina Kiev con missili balistici e droni nelle prime ore di oggi hanno ucciso una persona e ne hanno ferite 22, hanno detto le autorità ucraine. L’attacco ha danneggiato case, infrastrutture di trasporto e altri siti civili in diversi quartieri della città…",
-    "en": "UKRAINE : Russian attacks on Ukraine’s capital Kiev with ballistic missiles and drones early today killed one person and wounded 22, Ukrainian authorities said. The attack damaged homes, transport infrastructure and other civilian sites in several districts of the city…"
-   }
-  },
-  {
-   "id": "bb780d04eee5ef32",
-   "source": "morningstar",
-   "name": "Morning Star",
-   "country": "GB",
-   "lang": "en",
-   "url": "https://morningstaronline.co.uk/article/iran-stands-firm-its-nuclear-programme",
-   "date": "2026-10-22T13:26:58+00:00",
-   "image": null,
-   "title": {
-    "orig": "Iran stands firm on its nuclear programme",
-    "it": "L’Iran mantiene fermo il suo programma nucleare",
-    "en": "Iran stands firm on its nuclear programme"
-   },
-   "summary": {
-    "orig": "IRAN has insisted that no enriched nuclear material will leave the country as it stands firm against fresh threats against it by far-right US President Donald Trump. President Trump is reportedly considering launching a round of new attacks against the Iranians to continue his…",
-    "it": "L’IRAN ha insistito sul fatto che nessun materiale nucleare arricchito lascerà il paese mentre resiste alle nuove minacce contro di esso da parte del presidente americano di estrema destra Donald Trump. Secondo quanto riferito, il presidente Trump sta valutando la possibilità di lanciare una serie di nuovi attacchi contro gli iraniani per continuare il suo...",
-    "en": "IRAN has insisted that no enriched nuclear material will leave the country as it stands firm against fresh threats against it by far-right US President Donald Trump. President Trump is reportedly considering launching a round of new attacks against the Iranians to continue his…"
-   }
-  },
-  {
-   "id": "fe0628fc23128e1e",
-   "source": "morningstar",
-   "name": "Morning Star",
-   "country": "GB",
-   "lang": "en",
-   "url": "https://morningstaronline.co.uk/article/kane-anxiously-waiting-discover-his-ballon-dor-fate",
-   "date": "2026-10-22T13:19:52+00:00",
-   "image": null,
-   "title": {
-    "orig": "Kane anxiously waiting to discover his Ballon d’Or fate",
-    "it": "Kane aspetta con ansia di scoprire il suo destino da Pallone d'Oro",
-    "en": "Kane anxiously waiting to discover his Ballon d’Or fate"
-   },
-   "summary": {
-    "orig": "HARRY KANE admits the wait to discover whether he has won the Ballon d’Or is proving stressful for his family. England captain Kane is the odds-on favourite for football’s most prestigious individual award after scoring 61 goals for Bayern Munich last season and another 12 for…",
-    "it": "HARRY KANE ammette che l'attesa di scoprire se ha vinto il Pallone d'Oro si sta rivelando stressante per la sua famiglia. Il capitano dell'Inghilterra Kane è il favorito per il premio individuale più prestigioso del calcio dopo aver segnato 61 gol per il Bayern Monaco la scorsa stagione e altri 12 per...",
-    "en": "HARRY KANE admits the wait to discover whether he has won the Ballon d’Or is proving stressful for his family. England captain Kane is the odds-on favourite for football’s most prestigious individual award after scoring 61 goals for Bayern Munich last season and another 12 for…"
-   }
-  },
-  {
-   "id": "760280c52941200d",
-   "source": "morningstar",
-   "name": "Morning Star",
-   "country": "GB",
-   "lang": "en",
-   "url": "https://morningstaronline.co.uk/article/mcdermott-hits-out-harsh-world-cup-format-england-face-exit",
-   "date": "2026-10-22T13:11:33+00:00",
-   "image": null,
-   "title": {
-    "orig": "McDermott hits out at ‘harsh’ World Cup format as England face exit",
-    "it": "McDermott si oppone al formato “duro” della Coppa del Mondo mentre l’Inghilterra rischia l’uscita",
-    "en": "McDermott hits out at ‘harsh’ World Cup format as England face exit"
-   },
-   "summary": {
-    "orig": "ENGLAND head coach Brian McDermott has struggled to hide his frustration with the Rugby League World Cup format that has left his side teetering on the brink of elimination after their opening game. Last Saturday’s loss to Tonga means they must hope Tonga beat Samoa in their…",
-    "it": "L'allenatore dell'INGHILTERRA Brian McDermott ha faticato a nascondere la sua frustrazione per il formato della Coppa del mondo di Rugby League che ha lasciato la sua squadra sull'orlo dell'eliminazione dopo la partita di apertura. La sconfitta di sabato scorso contro Tonga significa che devono sperare che Tonga batta Samoa nel loro...",
-    "en": "ENGLAND head coach Brian McDermott has struggled to hide his frustration with the Rugby League World Cup format that has left his side teetering on the brink of elimination after their opening game. Last Saturday’s loss to Tonga means they must hope Tonga beat Samoa in their…"
-   }
-  },
-  {
    "id": "a9ec69828b456972",
    "source": "semanariovoz",
    "name": "Semanario Voz",
@@ -9441,26 +9661,6 @@
     "orig": "La disputa por la tierra vuelve a enfrentar dos proyectos de país: el que busca democratizar la propiedad rural, y otro que preserva los privilegios de los grandes propietarios y despojadores. Redacción Política La reforma agraria puede frenarse sin derogar una sola ley. El…",
     "it": "La disputa sulla terra si confronta ancora una volta con due progetti nazionali: uno che cerca di democratizzare la proprietà rurale e un altro che preserva i privilegi dei grandi proprietari terrieri e degli espropriatori. Editoriale politico La riforma agraria può essere fermata senza abrogare nemmeno una legge. Lui…",
     "en": "The dispute over land once again confronts two national projects: one that seeks to democratize rural property, and another that preserves the privileges of large landowners and dispossessors. Political Editorial Agrarian reform can be stopped without repealing a single law. He…"
-   }
-  },
-  {
-   "id": "9a8cb26a2d15c86e",
-   "source": "morningstar",
-   "name": "Morning Star",
-   "country": "GB",
-   "lang": "en",
-   "url": "https://morningstaronline.co.uk/article/energy-wealth-fund-should-be-targeted-north-east-scotland-says-swinney",
-   "date": "2026-10-22T13:05:01+00:00",
-   "image": null,
-   "title": {
-    "orig": "Energy Wealth Fund should be targeted at north-east Scotland, says Swinney",
-    "it": "L'Energy Wealth Fund dovrebbe essere mirato al nord-est della Scozia, afferma Swinney",
-    "en": "Energy Wealth Fund should be targeted at north-east Scotland, says Swinney"
-   },
-   "summary": {
-    "orig": "FIRST Minister John Swinney has demanded Andy Burnham ring-fence the government's new Energy Wealth Fund, to help deliver a transition to green jobs in north-east Scotland. The fund was announced alongside the approval of the Jackdaw gas field on Wednesday and will see £2…",
-    "it": "Il PRIMO Ministro John Swinney ha chiesto ad Andy Burnham di delimitare il nuovo Energy Wealth Fund del governo, per contribuire a realizzare una transizione verso lavori verdi nel nord-est della Scozia. Il fondo è stato annunciato mercoledì insieme all'approvazione del giacimento di gas Jackdaw e vedrà 2 sterline...",
-    "en": "FIRST Minister John Swinney has demanded Andy Burnham ring-fence the government's new Energy Wealth Fund, to help deliver a transition to green jobs in north-east Scotland. The fund was announced alongside the approval of the Jackdaw gas field on Wednesday and will see £2…"
    }
   },
   {
@@ -9484,46 +9684,6 @@
    }
   },
   {
-   "id": "3c1de90db9076816",
-   "source": "morningstar",
-   "name": "Morning Star",
-   "country": "GB",
-   "lang": "en",
-   "url": "https://morningstaronline.co.uk/article/rejoining-eu-wont-solve-britains-economic-crisis",
-   "date": "2026-10-22T13:02:00+00:00",
-   "image": null,
-   "title": {
-    "orig": "Rejoining the EU won’t solve Britain’s economic crisis",
-    "it": "Il rientro nell’UE non risolverà la crisi economica della Gran Bretagna",
-    "en": "Rejoining the EU won’t solve Britain’s economic crisis"
-   },
-   "summary": {
-    "orig": "JON TRICKETT MP has done the movement a service by warning the Burnham government of the dangers of its increasingly overt desire to revisit the Brexit question. As he writes, Britain’s economic difficulties are not down to Brexit, but to the financialised capitalism which…",
-    "it": "Il deputato JON TRICKETT ha reso un servizio al movimento avvertendo il governo di Burnham dei pericoli derivanti dal suo desiderio sempre più evidente di rivisitare la questione Brexit. Come scrive, le difficoltà economiche della Gran Bretagna non sono dovute alla Brexit, ma al capitalismo finanziarizzato che…",
-    "en": "JON TRICKETT MP has done the movement a service by warning the Burnham government of the dangers of its increasingly overt desire to revisit the Brexit question. As he writes, Britain’s economic difficulties are not down to Brexit, but to the financialised capitalism which…"
-   }
-  },
-  {
-   "id": "d54c65b64947a041",
-   "source": "morningstar",
-   "name": "Morning Star",
-   "country": "GB",
-   "lang": "en",
-   "url": "https://morningstaronline.co.uk/article/us-orders-diplomats-leave-saudi-arabia",
-   "date": "2026-10-22T13:01:05+00:00",
-   "image": null,
-   "title": {
-    "orig": "US orders diplomats to leave Saudi Arabia",
-    "it": "Gli Stati Uniti ordinano ai diplomatici di lasciare l’Arabia Saudita",
-    "en": "US orders diplomats to leave Saudi Arabia"
-   },
-   "summary": {
-    "orig": "THE US State Department ordered some diplomats and the families of US government employees on Wednesday to leave Saudi Arabia following a series of deadly attacks in the country by Yemen’s Houthis and rising fears of an escalation in hostilities. The department said on Wednesday…",
-    "it": "Mercoledì il Dipartimento di Stato americano ha ordinato ad alcuni diplomatici e alle famiglie di dipendenti governativi statunitensi di lasciare l’Arabia Saudita a seguito di una serie di attacchi mortali nel paese da parte degli Houthi dello Yemen e dei crescenti timori di un’escalation delle ostilità. Mercoledì il dipartimento ha detto...",
-    "en": "THE US State Department ordered some diplomats and the families of US government employees on Wednesday to leave Saudi Arabia following a series of deadly attacks in the country by Yemen’s Houthis and rising fears of an escalation in hostilities. The department said on Wednesday…"
-   }
-  },
-  {
    "id": "5a3ee0c12a830751",
    "source": "marx21",
    "name": "Marx21",
@@ -9541,26 +9701,6 @@
     "orig": "da https://giuliochinappi.com La missione europea di Tô Lâm tra Danimarca, istituzioni dell’Unione Europea e Belgio rappresenta un passaggio strategico della diplomazia vietnamita, con l’obiettivo di trasformare fiducia politica, commercio, tecnologia e transizione verde in…",
     "it": "da https://giuliochinappi.com La missione europea di Tô Lâm tra Danimarca, istituzioni dell’Unione Europea e Belgio rappresenta un passaggio strategico della diplomazia vietnamita, con l’obiettivo di trasformare fiducia politica, commercio, tecnologia e transizione verde in…",
     "en": "from https://giuliochinappi.com Tô Lâm's European mission between Denmark, European Union institutions and Belgium represents a strategic step in Vietnamese diplomacy, with the aim of transforming political trust, trade, technology and green transition into…"
-   }
-  },
-  {
-   "id": "886d58a9a2696a7f",
-   "source": "morningstar",
-   "name": "Morning Star",
-   "country": "GB",
-   "lang": "en",
-   "url": "https://morningstaronline.co.uk/article/dont-reverse-brexit-trickett-warns-burnham",
-   "date": "2026-10-22T13:00:19+00:00",
-   "image": null,
-   "title": {
-    "orig": "Don’t reverse Brexit, Trickett warns Burnham",
-    "it": "Non invertire la Brexit, Trickett avverte Burnham",
-    "en": "Don’t reverse Brexit, Trickett warns Burnham"
-   },
-   "summary": {
-    "orig": "TALK of reversing Brexit is a distraction from the work the government needs to do, a leading left MP told Andy Burnham today. Jon Trickett warned in an article for Politics Home that “Brexit didn’t cause Britain’s economic malaise. Its roots lie much earlier with the increasing…",
-    "it": "PARLARE di invertire la Brexit è una distrazione dal lavoro che il governo deve svolgere, ha detto oggi ad Andy Burnham un parlamentare di spicco della sinistra. Jon Trickett ha avvertito in un articolo per Politics Home che \"la Brexit non ha causato il malessere economico della Gran Bretagna. Le sue radici affondano molto prima con la crescente...",
-    "en": "TALK of reversing Brexit is a distraction from the work the government needs to do, a leading left MP told Andy Burnham today. Jon Trickett warned in an article for Politics Home that “Brexit didn’t cause Britain’s economic malaise. Its roots lie much earlier with the increasing…"
    }
   },
   {
@@ -9861,146 +10001,6 @@
     "orig": "Bjälbo Trädgård, ett odlingsföretag i Östergötlands län, tvingas betala en företagsbot på 250.000 kronor, efter en arbetsplatsolycka där en anställd fick livshotande skador. Arbetstagaren jobbade vid en nyinstallerad sorteringsmaskin och avlägsnade en potatis som hade fastnat…",
     "it": "Bjälbo Trädgård, un'azienda di coltivazione nella contea di Östergötland, è costretta a pagare una multa aziendale di 250.000 corone svedesi, dopo un incidente sul lavoro in cui un dipendente ha riportato lesioni mortali. L'operaio stava lavorando ad una calibratrice appena installata e ha rimosso una patata che si era attaccata...",
     "en": "Bjälbo Trädgård, a cultivation company in Östergötland county, is forced to pay a corporate fine of SEK 250,000, after a workplace accident in which an employee suffered life-threatening injuries. The worker was working at a newly installed sorting machine and removed a potato that had stuck…"
-   }
-  },
-  {
-   "id": "1653c0a37c471f47",
-   "source": "kprf",
-   "name": "KPRF",
-   "country": "RU",
-   "lang": "ru",
-   "url": "https://kprf.ru/export/rss/dep/gosduma/activities/248249.html",
-   "date": "2026-10-22T09:05:10+00:00",
-   "image": "https://static.kprf.ru/m/420/240/t/img/2026/10/img_6937.jpeg",
-   "title": {
-    "orig": "Юрий Синельщиков: Правоохранители два года ждали окончания полномочий Олега Михайлова для возбуждения уголовного дела",
-    "it": "Yuri Sinelshchikov: le forze dell'ordine hanno aspettato due anni la fine dei poteri di Oleg Mikhailov per avviare un procedimento penale",
-    "en": "Yuri Sinelshchikov: Law enforcement officers waited two years for the end of Oleg Mikhailov’s powers to initiate a criminal case"
-   },
-   "summary": {
-    "orig": "МОСКВА, 22 октября 2026 года — Депутат Государственной Думы, заслуженный юрист РФ Юрий Синельщиков прокомментировал задержание в Москве лидера коммунистов Республики Коми, экс-парламентария Олега Михайлова. Ему вменяют часть 2 статьи 205.2 УК РФ за интернет-публикацию … Читать…",
-    "it": "MOSCA, 22 ottobre 2026 — Il deputato della Duma di Stato, onorato avvocato della Federazione Russa Yuri Sinelshchikov, ha commentato la detenzione a Mosca del leader comunista della Repubblica dei Komi, l'ex parlamentare Oleg Mikhailov. È accusato della parte 2 dell'articolo 205.2 del codice penale della Federazione Russa per pubblicazione online... Leggi...",
-    "en": "MOSCOW, October 22, 2026 — State Duma deputy, Honored Lawyer of the Russian Federation Yuri Sinelshchikov commented on the detention in Moscow of the communist leader of the Komi Republic, ex-parliamentarian Oleg Mikhailov. He is charged with Part 2 of Article 205.2 of the Criminal Code of the Russian Federation for online publication... Read..."
-   }
-  },
-  {
-   "id": "1c0a70256797c87a",
-   "source": "kprf",
-   "name": "KPRF",
-   "country": "RU",
-   "lang": "ru",
-   "url": "https://kprf.ru/export/rss/dep/gosduma/activities/248247.html",
-   "date": "2026-10-22T08:55:13+00:00",
-   "image": "https://static.kprf.ru/m/420/240/t/img/2026/10/img_6939.jpeg",
-   "title": {
-    "orig": "Защита прав граждан и возрождение малой авиации. Николай Осадчий, Ксения Айтакова и Юрий Синельщиков развернули альтернативную повестку КПРФ в Госдуме",
-    "it": "Tutela dei diritti dei cittadini e rilancio del piccolo trasporto aereo. Nikolai Osadchiy, Ksenia Aitakova e Yuri Sinelshchikov hanno lanciato un programma alternativo del Partito Comunista della Federazione Russa alla Duma di Stato",
-    "en": "Protection of citizens' rights and revival of small aviation. Nikolai Osadchiy, Ksenia Aitakova and Yuri Sinelshchikov launched an alternative agenda of the Communist Party of the Russian Federation in the State Duma"
-   },
-   "summary": {
-    "orig": "22 октября, предваряя пленарное заседание Госдумы, перед журналистами выступили депутаты КПРФ Николай Осадчий, Ксения Айтакова и Юрий Синельщиков. Николай Осадчий: — Уважаемые коллеги! Через неделю Государственной Думе предстоит рассмотреть в первом чтении проект федерального…",
-    "it": "Il 22 ottobre, prima della sessione plenaria della Duma di Stato, i deputati del Partito comunista Nikolai Osadchiy, Ksenia Aitakova e Yuri Sinelshchikov hanno parlato con i giornalisti. Nikolai Osadchiy: - Cari colleghi! Tra una settimana la Duma di Stato esaminerà in prima lettura il progetto federale...",
-    "en": "On October 22, prior to the plenary session of the State Duma, Communist Party deputies Nikolai Osadchiy, Ksenia Aitakova and Yuri Sinelshchikov spoke to journalists. Nikolai Osadchiy: - Dear colleagues! In a week, the State Duma will consider in the first reading the draft federal..."
-   }
-  },
-  {
-   "id": "02506f087bda9cbd",
-   "source": "proletaren",
-   "name": "Proletären",
-   "country": "SE",
-   "lang": "sv",
-   "url": "https://proletaren.se/artikel/nya-miljonkrav-mot-uppsagd-tunnelbanebyggare/",
-   "date": "2026-10-22T08:45:55+00:00",
-   "image": null,
-   "title": {
-    "orig": "Nya miljonkrav mot uppsagt tunnelbaneföretag",
-    "it": "Nuovi milioni di richieste contro la compagnia della metropolitana sciolta",
-    "en": "New million claims against terminated subway company"
-   },
-   "summary": {
-    "orig": "Det kinesiska byggbolaget CRTG möter nya betalningskrav på över fem miljoner kronor. CRTG fick i mars 2026 sitt kontrakt för bygget av nya tunnelbanestationen i Sickla och tillhörande tunnlar hävt av Region Stockholm efter upprepade arbetsmiljöbrister som innebar fara för…",
-    "it": "L'impresa edile cinese CRTG deve far fronte a nuove richieste di pagamento per oltre cinque milioni di corone. Nel marzo 2026, CRTG si è visto revocare il contratto per la costruzione della nuova stazione della metropolitana di Sickla e dei relativi tunnel da parte della Regione di Stoccolma dopo ripetute carenze dell'ambiente di lavoro che rappresentavano un pericolo per...",
-    "en": "The Chinese construction company CRTG faces new payment requirements of over five million kroner. In March 2026, CRTG had its contract for the construction of the new subway station in Sickla and associated tunnels revoked by Region Stockholm after repeated work environment deficiencies that posed a danger to..."
-   }
-  },
-  {
-   "id": "be1dcc771860f26f",
-   "source": "proletaren",
-   "name": "Proletären",
-   "country": "SE",
-   "lang": "sv",
-   "url": "https://proletaren.se/artikel/de-som-var-emot-onlyfans-lagen-visste-inte-vad-de-pratade-om/",
-   "date": "2026-10-22T08:37:04+00:00",
-   "image": "https://cdn.proletaren.se/wp-content/uploads/2026/10/ll-1024x576.jpg",
-   "title": {
-    "orig": "De som var emot OnlyFans-lagen visste inte vad de pratade om",
-    "it": "Coloro che erano contrari alla legge OnlyFans non sapevano di cosa stavano parlando",
-    "en": "Those who were against the OnlyFans law didn't know what they were talking about"
-   },
-   "summary": {
-    "orig": "P3 Nyheter rapporterar att svenska tjejer lurats att åka till Spanien för att via en agentur tjäna stora pengar på OnlyFans. Reportern Malva Thaning sa i morgonpasset att de kommer rapportera mer om fallet. Det vi kan konstatera redan nu är att sexhandeln är sig lik, även på den…",
-    "it": "P3 Nyheter riferisce che le ragazze svedesi sono state indotte con l'inganno ad andare in Spagna per guadagnare un sacco di soldi su OnlyFans tramite un'agenzia. La giornalista Malva Thaning ha detto nella sessione mattutina che riferiranno di più sul caso. Ciò che possiamo già constatare è che il commercio del sesso è lo stesso, anche sul...",
-    "en": "P3 Nyheter reports that Swedish girls have been tricked into going to Spain in order to earn big money on OnlyFans via an agency. Reporter Malva Thaning said in the morning session that they will report more on the case. What we can ascertain already now is that the sex trade is the same, even on the..."
-   }
-  },
-  {
-   "id": "4ae2e57da8dc5baa",
-   "source": "mundoobrero",
-   "name": "Mundo Obrero",
-   "country": "ES",
-   "lang": "es",
-   "url": "https://mundoobrero.es/2026/10/22/sin-la-unidad-de-la-izquierda-global-todo-sera-mas-dificil-1/",
-   "date": "2026-10-22T08:19:37+00:00",
-   "image": null,
-   "title": {
-    "orig": "Sin la unidad de la izquierda global, todo será más difícil (1)",
-    "it": "Senza l’unità della sinistra globale tutto sarà più difficile (1)",
-    "en": "Without the unity of the global left, everything will be more difficult (1)"
-   },
-   "summary": {
-    "orig": "El XXX Seminario Internacional “Los Partidos y una Nueva Sociedad”, que cada año organiza el Partido del Trabajo de México, llegó a la conclusión de que sin la unidad de la izquierda global todo será más difícil, en particular detener el avance de la derecha, cada vez más dotada…",
-    "it": "Il XXX Seminario Internazionale “I partiti e una nuova società”, organizzato ogni anno dal Partito Laburista messicano, è giunto alla conclusione che senza l’unità della sinistra globale tutto sarà più difficile, in particolare fermare l’avanzata della destra, sempre più attrezzata…",
-    "en": "The XXX International Seminar “The Parties and a New Society”, organized every year by the Mexican Labor Party, came to the conclusion that without the unity of the global left everything will be more difficult, in particular stopping the advance of the right, which is increasingly equipped…"
-   }
-  },
-  {
-   "id": "8b5d43c50fde30e0",
-   "source": "contropiano",
-   "name": "Contropiano",
-   "country": "IT",
-   "lang": "it",
-   "url": "https://contropiano.org/regionali/campania/2026/10/22/donzelli-attacca-la-casa-del-popolo-di-marano-sabato-manifestazione-contro-il-cpr-a-castel-volturno-0199958",
-   "date": "2026-10-22T07:58:07+00:00",
-   "image": "https://contropiano.org/img/2026/10/No-al-Cpr.png",
-   "title": {
-    "orig": "Donzelli attacca la Casa del Popolo di Marano. Sabato manifestazione contro il Cpr a Castel Volturno",
-    "it": "Donzelli attacca la Casa del Popolo di Marano. Sabato manifestazione contro il Cpr a Castel Volturno",
-    "en": "Donzelli attacks the Casa del Popolo in Marano. Saturday demonstration against the CPR in Castel Volturno"
-   },
-   "summary": {
-    "orig": "Il capogruppo parlamentare di Fratelli d’Italia Donzelli ha attaccato in un post la scuola di italiano della Casa del Popolo di Marano per il post di Potere al Popolo: “Scaffali vuoti, e loro spendono 43 milioni per un lager a Castel Volturno”. Il deputato di Fratelli d’Italia…",
-    "it": "Il capogruppo parlamentare di Fratelli d’Italia Donzelli ha attaccato in un post la scuola di italiano della Casa del Popolo di Marano per il post di Potere al Popolo: “Scaffali vuoti, e loro spendono 43 milioni per un lager a Castel Volturno”. Il deputato di Fratelli d’Italia…",
-    "en": "The parliamentary group leader of the Fratelli d'Italia Donzelli attacked the Italian school of the Casa del Popolo in Marano in a post for the Potere al Popolo post: \"Empty shelves, and they spend 43 million on a concentration camp in Castel Volturno\". The deputy of the Brothers of Italy…"
-   }
-  },
-  {
-   "id": "bb7c71aa52fd5089",
-   "source": "contropiano",
-   "name": "Contropiano",
-   "country": "IT",
-   "lang": "it",
-   "url": "https://contropiano.org/regionali/lazio/2026/10/22/roma-interrompere-i-rapporti-tra-il-comune-e-israele-in-campidoglio-si-incatenano-a-marco-aurelio-0199955",
-   "date": "2026-10-22T07:34:35+00:00",
-   "image": "https://contropiano.org/img/2026/10/Delibera-al-Campidoglio-conf-stampa.jpg",
-   "title": {
-    "orig": "Roma. Interrompere i rapporti tra il Comune e Israele. In Campidoglio si incatenano a Marco Aurelio",
-    "it": "Roma. Interrompere i rapporti tra il Comune e Israele. In Campidoglio si incatenano a Marco Aurelio",
-    "en": "Rome. Sever relations between the Municipality and Israel. In the Capitol they chain themselves to Marcus Aurelius"
-   },
-   "summary": {
-    "orig": "Ultim’ora. La giunta comunale ha proibito alla delegazione di “Roma sa da che parte stare” di salire al consiglio comunale. In risposta gli attivisti si sono incatenati alla statua di Marco Aurelio! “Vogliamo la discussione della delibera e la rottura di tutti i rapporti tra…",
-    "it": "Ultim’ora. La giunta comunale ha proibito alla delegazione di “Roma sa da che parte stare” di salire al consiglio comunale. In risposta gli attivisti si sono incatenati alla statua di Marco Aurelio! “Vogliamo la discussione della delibera e la rottura di tutti i rapporti tra…",
-    "en": "Last minute. The city council prohibited the delegation of \"Roma knows which side to stand\" from going to the city council. In response, activists chained themselves to the statue of Marcus Aurelius! “We want the discussion of the resolution and the severing of all relations between…"
    }
   }
  ]
