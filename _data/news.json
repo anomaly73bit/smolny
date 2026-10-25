@@ -1,7 +1,927 @@
 {
- "updated": "2026-10-25T04:58:06+00:00",
+ "updated": "2026-10-25T11:53:13+00:00",
  "count": 500,
  "items": [
+  {
+   "id": "4b85d09ebd30be03",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/iran-hurmuz-bogazinin-yonetimi-eskisi-gibi-olmayacak-415375",
+   "date": "2026-10-25T11:02:21+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/25/hurmuz-1.jpg.webp?itok=GWKjrDY4",
+   "title": {
+    "orig": "İran: Hürmüz Boğazı'nın yönetimi eskisi gibi olmayacak",
+    "it": "Iran: La gestione dello Stretto di Hormuz non sarà più la stessa",
+    "en": "Iran: Management of the Strait of Hormuz will not be the same"
+   },
+   "summary": {
+    "orig": "Dış Haberler İran Dışişleri Bakanı Abbas Irakçi, bölgede son bir buçuk yılda yaşanan savaşların güvenlik koşullarını değiştirdiğini belirterek \"Hürmüz Boğazı'nın yönetimi artık eskisi gibi olmayacak\" dedi. İran Dışişleri Bakanı Abbas Irakçi, bölgede yaşanan savaşların güvenlik…",
+    "it": "Notizie Esteri Il ministro degli Esteri iraniano Abbas Iraqchi ha dichiarato che le guerre scoppiate nella regione nell'ultimo anno e mezzo hanno cambiato le condizioni di sicurezza e ha detto: \"La gestione dello Stretto di Hormuz non sarà più la stessa\". Il ministro degli Esteri iraniano Abbas Iraqchi ha affermato che i problemi di sicurezza delle guerre nella regione...",
+    "en": "Foreign News Iranian Foreign Minister Abbas Iraqchi stated that the wars in the region in the last one and a half years have changed the security conditions and said, \"The management of the Strait of Hormuz will no longer be the same.\" Iranian Foreign Minister Abbas Iraqchi said that the security issues of the wars in the region..."
+   }
+  },
+  {
+   "id": "5dc5c1c67c9636a9",
+   "source": "semanariovoz",
+   "name": "Semanario Voz",
+   "country": "CO",
+   "lang": "es",
+   "url": "https://semanariovoz.com/la-ficcion-teocratica-del-abelardismo-i-2/",
+   "date": "2026-10-25T11:00:31+00:00",
+   "image": null,
+   "title": {
+    "orig": "La ficción teocrática del abelardismo (I)",
+    "it": "La finzione teocratica dell’Abelardismo (I)",
+    "en": "The theocratic fiction of Abelardism (I)"
+   },
+   "summary": {
+    "orig": "Tres organizaciones, que defienden el tradicionalismo católico, ocupan posiciones importantes en el Gobierno: Fraternidad San Pio X, Heraldos del Evangelio y el Opus Dei Héctor Mondragón Fraternidad San Pío X, Heraldos del Evangelio, y Opus Dei son organizaciones que expresaron…",
+    "it": "Tre organizzazioni che difendono il tradizionalismo cattolico occupano posti importanti nel governo: Fraternidad San Pio",
+    "en": "Three organizations, which defend Catholic traditionalism, occupy important positions in the Government: Fraternidad San Pio"
+   }
+  },
+  {
+   "id": "20dca2e74a180d19",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/politique/conseil-detat/le-gouvernement-avait-prepare-un-black-out-des-reseaux-sociaux-le-24-octobre",
+   "date": "2026-10-25T11:00:00+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/lecornu_d15564.jpg?w=1200",
+   "title": {
+    "orig": "Le gouvernement avait préparé un black-out des réseaux sociaux le 24 octobre",
+    "it": "Il governo aveva preparato un blackout dei social media il 24 ottobre",
+    "en": "The government had prepared a social media blackout on October 24"
+   },
+   "summary": {
+    "orig": "En prévision du week-end de mobilisations, Sébastien Lecornu a demandé le 22 octobre aux opérateurs de téléphonie de préparer une coupure totale de l’accès à TikTok, Instagram, Snapchat et X, a révélé le média en ligne Blast.",
+    "it": "In previsione del fine settimana di mobilitazioni, Sébastien Lecornu ha chiesto agli operatori telefonici il 22 ottobre di preparare un taglio totale degli accessi a TikTok, Instagram, Snapchat e X, ha rivelato il media online Blast.",
+    "en": "In anticipation of the weekend of mobilizations, Sébastien Lecornu asked telephone operators on October 22 to prepare a total cut of access to TikTok, Instagram, Snapchat and X, revealed the online media Blast."
+   }
+  },
+  {
+   "id": "83ec780acae696db",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/culture-et-savoir/cancer/un-nouvel-espoir-contre-le-cancer-un-vaccin-a-arn-messager-affiche-de-tres-bons-resultats-contre-les-melanomes",
+   "date": "2026-10-25T10:44:02+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/cancer.jpg?w=1200",
+   "title": {
+    "orig": "Un nouvel espoir contre le cancer : un vaccin à ARN messager affiche de très bons résultats contre les mélanomes",
+    "it": "Nuova speranza contro il cancro: un vaccino a RNA messaggero mostra ottimi risultati contro il melanoma",
+    "en": "New hope against cancer: a messenger RNA vaccine shows very good results against melanoma"
+   },
+   "summary": {
+    "orig": "Moderna a présenté, ce samedi 24 octobre, des résultats prometteurs pour son vaccin contre le cancer, développé à partir de l’ARN messager. Selon les données des essais cliniques, ce traitement a permis de réduire de 42 % le risque de récidive ou de décès chez les patients.",
+    "it": "Moderna ha presentato, sabato 24 ottobre, risultati promettenti per il suo vaccino contro il cancro, sviluppato dall’RNA messaggero. Secondo i dati degli studi clinici, questo trattamento ha ridotto il rischio di recidiva o di morte nei pazienti del 42%.",
+    "en": "Moderna presented, this Saturday, October 24, promising results for its cancer vaccine, developed from messenger RNA. According to clinical trial data, this treatment reduced the risk of recurrence or death in patients by 42%."
+   }
+  },
+  {
+   "id": "d6c70dedfadc2f67",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/social-et-economie/justice/framatome-dans-lisere-victime-dun-vol-cest-quoi-lhafnium-ce-metal-ultra-resistant-qui-a-ete-derobe",
+   "date": "2026-10-25T10:40:52+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/framatome-vol-hafnium-.jpg?w=1200",
+   "title": {
+    "orig": "Framatome dans l’Isère victime d’un vol : c’est quoi l’hafnium, ce métal ultra résistant qui a été dérobé ?",
+    "it": "Framatome nell'Isère vittima di un furto: cos'è l'afnio, questo metallo ultra resistente che è stato rubato?",
+    "en": "Framatome in Isère victim of theft: what is hafnium, this ultra-resistant metal which was stolen?"
+   },
+   "summary": {
+    "orig": "Après un nouveau vol de plusieurs centaines de kilos d’hafnium sur le site Framatome de Jarrie (Isère), dans la nuit du mercredi 21 au jeudi 22 octobre, des questions se posent quant à la protection des infrastructures stratégiques françaises.",
+    "it": "Dopo un nuovo furto di diverse centinaia di chili di afnio dal sito Framatome di Jarrie (Isère), nella notte tra mercoledì 21 e giovedì 22 ottobre, si sollevano interrogativi sulla protezione delle infrastrutture strategiche francesi.",
+    "en": "After a new theft of several hundred kilos of hafnium from the Framatome site in Jarrie (Isère), on the night of Wednesday October 21 to Thursday October 22, questions arise about the protection of French strategic infrastructure."
+   }
+  },
+  {
+   "id": "ba0615aeca847d76",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/culture-et-savoir/cinema/les-garcons-de-mauro-bolognini-un-parfum-de-dolce-vita-entre-hommes-a-rome",
+   "date": "2026-10-25T10:30:42+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/Capture-decran-2026-10-24-a-10.44.58-edited.png?w=960",
+   "title": {
+    "orig": "« Les Garçons » de Mauro Bolognini : un parfum de dolce vita entre hommes à Rome",
+    "it": "“Les Garçons” di Mauro Bolognini: un profumo di dolce vita tra uomini a Roma",
+    "en": "“Les Garçons” by Mauro Bolognini: a scent of dolce vita between men in Rome"
+   },
+   "summary": {
+    "orig": "Les sixties gays vues par Mauro Bolognini sur une trame pasolinienne en diable, avec des voyous et des prostituées en goguette dans Rome. Si ces jeunes gens sont un peu trop beaux pour être vrais, ils transpirent une modernité et un chic qui inspirera Fellini quand il tournera «…",
+    "it": "Gli anni Sessanta gay visti da Mauro Bolognini su un diabolico complotto pasoliniano, con teppisti e prostitute che vagavano per Roma. Se questi giovani sono un po’ troppo belli per essere veri, emanano una modernità e un’eleganza che ispireranno Fellini quando girerà “…",
+    "en": "The gay sixties seen by Mauro Bolognini on a devilish Pasolinian plot, with thugs and prostitutes roaming Rome. If these young people are a little too beautiful to be true, they exude a modernity and a chic which will inspire Fellini when he shoots “…"
+   }
+  },
+  {
+   "id": "4cf3db6c3de0281c",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/imamoglundan-fon-vurgununa-dair-aciklama-ibb-operasyonlariyla-somut-iliskisi-var-415374",
+   "date": "2026-10-25T10:22:44+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/25/imamoglu-2.jpg.webp?itok=pU1CsVTe",
+   "title": {
+    "orig": "İmamoğlu'ndan fon vurgununa dair açıklama: 'İBB operasyonlarıyla somut ilişkisi var'",
+    "it": "Dichiarazione di İmamoğlu sulla frode dei fondi: \"Ha un rapporto concreto con le operazioni IMM\"",
+    "en": "Statement from İmamoğlu regarding fund fraud: 'It has a concrete relationship with IMM operations'"
+   },
+   "summary": {
+    "orig": "Haber Merkezi Tutuklu İBB Başkanı İmamoğlu, belediyeye yönelik operayonlar ile milyarlarca dolarlık fon vurgunu arasındaki zamanlamaya dikkat çekerek, \"Fon vurgunu süreci özel bir tasarımdır\" dedi. İstanbul Büyükşehir Belediye (İBB) Başkanı Ekrem İmamoğlu, 19 ay aradan sonra…",
+    "it": "Centro notizie arrestato Il sindaco della municipalità metropolitana di Istanbul İmamoğlu, attirando l'attenzione sui tempi tra le operazioni contro il comune e i miliardi di dollari di profitto dei fondi, ha dichiarato: \"Il processo di profitto dei fondi è un progetto speciale\". Il sindaco della municipalità metropolitana di Istanbul (IMM) Ekrem İmamoğlu, dopo 19 mesi...",
+    "en": "News Center Arrested Istanbul Metropolitan Municipality Mayor İmamoğlu, drawing attention to the timing between the operations against the municipality and the billions of dollars of fund profiteering, said, \"The fund profiteering process is a special design.\" Istanbul Metropolitan Municipality (IMM) Mayor Ekrem İmamoğlu, after 19 months..."
+   }
+  },
+  {
+   "id": "bdb93ab18f5bc8a1",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/social-et-economie/armement/donnees-armement-travailleurs-du-clic-la-face-cachee-des-ia",
+   "date": "2026-10-25T10:01:00+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/maxresdefault_999f1d.jpg?w=1200",
+   "title": {
+    "orig": "Données, armement, travailleurs du clic : la face cachée des IA",
+    "it": "Dati, armi, click lavoratori: il volto nascosto dell'IA",
+    "en": "Data, weapons, click workers: the hidden face of AI"
+   },
+   "summary": {
+    "orig": "Est-ce que les intelligences artificielles génératives aspirent nos données personnelles, et dans quel but ? Pour en discuter, nous recevons Thomas Le Boniec, doctorant en sociologie, lanceur d'alerte et auteur d'une étude sur la manière dont les plateformes d'IA exploitent la…",
+    "it": "Le intelligenze artificiali generative stanno risucchiando i nostri dati personali e a quale scopo? Per discuterne diamo il benvenuto a Thomas Le Boniec, dottorando in sociologia, informatore e autore di uno studio sul modo in cui le piattaforme AI sfruttano...",
+    "en": "Are generative artificial intelligences sucking up our personal data, and for what purpose? To discuss it, we welcome Thomas Le Boniec, doctoral student in sociology, whistleblower and author of a study on the way in which AI platforms exploit…"
+   }
+  },
+  {
+   "id": "d09e7bc402e4c773",
+   "source": "zeitungderarbeit",
+   "name": "Zeitung der Arbeit",
+   "country": "AT",
+   "lang": "de",
+   "url": "https://zeitungderarbeit.at/international/israels-neu-militaeroperation/",
+   "date": "2026-10-25T10:00:00+00:00",
+   "image": null,
+   "title": {
+    "orig": "Israels neue Militäroperation",
+    "it": "La nuova operazione militare di Israele",
+    "en": "Israel's new military operation"
+   },
+   "summary": {
+    "orig": "Vor zwei Tagen hat Israel eine neue Militäroperation auf der Westbank angekündigt. Das israelische Militär hab begonnen das besetzte Westjordanland komplett abzuriegeln, überfällt Wohnungen in Hebron und zahlreichen anderen Städten, vertreibt hunderte Familien und führt…",
+    "it": "Due giorni fa Israele ha annunciato una nuova operazione militare in Cisgiordania. L’esercito israeliano ha iniziato a sigillare completamente la Cisgiordania occupata, facendo irruzione in appartamenti a Hebron e in numerose altre città, sfrattando centinaia di famiglie e...",
+    "en": "Two days ago Israel announced a new military operation on the West Bank. The Israeli military has begun to completely seal off the occupied West Bank, raiding apartments in Hebron and numerous other cities, evicting hundreds of families and..."
+   }
+  },
+  {
+   "id": "55e9e257cb9dc046",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/fon-sorusturmasi-mustafa-sandalin-kayinvalidesinin-3-milyon-dolarina-el-konuldu-415373",
+   "date": "2026-10-25T09:55:14+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/25/mustafasandalinkayinvalidesi.jpg.webp?itok=Oc0f2UTK",
+   "title": {
+    "orig": "Fon soruşturması: Mustafa Sandal'ın kayınvalidesinin 3 milyon dolarına el konuldu",
+    "it": "Indagine sul fondo: sequestrati 3 milioni di dollari della suocera di Mustafa Sandal",
+    "en": "Fund investigation: 3 million dollars of Mustafa Sandal's mother-in-law were seized"
+   },
+   "summary": {
+    "orig": "Haber Merkezi Mustafa Sandal’ın kayınvalidesi Reyhan Sütşurup’un banka hesabında bulunan 3 milyon dolara, fon soruşturması kapsamında el konuldu. Soruşturmada daha önce Melis Sütşurup Sandal ve babası Cihan Sütşurup’un mal varlıklarına el konulmuş, iki isim hakkında yakalama…",
+    "it": "News Center: 3 milioni di dollari sul conto bancario di Reyhan Sütşurup, suocera di Mustafa Sandal, sono stati sequestrati nell'ambito dell'indagine sul fondo. Durante le indagini, i beni di Melis Sütşurup Sandal e di suo padre Cihan Sütşurup erano stati precedentemente sequestrati e i due nomi erano stati arrestati.",
+    "en": "News Center: 3 million dollars in the bank account of Reyhan Sütşurup, Mustafa Sandal's mother-in-law, was seized within the scope of the fund investigation. During the investigation, the assets of Melis Sütşurup Sandal and her father Cihan Sütşurup were previously seized, and the two names were arrested."
+   }
+  },
+  {
+   "id": "e71fb6b2799feb28",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/vietnamese-leaders-extend-congratulations-to-kazakhstan-on-republic-day-post168213.html",
+   "date": "2026-10-25T09:38:28+00:00",
+   "image": null,
+   "title": {
+    "orig": "Vietnamese leaders extend congratulations to Kazakhstan on Republic Day",
+    "it": "I leader vietnamiti si congratulano con il Kazakistan per la Festa della Repubblica",
+    "en": "Vietnamese leaders extend congratulations to Kazakhstan on Republic Day"
+   },
+   "summary": {
+    "orig": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam sent a congratulatory message to Kazakh President Kassym-Jomart Tokayev on October 25 on the occasion of Kazakhstan’s Republic Day. Viet Nam, Kazakhstan boost experience sharing in…",
+    "it": "Il segretario generale del Comitato Centrale del Partito Comunista del Vietnam e presidente To Lam ha inviato un messaggio di congratulazioni al presidente kazako Kassym-Jomart Tokayev il 25 ottobre in occasione della Festa della Repubblica del Kazakistan. Vietnam e Kazakistan promuovono la condivisione di esperienze in...",
+    "en": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam sent a congratulatory message to Kazakh President Kassym-Jomart Tokayev on October 25 on the occasion of Kazakhstan’s Republic Day. Viet Nam, Kazakhstan boost experience sharing in…"
+   }
+  },
+  {
+   "id": "5c54262ea9fbdae7",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/lula-volta-a-vencer-na-china-e-amplia-vantagem-sobre-flavio-bolsonaro-no-segundo-turno/",
+   "date": "2026-10-25T09:32:05+00:00",
+   "image": null,
+   "title": {
+    "orig": "Lula volta a vencer na China e amplia vantagem sobre Flávio Bolsonaro no segundo turno",
+    "it": "Lula vince ancora in Cina e aumenta il vantaggio su Flávio Bolsonaro agli ottavi",
+    "en": "Lula wins again in China and increases advantage over Flávio Bolsonaro in the second round"
+   },
+   "summary": {
+    "orig": "Luiz Inácio Lula da Silva (PT) voltou a vencer entre os brasileiros registrados na China Continental no segundo turno da eleição presidencial, neste domingo (25), com 73,7% dos votos válidos, de acordo com os boletins de urna publicados no final da votação, às 17h, 06h00 do…",
+    "it": "Luiz Inácio Lula da Silva (PT) ha vinto nuovamente tra i brasiliani registrati nella Cina continentale al secondo turno delle elezioni presidenziali, questa domenica (25), con il 73,7% dei voti validi, secondo le schede pubblicate al termine delle votazioni, alle 17:00, 6:00 di...",
+    "en": "Luiz Inácio Lula da Silva (PT) won again among Brazilians registered in Mainland China in the second round of the presidential election, this Sunday (25), with 73.7% of valid votes, according to the ballot papers published at the end of voting, at 5pm, 6am on…"
+   }
+  },
+  {
+   "id": "03c8cf0bfcdd3b20",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/trade-surplus-returns-post168212.html",
+   "date": "2026-10-25T09:22:57+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/g3B6iUbAxFCLaQj-XKvwKtUc8gzl1aY6YCGjXCUn9qPeLr6o8WmAScqI0IH491x4/1-1a.jpg.avif",
+   "title": {
+    "orig": "Trade surplus returns",
+    "it": "Rendimenti del surplus commerciale",
+    "en": "Trade surplus returns"
+   },
+   "summary": {
+    "orig": "After several months of trade deficits, Viet Nam's trade balance returned to surplus in September. But will stronger export growth be enough to establish a new trend, or is this merely a temporary respite before a larger wave of trade deficits? Viet Nam records nearly 17 billion…",
+    "it": "Dopo diversi mesi di deficit commerciale, la bilancia commerciale del Vietnam è tornata in surplus a settembre. Ma una crescita più forte delle esportazioni sarà sufficiente per stabilire una nuova tendenza, o si tratta semplicemente di una tregua temporanea prima di un’ondata più ampia di deficit commerciali? Il Vietnam registra quasi 17 miliardi…",
+    "en": "After several months of trade deficits, Viet Nam's trade balance returned to surplus in September. But will stronger export growth be enough to establish a new trend, or is this merely a temporary respite before a larger wave of trade deficits? Viet Nam records nearly 17 billion…"
+   }
+  },
+  {
+   "id": "4855102303c83c2f",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/viet-nam-seeks-stronger-foothold-in-global-halal-food-market-post168200.html",
+   "date": "2026-10-25T09:11:49+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/-dirU_ca9oiedkCeBhcBOjMPftSF7FKB20MPu9dLeUMcU_O9i7s1Fe0rTvDLbMpWw812LJA8yDl_UqPz3qt0vg/che-bien-hat-dieu-daklak.jpg.avif",
+   "title": {
+    "orig": "Viet Nam seeks stronger foothold in global Halal food market",
+    "it": "Il Vietnam cerca una posizione più forte nel mercato globale degli alimenti halal",
+    "en": "Viet Nam seeks stronger foothold in global Halal food market"
+   },
+   "summary": {
+    "orig": "Worth trillions of dollars backed by and growing demand, the Halal food market offers significant opportunities for Viet Nam to boost its agricultural exports. To capitalise on the sector, businesses must overcome challenges relating to certification, raw material sourcing, and…",
+    "it": "Con un valore di trilioni di dollari, sostenuto da una domanda crescente, il mercato alimentare halal offre significative opportunità al Vietnam per incrementare le sue esportazioni agricole. Per trarre vantaggio dal settore, le aziende devono superare le sfide relative alla certificazione, all’approvvigionamento delle materie prime e…",
+    "en": "Worth trillions of dollars backed by and growing demand, the Halal food market offers significant opportunities for Viet Nam to boost its agricultural exports. To capitalise on the sector, businesses must overcome challenges relating to certification, raw material sourcing, and…"
+   }
+  },
+  {
+   "id": "2821c17f75934c6c",
+   "source": "contropiano",
+   "name": "Contropiano",
+   "country": "IT",
+   "lang": "it",
+   "url": "https://contropiano.org/news/politica-news/2026/10/25/una-italia-insoumise-fa-saltare-la-prova-di-forza-del-governo-0200062",
+   "date": "2026-10-25T09:05:33+00:00",
+   "image": null,
+   "title": {
+    "orig": "Una Italia “insoumise” fa saltare la prova di forza del governo",
+    "it": "Una Italia “insoumise” fa saltare la prova di forza del governo",
+    "en": "An \"insoumise\" Italy blows up the government's show of strength"
+   },
+   "summary": {
+    "orig": "Le migliaia di persone, soprattutto giovani e giovanissimi, che ieri hanno riempito le strade di Torino, Milano, Roma, Bologna, Firenze, Genova, Napoli sono la rivelazione visibile che la strada della militarizzazione e dell’autoritarismo intrapresa dal governo non sarà un pasto…",
+    "it": "Le migliaia di persone, soprattutto giovani e giovanissimi, che ieri hanno riempito le strade di Torino, Milano, Roma, Bologna, Firenze, Genova, Napoli sono la rivelazione visibile che la strada della militarizzazione e dell’autoritarismo intrapresa dal governo non sarà un pasto…",
+    "en": "The thousands of people, especially young and very young people, who yesterday filled the streets of Turin, Milan, Rome, Bologna, Florence, Genoa, Naples are the visible revelation that the path of militarization and authoritarianism undertaken by the government will not be a meal..."
+   }
+  },
+  {
+   "id": "b0cb93b03506da07",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/large-businesses-need-long-term-capital-post168210.html",
+   "date": "2026-10-25T08:59:29+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/N9W5ohHofJ8bPrJRah_RD-Qsd-1DZMI4wuajBo_Y-RGQOonI_U6KirDwSTqbTbH0/25.jpg.avif",
+   "title": {
+    "orig": "Large businesses need long-term capital",
+    "it": "Le grandi imprese hanno bisogno di capitali a lungo termine",
+    "en": "Large businesses need long-term capital"
+   },
+   "summary": {
+    "orig": "Investing in technology, expanding production, and participating more deeply in value chains require businesses to have stable sources of capital over many years. However, with bank credit still playing the dominant role and long-term funding channels yet to develop…",
+    "it": "Investire in tecnologia, espandere la produzione e partecipare più profondamente alle catene del valore richiede che le aziende dispongano di fonti di capitale stabili per molti anni. Tuttavia, con il credito bancario che continua a svolgere il ruolo dominante e i canali di finanziamento a lungo termine ancora da sviluppare…",
+    "en": "Investing in technology, expanding production, and participating more deeply in value chains require businesses to have stable sources of capital over many years. However, with bank credit still playing the dominant role and long-term funding channels yet to develop…"
+   }
+  },
+  {
+   "id": "c6b0b32f27b9c1f6",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/trumpin-gocmen-dusmanligi-sinir-tanimiyor-somalilileri-hirsizlik-ve-dusuk-iq-ile-hedef-aldi",
+   "date": "2026-10-25T08:58:48+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/25/trump-4.jpg.webp?itok=lH7d36sI",
+   "title": {
+    "orig": "Trump'ın göçmen düşmanlığı sınır tanımıyor: Somalilileri 'hırsızlık' ve 'düşük IQ' ile hedef aldı",
+    "it": "L’ostilità di Trump nei confronti degli immigrati non conosce limiti: ha preso di mira i somali con “furto” e “basso QI”",
+    "en": "Trump's hostility towards immigrants knows no bounds: He targeted Somalis with 'theft' and 'low IQ'"
+   },
+   "summary": {
+    "orig": "Dış Haberler ABD Başkanı Donald Trump, Georgia'da düzenlediği mitingde göçmenleri hedef alan ırkçı açıklamalarına bir yenisini ekledi. Demokratları Libya, Yemen, Haiti ve Somali'den göçü açmaya çalışmakla suçlayan Trump, Somalili göçmenleri \"düşük IQ'lu\" ve \"hırsız\" olmakla…",
+    "it": "Foreign News Il presidente degli Stati Uniti Donald Trump ne ha aggiunto uno nuovo alle sue dichiarazioni razziste contro gli immigrati durante la manifestazione tenuta in Georgia. Accusando i democratici di cercare di aprire l’immigrazione da Libia, Yemen, Haiti e Somalia, Trump ha descritto gli immigrati somali come “con un basso QI” e “ladri”.",
+    "en": "Foreign News US President Donald Trump added a new one to his racist statements targeting immigrants at the rally he held in Georgia. Accusing Democrats of trying to open up immigration from Libya, Yemen, Haiti and Somalia, Trump described Somali immigrants as \"low IQ\" and \"thieves\"."
+   }
+  },
+  {
+   "id": "db39964c4a1b6982",
+   "source": "contropiano",
+   "name": "Contropiano",
+   "country": "IT",
+   "lang": "it",
+   "url": "https://contropiano.org/news/aggiornamenti-in-breve/2026/10/25/per-leopoli-il-2027-e-lanno-dellupa-nuove-tensioni-tra-kiev-e-varsavia-0200059",
+   "date": "2026-10-25T08:53:02+00:00",
+   "image": null,
+   "title": {
+    "orig": "Per Leopoli il 2027 è “l’anno dell’UPA”. Nuove tensioni tra Kiev e Varsavia",
+    "it": "Per Leopoli il 2027 è “l’anno dell’UPA”. Nuove tensioni tra Kiev e Varsavia",
+    "en": "For Lviv, 2027 is \"the year of the UPA\". New tensions between Kiev and Warsaw"
+   },
+   "summary": {
+    "orig": "Una delibera approvata lo scorso 20 ottobre dal Consiglio regionale di Leopoli ha riscavato il solco diplomatico tra Varsavia e Kiev, che era già apparso chiaramente lo scorso giugno. Con un voto a maggioranza, l’assemblea legislativa dell’Oblast’ locale ha ufficialmente…",
+    "it": "Una delibera approvata lo scorso 20 ottobre dal Consiglio regionale di Leopoli ha riscavato il solco diplomatico tra Varsavia e Kiev, che era già apparso chiaramente lo scorso giugno. Con un voto a maggioranza, l’assemblea legislativa dell’Oblast’ locale ha ufficialmente…",
+    "en": "A resolution approved last October 20 by the Lviv Regional Council has re-established the diplomatic gap between Warsaw and Kiev, which had already clearly appeared last June. With a majority vote, the local Oblast legislative assembly officially…"
+   }
+  },
+  {
+   "id": "ff486687251b51a6",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/world-news-in-brief-october-25-post168209.html",
+   "date": "2026-10-25T08:47:31+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/p2ez0OJodWakt2tDvENzIcwtlPZ9Hb8ga279WfdB90zq6y_mt-aAofGprtyv_MBr/france.png.avif",
+   "title": {
+    "orig": "World News in Brief: October 25",
+    "it": "Notizie dal mondo in breve: 25 ottobre",
+    "en": "World News in Brief: October 25"
+   },
+   "summary": {
+    "orig": "Bulgarians went to the polls on Sunday to elect their next president. As many as 6.59 million voters are eligible to choose from 27 candidates, including incumbent President Iliana Iotova, according to the country's Central Election Commission. World News in Brief: October 24…",
+    "it": "Domenica i bulgari sono andati alle urne per eleggere il loro prossimo presidente. Secondo la Commissione elettorale centrale del paese, ben 6,59 milioni di elettori hanno diritto di scegliere tra 27 candidati, tra cui la presidente in carica Iliana Iotova. Notizie dal mondo in breve: 24 ottobre...",
+    "en": "Bulgarians went to the polls on Sunday to elect their next president. As many as 6.59 million voters are eligible to choose from 27 candidates, including incumbent President Iliana Iotova, according to the country's Central Election Commission. World News in Brief: October 24…"
+   }
+  },
+  {
+   "id": "e87b73ef003982a2",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/beyaz-tvde-jandarma-aramasi-iddiasi-osman-gokcek-reddetti-415371",
+   "date": "2026-10-25T08:45:10+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/25/beyaztvog.jpg.webp?itok=2FckX7Oc",
+   "title": {
+    "orig": "'Beyaz TV’de jandarma araması' iddiası: Osman Gökçek reddetti",
+    "it": "Accusa di \"perquisizione della gendarmeria su Beyaz TV\": Osman Gökçek ha negato",
+    "en": "Allegation of 'gendarmerie search on Beyaz TV': Osman Gökçek denied"
+   },
+   "summary": {
+    "orig": "Haber Merkezi Odatv, Beyaz TV’nin Ankara merkezinde geçen hafta jandarma ekiplerince arama ve inceleme yapıldığını öne sürdü. Haberde kanalın geçmiş dönem mali kayıtlarının da gündeme geldiği belirtilirken AKP’li Osman Gökçek, arama iddiasını reddetti. Odatv ’nin haberine göre…",
+    "it": "Il centro notizie Odatv ha affermato che la settimana scorsa squadre della gendarmeria hanno effettuato una perquisizione e un'ispezione presso la sede di Ankara di Beyaz TV. Anche se nei notiziari è stato affermato che anche i precedenti finanziari del canale sono stati messi all'ordine del giorno, il membro dell'AKP Osman Gökçek ha respinto la richiesta di perquisizione. Secondo le notizie di Odatv...",
+    "en": "News Center Odatv claimed that gendarmerie teams carried out a search and inspection at Beyaz TV's Ankara headquarters last week. While it was stated in the news that the channel's past financial records were also brought to the agenda, AKP member Osman Gökçek rejected the search claim. According to Odatv's news…"
+   }
+  },
+  {
+   "id": "ebe8933f45273a7a",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/mastering-technology-and-strategic-steel-products-post168208.html",
+   "date": "2026-10-25T08:42:48+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/N9W5ohHofJ8bPrJRah_RD2WDhoRVSAfNo9SdKqdVhOGbKe-HLmu3vi-tZJEZfgYC6QJcLXlE11FI3o7hZkvp5A/thep-hoa-phat.jpg.avif",
+   "title": {
+    "orig": "Mastering technology and strategic steel products",
+    "it": "Padroneggiare la tecnologia e i prodotti siderurgici strategici",
+    "en": "Mastering technology and strategic steel products"
+   },
+   "summary": {
+    "orig": "To enhance the economy’s self-reliance, Viet Nam needs businesses capable of mastering foundational industries, not only in terms of scale but also technological capabilities and the ability to supply products with demanding technical requirements. For Hoa Phat Group, focusing…",
+    "it": "Per aumentare l’autosufficienza dell’economia, il Vietnam ha bisogno di imprese in grado di padroneggiare le industrie fondamentali, non solo in termini di scala ma anche di capacità tecnologiche e di capacità di fornire prodotti con requisiti tecnici impegnativi. Per Hoa Phat Group, concentrandosi...",
+    "en": "To enhance the economy’s self-reliance, Viet Nam needs businesses capable of mastering foundational industries, not only in terms of scale but also technological capabilities and the ability to supply products with demanding technical requirements. For Hoa Phat Group, focusing…"
+   }
+  },
+  {
+   "id": "d5c703a486c595fb",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/culture-et-savoir/bande-dessinee/les-oliviers-du-negus-et-pour-seul-cortege-deux-romans-graphiques-semparent-avec-brio-de-loeuvre-de-lecrivain-laurent",
+   "date": "2026-10-25T08:33:00+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/Pour-lHuma-8.jpg?w=1200",
+   "title": {
+    "orig": "« Les Oliviers du Négus » et « Pour seul cortège » : deux romans graphiques s’emparent avec brio de l’œuvre de l’écrivain Laurent Gaudé",
+    "it": "“Les Oliviers du Négus” e “For single procession”: due graphic novel affrontano brillantemente l’opera dello scrittore Laurent Gaudé",
+    "en": "“Les Oliviers du Négus” and “For single procession”: two graphic novels brilliantly take on the work of the writer Laurent Gaudé"
+   },
+   "summary": {
+    "orig": "Les dessinateurs David Prudhomme et Alfred adaptent respectivement une nouvelle et un roman de l’auteur. Deux univers très différents qui restituent, chacun à leur manière, l’amplitude de l’œuvre littéraire.",
+    "it": "I disegnatori David Prudhomme e Alfred adattano rispettivamente un racconto e un romanzo dell'autore. Due universi molto diversi che restituiscono, ciascuno a modo suo, l'ampiezza dell'opera letteraria.",
+    "en": "The designers David Prudhomme and Alfred respectively adapt a short story and a novel by the author. Two very different universes which restore, each in their own way, the amplitude of the literary work."
+   }
+  },
+  {
+   "id": "2fb07d2af4ea8333",
+   "source": "contropiano",
+   "name": "Contropiano",
+   "country": "IT",
+   "lang": "it",
+   "url": "https://contropiano.org/regionali/abruzzo/2026/10/25/i-consumatori-di-a-ba-co-abruzzo-aderiscono-allo-sciopero-generale-0200061",
+   "date": "2026-10-25T08:32:28+00:00",
+   "image": null,
+   "title": {
+    "orig": "I consumatori di A.Ba.Co. Abruzzo aderiscono allo sciopero generale",
+    "it": "I consumatori di A.Ba.Co. Abruzzo aderiscono allo sciopero generale",
+    "en": "The consumers of A.Ba.Co. Abruzzo join the general strike"
+   },
+   "summary": {
+    "orig": "Caro-vita, economia di guerra, sanità a pezzi e tagli al sociale: A.Ba.Co. Abruzzo dichiara la propria totale adesione allo sciopero generale proclamato da USB per venerdì 30 ottobre e scende in piazza a Pescara. La crisi economica che stiamo attraversando non è più sostenibile.…",
+    "it": "Caro-vita, economia di guerra, sanità a pezzi e tagli al sociale: A.Ba.Co. Abruzzo dichiara la propria totale adesione allo sciopero generale proclamato da USB per venerdì 30 ottobre e scende in piazza a Pescara. La crisi economica che stiamo attraversando non è più sostenibile.…",
+    "en": "Cost of living, war economy, broken healthcare and social cuts: A.Ba.Co. Abruzzo declares its total support for the general strike proclaimed by USB for Friday 30 October and takes to the streets in Pescara. The economic crisis we are experiencing is no longer sustainable.…"
+   }
+  },
+  {
+   "id": "c77211dc49c36131",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/real-estate-market-gradually-stabilises-and-adapts-to-new-conditions-post168206.html",
+   "date": "2026-10-25T08:23:22+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/g3B6iUbAxFCLaQj-XKvwKmkL0_9bzgfffUpMCW121aybpcTts3ZCBf_LMLlBfYdr/bdshn.jpg.avif",
+   "title": {
+    "orig": "Real estate market gradually stabilises and adapts to new conditions",
+    "it": "Il mercato immobiliare si stabilizza gradualmente e si adatta alle nuove condizioni",
+    "en": "Real estate market gradually stabilises and adapts to new conditions"
+   },
+   "summary": {
+    "orig": "Experts and businesses believe that Viet Nam's double-digit economic growth target will provide a positive foundation for the real estate market in the coming years. In particular, rapid infrastructure development and public investment are opening up new opportunities for…",
+    "it": "Esperti e aziende ritengono che l'obiettivo di crescita economica a due cifre del Vietnam fornirà una base positiva per il mercato immobiliare nei prossimi anni. In particolare, il rapido sviluppo delle infrastrutture e gli investimenti pubblici stanno aprendo nuove opportunità per...",
+    "en": "Experts and businesses believe that Viet Nam's double-digit economic growth target will provide a positive foundation for the real estate market in the coming years. In particular, rapid infrastructure development and public investment are opening up new opportunities for…"
+   }
+  },
+  {
+   "id": "1685c092b6c0847a",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/fransada-hayat-pahaliligina-karsi-eyleme-asiri-sagci-saldiri-uc-yarali-415370",
+   "date": "2026-10-25T08:16:33+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/25/nice.jpg.webp?itok=cM8WuaPW",
+   "title": {
+    "orig": "Fransa'da hayat pahalılığına karşı eyleme aşırı sağcı saldırı: Üç yaralı",
+    "it": "Attacco di estrema destra alla protesta contro l'alto costo della vita in Francia: tre feriti",
+    "en": "Far-right attack on protest against high cost of living in France: Three injured"
+   },
+   "summary": {
+    "orig": "Dış Haberler Fransa’da hayat pahalılığına karşı düzenlenen eylemlerde binlerce kişi sokağa çıktı. Nice kentinde gösteri yasağına rağmen bir araya gelenler, polis müdahalesi ve aşırı sağcı bir grubun saldırısıyla karşılaştı. Yaklaşık 50 kişilik aşırı sağcı grubun saldırısında üç…",
+    "it": "Notizie estere Migliaia di persone sono scese in piazza per protestare contro l'alto costo della vita in Francia. Coloro che si sono riuniti nella città di Nizza, nonostante il divieto di manifestazioni, hanno dovuto affrontare l'intervento della polizia e un attacco da parte di un gruppo di estrema destra. Tre persone sono state aggredite da un gruppo di estrema destra composto da circa 50 persone...",
+    "en": "Foreign News Thousands of people took to the streets in protests against the high cost of living in France. Those who came together in the city of Nice, despite the ban on demonstrations, faced police intervention and an attack by a far-right group. Three people were attacked by a far-right group of approximately 50 people…"
+   }
+  },
+  {
+   "id": "6e4e6b8e0d35ff41",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/in-pictures-young-artists-light-up-tan-da-show-with-music-for-women-post168205.html",
+   "date": "2026-10-25T08:09:32+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/-dirU_ca9oiedkCeBhcBOrc5_oAwUFVXfgkzaNset8dTBS1u-x7rixS2TY3j-ePR/bieudien.jpg.avif",
+   "title": {
+    "orig": "In pictures: Young artists light up Tan Da Show with music for women",
+    "it": "Nelle foto: giovani artisti illuminano il Tan Da Show con musica per donne",
+    "en": "In pictures: Young artists light up Tan Da Show with music for women"
+   },
+   "summary": {
+    "orig": "The third edition of Tan Da Show on October 24 offered a vibrant musical experience, with singer Vinh Khuat and two young bands, Nghich and Sloth, performing songs that honour women. First two editions of Tan Da Show: encouraging signs Nhan Dan Newspaper launches community art…",
+    "it": "La terza edizione del Tan Da Show il 24 ottobre ha offerto una vibrante esperienza musicale, con la cantante Vinh Khuat e due giovani band, Nghich e Sloth, che hanno eseguito canzoni in onore delle donne. Prime due edizioni del Tan Da Show: segnali incoraggianti Il giornale Nhan Dan lancia l'arte comunitaria...",
+    "en": "The third edition of Tan Da Show on October 24 offered a vibrant musical experience, with singer Vinh Khuat and two young bands, Nghich and Sloth, performing songs that honour women. First two editions of Tan Da Show: encouraging signs Nhan Dan Newspaper launches community art…"
+   }
+  },
+  {
+   "id": "8a7bd6fa0915fd5c",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/environnement/decolonisation/cest-un-vol-de-terres-ancestrales-en-papouasie-occidentale-plus-de-soixante-ans-doccupation-sanglante-du-grenier-a-riz-par-l",
+   "date": "2026-10-25T08:01:00+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/occupation-papouasie.jpg?w=1200",
+   "title": {
+    "orig": "« C’est un vol de terres ancestrales » : en Papouasie occidentale, plus de soixante ans d’occupation sanglante du « grenier à riz » par l’Indonésie",
+    "it": "“È un furto di terre ancestrali”: nella Papua occidentale, oltre sessant’anni di sanguinosa occupazione del “granaio di riso” da parte dell’Indonesia",
+    "en": "“It’s a theft of ancestral lands”: in West Papua, more than sixty years of bloody occupation of the “rice granary” by Indonesia"
+   },
+   "summary": {
+    "orig": "Installé militairement en Papouasie occidentale depuis le début des années 1960, Jakarta est accusé d’avoir massacré jusqu’à 500 000 Papous jusqu’à aujourd’hui. Les projets agricoles menés, tels que celui de Merauke, servent cette politique meurtrière, alors qu’ils sont voués à…",
+    "it": "Militarmente stabilita nella Papua occidentale dall'inizio degli anni '60, Giakarta è accusata di aver massacrato fino ad oggi fino a 500.000 papuasi. I progetti agricoli realizzati, come quello di Merauke, sono al servizio di questa politica omicida, anche se sono destinati a...",
+    "en": "Militaryly established in West Papua since the early 1960s, Jakarta is accused of having massacred up to 500,000 Papuans to date. The agricultural projects carried out, such as that of Merauke, serve this murderous policy, even though they are destined to…"
+   }
+  },
+  {
+   "id": "3c0caa6f052d2fbb",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/cop31-climate-conference-a-test-of-responsibility-post168204.html",
+   "date": "2026-10-25T08:00:36+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/-dirU_ca9oiedkCeBhcBOoSh7U8iVlrPoX8SDnrGcROayYIpQKgNDz-MQSCS0idB/chu-tich-cop31.png.avif",
+   "title": {
+    "orig": "COP31 climate conference: A test of responsibility",
+    "it": "Conferenza sul clima COP31: una prova di responsabilità",
+    "en": "COP31 climate conference: A test of responsibility"
+   },
+   "summary": {
+    "orig": "With just two weeks to go before the 31st Conference of the Parties to the United Nations Framework Convention on Climate Change (COP31) opens in Turkey, many questions remain unanswered about financing mechanisms and electrification. What COP31 needs is not new commitments but…",
+    "it": "A sole due settimane dall’apertura in Turchia della 31a Conferenza delle Parti della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici (COP31), molte domande rimangono senza risposta sui meccanismi di finanziamento e sull’elettrificazione. Ciò di cui la COP31 ha bisogno non sono nuovi impegni ma...",
+    "en": "With just two weeks to go before the 31st Conference of the Parties to the United Nations Framework Convention on Climate Change (COP31) opens in Turkey, many questions remain unanswered about financing mechanisms and electrification. What COP31 needs is not new commitments but…"
+   }
+  },
+  {
+   "id": "682301a4dc1d9e7c",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/insanlarin-turkuleri-degirmenlere-yakilmis-turkuler-415368",
+   "date": "2026-10-25T07:54:36+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/25/degirmen.jpeg.webp?itok=hobAhZM6",
+   "title": {
+    "orig": "İnsanların Türküleri | Değirmenlere yakılmış türküler",
+    "it": "Canti popolari del popolo | Canzoni popolari bruciate nei mulini",
+    "en": "Folk Songs of the People | Folk songs burned in mills"
+   },
+   "summary": {
+    "orig": "Haber Merkezi Değirmen taşları yalnızca buğday ve arpayı değil, aşkı, sürgünü, cinayeti ve zamanı da öğüttü. İnsanların Türküleri'nin bu haftaki buluşmasında Yusuf Şaylan ile değirmen başında söylenen türkülerin ve taş sesinden çıkan ezgilerin izini sürdük. İnsanlık tarihinde…",
+    "it": "News Center Le macine macinavano non solo grano e orzo, ma anche amore, esilio, omicidio e tempo. Nell'incontro di Canti popolari popolari di questa settimana, abbiamo seguito le tracce dei canti popolari cantati al mulino e le melodie create dal suono delle pietre con Yusuf Şaylan. Nella storia umana…",
+    "en": "News Center Millstones milled not only wheat and barley, but also love, exile, murder and time. In this week's meeting of People's Folk Songs, we followed the traces of the folk songs sung at the mill and the melodies made by the sound of stones with Yusuf Şaylan. In human history…"
+   }
+  },
+  {
+   "id": "d0ec1b499d067051",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/kuba-gercegi/abluka-gunlukleri-235-24-ekim-2026-cumartesi-415369",
+   "date": "2026-10-25T07:52:21+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/25/kuba-2.jpg.webp?itok=-1ee-3hd",
+   "title": {
+    "orig": "Abluka Günlükleri 235 | 24 Ekim 2026 Cumartesi",
+    "it": "Cronache del blocco 235 | Sabato 24 ottobre 2026",
+    "en": "Blockade Chronicles 235 | Saturday, October 24, 2026"
+   },
+   "summary": {
+    "orig": "Haber Merkezi ABD'nin Küba'ya yönelik CIA destekli \"iş birliği\" provokasyonuna Havana'dan \"Boyun eğmeyeceğiz\" yanıtı geldi. BM Genel Kurulundaki kritik abluka oylaması öncesi Küba ile uluslararası dayanışma büyürken; elektrik krizinin gölgesindeki ada ülkesi tarımsal üretimde…",
+    "it": "News Center \"Non ci piegheremo\" è stata la risposta dell'Avana alla provocazione della \"cooperazione\" lanciata dagli Stati Uniti contro Cuba, appoggiata dalla CIA. Mentre cresce la solidarietà internazionale con Cuba prima del voto critico sul blocco all’Assemblea Generale delle Nazioni Unite; Il Paese insulare all’ombra della crisi elettrica nella produzione agricola…",
+    "en": "News Center \"We will not bow\" was the response from Havana to the USA's CIA-backed \"cooperation\" provocation against Cuba. As international solidarity with Cuba grows before the critical blockade vote at the UN General Assembly; The island country in the shadow of the electricity crisis in agricultural production…"
+   }
+  },
+  {
+   "id": "8e02bc5b1703e9aa",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/resolution-no-23-nqtw-new-development-in-approaches-toward-the-overseas-vietnamese-communities-post168203.html",
+   "date": "2026-10-25T07:50:41+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/g3B6iUbAxFCLaQj-XKvwKnxaJScKaQrFL13lLPWjCHK-ljls3dCual1FcpOgAOMz/anhphuc2.jpg.avif",
+   "title": {
+    "orig": "Resolution No. 23-NQ/TW: New development in approaches toward the overseas Vietnamese communities",
+    "it": "Risoluzione n. 23-NQ/TW: Nuovo sviluppo negli approcci verso le comunità vietnamite d'oltremare",
+    "en": "Resolution No. 23-NQ/TW: New development in approaches toward the overseas Vietnamese communities"
+   },
+   "summary": {
+    "orig": "One of the key highlights of Resolution No. 23-NQ/TW on overseas Vietnamese affairs is that it not only reaffirms overseas Vietnamese as an inseparable part of the Vietnamese nation but also recognises them as an important strategic resource, actively contributing to national…",
+    "it": "Uno dei punti salienti della Risoluzione n. 23-NQ/TW sugli affari vietnamiti d'oltremare è che non solo riafferma i vietnamiti d'oltremare come parte inseparabile della nazione vietnamita, ma li riconosce anche come un'importante risorsa strategica, contribuendo attivamente alla politica nazionale...",
+    "en": "One of the key highlights of Resolution No. 23-NQ/TW on overseas Vietnamese affairs is that it not only reaffirms overseas Vietnamese as an inseparable part of the Vietnamese nation but also recognises them as an important strategic resource, actively contributing to national…"
+   }
+  },
+  {
+   "id": "5cc944d2d00da507",
+   "source": "zeitungderarbeit",
+   "name": "Zeitung der Arbeit",
+   "country": "AT",
+   "lang": "de",
+   "url": "https://zeitungderarbeit.at/klassenkampf/jugend/pillen-pulver-und-likes-wie-social-media-den-umgang-mit-gesundheit-beeinflussen/",
+   "date": "2026-10-25T07:30:00+00:00",
+   "image": null,
+   "title": {
+    "orig": "Pillen, Pulver und Likes: Wie Social-Media den Umgang mit Gesundheit beeinflussen",
+    "it": "Pillole, polveri e Mi piace: come i social media influenzano il modo in cui affrontiamo la salute",
+    "en": "Pills, powders and likes: How social media influences the way we deal with health"
+   },
+   "summary": {
+    "orig": "Nahrungsergänzungsmittel sind bei jungen Menschen beliebt. Ob Proteinpulver, Kreatin oder Vitamine – viele greifen zu Präparaten, ohne ihren tatsächlichen Bedarf zu kennen. Soziale Medien verstärken diesen Trend und machen Gesundheit zunehmend zu einer Frage von Likes, Trends…",
+    "it": "Gli integratori alimentari sono popolari tra i giovani. Che si tratti di proteine ​​in polvere, creatina o vitamine, molte persone si rivolgono ai preparati senza conoscere le loro reali esigenze. I social media rafforzano questa tendenza e rendono la salute sempre più una questione di gusti, tendenze...",
+    "en": "Dietary supplements are popular among young people. Whether protein powder, creatine or vitamins – many people turn to preparations without knowing their actual needs. Social media is reinforcing this trend and making health increasingly a question of likes, trends..."
+   }
+  },
+  {
+   "id": "b9720b02c47ba1b7",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/kilicdaroglu-bir-ay-da-olsa-erken-secime-itiraz-etmeyiz-erdoganin-aday-olacagini-dusunmuyorum",
+   "date": "2026-10-25T07:17:57+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/25/kilicdar.jpg.webp?itok=AyUhvn8z",
+   "title": {
+    "orig": "Kılıçdaroğlu: Bir ay da olsa erken seçime itiraz etmeyiz, Erdoğan’ın aday olacağını düşünmüyorum",
+    "it": "Kılıçdaroğlu: Non ci opporremo alle elezioni anticipate nemmeno per un mese, non credo che Erdoğan sarà un candidato",
+    "en": "Kılıçdaroğlu: We will not object to early elections even for a month, I do not think Erdoğan will be a candidate"
+   },
+   "summary": {
+    "orig": "Haber Merkezi Kılıçdaroğlu, Erdoğan’ın yeniden aday olmasını sağlayacak formüle, seçime bir ay kala “erken seçime” evet diyeceklerini duyurdu ve Erdoğan’ın aday olmayacağını düşündüğü söyledi. CHP Genel Başkanı Kemal Kılıçdaroğlu, Saray danışmanları tarafından formüle edilen…",
+    "it": "Il News Center Kılıçdaroğlu ha annunciato che un mese prima delle elezioni diranno sì alla formula che permetterà a Erdoğan di candidarsi nuovamente, alle \"elezioni anticipate\", e ha detto che secondo lui Erdoğan non si candiderà. Il presidente del CHP Kemal Kılıçdaroğlu, formulato dai consiglieri del Palazzo...",
+    "en": "News Center Kılıçdaroğlu announced that they would say yes to the formula that will enable Erdoğan to become a candidate again, to \"early elections\" one month before the election, and said that he thought Erdoğan would not be a candidate. CHP Chairman Kemal Kılıçdaroğlu, formulated by Palace advisors…"
+   }
+  },
+  {
+   "id": "356cd5ea61e7cf06",
+   "source": "sol",
+   "name": "soL Haber",
+   "country": "TR",
+   "lang": "tr",
+   "url": "https://haber.sol.org.tr/haber/altin-portakal-film-festivalinde-onur-ve-emek-odullerinin-sahipleri-belli-oldu-ozgur-basin",
+   "date": "2026-10-25T07:08:19+00:00",
+   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/25/samancilar.jpg.webp?itok=Gv6HkHnr",
+   "title": {
+    "orig": "Altın Portakal Film Festivali'nde onur ve emek ödüllerinin sahipleri belli oldu: 'Özgür basın olmadıkça özgür ülke olmaz'",
+    "it": "Annunciati i vincitori dei premi onore e fatica al Golden Orange Film Festival: \"Non esiste un paese libero senza stampa libera\"",
+    "en": "The winners of the honor and effort awards at the Golden Orange Film Festival were announced: 'There is no free country without a free press'"
+   },
+   "summary": {
+    "orig": "Haber Merkezi Altın Portakal Film Festivali'nde onur ve emek ödüllerinin sahipleri belli oldu. Gecede Onur Ödülü'ne layık görülen Menderes Samancılar, ödülünü başta gazeteci Murat Ağırel olmak üzere tüm basın emekçilerine atfetti. Antalya Büyükşehir Belediyesi'nin ev…",
+    "it": "Centro notizie Sono stati annunciati i vincitori dei premi onore e sforzo al Golden Orange Film Festival. Menderes Samancılar, che durante la serata è stato ritenuto degno del Premio d'Onore, ha attribuito il premio a tutti gli operatori della stampa, in particolare al giornalista Murat Ağırel. La sede della municipalità metropolitana di Antalya…",
+    "en": "News Center The winners of the honor and effort awards at the Golden Orange Film Festival have been announced. Menderes Samancılar, who was deemed worthy of the Honorary Award at the night, attributed his award to all press workers, especially journalist Murat Ağırel. The home of Antalya Metropolitan Municipality…"
+   }
+  },
+  {
+   "id": "463599dacf5e864b",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/monde/amerique-latine/presidentielle-au-bresil-si-lextreme-droite-lemporte-le-ministere-des-peuples-autochtones-sera-lun-des-premiers-a-disparaitre-denonce-le-min",
+   "date": "2026-10-25T07:00:00+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/Eloy-edited.jpg?w=1200",
+   "title": {
+    "orig": "Présidentielle au Brésil : Si l’extrême droite l’emporte, « le ministère des peuples autochtones risque d’être supprimé », dénonce le ministre Eloy Terena",
+    "it": "Elezioni presidenziali in Brasile: se vince l'estrema destra, “il ministero dei popoli indigeni rischia di essere abolito”, denuncia il ministro Eloy Terena",
+    "en": "Presidential election in Brazil: If the far right wins, “the ministry of indigenous peoples risks being abolished”, denounces Minister Eloy Terena"
+   },
+   "summary": {
+    "orig": "Le mandat de l’ex-président Jair Boslosnaro (2019-2022) avait été marqué par un mépris institutionalisé des populations autochtones, rappelle le ministre des peuples autochtones Eloy Terena. En cas de victoire à la présidentielle ce dimanche 25, son fils Flavio Bolsonaro…",
+    "it": "Il mandato dell’ex presidente Jair Boslosnaro (2019-2022) è stato caratterizzato dal disprezzo istituzionalizzato per le popolazioni indigene, ricorda il ministro dei Popoli indigeni Eloy Terena. In caso di vittoria alle elezioni presidenziali di domenica 25, suo figlio Flavio Bolsonaro...",
+    "en": "The mandate of former President Jair Boslosnaro (2019-2022) was marked by institutionalized contempt for indigenous populations, recalls Minister of Indigenous Peoples Eloy Terena. In the event of victory in the presidential election this Sunday 25, his son Flavio Bolsonaro…"
+   }
+  },
+  {
+   "id": "8ff29912d110a542",
+   "source": "contropiano",
+   "name": "Contropiano",
+   "country": "IT",
+   "lang": "it",
+   "url": "https://contropiano.org/news/politica-news/2026/10/25/in-piazza-nonostante-la-violenza-di-stato-0200056",
+   "date": "2026-10-25T06:43:15+00:00",
+   "image": null,
+   "title": {
+    "orig": "In piazza nonostante la violenza di stato",
+    "it": "In piazza nonostante la violenza di stato",
+    "en": "In the streets despite state violence"
+   },
+   "summary": {
+    "orig": "Dobbiamo ringraziare le decine e decine di migliaia di giovani che hanno manifestato in tutto il paese, sfidando le minacce, le intimidazioni e la caccia alle streghe del governo, tutte rilanciate da un sistema mediatico sempre più indecente. Non era scontato che ci fosse una…",
+    "it": "Dobbiamo ringraziare le decine e decine di migliaia di giovani che hanno manifestato in tutto il paese, sfidando le minacce, le intimidazioni e la caccia alle streghe del governo, tutte rilanciate da un sistema mediatico sempre più indecente. Non era scontato che ci fosse una…",
+    "en": "We must thank the tens and tens of thousands of young people who demonstrated across the country, defying the government's threats, intimidation and witch hunts, all relaunched by an increasingly indecent media system. It was not obvious that there would be a…"
+   }
+  },
+  {
+   "id": "7f6e8d7f499316e1",
+   "source": "humanite",
+   "name": "L'Humanité",
+   "country": "FR",
+   "lang": "fr",
+   "url": "https://www.humanite.fr/monde/bande-de-gaza/la-deshumanisation-sest-normalisee-dans-temoin-de-gaza-philippe-lazzarini-livre-son-experience-dancien-directeur-de-l",
+   "date": "2026-10-25T06:38:00+00:00",
+   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/2026_10_14_PHILIPPE_LAZARRINI_17.jpg?w=1200",
+   "title": {
+    "orig": "« La déshumanisation s’est normalisée » : dans « Témoin de Gaza », Philippe Lazzarini livre son expérience d’ancien directeur de l’Unrwa",
+    "it": "“La disumanizzazione si è normalizzata”: su “Témoin de Gaza”, Philippe Lazzarini racconta la sua esperienza di ex direttore dell’UNRWA",
+    "en": "“Dehumanization has become normalized”: in “Témoin de Gaza”, Philippe Lazzarini shares his experience as former director of UNRWA"
+   },
+   "summary": {
+    "orig": "Dans un ouvrage venant de paraître, « Témoin de Gaza » (Favre), l’ancien directeur de l’agence de l’ONU pour les réfugiés palestiniens, Philippe Lazzarini, revient sur son expérience de porte-voix des Palestiniens à Gaza. L’ex-commissaire général onusien nous livre un témoignage…",
+    "it": "In un libro recentemente pubblicato, “Témoin de Gaza” (Favre), l’ex direttore dell’agenzia delle Nazioni Unite per i rifugiati palestinesi, Philippe Lazzarini, ripercorre la sua esperienza come voce dei palestinesi a Gaza. L’ex Commissario Generale dell’ONU ci regala una testimonianza…",
+    "en": "In a recently published book, “Témoin de Gaza” (Favre), the former director of the UN agency for Palestinian refugees, Philippe Lazzarini, looks back on his experience as a voice for the Palestinians in Gaza. The former UN Commissioner General gives us a testimony…"
+   }
+  },
+  {
+   "id": "6b4b17f8a691ab25",
+   "source": "contropiano",
+   "name": "Contropiano",
+   "country": "IT",
+   "lang": "it",
+   "url": "https://contropiano.org/news/news-economia/2026/10/25/se-leuropa-finisce-nella-lista-nera-degli-stati-uniti-0200014",
+   "date": "2026-10-25T06:33:55+00:00",
+   "image": null,
+   "title": {
+    "orig": "Se l’Europa finisce nella lista nera degli Stati uniti",
+    "it": "Se l’Europa finisce nella lista nera degli Stati uniti",
+    "en": "If Europe ends up on the US blacklist"
+   },
+   "summary": {
+    "orig": "Immaginiamo che un funesto mattino l’Europa si svegli nella lista nera dell’America. Risultato: Instagram e WhatsApp muti, Google irraggiungibile, ChatGPT spento. I servizi digitali di marca americana, che governano merci, prenotazioni e logistica, inceppati. Le carte Visa e…",
+    "it": "Immaginiamo che un funesto mattino l’Europa si svegli nella lista nera dell’America. Risultato: Instagram e WhatsApp muti, Google irraggiungibile, ChatGPT spento. I servizi digitali di marca americana, che governano merci, prenotazioni e logistica, inceppati. Le carte Visa e…",
+    "en": "Let's imagine that one disastrous morning Europe wakes up on America's black list. Result: Instagram and WhatsApp silent, Google unreachable, ChatGPT turned off. America's branded digital services, which govern freight, reservations and logistics, jammed. Visa cards and…"
+   }
+  },
+  {
+   "id": "1cb9640a26054f41",
+   "source": "contropiano",
+   "name": "Contropiano",
+   "country": "IT",
+   "lang": "it",
+   "url": "https://contropiano.org/vignette/2026/10/25/i-nipoti-di-mubarak-0200054",
+   "date": "2026-10-25T06:32:42+00:00",
+   "image": null,
+   "title": {
+    "orig": "I nipoti di Mubarak",
+    "it": "I nipoti di Mubarak",
+    "en": "Mubarak's nephews"
+   },
+   "summary": {
+    "orig": ". . . . . . L'articolo I nipoti di Mubarak su Contropiano .",
+    "it": ". . . . . . L'articolo I nipoti di Mubarak su Contropiano .",
+    "en": ". . . . . . The article Mubarak's grandchildren on Contropiano."
+   }
+  },
+  {
+   "id": "40692dc9ea79128e",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/lula-ampliou-vitoria-sobre-flavio-bolsonaro-em-quase-10-pontos-na-nova-zelandia-no-segundo-turno/",
+   "date": "2026-10-25T06:30:45+00:00",
+   "image": null,
+   "title": {
+    "orig": "Lula ampliou vitória sobre Flávio Bolsonaro em quase 10 pontos na Nova Zelândia no segundo turno",
+    "it": "Lula ha esteso di quasi 10 punti la sua vittoria su Flávio Bolsonaro in Nuova Zelanda al secondo turno",
+    "en": "Lula extended his victory over Flávio Bolsonaro by almost 10 points in New Zealand in the second round"
+   },
+   "summary": {
+    "orig": "O presidente Luiz Inácio Lula da Silva (PT) ampliou a vitória no segundo turno entre os brasileiros que vivem na Nova Zelândia neste domingo (25). Lula recebeu 418 votos, 80,54% dos válidos, contra 101 votos (19,46%) do senador Flávio Bolsonaro (PL), ou seja, 317 votos a mais. A…",
+    "it": "Il presidente Luiz Inácio Lula da Silva (PT) ha esteso questa domenica la sua vittoria al secondo turno tra i brasiliani residenti in Nuova Zelanda (25). Lula ha ricevuto 418 voti, l'80,54% di quelli validi, contro i 101 voti (19,46%) del senatore Flávio Bolsonaro (PL), cioè 317 voti in più. IL…",
+    "en": "President Luiz Inácio Lula da Silva (PT) extended his victory in the second round among Brazilians living in New Zealand this Sunday (25). Lula received 418 votes, 80.54% of the valid ones, against 101 votes (19.46%) from senator Flávio Bolsonaro (PL), that is, 317 more votes. THE…"
+   }
+  },
+  {
+   "id": "5a45696c2e0048e0",
+   "source": "contropiano",
+   "name": "Contropiano",
+   "country": "IT",
+   "lang": "it",
+   "url": "https://contropiano.org/regionali/campania/2026/10/25/castel-volturno-dice-no-al-cpr-ne-qui-ne-altrove-0200048",
+   "date": "2026-10-25T06:26:50+00:00",
+   "image": null,
+   "title": {
+    "orig": "Castel Volturno dice no al CPR: «Né qui né altrove»",
+    "it": "Castel Volturno dice no al CPR: «Né qui né altrove»",
+    "en": "Castel Volturno says no to the CPR: «Neither here nor elsewhere»"
+   },
+   "summary": {
+    "orig": "Ieri Castel Volturno non è stata soltanto una città del litorale domizio. È diventata uno dei luoghi nei quali si misura concretamente lo scontro tra due idee opposte di società e di politiche migratorie. La manifestazione nazionale convocata dal Comitato regionale campano“No…",
+    "it": "Ieri Castel Volturno non è stata soltanto una città del litorale domizio. È diventata uno dei luoghi nei quali si misura concretamente lo scontro tra due idee opposte di società e di politiche migratorie. La manifestazione nazionale convocata dal Comitato regionale campano“No…",
+    "en": "Yesterday Castel Volturno was not just a city on the Domitian coast. It has become one of the places in which the clash between two opposing ideas of society and migration policies is concretely measured. The national demonstration convened by the Campania Regional Committee \"No..."
+   }
+  },
+  {
+   "id": "1ce510d9f06ce721",
+   "source": "contropiano",
+   "name": "Contropiano",
+   "country": "IT",
+   "lang": "it",
+   "url": "https://contropiano.org/interventi/2026/10/25/i-maranza-spiegati-semplice-0199939",
+   "date": "2026-10-25T06:24:06+00:00",
+   "image": null,
+   "title": {
+    "orig": "I maranza, spiegati semplice",
+    "it": "I maranza, spiegati semplice",
+    "en": "The Maranza, explained simply"
+   },
+   "summary": {
+    "orig": "Non mi stupisce che nessun politico e nessun giornalista sia in grado di inquadrare e comprendere quello che è accaduto nei giorni scorsi. Non puoi capire le basi di una rivolta non ideologica, formata da singole individualità che si coagulano senza uno schema verticistico, se…",
+    "it": "Non mi stupisce che nessun politico e nessun giornalista sia in grado di inquadrare e comprendere quello che è accaduto nei giorni scorsi. Non puoi capire le basi di una rivolta non ideologica, formata da singole individualità che si coagulano senza uno schema verticistico, se…",
+    "en": "It doesn't surprise me that no politician or journalist is able to frame and understand what has happened in recent days. You cannot understand the basis of a non-ideological revolt, made up of single individuals who coagulate without a top-down scheme, if…"
+   }
+  },
+  {
+   "id": "a10936845749d706",
+   "source": "contropiano",
+   "name": "Contropiano",
+   "country": "IT",
+   "lang": "it",
+   "url": "https://contropiano.org/news/internazionale-news/2026/10/25/usa-elezioni-midterm-negli-stati-chiave-gli-elettori-chiedono-stop-alle-armi-per-israele-0199988",
+   "date": "2026-10-25T06:19:06+00:00",
+   "image": null,
+   "title": {
+    "orig": "USA Elezioni Midterm: negli Stati chiave gli elettori chiedono stop alle armi per Israele",
+    "it": "USA Elezioni Midterm: negli Stati chiave gli elettori chiedono stop alle armi per Israele",
+    "en": "USA Midterm elections: voters in key states ask for a halt to weapons for Israel"
+   },
+   "summary": {
+    "orig": "Secondo un nuovo sondaggio pubblicato mercoledì dall’Institute for Middle East Understanding (IMEU) e condotto dalla società di analisi dati YouGov, la maggioranza dei probabili elettori in ciascuno dei sei stati chiave in bilico (Georgia, Iowa, Maine, Carolina del Nord, Ohio e…",
+    "it": "Secondo un nuovo sondaggio pubblicato mercoledì dall’Institute for Middle East Understanding (IMEU) e condotto dalla società di analisi dati YouGov, la maggioranza dei probabili elettori in ciascuno dei sei stati chiave in bilico (Georgia, Iowa, Maine, Carolina del Nord, Ohio e…",
+    "en": "According to a new poll released Wednesday by the Institute for Middle East Understanding (IMEU) and conducted by data analytics firm YouGov, a majority of likely voters in each of six key swing states (Georgia, Iowa, Maine, North Carolina, Ohio and…"
+   }
+  },
+  {
+   "id": "a75576b68b293532",
+   "source": "contropiano",
+   "name": "Contropiano",
+   "country": "IT",
+   "lang": "it",
+   "url": "https://contropiano.org/corsivo/2026/10/25/aiuti-umanitari-0200050",
+   "date": "2026-10-25T06:13:05+00:00",
+   "image": null,
+   "title": {
+    "orig": "Aiuti umanitari",
+    "it": "Aiuti umanitari",
+    "en": "Humanitarian aid"
+   },
+   "summary": {
+    "orig": "Quello a sinistra è un bambino di 11 anni che ha rotto una vetrina. Quello a destra è un anziano di 77 anni che ha già massacrato 75mila persone di cui oltre 20mila bambini, e ancora non si ferma. Per molti italiani il primo non deve essere aiutato ma messo […] L'articolo Aiuti…",
+    "it": "Quello a sinistra è un bambino di 11 anni che ha rotto una vetrina. Quello a destra è un anziano di 77 anni che ha già massacrato 75mila persone di cui oltre 20mila bambini, e ancora non si ferma. Per molti italiani il primo non deve essere aiutato ma messo […] L'articolo Aiuti…",
+    "en": "The one on the left is an 11 year old boy who broke a window. The one on the right is a 77-year-old elderly man who has already massacred 75 thousand people, including over 20 thousand children, and he still doesn't stop. For many Italians, the former must not be helped but put […] The article Help…"
+   }
+  },
+  {
+   "id": "0b9a17b5ec3ffc87",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/tan-da-show-celebrates-women-with-vibrant-musical-performances-post168201.html",
+   "date": "2026-10-25T05:36:28+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/-dirU_ca9oiedkCeBhcBOl-rbfUeXAqCc1Dq9nAYSOtK-m00A8mAKFEi8GrGCHVe/24tanda-vk.jpg.avif",
+   "title": {
+    "orig": "Tan Da Show celebrates women with vibrant musical performances",
+    "it": "Tan Da Show celebra le donne con vivaci performance musicali",
+    "en": "Tan Da Show celebrates women with vibrant musical performances"
+   },
+   "summary": {
+    "orig": "The third edition of Tan Da Show, hosted by Nhan Dan Newspaper on the evening of October 24, featured a colourful programme of music by young artists, with performances honouring women to mark Vietnamese Women’s Day. First two editions of Tan Da Show: encouraging signs Nhan Dan…",
+    "it": "La terza edizione del Tan Da Show, ospitato dal quotidiano Nhan Dan la sera del 24 ottobre, prevedeva un colorato programma di musica di giovani artisti, con spettacoli in onore delle donne in occasione della Giornata della donna vietnamita. Prime due edizioni del Tan Da Show: segnali incoraggianti Nhan Dan…",
+    "en": "The third edition of Tan Da Show, hosted by Nhan Dan Newspaper on the evening of October 24, featured a colourful programme of music by young artists, with performances honouring women to mark Vietnamese Women’s Day. First two editions of Tan Da Show: encouraging signs Nhan Dan…"
+   }
+  },
+  {
+   "id": "33730cc148168953",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/strategic-shift-in-viet-nams-relations-with-european-partners-post168199.html",
+   "date": "2026-10-25T05:31:33+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/-dirU_ca9oiedkCeBhcBOiSVfDD6-SnsEbsLBoFlvRJe3Ca9RP_PHt6MSFxGpZJP/ket-thu.jpg.avif",
+   "title": {
+    "orig": "Strategic shift in Viet Nam’s relations with European partners",
+    "it": "Cambiamento strategico nelle relazioni del Vietnam con i partner europei",
+    "en": "Strategic shift in Viet Nam’s relations with European partners"
+   },
+   "summary": {
+    "orig": "General Secretary and President To Lam, his spouse and a high-ranking Vietnamese delegation have successfully concluded a State visit to the Kingdom of Denmark and official visits to the European Union (EU) and the Kingdom of Belgium from October 19 to 24, at the invitation of…",
+    "it": "Il Segretario Generale e Presidente To Lam, sua moglie e una delegazione vietnamita di alto rango hanno concluso con successo una visita di Stato nel Regno di Danimarca e visite ufficiali nell'Unione Europea (UE) e nel Regno del Belgio dal 19 al 24 ottobre, su invito di...",
+    "en": "General Secretary and President To Lam, his spouse and a high-ranking Vietnamese delegation have successfully concluded a State visit to the Kingdom of Denmark and official visits to the European Union (EU) and the Kingdom of Belgium from October 19 to 24, at the invitation of…"
+   }
+  },
   {
    "id": "fbaceb069ca5c796",
    "source": "tricontinental",
@@ -2944,26 +3864,6 @@
    }
   },
   {
-   "id": "40523eb0489c494f",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/-/-/24-octobre-le-recours-des-syndicats-rejete-le-cortege-parisien-partira-de-la-porte-ditalie-la-cgt-denonce-un-tour-de-force-du-gouvernement",
-   "date": "2026-10-24T09:34:22+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2024/04/9.jpg?w=672",
-   "title": {
-    "orig": "24 octobre : le recours des syndicats rejeté, le cortège parisien partira de la porte d’Italie, la CGT dénonce « un tour de force du gouvernement »",
-    "it": "24 ottobre: respinto l'appello dei sindacati, il corteo parigino partirà da Porte d'Italie, la CGT denuncia \"un tour de force del governo\"",
-    "en": "October 24: the unions' appeal rejected, the Parisian procession will leave from Porte d'Italie, the CGT denounces \"a tour de force by the government\""
-   },
-   "summary": {
-    "orig": "La justice administrative a rejeté le recours des organisations syndicales, qui contestaient le parcours imposé par la préfecture de police entre la porte d’Italie et la porte de Vincennes. « Nous dénonçons fermement cette décision, qui s’inscrit dans un contexte global de…",
-    "it": "La giustizia amministrativa ha respinto il ricorso delle organizzazioni sindacali, che contestavano il percorso imposto dalla questura tra la Porte d'Italie e la Porte de Vincennes. “Condanniamo con forza questa decisione, che si inserisce in un contesto globale di...",
-    "en": "Administrative justice rejected the appeal of the trade union organizations, which contested the route imposed by the police headquarters between the Porte d’Italie and the Porte de Vincennes. “We strongly denounce this decision, which is part of a global context of…"
-   }
-  },
-  {
    "id": "5b017ac5443c3773",
    "source": "nhandan",
    "name": "Nhân Dân",
@@ -3041,26 +3941,6 @@
     "orig": "Haber Merkezi Fon vurgununun iktidar bloğunda yarattığı fay hattı derinleşiyor. Berat Albayrak’ın adının geçmesi üzerine Sabah gazetesinin yandaş isimlere yönelttiği \"FETÖ\" ve \"taşeron\" suçlamalarına karşı Abdulkadir Selvi sessizliğini Erdoğan'a biat yazısıyla korurken, AKP'li…",
     "it": "News Center La linea di faglia creata dal profitto dei fondi nel blocco dominante si sta approfondendo. Mentre Abdulkadir Selvi ha mantenuto il silenzio di fronte alle accuse di \"FETO\" e di \"subappaltatore\" rivolte contro esponenti filogovernativi dal quotidiano Sabah dopo che era stato menzionato il nome di Berat Albayrak, con una lettera di fedeltà a Erdoğan, i membri dell'AKP...",
     "en": "News Center The fault line created by fund profiteering in the ruling bloc is deepening. While Abdulkadir Selvi maintained his silence against the \"FETO\" and \"subcontractor\" accusations leveled against pro-government figures by Sabah newspaper after Berat Albayrak's name was mentioned, with a letter of allegiance to Erdoğan, AKP members..."
-   }
-  },
-  {
-   "id": "83a55a48922dde64",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/-/-/a-limoges-linterdiction-de-rassemblement-suspendue-par-le-tribunal-administratif",
-   "date": "2026-10-24T08:55:48+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2024/04/9.jpg?w=672",
-   "title": {
-    "orig": "À Limoges, l’interdiction de rassemblement suspendue par le Tribunal administratif",
-    "it": "A Limoges sospeso dal Tribunale amministrativo il divieto di assembramenti",
-    "en": "In Limoges, the ban on gatherings suspended by the Administrative Court"
-   },
-   "summary": {
-    "orig": "L’interdiction des rassemblements de plus de 10 personnes dans le centre-ville de Limoges, prise par arrêté préfectoral, a été suspendue par le Tribunal administratif, selon Le Monde. Le tribunal, qui a adopté sa décision dans la nuit, n’a pas fait part des motivations de sa…",
-    "it": "Il divieto di assembramento di più di 10 persone nel centro della città di Limoges, adottato con decreto prefettizio, è stato sospeso dal Tribunale amministrativo, secondo Le Monde. Il tribunale, che ha adottato nella notte la sua decisione, non ha comunicato le motivazioni della sua...",
-    "en": "The ban on gatherings of more than 10 people in the city center of Limoges, taken by prefectural decree, was suspended by the Administrative Court, according to Le Monde. The court, which adopted its decision during the night, did not communicate the motivations for its…"
    }
   },
   {
@@ -3701,46 +4581,6 @@
     "orig": "En Cuba hay una muy alta moral y conciencia revolucionaria de todo su pueblo. La ruptura de relaciones con Cuba significa una provocación más de los estadounidenses, que quieren aislarla y que otros países de América –con sus gobiernos impuestos y títeres– hagan lo mismo.…",
     "it": "A Cuba c’è un morale molto alto e una coscienza rivoluzionaria in tutto il suo popolo. La rottura delle relazioni con Cuba significa un’altra provocazione da parte degli americani, che vogliono isolarla e che altri paesi in America – con i loro governi imposti e fantoccio – facciano lo stesso…",
     "en": "In Cuba there is a very high morale and revolutionary consciousness of all its people. The breaking of relations with Cuba means one more provocation from the Americans, who want to isolate it and have other countries in America – with their imposed and puppet governments – do the same.…"
-   }
-  },
-  {
-   "id": "bb2be1a5b0b36c16",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/vie-quotidienne/consommation/argent-le-cash-est-il-en-voie-de-disparition",
-   "date": "2026-10-24T04:30:00+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/iStock-121306620.jpg?w=1200",
-   "title": {
-    "orig": "Argent : le cash est-il en voie de disparition ?",
-    "it": "Soldi: i contanti stanno scomparendo?",
-    "en": "Money: is cash on its way out?"
-   },
-   "summary": {
-    "orig": "Même si les consommateurs français payent de plus en plus leurs achats quotidiens par carte bancaire ou mobile, ils restent attachés à la possibilité de régler en liquide. Dans toute l’Europe, les commerçants sont tenus de l’accepter.",
-    "it": "Anche se i consumatori francesi pagano sempre più spesso i loro acquisti quotidiani con carta bancaria o cellulare, restano attaccati alla possibilità di pagare in contanti. In tutta Europa, i commercianti sono tenuti ad accettarlo.",
-    "en": "Even if French consumers increasingly pay for their daily purchases by bank card or mobile, they remain attached to the possibility of paying in cash. Across Europe, traders are required to accept it."
-   }
-  },
-  {
-   "id": "8871ddfec7515aa6",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/politique/editorial/la-reponse-ne-peut-etre-que-politique",
-   "date": "2026-10-24T04:30:00+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2024/02/Vignette_2024_editorial_fabien.png?w=1200",
-   "title": {
-    "orig": "La réponse ne peut être que politique",
-    "it": "La risposta non può che essere politica",
-    "en": "The answer can only be political"
-   },
-   "summary": {
-    "orig": "La période nous invite à garder notre sang-froid et à ne pas surréagir aux images passées en boucle sur les chaînes d’information en continu. La colère qui traverse le pays n’est ni neuve ni surprenante. Elle est la conséquence de presque dix ans de macronisme, dont les…",
-    "it": "Il periodo ci invita a mantenere la calma e a non reagire in modo eccessivo alle immagini trasmesse in loop sui canali di notizie continue. La rabbia che sta dilagando in tutto il paese non è né nuova né sorprendente. È la conseguenza di quasi dieci anni di macronismo, di cui…",
-    "en": "The period invites us to keep our cool and not overreact to the images looped on continuous news channels. The anger sweeping across the country is neither new nor surprising. It is the consequence of almost ten years of macronism, of which…"
    }
   },
   {
@@ -4424,26 +5264,6 @@
    }
   },
   {
-   "id": "922203d33aa0a4b3",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/23/cuba-anuncia-medidas-sociais-em-meio-a-crise-economica-e-a-crescente-desigualdade/",
-   "date": "2026-10-24T00:20:31+00:00",
-   "image": null,
-   "title": {
-    "orig": "Cuba anuncia medidas sociais em meio à crise econômica e à crescente desigualdade",
-    "it": "Cuba annuncia misure sociali in un contesto di crisi economica e crescente disuguaglianza",
-    "en": "Cuba announces social measures amid economic crisis and growing inequality"
-   },
-   "summary": {
-    "orig": "Programa prevê ferramentas de trabalho e auxílio financeiro a grupos vulneráveis em meio à crise econômica Fonte",
-    "it": "Il programma fornisce strumenti di lavoro e assistenza finanziaria ai gruppi vulnerabili nel contesto della crisi economica. Fonte",
-    "en": "Program provides work tools and financial assistance to vulnerable groups amid the economic crisis Source"
-   }
-  },
-  {
    "id": "958234a0c196dd13",
    "source": "nhandan",
    "name": "Nhân Dân",
@@ -4461,26 +5281,6 @@
     "orig": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam and Belgian Prime Minister Bart De Wever have reaffirmed their strong political commitment to deepening the two countries' traditional friendship and multifaceted cooperation for the…",
     "it": "Il Segretario Generale del Comitato Centrale e Presidente del Partito Comunista del Vietnam To Lam e il Primo Ministro belga Bart De Wever hanno riaffermato il loro forte impegno politico per approfondire la tradizionale amicizia e la multiforme cooperazione tra i due paesi per...",
     "en": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam and Belgian Prime Minister Bart De Wever have reaffirmed their strong political commitment to deepening the two countries' traditional friendship and multifaceted cooperation for the…"
-   }
-  },
-  {
-   "id": "15f80a0d96ac7d26",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/23/estudantes-e-professores-saem-as-ruas-de-curitiba-em-defesa-da-democracia-da-reeleicao-de-lula/",
-   "date": "2026-10-24T00:14:39+00:00",
-   "image": null,
-   "title": {
-    "orig": "Estudantes e professores saem às ruas de Curitiba em defesa da democracia e da reeleição de Lula",
-    "it": "Studenti e insegnanti scendono nelle strade di Curitiba in difesa della democrazia e della rielezione di Lula",
-    "en": "Students and teachers take to the streets of Curitiba in defense of democracy and Lula's re-election"
-   },
-   "summary": {
-    "orig": "O centro de Curitiba (PR) recebeu uma nova mobilização em apoio à reeleição do presidente Luiz Inácio Lula da Silva, na noite desta sexta-feira (23). O ato que reuniu milhares de pessoas foi mobilizado por diferentes coletivos, entre eles docentes em defesa da ciência e da…",
-    "it": "Il centro di Curitiba (PR) ha ricevuto, venerdì sera (23), una nuova mobilitazione a sostegno della rielezione del presidente Luiz Inácio Lula da Silva. L'evento che ha riunito migliaia di persone è stato mobilitato da diversi gruppi, tra cui insegnanti in difesa della scienza e...",
-    "en": "The center of Curitiba (PR) received a new mobilization in support of the re-election of President Luiz Inácio Lula da Silva, on Friday night (23). The event that brought together thousands of people was mobilized by different groups, including teachers in defense of science and…"
    }
   },
   {
@@ -4521,46 +5321,6 @@
     "orig": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam received Minister-President of the Wallonia region Adrien Dolimont in Brussels on October 23, part of his official visit to Belgium. Top leader visits Port of Antwerp-Bruges in Belgium…",
     "it": "Il Segretario Generale del Comitato Centrale del Partito Comunista del Vietnam e Presidente To Lam ha ricevuto il 23 ottobre a Bruxelles, nell'ambito della sua visita ufficiale in Belgio, il Ministro-Presidente della Regione Vallonia Adrien Dolimont. Il massimo leader visita il porto di Anversa-Bruges in Belgio...",
     "en": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam received Minister-President of the Wallonia region Adrien Dolimont in Brussels on October 23, part of his official visit to Belgium. Top leader visits Port of Antwerp-Bruges in Belgium…"
-   }
-  },
-  {
-   "id": "66a098120a82ccee",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/general-secretary-president-to-lam-receives-minister-president-of-belgiums-flanders-post168160.html",
-   "date": "2026-10-23T23:49:06+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/T1XfcbzAfRBwivgcxE-PBFe0WbqXQwVkqkelaEHSucQFPjfTJ8x-VhpSXagdMXuT/flanders.jpg.avif",
-   "title": {
-    "orig": "General Secretary, President To Lam receives Minister-President of Belgium's Flanders",
-    "it": "Il segretario generale, il presidente To Lam, riceve il ministro-presidente delle Fiandre belghe",
-    "en": "General Secretary, President To Lam receives Minister-President of Belgium's Flanders"
-   },
-   "summary": {
-    "orig": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam received Minister-President of Flanders Matthias Diependaele on October 23 as part of his official visit to Belgium. Top leader visits Port of Antwerp-Bruges in Belgium Viet Nam, Belgium…",
-    "it": "Il Segretario Generale del Comitato Centrale del Partito Comunista del Vietnam e Presidente To Lam ha ricevuto il 23 ottobre il Ministro-Presidente delle Fiandre Matthias Diependaele nell'ambito della sua visita ufficiale in Belgio. Il massimo leader visita il porto di Anversa-Bruges in Belgio Vietnam, Belgio...",
-    "en": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam received Minister-President of Flanders Matthias Diependaele on October 23 as part of his official visit to Belgium. Top leader visits Port of Antwerp-Bruges in Belgium Viet Nam, Belgium…"
-   }
-  },
-  {
-   "id": "ba0454a4b2592258",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/top-vietnamese-leader-meets-with-belgian-senate-speaker-house-president-post168159.html",
-   "date": "2026-10-23T23:28:41+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/T1XfcbzAfRBwivgcxE-PBFe0WbqXQwVkqkelaEHSucR0G6Ygqbnv0_7VVh2TsSQOTehoqXNncHKaaTVsgOELzYmtfSi3oHnnM0S9DK_-0vb4VEixQ6DuOcPuA4plLfGeN-HO25OuXoSXF1eZbaExI1ql6OW6OXDnLSZncBwSGEI/vna-potal-tong-bi-thu-chu-tich-nuoc-hoi-kien-chu-tich-ha-vien-va-chu-tich-thuong-vien-bi.jpg.avif",
-   "title": {
-    "orig": "Top Vietnamese leader meets with Belgian Senate Speaker, House President",
-    "it": "Il massimo leader vietnamita incontra il presidente del Senato belga e il presidente della Camera",
-    "en": "Top Vietnamese leader meets with Belgian Senate Speaker, House President"
-   },
-   "summary": {
-    "orig": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam met with Speaker of the Senate Vincent Blondel and President of the House of Representatives Peter De Roover on the afternoon of October 23 as part of his official visit to Belgium. Top…",
-    "it": "Nel pomeriggio del 23 ottobre, nell'ambito della sua visita ufficiale in Belgio, il Segretario Generale del Comitato Centrale del Partito Comunista del Vietnam e Presidente To Lam ha incontrato il Presidente del Senato Vincent Blondel e il Presidente della Camera dei Rappresentanti Peter De Roover. Superiore…",
-    "en": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam met with Speaker of the Senate Vincent Blondel and President of the House of Representatives Peter De Roover on the afternoon of October 23 as part of his official visit to Belgium. Top…"
    }
   },
   {
@@ -4864,26 +5624,6 @@
    }
   },
   {
-   "id": "0383cf604af3034e",
-   "source": "sol",
-   "name": "soL Haber",
-   "country": "TR",
-   "lang": "tr",
-   "url": "https://haber.sol.org.tr/haber/eski-spk-daire-baskani-hakkinda-gozalti-karari-415334",
-   "date": "2026-10-23T20:21:41+00:00",
-   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/23/ec.jpg.webp?itok=RrvJLn_R",
-   "title": {
-    "orig": "Eski SPK daire başkanı hakkında gözaltı kararı",
-    "it": "Mandato di detenzione per ex capo dipartimento del CMB",
-    "en": "Detention warrant for former CMB department head"
-   },
-   "summary": {
-    "orig": "Haber Merkezi Eski Sermaye Piyasası Kurulu (SPK) daire başkanı Erman Çete hakkında, İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü fon soruşturması kapsamında gözaltı kararı verildi. Çete'nin malvarlığına tedbir uygulanması da istendi. İstanbul Cumhuriyet Başsavcılığı tarafından…",
-    "it": "News Center Un ordine di detenzione è stato emesso per l'ex capo del dipartimento del Capital Markets Board (CMB), Erman Çete, nell'ambito dell'indagine sui fondi condotta dall'ufficio del procuratore capo di Istanbul. Sono stati inoltre richiesti provvedimenti contro il patrimonio della cosca. Dalla Procura Capo di Istanbul...",
-    "en": "News Center A detention order was issued for former Capital Markets Board (CMB) department head Erman Çete, within the scope of the fund investigation carried out by the Istanbul Chief Public Prosecutor's Office. It was also requested that measures be taken against the gang's assets. By the Istanbul Chief Public Prosecutor's Office…"
-   }
-  },
-  {
    "id": "aa893c511fe53b5b",
    "source": "granma",
    "name": "Granma",
@@ -4921,26 +5661,6 @@
     "orig": "En acto solemne fueron entregados los premios Pequeña Pantalla y el Sello Aniversario 75 de la Televisión Cubana",
     "it": "Nella cerimonia solenne sono stati consegnati i Premi del Piccolo Schermo e il Sigillo del 75° Anniversario della Televisione Cubana.",
     "en": "In a solemn ceremony, the Small Screen awards and the 75th Anniversary Seal of Cuban Television were presented."
-   }
-  },
-  {
-   "id": "0e6107e847db7b56",
-   "source": "sol",
-   "name": "soL Haber",
-   "country": "TR",
-   "lang": "tr",
-   "url": "https://haber.sol.org.tr/haber/hakan-fidan-irana-yeni-saldiri-cozum-degil-savasin-yayilmasi-onlenmeli-415333",
-   "date": "2026-10-23T20:10:20+00:00",
-   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/23/hf.jpg.webp?itok=oEFaNcFc",
-   "title": {
-    "orig": "Hakan Fidan: 'İran’a yeni saldırı çözüm değil, savaşın yayılması önlenmeli'",
-    "it": "Hakan Fidan: 'Un nuovo attacco all'Iran non è una soluzione, bisogna prevenire il dilagare della guerra'",
-    "en": "Hakan Fidan: 'A new attack on Iran is not a solution, the spread of war must be prevented'"
-   },
-   "summary": {
-    "orig": "Haber Merkezi İstanbul’da bir araya gelen sekiz ülke, Körfez’de ve Ukrayna’da ateşkes çağrısı yaptı. Dışişleri Bakanı Hakan Fidan, İran’a yönelik yeni bir askeri müdahalenin çatışmaları büyüteceği uyarısında bulundu. Dışişleri Bakanı Hakan Fidan, İstanbul’da sekiz ülkenin…",
-    "it": "News Center Otto paesi si sono riuniti a Istanbul e hanno chiesto un cessate il fuoco nel Golfo e in Ucraina. Il ministro degli Esteri Hakan Fidan ha avvertito che un nuovo intervento militare contro l'Iran aggraverebbe il conflitto. Il ministro degli Esteri Hakan Fidan, otto paesi a Istanbul…",
-    "en": "News Center Eight countries gathered in Istanbul and called for a ceasefire in the Gulf and Ukraine. Minister of Foreign Affairs Hakan Fidan warned that a new military intervention against Iran would escalate the conflicts. Minister of Foreign Affairs Hakan Fidan, eight countries in Istanbul…"
    }
   },
   {
@@ -5064,46 +5784,6 @@
    }
   },
   {
-   "id": "6e84eea905983e53",
-   "source": "sol",
-   "name": "soL Haber",
-   "country": "TR",
-   "lang": "tr",
-   "url": "https://haber.sol.org.tr/haber/cukurova-belediye-baskani-emrah-kozay-gorevden-uzaklastirildi-415332",
-   "date": "2026-10-23T19:40:23+00:00",
-   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/23/emrahkozay.jpg.webp?itok=QqXArnbY",
-   "title": {
-    "orig": "Çukurova Belediye Başkanı Emrah Kozay görevden uzaklaştırıldı",
-    "it": "Il sindaco di Çukurova Emrah Kozay è stato sospeso dal servizio",
-    "en": "Çukurova Mayor Emrah Kozay was suspended from duty"
-   },
-   "summary": {
-    "orig": "Haber Merkezi İçişleri Bakanlığı, ihale ve rüşvet iddialarına ilişkin soruşturma kapsamında tutuklanan Adana'nın Çukurova ilçesinin Belediye Başkanı Emrah Kozay'ın geçici tedbir olarak görevden uzaklaştırıldığını duyurdu. İçişleri Bakanlığı, Adana Çukurova Belediye Başkanı Emrah…",
-    "it": "Centro notizie Il Ministero degli Affari Interni ha annunciato che Emrah Kozay, sindaco del distretto di Çukurova di Adana, arrestato nell'ambito delle indagini relative ad accuse di appalto e corruzione, è stato sospeso dall'incarico come misura temporanea. Ministero degli Affari Interni, Adana Çukurova Sindaco Emrah…",
-    "en": "News Center The Ministry of Internal Affairs announced that Emrah Kozay, the Mayor of Adana's Çukurova district, who was arrested within the scope of the investigation regarding tender and bribery allegations, was suspended from office as a temporary measure. Ministry of Internal Affairs, Adana Çukurova Mayor Emrah…"
-   }
-  },
-  {
-   "id": "87b4e099fe10d318",
-   "source": "sol",
-   "name": "soL Haber",
-   "country": "TR",
-   "lang": "tr",
-   "url": "https://haber.sol.org.tr/haber/sarigul-sorusturmasinda-3-kisi-icin-tutuklama-talebi-415331",
-   "date": "2026-10-23T19:32:41+00:00",
-   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/23/sarigultutuktalebi.jpg.webp?itok=ipf_nWj7",
-   "title": {
-    "orig": "Sarıgül soruşturmasında 3 kişi için tutuklama talebi",
-    "it": "Richiesta di arresto per 3 persone nell'indagine di Sarıgül",
-    "en": "Arrest request for 3 people in Sarıgül investigation"
-   },
-   "summary": {
-    "orig": "Haber Merkezi Sarıgül ailesine yönelik kara para aklama iddiaları kapsamında gözaltına alınan 5 kişi adliyeye sevk edildi. Cihan Tunç, Çağlar Sezgin ve Ümit İlker Avcı hakkında tutuklama, Mustafa Sarıgül’ün yakın koruması Beşir Ömer Demir ile Atakan Eren hakkında ise ev hapsi…",
-    "it": "Centro notizie 5 persone detenute nell'ambito delle accuse di riciclaggio di denaro contro la famiglia Sarıgül sono state deferite al tribunale. Arresto per Cihan Tunç, Çağlar Sezgin e Ümit İlker Avcı e arresti domiciliari per Beşir Ömer Demir e Atakan Eren, la guardia di Mustafa Sarıgül...",
-    "en": "News Center 5 people who were detained within the scope of money laundering allegations against the Sarıgül family were referred to the courthouse. Arrest for Cihan Tunç, Çağlar Sezgin and Ümit İlker Avcı, and house arrest for Mustafa Sarıgül's close guard Beşir Ömer Demir and Atakan Eren..."
-   }
-  },
-  {
    "id": "836137c69078f099",
    "source": "cubadebate",
    "name": "Cubadebate",
@@ -5201,26 +5881,6 @@
     "orig": "El Rector y otras autoridades académicas de la Universidad de las Artes comparecerán este viernes en la Mesa Redonda para conversar sobre las cinco décadas de esta prestigiosa institución de la educación superior y la cultura cubanas. The post Hoy en la Mesa Redonda: Universidad…",
     "it": "Il Rettore e altre autorità accademiche dell'Università delle Arti parteciperanno questo venerdì alla Tavola Rotonda per parlare dei cinque decenni di questa prestigiosa istituzione di educazione superiore e cultura cubana. Il post Oggi alla Tavola Rotonda: Università…",
     "en": "The Rector and other academic authorities of the University of the Arts will appear this Friday at the Round Table to talk about the five decades of this prestigious institution of Cuban higher education and culture. The post Today at the Round Table: University…"
-   }
-  },
-  {
-   "id": "7eca3c429046b3b3",
-   "source": "sol",
-   "name": "soL Haber",
-   "country": "TR",
-   "lang": "tr",
-   "url": "https://haber.sol.org.tr/haber/rusya-ve-ukrayna-arasinda-oleski-kenti-icin-gecici-ateskes-415327",
-   "date": "2026-10-23T18:45:52+00:00",
-   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/23/oleshki.jpg.webp?itok=U73y47H2",
-   "title": {
-    "orig": "Rusya ve Ukrayna arasında Oleşki kenti için geçici ateşkes",
-    "it": "Cessate il fuoco temporaneo tra Russia e Ucraina per la città di Olekski",
-    "en": "Temporary ceasefire between Russia and Ukraine for the city of Olekski"
-   },
-   "summary": {
-    "orig": "Dış Haberler Ukrayna’nın güneyindeki Oleşki kentinde insani yardım ulaştırılması ve sivillerin tahliyesi amacıyla geçici ateşkes konusunda anlaşmaya varıldığı duyuruldu. Beyaz Saray, ateşkesin 29 Ekim’de yürürlüğe gireceğini açıkladı. Rusya ile Ukrayna arasında, çatışma hattında…",
-    "it": "Notizie straniere È stato annunciato che è stato raggiunto un accordo per un cessate il fuoco temporaneo per la fornitura di aiuti umanitari e l'evacuazione dei civili nella città di Oleski, nel sud dell'Ucraina. La Casa Bianca ha annunciato che il cessate il fuoco entrerà in vigore il 29 ottobre. Sulla linea del conflitto tra Russia e Ucraina...",
-    "en": "Foreign News It was announced that an agreement was reached on a temporary ceasefire for the delivery of humanitarian aid and the evacuation of civilians in the city of Oleski in southern Ukraine. The White House announced that the ceasefire will come into force on October 29. On the conflict line between Russia and Ukraine…"
    }
   },
   {
@@ -5344,26 +6004,6 @@
    }
   },
   {
-   "id": "8f1375bbe36da5b6",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/-/-/fin-du-direct-22",
-   "date": "2026-10-23T17:53:24+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2024/04/9.jpg?w=672",
-   "title": {
-    "orig": "Fin du direct",
-    "it": "Fine della diretta",
-    "en": "End of live"
-   },
-   "summary": {
-    "orig": "Ce direct est maintenant terminé, merci de l’avoir suivi. Rendez-vous demain dès 10H pour suivre la journée de mobilisations.",
-    "it": "Il live streaming è terminato, grazie per averlo seguito. Ci vediamo domani alle 10 per seguire la giornata di mobilitazioni.",
-    "en": "This live stream is now over, thank you for following it. See you tomorrow at 10 a.m. to follow the day of mobilizations."
-   }
-  },
-  {
    "id": "48088de4a371ba7a",
    "source": "vermelho",
    "name": "Vermelho",
@@ -5421,146 +6061,6 @@
     "orig": "Una nueva edición de \"Los silencios quebrados de San Lorenzo\" dedicado al Padre de la Patria Carlos Manuel de Céspedes, libro fundamental del investigador, crítico y profesor Rafael Acosta de Arriba, se presentó en la Casa Eusebio Leal Spengler. En la institución patrimonial se…",
     "it": "È stata presentata alla Casa Eusebio Leal Spengler una nuova edizione de “I silenzi rotti di San Lorenzo” dedicata al Padre della Patria Carlos Manuel de Céspedes, libro fondamentale del ricercatore, critico e professore Rafael Acosta de Arriba. Nell’istituzione del patrimonio…",
     "en": "A new edition of \"The broken silences of San Lorenzo\" dedicated to the Father of the Nation Carlos Manuel de Céspedes, a fundamental book by the researcher, critic and professor Rafael Acosta de Arriba, was presented at the Eusebio Leal Spengler House. In the heritage institution…"
-   }
-  },
-  {
-   "id": "be6ed30dcba1447e",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/polish-pm-arrives-in-da-nang-beginning-official-visit-to-viet-nam-post168158.html",
-   "date": "2026-10-23T17:03:32+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/-dirU_ca9oiedkCeBhcBOmHFPtTpsQ54sHs64ZCn4wfgJyKhxaIh33t9fchSZHdc/vnanet-f.jpg.avif",
-   "title": {
-    "orig": "Polish PM arrives in Da Nang, beginning official visit to Viet Nam",
-    "it": "Il Primo Ministro polacco arriva a Da Nang, iniziando la visita ufficiale in Vietnam",
-    "en": "Polish PM arrives in Da Nang, beginning official visit to Viet Nam"
-   },
-   "summary": {
-    "orig": "Polish Prime Minister Donald Tusk arrived in the central city of Da Nang on October 23 evening, beginning an official visit to Viet Nam from October 24-26 at the invitation of his Vietnamese counterpart Le Minh Hung. Polish PM's Viet Nam visit to strengthen bilateral ties…",
-    "it": "Il primo ministro polacco Donald Tusk è arrivato nella città centrale di Da Nang la sera del 23 ottobre, iniziando una visita ufficiale in Vietnam dal 24 al 26 ottobre su invito del suo omologo vietnamita Le Minh Hung. Visita del Primo Ministro polacco in Vietnam per rafforzare i legami bilaterali...",
-    "en": "Polish Prime Minister Donald Tusk arrived in the central city of Da Nang on October 23 evening, beginning an official visit to Viet Nam from October 24-26 at the invitation of his Vietnamese counterpart Le Minh Hung. Polish PM's Viet Nam visit to strengthen bilateral ties…"
-   }
-  },
-  {
-   "id": "3290ac8973f6012d",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/politique/racisme/racaille-pilleurs-binationaux-france-des-wallah-le-racisme-en-roue-libre-avant-lattentat-de-trappe",
-   "date": "2026-10-23T17:00:58+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-18.58.05.jpeg?w=1200",
-   "title": {
-    "orig": "« Racaille », « pilleurs binationaux », « France des « wallah » : le racisme en roue libre avant l’attentat de Trappes",
-    "it": "“Racaille”, “saccheggiatori binazionali”, “La Francia del “wallah”: razzismo a ruota libera prima dell’attentato di Trappes",
-    "en": "“Racaille”, “binational looters”, “France of the “wallah”: racism in freewheeling before the Trappes attack"
-   },
-   "summary": {
-    "orig": "L’attentat de Trappes, une cité populaire des Yvelines, tuant une personne et en blessant au moins quatre autres dont une fillette de 12 ans, intervient à l’issue d’une semaine où la parole raciste s’est libérée à la faveur des violences et incidents en marge des manifestations…",
-    "it": "L'attacco di Trappes, popolare cittadina degli Yvelines, in cui è morta una persona e ne sono rimaste ferite almeno altre quattro, tra cui una ragazzina di 12 anni, arriva al termine di una settimana in cui si sono diffusi discorsi razzisti grazie a violenze e incidenti a margine delle manifestazioni...",
-    "en": "The attack in Trappes, a popular town in Yvelines, killing one person and injuring at least four others including a 12-year-old girl, comes at the end of a week where racist speech was released thanks to violence and incidents on the sidelines of the demonstrations..."
-   }
-  },
-  {
-   "id": "c1d1eec7b6c9c80c",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/politique/gaz-lacrymogenes/mort-de-christophe-m-le-17-octobre-lavocat-de-la-famille-sexprime",
-   "date": "2026-10-23T17:00:00+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2026/10/maxresdefault_0303a2.webp?w=1200",
-   "title": {
-    "orig": "Mort de Christophe M. le 17 octobre : l’avocat de la famille s’exprime",
-    "it": "Morte di Christophe M. il 17 ottobre: parla l'avvocato della famiglia",
-    "en": "Death of Christophe M. on October 17: the family’s lawyer speaks"
-   },
-   "summary": {
-    "orig": "Une semaine après la manifestation du 17 octobre à Paris, les circonstances de la mort de Christophe M., 59 ans, restent extrêmement floues. Entre soupçons d'exposition au gaz lacrymogène, silence assourdissant des autorités judiciaires et difficultés autour des délais de…",
-    "it": "Una settimana dopo la manifestazione del 17 ottobre a Parigi, le circostanze della morte di Christophe M., 59 anni, rimangono estremamente poco chiare. Tra sospetti di esposizione a gas lacrimogeni, silenzio assordante delle autorità giudiziarie e difficoltà sulle scadenze…",
-    "en": "A week after the October 17 demonstration in Paris, the circumstances of the death of Christophe M., 59, remain extremely unclear. Between suspicions of exposure to tear gas, deafening silence from judicial authorities and difficulties around deadlines…"
-   }
-  },
-  {
-   "id": "346558df61057f32",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/-/-/la-cgt-saisit-le-tribunal-administratif-apres-linterdiction-du-parcours-syndical-par-la-prefecture-de-police-a-paris",
-   "date": "2026-10-23T16:58:53+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2024/04/9.jpg?w=672",
-   "title": {
-    "orig": "La CGT saisit le tribunal administratif après l’interdiction du parcours syndical par la préfecture de police à Paris",
-    "it": "La CGT si rivolge al tribunale amministrativo dopo il divieto del percorso sindacale da parte della questura di Parigi",
-    "en": "The CGT seizes the administrative court after the ban on the union route by the police headquarters in Paris"
-   },
-   "summary": {
-    "orig": "Auprès de l’Humanité, l’Union régionale d'Ile-de-France CGT (Urif-CGT) annonce saisir le tribunal administratif, après que la préfecture de police ait interdit le parcours déposé par l'intersyndicale, ce samedi 24 octobre, entre les places de la Bastille et de la Nation à Paris.…",
-    "it": "From Humanity, l'Unione regionale CGT dell'Ile-de-France (Urif-CGT) annuncia che si rivolgerà al tribunale amministrativo, dopo che la questura ha vietato il percorso tracciato dall'intersindacato, questo sabato 24 ottobre, tra piazza della Bastiglia e piazza della Nazione a Parigi.…",
-    "en": "From Humanity, the Ile-de-France CGT Regional Union (Urif-CGT) announces that it is seizing the administrative court, after the police headquarters banned the route filed by the inter-union, this Saturday, October 24, between the Bastille and Nation squares in Paris.…"
-   }
-  },
-  {
-   "id": "d5872eaed3816c02",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/vietnamese-belgian-leaders-agree-to-enhance-multifaceted-collaboration-post168157.html",
-   "date": "2026-10-23T16:57:37+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/-dirU_ca9oiedkCeBhcBOoASQ0uhfo7I2vSmWYWIIiywkulBwXTGcj3O-ziIvs6ierltmJ9TGczpO2Dc3HTzev868u04IdvYwiWDLQcsOx-yr_Ytshkk3DdhrZTm4XieUGbax5XJ7hzfruA37p4p_g/vna-potal-tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-thu-tuong-bi.jpg.avif",
-   "title": {
-    "orig": "Vietnamese, Belgian leaders agree to enhance multifaceted collaboration",
-    "it": "I leader vietnamiti e belgi concordano di rafforzare la collaborazione multiforme",
-    "en": "Vietnamese, Belgian leaders agree to enhance multifaceted collaboration"
-   },
-   "summary": {
-    "orig": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam and Belgian Prime Minister Bart De Wever have reaffirmed their strong political commitment to deepening the two countries' traditional friendship and multifaceted cooperation for the…",
-    "it": "Il Segretario Generale del Comitato Centrale e Presidente del Partito Comunista del Vietnam To Lam e il Primo Ministro belga Bart De Wever hanno riaffermato il loro forte impegno politico per approfondire la tradizionale amicizia e la multiforme cooperazione tra i due paesi per...",
-    "en": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam and Belgian Prime Minister Bart De Wever have reaffirmed their strong political commitment to deepening the two countries' traditional friendship and multifaceted cooperation for the…"
-   }
-  },
-  {
-   "id": "c7a35284161cacfa",
-   "source": "humanite",
-   "name": "L'Humanité",
-   "country": "FR",
-   "lang": "fr",
-   "url": "https://www.humanite.fr/-/-/sept-partis-de-gauche-ont-depose-vendredi-un-recours-aupres-du-conseil-detat-sur-linterdiction-de-manifestations-non-organisees-par-les-syndicats",
-   "date": "2026-10-23T16:54:39+00:00",
-   "image": "https://www.humanite.fr/wp-content/uploads/2024/04/9.jpg?w=672",
-   "title": {
-    "orig": "Sept partis de gauche ont déposé vendredi un recours auprès du Conseil d’État sur l’interdiction de manifestations non organisées par les syndicats",
-    "it": "Sette partiti di sinistra hanno presentato venerdì ricorso al Consiglio di Stato contro il divieto di manifestazioni non organizzate dai sindacati",
-    "en": "Seven left-wing parties filed an appeal with the Council of State on Friday over the ban on demonstrations not organized by unions"
-   },
-   "summary": {
-    "orig": "Sept partis politiques de gauche ont déposé vendredi un recours auprès du Conseil d'État pour contester les déclarations d'Emmanuel Macron jeudi, sur l'interdiction de manifestations non organisées par les syndicats Les Ecologistes, La France insoumise, le Parti socialiste, le…",
-    "it": "Sette partiti politici di sinistra hanno presentato venerdì un ricorso al Consiglio di Stato per contestare le dichiarazioni di giovedì di Emmanuel Macron sul divieto di manifestazioni non organizzate dai sindacati Les Ecologistes, La France insoumise, il Partito socialista,...",
-    "en": "Seven left-wing political parties filed an appeal with the Council of State on Friday to contest Emmanuel Macron's declarations on Thursday, on the ban on demonstrations not organized by the unions Les Ecologistes, La France insoumise, the Socialist Party, the…"
-   }
-  },
-  {
-   "id": "177d4c4fa2d679cc",
-   "source": "sol",
-   "name": "soL Haber",
-   "country": "TR",
-   "lang": "tr",
-   "url": "https://haber.sol.org.tr/haber/imamoglunun-makam-araci-davasi-12-subata-ertelendi-415322",
-   "date": "2026-10-23T16:46:01+00:00",
-   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/23/io.jpg.webp?itok=eJYjNJOu",
-   "title": {
-    "orig": "İmamoğlu’nun makam aracı davası 12 Şubat’a ertelendi",
-    "it": "Il caso ufficiale dell'auto di İmamoğlu è stato rinviato al 12 febbraio",
-    "en": "İmamoğlu's official car case postponed to February 12"
-   },
-   "summary": {
-    "orig": "Haber Merkezi İmamoğlu’nun Beylikdüzü Belediye Başkanlığı döneminde kendi şirketine ait aracı makam aracı olarak kullanmasına ilişkin davada mahkeme, yeni bir bilirkişi heyetinden rapor alınmasına karar verdi. İstanbul Büyükşehir Belediye (İBB) Başkanı Ekrem İmamoğlu’nun…",
-    "it": "Centro notizie Nel caso riguardante l'utilizzo da parte di İmamoğlu di un veicolo appartenente alla sua azienda come veicolo ufficiale durante il suo mandato come sindaco di Beylikdüzü, il tribunale ha deciso di ricevere un rapporto da un nuovo gruppo di esperti. Il sindaco della municipalità metropolitana di Istanbul (IMM) Ekrem İmamoğlu…",
-    "en": "News Center In the case regarding İmamoğlu's use of a vehicle belonging to his company as an official vehicle during his term as Beylikdüzü Mayor, the court decided to receive a report from a new expert panel. Mayor of Istanbul Metropolitan Municipality (IMM) Ekrem İmamoğlu…"
    }
   },
   {
@@ -5624,26 +6124,6 @@
    }
   },
   {
-   "id": "968259020a9357b5",
-   "source": "sol",
-   "name": "soL Haber",
-   "country": "TR",
-   "lang": "tr",
-   "url": "https://haber.sol.org.tr/haber/fransada-silahli-saldiri-bir-kisi-oldu-saldirinin-irkci-saikle-gerceklestirilmis-olabilecegi",
-   "date": "2026-10-23T16:34:00+00:00",
-   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/23/fransasaldiri.jpg.webp?itok=jU74dIv4",
-   "title": {
-    "orig": "Fransa'da silahlı saldırı: Bir kişi öldü, saldırının ırkçı saikle gerçekleştirilmiş olabileceği değerlendiriliyor",
-    "it": "Attacco armato in Francia: una persona è morta, si ritiene che l'attacco possa avere motivazioni razziali",
-    "en": "Armed attack in France: One person died, it is considered that the attack may have been racially motivated"
-   },
-   "summary": {
-    "orig": "Dış Haberler Paris yakınlarındaki Trappes ve La Verrière kentlerinde araçtan ateş açan saldırgan bir kişiyi öldürdü, en az dört kişiyi yaraladı. Terörle mücadele savcılığı, saldırının ırk, etnik köken, milliyet veya din temelli bir saikle gerçekleştirilmiş olabileceğini…",
-    "it": "Notizie straniere Un attentatore che ha aperto il fuoco da un veicolo nelle città di Trappes e La Verrière vicino a Parigi ha ucciso una persona e ferito almeno quattro persone. La procura antiterrorismo ha affermato che l'attacco potrebbe essere stato motivato da razza, etnia, nazionalità o religione.",
-    "en": "Foreign News An attacker who opened fire from a vehicle in the cities of Trappes and La Verrière near Paris killed one person and injured at least four people. The anti-terrorism prosecutor's office stated that the attack may have been motivated by race, ethnicity, nationality or religion."
-   }
-  },
-  {
    "id": "5973b2cdce031e44",
    "source": "zeitungderarbeit",
    "name": "Zeitung der Arbeit",
@@ -5661,26 +6141,6 @@
     "orig": "Die Kommunistische Partei Griechenlands (KKE) hat die Verfolgung von Kommunistinnen und Kommunisten in Usbekistan, Aserbaidschan und Kasachstan zum Thema einer Anfrage an die Europäische Kommission gemacht. Die griechischen Kommunisten kritisieren insbesondere die Haftstrafen…",
     "it": "Il Partito Comunista di Grecia (KKE) ha posto un'interrogazione alla Commissione europea sulla persecuzione dei comunisti in Uzbekistan, Azerbaigian e Kazakistan. I comunisti greci criticano in particolare le pene detentive...",
     "en": "The Communist Party of Greece (KKE) has made the persecution of communists in Uzbekistan, Azerbaijan and Kazakhstan the subject of a question to the European Commission. The Greek communists particularly criticize the prison sentences..."
-   }
-  },
-  {
-   "id": "bffdd30ac758a681",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/top-leader-gives-policy-speech-in-brussels-sharing-vision-for-viet-nameu-ties-post168156.html",
-   "date": "2026-10-23T16:21:54+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/-dirU_ca9oiedkCeBhcBOtrxawr2BBuUIvB5c9JcSVyyHyB1aEOQXNfiPwVrVRKH/tbt2.jpg.avif",
-   "title": {
-    "orig": "Top leader gives policy speech in Brussels, sharing vision for Viet Nam–EU ties",
-    "it": "Il massimo leader tiene un discorso politico a Bruxelles, condividendo la visione dei legami tra Vietnam e UE",
-    "en": "Top leader gives policy speech in Brussels, sharing vision for Viet Nam–EU ties"
-   },
-   "summary": {
-    "orig": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam delivered a policy speech at Egmont – The Royal Institute for International Relations in Brussels on October 23 afternoon (local time), with a focus on turning vision into action – from…",
-    "it": "Il Segretario Generale del Comitato Centrale del Partito Comunista del Vietnam e Presidente To Lam ha tenuto un discorso politico all'Egmont - Istituto reale per le relazioni internazionali a Bruxelles il 23 ottobre pomeriggio (ora locale), concentrandosi sulla trasformazione della visione in azione - da...",
-    "en": "General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam delivered a policy speech at Egmont – The Royal Institute for International Relations in Brussels on October 23 afternoon (local time), with a focus on turning vision into action – from…"
    }
   },
   {
@@ -5724,46 +6184,6 @@
    }
   },
   {
-   "id": "aaa29296a941a39e",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/european-media-hail-substantive-viet-nam-eu-ties-post168155.html",
-   "date": "2026-10-23T15:54:54+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/-dirU_ca9oiedkCeBhcBOm0vndHMXCXaY35hG1ufUwDCiQUQrOA_NMLKjpyq000D/vnanet-i.jpg.avif",
-   "title": {
-    "orig": "European media hail substantive Viet Nam-EU ties",
-    "it": "I media europei acclamano i legami sostanziali tra Vietnam e UE",
-    "en": "European media hail substantive Viet Nam-EU ties"
-   },
-   "summary": {
-    "orig": "Major European news outlets have hailed the outcomes of General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam’s talks with President of the European Council Antonio Costa and President of the European Commission Ursula von der Leyen in…",
-    "it": "I principali organi di stampa europei hanno accolto con favore i risultati dei colloqui del Segretario Generale del Comitato Centrale del Partito Comunista del Vietnam e del Presidente To Lam con il Presidente del Consiglio Europeo Antonio Costa e la Presidente della Commissione Europea Ursula von der Leyen a...",
-    "en": "Major European news outlets have hailed the outcomes of General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam’s talks with President of the European Council Antonio Costa and President of the European Commission Ursula von der Leyen in…"
-   }
-  },
-  {
-   "id": "50c9784cba0a461b",
-   "source": "sol",
-   "name": "soL Haber",
-   "country": "TR",
-   "lang": "tr",
-   "url": "https://haber.sol.org.tr/haber/yandas-yazar-itiraf-etti-diyanet-yalanladi-gazze-bagislari-fonda-eridi-yoneticiler-gorevden",
-   "date": "2026-10-23T15:50:26+00:00",
-   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/23/tdv.jpg.webp?itok=nAi8BTDL",
-   "title": {
-    "orig": "Yandaş yazar itiraf etti, Diyanet yalanladı: Gazze bağışları fonda eridi, yöneticiler görevden alındı",
-    "it": "Lo scrittore filo-governativo ha confessato, Diyanet ha smentito: le donazioni di Gaza sono confluite nel fondo, gli amministratori sono stati licenziati",
-    "en": "Pro-government writer confessed, Diyanet denied: Gaza donations melted into the fund, administrators were dismissed"
-   },
-   "summary": {
-    "orig": "Haber Merkezi Türkiye Diyanet Vakfı’nda Gazze için toplanan bağışların yatırım fonlarında değerlendirildiği ve yüzde 48 zarar edildiği iddialarının ardından üç üst düzey yönetici görevden alındı. Rasim Ozan Kütahyalı, görevden almaların fon zararı nedeniyle gerçekleştiğini öne…",
-    "it": "News Center Tre alti dirigenti della Fondazione religiosa turca sono stati licenziati in seguito alle accuse secondo cui le donazioni raccolte per Gaza sarebbero state utilizzate in fondi di investimento e avrebbero subito una perdita del 48%. Rasim Ozan Kütahyalı ha affermato che i licenziamenti erano dovuti alla perdita di fondi.",
-    "en": "News Center Three senior managers at the Turkish Religious Foundation were dismissed following allegations that the donations collected for Gaza were used in investment funds and a 48 percent loss was incurred. Rasim Ozan Kütahyalı claimed that the dismissals were due to fund loss."
-   }
-  },
-  {
    "id": "5816f24b7589fd3e",
    "source": "fightback",
    "name": "Fight Back! News",
@@ -5801,66 +6221,6 @@
     "orig": "ANDY BURNHAM was warned that AI and military helicopters alone will not keep the public safe after he hosted Google, Airbus and Vodafone chiefs at Britain’s first wildfire summit today. Following last summer’s record 1,350 wildfires in England and Wales, FBU general secretary…",
     "it": "ANDY BURNHAM è stato avvertito che l’intelligenza artificiale e gli elicotteri militari da soli non manterranno la sicurezza del pubblico dopo aver ospitato oggi i capi di Google, Airbus e Vodafone al primo vertice britannico sugli incendi. Dopo il record di 1.350 incendi della scorsa estate in Inghilterra e Galles, il segretario generale della FBU...",
     "en": "ANDY BURNHAM was warned that AI and military helicopters alone will not keep the public safe after he hosted Google, Airbus and Vodafone chiefs at Britain’s first wildfire summit today. Following last summer’s record 1,350 wildfires in England and Wales, FBU general secretary…"
-   }
-  },
-  {
-   "id": "23f932e3ed67354c",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/viet-nam-rotates-two-officers-to-un-peacekeeping-missions-in-abyei-south-sudan-post168154.html",
-   "date": "2026-10-23T15:39:23+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/-dirU_ca9oiedkCeBhcBOnS_08B2UhK8rVOBw3ldFoSmiPQdy5RH7Qe-_7W3u5mxHQJ7Dh4e4hGoJuV8vL_HHXErJRylVpssa6QlDMx1TiA/z8406612308784-305755e5b2f7a173a5d61156041f8575.jpg.avif",
-   "title": {
-    "orig": "Viet Nam rotates two officers to UN peacekeeping missions in Abyei, South Sudan",
-    "it": "Il Vietnam assegna due ufficiali alle missioni di mantenimento della pace delle Nazioni Unite ad Abyei, nel Sud Sudan",
-    "en": "Viet Nam rotates two officers to UN peacekeeping missions in Abyei, South Sudan"
-   },
-   "summary": {
-    "orig": "The Ministry of National Defence held a ceremony in Ha Noi on October 23 to present decisions by the President and the Minister of National Defence assigning officers to UN peacekeeping missions at the UN Interim Security Force for Abyei (UNISFA) and the UN Mission in South…",
-    "it": "Il Ministero della Difesa Nazionale ha tenuto una cerimonia ad Ha Noi il 23 ottobre per presentare le decisioni del Presidente e del Ministro della Difesa Nazionale che assegnano ufficiali alle missioni di mantenimento della pace delle Nazioni Unite presso la Forza di sicurezza provvisoria delle Nazioni Unite per Abyei (UNISFA) e la Missione delle Nazioni Unite nel Sud...",
-    "en": "The Ministry of National Defence held a ceremony in Ha Noi on October 23 to present decisions by the President and the Minister of National Defence assigning officers to UN peacekeeping missions at the UN Interim Security Force for Abyei (UNISFA) and the UN Mission in South…"
-   }
-  },
-  {
-   "id": "106d2b15afd02ff1",
-   "source": "sol",
-   "name": "soL Haber",
-   "country": "TR",
-   "lang": "tr",
-   "url": "https://haber.sol.org.tr/haber/canakkaleden-cikan-pedallar-minaba-vardi-cocuklarini-yitiren-ailelerle-bulustular-415239",
-   "date": "2026-10-23T15:35:03+00:00",
-   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/21/minab-kapak.jpeg.webp?itok=JUN40INi",
-   "title": {
-    "orig": "Çanakkale'den çıkan pedallar Minab'a vardı: Çocuklarını yitiren ailelerle buluştular",
-    "it": "I pedali di Çanakkale sono arrivati a Minab: hanno incontrato le famiglie che hanno perso i figli",
-    "en": "The pedals from Çanakkale arrived in Minab: They met with the families who lost their children"
-   },
-   "summary": {
-    "orig": "Haber Merkezi Çanakkale'den yola çıkan bisikletliler Minab'a ulaştı. İran güzergahu boyunca birçok kentten insanlarla karşılanan heyet, okulun bombalandığı kentte çocuklarını yitiren ailelerle buluştu, kırtasiye malzemelerini teslim etti, yeni okul inşaatına bağış yaptı. ABD ve…",
-    "it": "Centro notizie I ciclisti partiti da Çanakkale hanno raggiunto Minab. Accogliendo persone provenienti da molte città lungo la rotta iraniana, la delegazione ha incontrato le famiglie che hanno perso i propri figli nella città dove la scuola è stata bombardata, ha consegnato materiale di cancelleria e ha fatto una donazione per la costruzione di una nuova scuola. Stati Uniti e…",
-    "en": "News Center The cyclists who set out from Çanakkale reached Minab. Welcoming people from many cities along the Iran route, the delegation met with families who lost their children in the city where the school was bombed, delivered stationery supplies, and donated to the construction of a new school. USA and…"
-   }
-  },
-  {
-   "id": "90cc678573a2405c",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/vietnamese-leaders-extend-sympathies-over-serious-earthquake-in-tibet-china-post168153.html",
-   "date": "2026-10-23T15:34:44+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/-dirU_ca9oiedkCeBhcBOniFBtG3_xRVtjYrlzWMzeYxo9xq2_BaKadh-ySbjQoX/tibet-8534.jpg.avif",
-   "title": {
-    "orig": "Vietnamese leaders extend sympathies over serious earthquake in Tibet, China",
-    "it": "I leader vietnamiti esprimono solidarietà per il grave terremoto in Tibet, Cina",
-    "en": "Vietnamese leaders extend sympathies over serious earthquake in Tibet, China"
-   },
-   "summary": {
-    "orig": "Vietnamese Party and State leaders on October 23 sent messages of sympathy to their Chinese counterparts following a devastating earthquake that struck Baqing county, Nagqu city, in the Tibet Autonomous Region of China on the evening of October 22, causing heavy losses of life…",
-    "it": "Il 23 ottobre i leader del Partito e dello Stato vietnamiti hanno inviato messaggi di solidarietà alle loro controparti cinesi in seguito al devastante terremoto che ha colpito la contea di Baqing, città di Nagqu, nella regione autonoma del Tibet in Cina, la sera del 22 ottobre, causando pesanti perdite di vite umane…",
-    "en": "Vietnamese Party and State leaders on October 23 sent messages of sympathy to their Chinese counterparts following a devastating earthquake that struck Baqing county, Nagqu city, in the Tibet Autonomous Region of China on the evening of October 22, causing heavy losses of life…"
    }
   },
   {
@@ -5921,26 +6281,6 @@
     "orig": "Вечером 21 октября в московском аэропорту задержан член ЦК КПРФ, первый секретарь Комитета КПРФ Республики Коми Олег Алексеевич Михайлов*, который возвращался из отпуска. Олег Алексеевич – депутат Государственной Думы РФ восьмого созыва, являлся кандидатом на … Читать дальше →",
     "it": "La sera del 21 ottobre, il membro del Comitato Centrale del Partito Comunista della Federazione Russa, primo segretario del Comitato del Partito Comunista della Federazione Russa della Repubblica dei Komi, Oleg Alekseevich Mikhailov*, di ritorno dalle vacanze, è stato arrestato all'aeroporto di Mosca. Oleg Alekseevich - deputato della Duma di Stato della Federazione Russa dell'ottava convocazione, era candidato... Leggi di più →",
     "en": "On the evening of October 21, a member of the Central Committee of the Communist Party of the Russian Federation, first secretary of the Committee of the Communist Party of the Russian Federation of the Komi Republic, Oleg Alekseevich Mikhailov*, who was returning from vacation, was detained at the Moscow airport. Oleg Alekseevich - deputy of the State Duma of the Russian Federation of the eighth convocation, was a candidate for... Read more →"
-   }
-  },
-  {
-   "id": "a41c61d3a613e97d",
-   "source": "sol",
-   "name": "soL Haber",
-   "country": "TR",
-   "lang": "tr",
-   "url": "https://haber.sol.org.tr/haber/grup-yorum-uyesi-cem-dursunun-yasam-hakki-tehlikede-178-gundur-aclik-grevinde-415319",
-   "date": "2026-10-23T15:24:39+00:00",
-   "image": "https://haber.sol.org.tr/sites/default/files/styles/480x270/public/images/content/article/2026/10/23/cemdursun.jpg.webp?itok=xdMZcF4j",
-   "title": {
-    "orig": "Grup Yorum üyesi Cem Dursun’un yaşam hakkı tehlikede: 178 gündür açlık grevinde",
-    "it": "Il diritto alla vita di Cem Dursun, membro del Grup Yorum, è in pericolo: è in sciopero della fame da 178 giorni",
-    "en": "Grup Yorum member Cem Dursun's right to life is in danger: He has been on hunger strike for 178 days"
-   },
-   "summary": {
-    "orig": "Haber Merkezi Grup Yorum üyesi ve mimar Cem Dursun, Marmara 6 No’lu Hapishanesi’nde maruz kaldığı tecrit ve sürekli kamera gözetimine karşı sürdürdüğü süresiz açlık grevinin 178. gününde. Ailesi ve arkadaşları, Dursun’un yaşam hakkının korunması için uluslararası dayanışma…",
-    "it": "Cem Dursun, membro e architetto del News Center Grup Yorum, è al 178esimo giorno di sciopero della fame a tempo indeterminato contro l'isolamento e la costante sorveglianza televisiva a cui è sottoposto nella prigione n. 6 di Marmara. La sua famiglia e i suoi amici esprimono solidarietà internazionale per proteggere il diritto alla vita di Dursun...",
-    "en": "News Center Grup Yorum member and architect Cem Dursun is on the 178th day of his indefinite hunger strike against the isolation and constant camera surveillance he is subjected to in Marmara Prison No. 6. His family and friends express international solidarity to protect Dursun's right to life..."
    }
   },
   {
@@ -6064,26 +6404,6 @@
    }
   },
   {
-   "id": "67992cda103dc0ae",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/polish-pms-viet-nam-visit-to-strengthen-bilateral-ties-ambassador-post168152.html",
-   "date": "2026-10-23T14:42:34+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/-dirU_ca9oiedkCeBhcBOm0vndHMXCXaY35hG1ufUwC2sa1h4WP2dI22h_3UHjSookkmEjjNuO2rOulHtZHKGorH2fqqYZenqT7bnESdxq-pPy1HDXnuLyWa4UnK4ekoPoacVdsR_Jpk9nmr2_3LO6jfhEBO9fG1_g4oVDIATWW3FHApih9IRvVMQN6fNpOq/vnanet-potal-chuyen-tham-cua-thu-tuong-ba-lan-gop-phan-cung-co-quan-he-hop-tac-huu-nghi-viet-nam-ba-lan.jpg.avif",
-   "title": {
-    "orig": "Polish PM's Viet Nam visit to strengthen bilateral ties: Ambassador",
-    "it": "Visita del Primo Ministro polacco in Vietnam per rafforzare i legami bilaterali: Ambasciatore",
-    "en": "Polish PM's Viet Nam visit to strengthen bilateral ties: Ambassador"
-   },
-   "summary": {
-    "orig": "Polish Prime Minister Donald Tusk’s upcoming official visit to Viet Nam is expected to strengthen bilateral relations and open up new opportunities for cooperation in trade, education, digital transformation, green technology and cultural exchanges, Polish Ambassador to Viet Nam…",
-    "it": "Si prevede che l'imminente visita ufficiale del primo ministro polacco Donald Tusk in Vietnam rafforzerà le relazioni bilaterali e aprirà nuove opportunità di cooperazione nel commercio, nell'istruzione, nella trasformazione digitale, nella tecnologia verde e negli scambi culturali, ha affermato l'ambasciatore polacco in Vietnam...",
-    "en": "Polish Prime Minister Donald Tusk’s upcoming official visit to Viet Nam is expected to strengthen bilateral relations and open up new opportunities for cooperation in trade, education, digital transformation, green technology and cultural exchanges, Polish Ambassador to Viet Nam…"
-   }
-  },
-  {
    "id": "a0d8708b63f1e104",
    "source": "mundoobrero",
    "name": "Mundo Obrero",
@@ -6121,26 +6441,6 @@
     "orig": "El embajador de Cuba ante la Santa Sede, Leyde Ernesto Rodríguez Hernández, destacó el papel de la Iglesia Católica en los esfuerzos para poner fin al bloqueo de Estados Unidos contra su país y recordó la preocupación del papa León XIV, en febrero pasado, ante el aumento de las…",
     "it": "L’ambasciatore cubano presso la Santa Sede, Leyde Ernesto Rodríguez Hernández, ha sottolineato il ruolo della Chiesa cattolica negli sforzi per porre fine al blocco degli Stati Uniti contro il suo paese e ha ricordato la preoccupazione di Papa Leone XIV, lo scorso febbraio, riguardo all’aumento...",
     "en": "The Cuban ambassador to the Holy See, Leyde Ernesto Rodríguez Hernández, highlighted the role of the Catholic Church in the efforts to end the United States blockade against his country and recalled the concern of Pope Leo XIV, last February, regarding the increase in..."
-   }
-  },
-  {
-   "id": "5b9b1197af42f1a8",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/da-nang-unveils-100-tourism-experiences-for-2026-post168151.html",
-   "date": "2026-10-23T14:37:31+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/-dirU_ca9oiedkCeBhcBOjWXRsWfrXzTYmGWqh7ZMp3pAlwteUTXUUjejuFmS-nk/1.jpg.avif",
-   "title": {
-    "orig": "Da Nang unveils 100 tourism experiences for 2026",
-    "it": "Da Nang svela 100 esperienze turistiche per il 2026",
-    "en": "Da Nang unveils 100 tourism experiences for 2026"
-   },
-   "summary": {
-    "orig": "Da Nang announced its 100 tourism touchpoints for 2026 on October 23, highlighting local cultural, culinary and natural experiences alongside community life to diversify ways for visitors to explore the central coastal city. Da Nang to host Art Creatives Connection event Da Nang…",
-    "it": "Da Nang ha annunciato il 23 ottobre i suoi 100 punti di contatto turistici per il 2026, mettendo in evidenza le esperienze culturali, culinarie e naturali locali insieme alla vita comunitaria per diversificare i modi in cui i visitatori possono esplorare la città costiera centrale. Da Nang ospiterà l'evento Art Creatives Connection Da Nang...",
-    "en": "Da Nang announced its 100 tourism touchpoints for 2026 on October 23, highlighting local cultural, culinary and natural experiences alongside community life to diversify ways for visitors to explore the central coastal city. Da Nang to host Art Creatives Connection event Da Nang…"
    }
   },
   {
@@ -6221,26 +6521,6 @@
     "orig": "ARSONISTS are believed to have attacked a site earmarked for asylum-seekers, after a local council leader claimed the government was trying to “soften us up” by saying it would be for women and children. Cambridgeshire Police confirmed today that a fire which “severely damaged”…",
     "it": "Si ritiene che gli incendiari abbiano attaccato un sito destinato ai richiedenti asilo, dopo che un leader del consiglio locale aveva affermato che il governo stava cercando di \"ammorbidirci\" dicendo che sarebbe stato per donne e bambini. La polizia del Cambridgeshire ha confermato oggi che un incendio che ha \"gravemente danneggiato\"...",
     "en": "ARSONISTS are believed to have attacked a site earmarked for asylum-seekers, after a local council leader claimed the government was trying to “soften us up” by saying it would be for women and children. Cambridgeshire Police confirmed today that a fire which “severely damaged”…"
-   }
-  },
-  {
-   "id": "cbed8255db1389cc",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/asian-american-businesses-help-expand-viet-nam-us-trade-ties-post168150.html",
-   "date": "2026-10-23T14:10:41+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/-dirU_ca9oiedkCeBhcBOm0vndHMXCXaY35hG1ufUwAlv7SzrBTsD1NPuErEeD8L/vnanet-n.jpg.avif",
-   "title": {
-    "orig": "Asian-American businesses help expand Viet Nam-US trade ties",
-    "it": "Le imprese asiatico-americane contribuiscono ad espandere i legami commerciali tra Vietnam e Stati Uniti",
-    "en": "Asian-American businesses help expand Viet Nam-US trade ties"
-   },
-   "summary": {
-    "orig": "Vietnamese Ambassador to the US Nguyen Quoc Dung has praised the Asian-American Chamber of Commerce (AACC) for helping Vietnamese businesses and products reach US distributors, retail networks and trade partners. Seminar helps businesses expand presence in US market Prime…",
-    "it": "L'ambasciatore vietnamita negli Stati Uniti Nguyen Quoc Dung ha elogiato la Camera di commercio asiatico-americana (AACC) per aver aiutato le aziende e i prodotti vietnamiti a raggiungere distributori, reti di vendita al dettaglio e partner commerciali statunitensi. Il seminario aiuta le aziende ad espandere la presenza nel mercato statunitense Prime...",
-    "en": "Vietnamese Ambassador to the US Nguyen Quoc Dung has praised the Asian-American Chamber of Commerce (AACC) for helping Vietnamese businesses and products reach US distributors, retail networks and trade partners. Seminar helps businesses expand presence in US market Prime…"
    }
   },
   {
@@ -6341,26 +6621,6 @@
     "orig": "THOUSANDS of people seeking refuge remain trapped at the France-Britain border 10 years after the Calais “Jungle” was dismantled. The informal settlement site was set up for the thousands waiting in the hope of crossing the Channel to reach Britain in 2015 and saw French police…",
     "it": "MIGLIAIA di persone in cerca di rifugio rimangono intrappolate al confine tra Francia e Gran Bretagna 10 anni dopo lo smantellamento della “giungla” di Calais. Il sito di insediamento informale è stato allestito per le migliaia di persone in attesa nella speranza di attraversare la Manica per raggiungere la Gran Bretagna nel 2015 e ha visto la polizia francese...",
     "en": "THOUSANDS of people seeking refuge remain trapped at the France-Britain border 10 years after the Calais “Jungle” was dismantled. The informal settlement site was set up for the thousands waiting in the hope of crossing the Channel to reach Britain in 2015 and saw French police…"
-   }
-  },
-  {
-   "id": "ea1eed1f31694e1d",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/belgian-prime-minister-hosts-welcome-ceremony-for-viet-nams-top-leader-post168149.html",
-   "date": "2026-10-23T13:46:53+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/-dirU_ca9oiedkCeBhcBOoASQ0uhfo7I2vSmWYWIIixynHoL19jzLDJvjKJ7BIg96jk09atgqQ9vmhXhSWGHq6-0-et-3G_HQw_3a4nKCPdN6Gipc2dwcpppNWyA4QvNGUPysWvN4PTplt-2m5NvYukCXC15RNdRSN6O4WZL6eQ/vna-potal-thu-tuong-bi-chu-tri-le-don-chinh-thuc-tong-bi-thu-chu-tich-nuoc-to-lam.jpg.avif",
-   "title": {
-    "orig": "Belgian Prime Minister hosts welcome ceremony for Viet Nam's top leader",
-    "it": "Il Primo Ministro belga ospita la cerimonia di benvenuto per il massimo leader del Vietnam",
-    "en": "Belgian Prime Minister hosts welcome ceremony for Viet Nam's top leader"
-   },
-   "summary": {
-    "orig": "Belgian Prime Minister Bart De Wever hosted an official welcome ceremony for General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam at Egmont Palace in Brussels at October 23 noon (local time), as part of his official visit to Belgium. Top…",
-    "it": "Il 23 ottobre a mezzogiorno (ora locale), il Primo Ministro belga Bart De Wever ha ospitato una cerimonia ufficiale di benvenuto al Segretario generale del Comitato Centrale del Partito Comunista del Vietnam e al Presidente To Lam presso il Palazzo Egmont a Bruxelles, nell'ambito della sua visita ufficiale in Belgio. Superiore…",
-    "en": "Belgian Prime Minister Bart De Wever hosted an official welcome ceremony for General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam at Egmont Palace in Brussels at October 23 noon (local time), as part of his official visit to Belgium. Top…"
    }
   },
   {
@@ -9344,146 +9604,6 @@
    }
   },
   {
-   "id": "031739d2c68b9ac9",
-   "source": "contropiano",
-   "name": "Contropiano",
-   "country": "IT",
-   "lang": "it",
-   "url": "https://contropiano.org/news/news-economia/2026/10/22/mezzogiorno-di-fuoco-e-il-governo-centra-0199935",
-   "date": "2026-10-22T07:01:54+00:00",
-   "image": "https://contropiano.org/img/2026/10/Ilva-operai-nuova-in-strada.jpg",
-   "title": {
-    "orig": "Mezzogiorno di fuoco, e il governo c’entra",
-    "it": "Mezzogiorno di fuoco, e il governo c’entra",
-    "en": "High noon, and the government has something to do with it"
-   },
-   "summary": {
-    "orig": "Senza che i media diano troppo risalto al fenomeno e mentre il governo Meloni ha approvato i favolosi schemi di intesa definitiva e i relativi disegni di legge per le quattro Regioni del Nord che hanno richiesto l’autonomia, nel Meridione si manifestano numerosi segnali di…",
-    "it": "Senza che i media diano troppo risalto al fenomeno e mentre il governo Meloni ha approvato i favolosi schemi di intesa definitiva e i relativi disegni di legge per le quattro Regioni del Nord che hanno richiesto l’autonomia, nel Meridione si manifestano numerosi segnali di…",
-    "en": "Without the media giving too much prominence to the phenomenon and while the Meloni government has approved the fabulous definitive agreement schemes and the related bills for the four Northern Regions that have requested autonomy, in the South there are numerous signs of…"
-   }
-  },
-  {
-   "id": "d4663dbeb6ff8a01",
-   "source": "contropiano",
-   "name": "Contropiano",
-   "country": "IT",
-   "lang": "it",
-   "url": "https://contropiano.org/news/politica-news/2026/10/22/minacce-e-spiccioli-per-gli-autrasportatori-0199950",
-   "date": "2026-10-22T07:00:45+00:00",
-   "image": "https://contropiano.org/img/2026/10/minacce-spiccioli-autotrasportatori.webp",
-   "title": {
-    "orig": "Minacce e spiccioli per gli autrasportatori",
-    "it": "Minacce e spiccioli per gli autrasportatori",
-    "en": "Threats and small change for truck drivers"
-   },
-   "summary": {
-    "orig": "Anche gli autotrasportatori non sono più quelli di una volta… Quelli che, per esempio, bloccando il Cile, “giustificarono” la scelta americana del colpo di stato di Pinochet. Altri tempi, altro continente, altra struttura sociale. In Italia il settore mischia e confonde grandi…",
-    "it": "Anche gli autotrasportatori non sono più quelli di una volta… Quelli che, per esempio, bloccando il Cile, “giustificarono” la scelta americana del colpo di stato di Pinochet. Altri tempi, altro continente, altra struttura sociale. In Italia il settore mischia e confonde grandi…",
-    "en": "Even truck drivers are no longer what they used to be... Those who, for example, by blocking Chile, \"justified\" the American choice of Pinochet's coup. Other times, another continent, another social structure. In Italy the sector mixes and confuses large…"
-   }
-  },
-  {
-   "id": "000b8dcaae3d3d48",
-   "source": "contropiano",
-   "name": "Contropiano",
-   "country": "IT",
-   "lang": "it",
-   "url": "https://contropiano.org/interventi/2026/10/22/la-lunga-strada-che-ha-portato-allesplosione-0199887",
-   "date": "2026-10-22T06:50:56+00:00",
-   "image": "https://contropiano.org/img/2026/10/Milano-eccedenza-1.jpg",
-   "title": {
-    "orig": "La lunga strada che ha portato all’esplosione",
-    "it": "La lunga strada che ha portato all’esplosione",
-    "en": "The long road that led to the explosion"
-   },
-   "summary": {
-    "orig": "Forse sarà giunto il momento di parlare della rabbia di una generazione espropriata. Del resto, l’indignazione borghese per le vetrine di Milano difende una gerarchia precisa, fondata sul primato della proprietà, che relega all’irrilevanza sociale la sofferenza di chi possiede…",
-    "it": "Forse sarà giunto il momento di parlare della rabbia di una generazione espropriata. Del resto, l’indignazione borghese per le vetrine di Milano difende una gerarchia precisa, fondata sul primato della proprietà, che relega all’irrilevanza sociale la sofferenza di chi possiede…",
-    "en": "Perhaps the time has come to talk about the anger of a dispossessed generation. Moreover, the bourgeois indignation over the shop windows of Milan defends a precise hierarchy, based on the primacy of property, which relegates the suffering of those who own to social irrelevance..."
-   }
-  },
-  {
-   "id": "5952faf91f067aea",
-   "source": "contropiano",
-   "name": "Contropiano",
-   "country": "IT",
-   "lang": "it",
-   "url": "https://contropiano.org/news/politica-news/2026/10/22/e-tempo-di-fare-linventario-0199941",
-   "date": "2026-10-22T05:50:13+00:00",
-   "image": "https://contropiano.org/img/2026/10/Milano-eccedenza-negozio.png",
-   "title": {
-    "orig": "E’ tempo di fare l’inventario",
-    "it": "E’ tempo di fare l’inventario",
-    "en": "It's time to take inventory"
-   },
-   "summary": {
-    "orig": "Di seguito l’elenco dei principali negozi e punti vendita colpiti a Milano e a cui “i genitori dovrebbero pagare i danni”. Ma le multinazionali non sono neppure assicurate? Via Torino e strade limitrofe • Foot Locker: multinazionale con sede principale negli Stati Uniti (a New…",
-    "it": "Di seguito l’elenco dei principali negozi e punti vendita colpiti a Milano e a cui “i genitori dovrebbero pagare i danni”. Ma le multinazionali non sono neppure assicurate? Via Torino e strade limitrofe • Foot Locker: multinazionale con sede principale negli Stati Uniti (a New…",
-    "en": "Below is the list of the main shops and outlets affected in Milan and to which \"parents should pay the damages\". But multinationals aren't even insured? Via Torino and surrounding streets • Foot Locker: multinational with headquarters in the United States (in New…"
-   }
-  },
-  {
-   "id": "5decd8e89afc9298",
-   "source": "contropiano",
-   "name": "Contropiano",
-   "country": "IT",
-   "lang": "it",
-   "url": "https://contropiano.org/news/politica-news/2026/10/22/il-carovita-morde-come-negli-anni-settanta-ma-nulla-e-come-prima-0199928",
-   "date": "2026-10-22T05:47:49+00:00",
-   "image": "https://contropiano.org/img/2026/10/carovita-settanta.jpeg",
-   "title": {
-    "orig": "Il carovita morde come negli anni Settanta ma nulla è come prima",
-    "it": "Il carovita morde come negli anni Settanta ma nulla è come prima",
-    "en": "The cost of living is biting like in the seventies but nothing is like before"
-   },
-   "summary": {
-    "orig": "Negli anni settanta, in Italia il carovita divenne un tema centrale a causa dell’inflazione galoppante e dello shock petrolifero del 1973 che causò il raddoppio del prezzo del greggio. Per affrontare le conseguenze della crisi petrolifera il governo italiano, come altri governi…",
-    "it": "Negli anni settanta, in Italia il carovita divenne un tema centrale a causa dell’inflazione galoppante e dello shock petrolifero del 1973 che causò il raddoppio del prezzo del greggio. Per affrontare le conseguenze della crisi petrolifera il governo italiano, come altri governi…",
-    "en": "In the seventies, the cost of living became a central issue in Italy due to galloping inflation and the 1973 oil shock which caused the price of crude oil to double. To address the consequences of the oil crisis, the Italian government, like other governments…"
-   }
-  },
-  {
-   "id": "018e50f1b7c18c3c",
-   "source": "contropiano",
-   "name": "Contropiano",
-   "country": "IT",
-   "lang": "it",
-   "url": "https://contropiano.org/corsivo/2026/10/22/i-maranza-a-milano-quelli-di-manzoni-e-quelli-visti-da-marx-0199943",
-   "date": "2026-10-22T05:42:53+00:00",
-   "image": "https://contropiano.org/img/2026/10/maranza-1628_n.jpg",
-   "title": {
-    "orig": "I “maranza” a Milano: quelli di Man­zoni e quelli visti da Marx",
-    "it": "I “maranza” a Milano: quelli di Man­zoni e quelli visti da Marx",
-    "en": "The “maranza” in Milan: those of Manzoni and those seen by Marx"
-   },
-   "summary": {
-    "orig": "“Ho imparato a non mettermi ne’ tumulti”, diceva a se stesso Renzo Tramaglino, ne I promessi sposi, un maranza gentile che veniva da fuori, un proletario, anche lui senza ascensore sociale, che dopotutto voleva solo sposarsi, poveretto. Perché i tumulti, guarda un po’, c’erano…",
-    "it": "“Ho imparato a non mettermi ne’ tumulti”, diceva a se stesso Renzo Tramaglino, ne I promessi sposi, un maranza gentile che veniva da fuori, un proletario, anche lui senza ascensore sociale, che dopotutto voleva solo sposarsi, poveretto. Perché i tumulti, guarda un po’, c’erano…",
-    "en": "“I have learned not to get involved in riots”, Renzo Tramaglino said to himself, in The Betrothed, a kind Maranza who came from outside, a proletarian, also without social standing, who after all just wanted to get married, poor guy. Because the riots, look, there were…"
-   }
-  },
-  {
-   "id": "bef782f21d102dee",
-   "source": "contropiano",
-   "name": "Contropiano",
-   "country": "IT",
-   "lang": "it",
-   "url": "https://contropiano.org/news/internazionale-news/2026/10/22/brasile-bolsonaro-e-lula-sono-testa-a-testa-secondo-i-sondaggi-decisivo-chi-non-ha-votato-al-primo-turno-0199931",
-   "date": "2026-10-22T05:36:26+00:00",
-   "image": "https://contropiano.org/img/2026/10/Brasile-cartello-per-Lula.webp",
-   "title": {
-    "orig": "Brasile. Bolsonaro e Lula sono testa a testa, secondo i sondaggi",
-    "it": "Brasile. Bolsonaro e Lula sono testa a testa, secondo i sondaggi",
-    "en": "Brazil. Bolsonaro and Lula are neck and neck, according to polls"
-   },
-   "summary": {
-    "orig": "Diciannove giorni dopo che i sondaggi hanno negato quasi tutti i sondaggi, Flávio Bolsonaro ha poco più di un punto dal vantaggio che aveva preso al primo turno. Il senatore del Partito Liberale (PL) ha concluso il 4 ottobre con quasi due punti di vantaggio su Luiz Inácio Lula…",
-    "it": "Diciannove giorni dopo che i sondaggi hanno negato quasi tutti i sondaggi, Flávio Bolsonaro ha poco più di un punto dal vantaggio che aveva preso al primo turno. Il senatore del Partito Liberale (PL) ha concluso il 4 ottobre con quasi due punti di vantaggio su Luiz Inácio Lula…",
-    "en": "Nineteen days after nearly all polls denied, Flávio Bolsonaro is just over a point away from the lead he took in the first round. The senator from the Liberal Party (PL) ended October 4th with almost two points ahead of Luiz Inácio Lula…"
-   }
-  },
-  {
    "id": "46e275e412cfb7ba",
    "source": "marx21",
    "name": "Marx21",
@@ -9881,126 +10001,6 @@
     "orig": "La concesión del principal escenario deportivo de Bogotá acumula modificaciones contractuales, retrasos y problemas con la gramilla. Detrás de esta cadena de decisiones administrativas aparece un actor económico de peso, el Grupo Aval de Luis Carlos Sarmiento Angulo. Laura…",
     "it": "La concessione del principale impianto sportivo di Bogotá accumula modifiche contrattuali, ritardi e problemi con l'erba. Dietro questa catena di decisioni amministrative si nasconde un importante attore economico, il Gruppo Aval di Luis Carlos Sarmiento Angulo. Laura…",
     "en": "The concession of the main sports venue in Bogotá accumulates contractual modifications, delays and problems with the grass. Behind this chain of administrative decisions appears a major economic actor, the Aval Group of Luis Carlos Sarmiento Angulo. Laura…"
-   }
-  },
-  {
-   "id": "9659837e4b602421",
-   "source": "kprf",
-   "name": "KPRF",
-   "country": "RU",
-   "lang": "ru",
-   "url": "https://kprf.ru/export/rss/party-live/cknews/248235.html",
-   "date": "2026-10-21T18:25:27+00:00",
-   "image": "https://static.kprf.ru/m/420/240/t/img/2026/10/melnikov-v-rossiia-segodnia_XwURda9.jpg",
-   "title": {
-    "orig": "Иван Мельников открыл работу видеомоста Москва-Минск, посвященного 80-летию Нюрнбергского процесса",
-    "it": "Ivan Melnikov ha aperto il ponte video Mosca-Minsk dedicato all'80° anniversario del processo di Norimberga",
-    "en": "Ivan Melnikov opened the Moscow-Minsk video bridge dedicated to the 80th anniversary of the Nuremberg trials"
-   },
-   "summary": {
-    "orig": "21 октября 2026 года Первый заместитель Председателя Государственной Думы Иван Мельников в рамках работы Комиссии Парламентского Собрания Союза Беларуси и России по сохранению и защите исторической памяти открыл работу видеомоста Москва-Минск, посвященного 80-летию Нюрнбергского…",
-    "it": "Il 21 ottobre 2026, il primo vicepresidente della Duma di Stato Ivan Melnikov, nell'ambito dei lavori della Commissione dell'Assemblea parlamentare dell'Unione di Bielorussia e Russia per la conservazione e la protezione della memoria storica, ha aperto il ponte video Mosca-Minsk dedicato all'80° anniversario della Norimberga...",
-    "en": "On October 21, 2026, First Deputy Chairman of the State Duma Ivan Melnikov, within the framework of the work of the Commission of the Parliamentary Assembly of the Union of Belarus and Russia for the preservation and protection of historical memory, opened the Moscow-Minsk video bridge dedicated to the 80th anniversary of the Nuremberg..."
-   }
-  },
-  {
-   "id": "ed9bfd2fe3738d1b",
-   "source": "semanariovoz",
-   "name": "Semanario Voz",
-   "country": "CO",
-   "lang": "es",
-   "url": "https://semanariovoz.com/la-aceu-contra-el-fascismo/",
-   "date": "2026-10-21T18:18:24+00:00",
-   "image": "https://semanariovoz.com/wp-content/uploads/2026/10/delegados-universidades-publicas-y-privadas-9-scaled.jpeg",
-   "title": {
-    "orig": "La ACEU contra el fascismo",
-    "it": "L'ACEU contro il fascismo",
-    "en": "The ACEU against fascism"
-   },
-   "summary": {
-    "orig": "Entre carpas, pupitres y cantos, estudiantes de universidades públicas y privadas se encontraron para compartir sus experiencias, debatir sobre el futuro de la educación y construir una hoja de ruta para el movimiento. Redacción Juvenil Los días 16, 17 y 18 de octubre, la…",
-    "it": "Tra tende, banchi e canti, gli studenti delle università pubbliche e private si sono incontrati per condividere le loro esperienze, discutere sul futuro dell’istruzione e costruire una tabella di marcia per il movimento. Editoriale Giovani Il 16, 17 e 18 ottobre, il…",
-    "en": "Between tents, desks and songs, students from public and private universities met to share their experiences, debate the future of education and build a roadmap for the movement. Youth Editorial On October 16, 17 and 18, the…"
-   }
-  },
-  {
-   "id": "0d084afad32e197f",
-   "source": "mundoobrero",
-   "name": "Mundo Obrero",
-   "country": "ES",
-   "lang": "es",
-   "url": "https://mundoobrero.es/2026/10/21/la-embajada-de-trump-interrogo-a-colau-por-la-flotilla-antes-de-impedirle-viajar-a-puerto-rico/",
-   "date": "2026-10-21T16:03:42+00:00",
-   "image": "https://i0.wp.com/mundoobrero.es/wp-content/uploads/2026/10/colau.jpg?fit=1280%2C720&ssl=1",
-   "title": {
-    "orig": "La embajada de Trump interrogó a Colau por la flotilla antes de impedirle viajar a Puerto Rico",
-    "it": "L'ambasciata di Trump ha interrogato Colau sulla flottiglia prima di impedirgli di recarsi a Porto Rico",
-    "en": "Trump's embassy questioned Colau about the flotilla before preventing him from traveling to Puerto Rico"
-   },
-   "summary": {
-    "orig": "La Administración de Donald Trump ha denegado a Ada Colau la autorización para viajar a Puerto Rico después de que una entrevista en la embajada estadounidense en Madrid se centrara en su participación en la flotilla humanitaria que intentó llegar a Gaza en 2025. La decisión…",
-    "it": "L'amministrazione Donald Trump ha negato ad Ada Colau l'autorizzazione a recarsi a Porto Rico dopo un'intervista presso l'ambasciata americana a Madrid incentrata sulla sua partecipazione alla flottiglia umanitaria che ha tentato di raggiungere Gaza nel 2025. La decisione...",
-    "en": "The Donald Trump Administration has denied Ada Colau authorization to travel to Puerto Rico after an interview at the US embassy in Madrid focused on her participation in the humanitarian flotilla that tried to reach Gaza in 2025. The decision…"
-   }
-  },
-  {
-   "id": "db896cbc63c0abda",
-   "source": "mundoobrero",
-   "name": "Mundo Obrero",
-   "country": "ES",
-   "lang": "es",
-   "url": "https://mundoobrero.es/2026/10/21/milei-convierte-su-visita-a-espana-en-un-mitin-ultra-entre-insultos-a-sanchez-y-protestas-universitarias/",
-   "date": "2026-10-21T15:35:58+00:00",
-   "image": null,
-   "title": {
-    "orig": "Milei convierte su visita a España en un mitin ultra entre insultos a Sánchez y protestas universitarias",
-    "it": "Milei trasforma la sua visita in Spagna in un ultra comizio tra insulti a Sánchez e proteste universitarie",
-    "en": "Milei turns his visit to Spain into an ultra rally between insults to Sánchez and university protests"
-   },
-   "summary": {
-    "orig": "Javier Milei ha aprovechado su séptima visita a España como presidente de Argentina para lanzar una nueva ofensiva verbal contra el Gobierno de Pedro Sánchez, la izquierda y los medios de comunicación. Lejos de mantener las formas propias de las relaciones entre jefes de Estado…",
-    "it": "Javier Milei ha approfittato della sua settima visita in Spagna come presidente dell'Argentina per lanciare una nuova offensiva verbale contro il governo di Pedro Sánchez, la sinistra e i media. Lungi dal mantenere forme adeguate di rapporti tra i capi di Stato...",
-    "en": "Javier Milei has taken advantage of his seventh visit to Spain as president of Argentina to launch a new verbal offensive against the Government of Pedro Sánchez, the left and the media. Far from maintaining the proper forms of relations between heads of state..."
-   }
-  },
-  {
-   "id": "bbfb716d5c61ee88",
-   "source": "fightback",
-   "name": "Fight Back! News",
-   "country": "US",
-   "lang": "en",
-   "url": "https://fightbacknews.org/community-rallies-against-nypd-repression-anti-police-crime-activists-released?pk_campaign=rss-feed",
-   "date": "2026-10-21T15:24:25+00:00",
-   "image": "https://i.snap.as/0BZNfNas.jpg",
-   "title": {
-    "orig": "Community rallies against NYPD repression, anti-police crime activists released from jail",
-    "it": "Manifestazioni comunitarie contro la repressione della polizia di New York, attivisti anti-criminalità rilasciati dal carcere",
-    "en": "Community rallies against NYPD repression, anti-police crime activists released from jail"
-   },
-   "summary": {
-    "orig": "New York, NY – Over 60 community members and activists rallied outside of the Brooklyn Central Court for over 14 hours after the NYPD arrested two organizers with the New York Alliance Against Racist and Political Repression (NYAARPR) in the early morning hours of October 20.…",
-    "it": "New York, NY – Oltre 60 membri e attivisti della comunità si sono radunati fuori dalla Corte Centrale di Brooklyn per oltre 14 ore dopo che la polizia di New York ha arrestato due organizzatori della New York Alliance Against Racist and Political Repression (NYAARPR) nelle prime ore del mattino del 20 ottobre.…",
-    "en": "New York, NY – Over 60 community members and activists rallied outside of the Brooklyn Central Court for over 14 hours after the NYPD arrested two organizers with the New York Alliance Against Racist and Political Repression (NYAARPR) in the early morning hours of October 20.…"
-   }
-  },
-  {
-   "id": "0a7735015350d6a8",
-   "source": "fightback",
-   "name": "Fight Back! News",
-   "country": "US",
-   "lang": "en",
-   "url": "https://fightbacknews.org/frso-at-denver-no-kings-4-find-an-organization-and-join?pk_campaign=rss-feed",
-   "date": "2026-10-21T15:17:17+00:00",
-   "image": "https://i.snap.as/m7qI5x0A.jpg",
-   "title": {
-    "orig": "FRSO at Denver No Kings 4: ‘Find an organization and join!’",
-    "it": "FRSO a Denver No Kings 4: \"Trova un'organizzazione e unisciti!\"",
-    "en": "FRSO at Denver No Kings 4: ‘Find an organization and join!’"
-   },
-   "summary": {
-    "orig": "Denver, CO, On Saturday, October 17, hundreds of community members gathered at Denver’s Lincoln Veterans Memorial Park for No Kings 4. The event, branded as “No Kings: Vote Early,” was one of around 70 similar events planned across the state of Colorado on Saturday. The event…",
-    "it": "Denver, CO, sabato 17 ottobre, centinaia di membri della comunità si sono riuniti al Lincoln Veterans Memorial Park di Denver per No Kings 4. L'evento, denominato \"No Kings: Vote Early\", era uno dei circa 70 eventi simili pianificati in tutto lo stato del Colorado sabato. L’evento…",
-    "en": "Denver, CO, On Saturday, October 17, hundreds of community members gathered at Denver’s Lincoln Veterans Memorial Park for No Kings 4. The event, branded as “No Kings: Vote Early,” was one of around 70 similar events planned across the state of Colorado on Saturday. The event…"
    }
   }
  ]
