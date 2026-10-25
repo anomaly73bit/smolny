@@ -1,7 +1,67 @@
 {
- "updated": "2026-10-24T23:28:19+00:00",
+ "updated": "2026-10-25T04:58:06+00:00",
  "count": 500,
  "items": [
+  {
+   "id": "fbaceb069ca5c796",
+   "source": "tricontinental",
+   "name": "Tricontinental",
+   "country": "INT",
+   "lang": "en",
+   "url": "https://thetricontinental.org/art-bulletin-food-and-resistance/",
+   "date": "2026-10-25T03:00:19+00:00",
+   "image": "https://thetricontinental.org/wp-content/uploads/2026/10/AB32_Header-1.jpg",
+   "title": {
+    "orig": "Food as an Act of Resistance",
+    "it": "Il cibo come atto di resistenza",
+    "en": "Food as an Act of Resistance"
+   },
+   "summary": {
+    "orig": "As La Via Campesina mobilises for food sovereignty on 16 October, four cooks, chefs, and organisers explore who controls the land, seeds, and knowledge behind the food on our tables.",
+    "it": "Mentre La Via Campesina si mobilita per la sovranità alimentare il 16 ottobre, quattro cuochi, chef e organizzatori esplorano chi controlla la terra, i semi e la conoscenza dietro il cibo sulle nostre tavole.",
+    "en": "As La Via Campesina mobilises for food sovereignty on 16 October, four cooks, chefs, and organisers explore who controls the land, seeds, and knowledge behind the food on our tables."
+   }
+  },
+  {
+   "id": "c633d85b2c08283c",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/24/no-recife-casal-vitima-da-ditadura-alerta-para-riscos-de-eleicao-de-flavio-bolsonaro/",
+   "date": "2026-10-25T01:27:49+00:00",
+   "image": null,
+   "title": {
+    "orig": "No Recife, casal vítima da ditadura alerta para riscos de eleição de Flávio Bolsonaro",
+    "it": "A Recife, coppie vittime della dittatura avvertono dei rischi dell'elezione di Flávio Bolsonaro",
+    "en": "In Recife, couple victims of the dictatorship warn of risks of Flávio Bolsonaro's election"
+   },
+   "summary": {
+    "orig": "Luciano e Luci Siqueira foram presos, torturados e são referências na luta democrática em Pernambuco Fonte",
+    "it": "Luciano e Luci Siqueira sono stati arrestati, torturati e sono punti di riferimento nella lotta democratica a Pernambuco Source",
+    "en": "Luciano and Luci Siqueira were arrested, tortured and are references in the democratic struggle in Pernambuco Source"
+   }
+  },
+  {
+   "id": "0e7175535c8db491",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/24/ato-final-de-apoio-a-lula-e-leandro-grass-reune-apoiadores-a-2-km-de-manifestacao-pro-bolsonaro-em-brasilia/",
+   "date": "2026-10-25T01:11:56+00:00",
+   "image": null,
+   "title": {
+    "orig": "Ato final de apoio a Lula e Leandro Grass reúne apoiadores a 2 km de manifestação pró-Bolsonaro em Brasília",
+    "it": "L'ultimo atto di sostegno a Lula e Leandro Grass riunisce i sostenitori a 2 km dalla manifestazione pro-Bolsonaro a Brasilia",
+    "en": "Final act of support for Lula and Leandro Grass brings together supporters 2 km from pro-Bolsonaro demonstration in Brasília"
+   },
+   "summary": {
+    "orig": "O ato final de campanha em apoio ao presidente Luiz Inácio Lula da Silva (PT) e ao candidato ao Governo do Distrito Federal, Leandro Grass (PT), reuniu apoiadores neste sábado (24), na região central de Brasília. Com o nome “Bota pra Virar”, a mobilização ocorreu perto do Museu…",
+    "it": "L'atto finale della campagna a sostegno del presidente Luiz Inácio Lula da Silva (PT) e del candidato al governo del Distretto Federale, Leandro Grass (PT), ha riunito sostenitori questo sabato (24), nella regione centrale di Brasilia. Con il nome “Bota pra Virar”, la mobilitazione ha avuto luogo nei pressi del Museo…",
+    "en": "The final act of the campaign in support of President Luiz Inácio Lula da Silva (PT) and the candidate for the Government of the Federal District, Leandro Grass (PT), brought together supporters this Saturday (24), in the central region of Brasília. With the name “Bota pra Virar”, the mobilization took place near the Museum…"
+   }
+  },
   {
    "id": "a4beec4d7133aa9f",
    "source": "cubadebate",
@@ -20,6 +80,26 @@
     "orig": "El embajador cubano ante la Santa Sede, Leyde Rodríguez Hernández, expresó este sábado su confianza en que la Asamblea General de las Naciones Unidas aprobará, por amplia mayoría, la resolución de rechazo al bloqueo estadounidense contra la isla, en un contexto marcado por el…",
     "it": "L’ambasciatore cubano presso la Santa Sede, Leyde Rodríguez Hernández, ha espresso questo sabato la sua fiducia che l’Assemblea Generale delle Nazioni Unite approverà, a grande maggioranza, la risoluzione che respinge il blocco statunitense contro l’isola, in un contesto segnato da...",
     "en": "The Cuban ambassador to the Holy See, Leyde Rodríguez Hernández, expressed this Saturday his confidence that the United Nations General Assembly will approve, by a large majority, the resolution rejecting the US blockade against the island, in a context marked by…"
+   }
+  },
+  {
+   "id": "65a06bdb50324afa",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/24/lula-encerra-campanha-na-paulista-e-mobiliza-centenas-de-milhares-de-apoiadores/",
+   "date": "2026-10-24T23:11:42+00:00",
+   "image": null,
+   "title": {
+    "orig": "Lula encerra campanha na Paulista e mobiliza centenas de milhares de apoiadores",
+    "it": "Lula conclude la campagna a Paulista e mobilita centinaia di migliaia di sostenitori",
+    "en": "Lula ends campaign in Paulista and mobilizes hundreds of thousands of supporters"
+   },
+   "summary": {
+    "orig": "O presidente Luiz Inácio Lula da Silva (PT) chegou à Avenida Paulista, em São Paulo (SP), por volta das 16h deste sábado (24), para o último ato de sua campanha eleitoral. Recebido por centenas de milhares de apoiadores, o presidente falou rapidamente com a imprensa e seguiu…",
+    "it": "Il presidente Luiz Inácio Lula da Silva (PT) è arrivato nell'Avenida Paulista, a San Paolo (SP), intorno alle 16 di questo sabato (24), per l'ultimo atto della sua campagna elettorale. Accolto da centinaia di migliaia di sostenitori, il presidente ha parlato brevemente alla stampa e ha seguito...",
+    "en": "President Luiz Inácio Lula da Silva (PT) arrived at Avenida Paulista, in São Paulo (SP), at around 4pm this Saturday (24), for the last act of his electoral campaign. Welcomed by hundreds of thousands of supporters, the president spoke briefly to the press and followed…"
    }
   },
   {
@@ -4741,66 +4821,6 @@
     "orig": "Aydemir Güler Karşıdevrimcilerin yıktıklarının yerine bir Yeni-Osmanlı düzeni koymalarına halktan izin çıkmıyor. Sonuç, Türkiye’nin arafta kalma halidir. Bu bir statüko olamaz. Nihai hesaplaşmaya hazırlanıyoruz… O hesaplaşmadan başı dik çıktığımızda bayramların en coşkulusunu…",
     "it": "Aydemir Güler Il popolo non permette ai controrivoluzionari di sostituire ciò che hanno distrutto con un ordine neo-ottomano. Il risultato è che la Turchia rimane nel limbo. Questo non può essere uno status quo. Ci stiamo preparando per la resa dei conti finale... Quando usciremo da quella resa dei conti a testa alta, vivremo la più gioiosa delle vacanze...",
     "en": "Aydemir Güler The people do not allow the counter-revolutionaries to replace what they destroyed with a Neo-Ottoman order. The result is Turkey remaining in limbo. This cannot be a status quo. We are preparing for the final showdown... When we emerge from that showdown with our heads held high, we will experience the most joyful of holidays..."
-   }
-  },
-  {
-   "id": "7534cfcbbc258b63",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/23/fome-nunca-mais-coletivo-banquetaco-distribui-uma-tonelada-de-refeicoes-em-brasilia/",
-   "date": "2026-10-23T20:52:02+00:00",
-   "image": null,
-   "title": {
-    "orig": "‘Fome nunca mais’: coletivo Banquetaço distribui uma tonelada de refeições em Brasília",
-    "it": "“Mai più la fame”: il collettivo Banquetaço distribuisce tonnellate di pasti a Brasilia",
-    "en": "‘Hunger never again’: Banquetaço collective distributes a ton of meals in Brasília"
-   },
-   "summary": {
-    "orig": "Uma tonelada de comida foi preparada e distribuída pelo coletivo Banquetaço em ação realizada nesta sexta-feira (23) no Setor Comercial Sul, em Brasília. A mobilização reuniu movimentos populares, cozinhas comunitárias e agricultores familiares em uma atividade que combinou a…",
-    "it": "Una tonnellata di cibo è stata preparata e distribuita dal collettivo Banquetaço in un'azione svoltasi questo venerdì (23) al Setor Comercial Sul, a Brasilia. La mobilitazione ha riunito movimenti popolari, cucine comunitarie e agricoltori familiari in un’attività che ha unito…",
-    "en": "A ton of food was prepared and distributed by the Banquetaço collective in an action held this Friday (23) at Setor Comercial Sul, in Brasília. The mobilization brought together popular movements, community kitchens and family farmers in an activity that combined…"
-   }
-  },
-  {
-   "id": "19c0e0abc83f70dc",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/23/alba-movimentos-reune-jornalistas-de-sete-paises-para-cobertura-das-eleicoes/",
-   "date": "2026-10-23T20:50:20+00:00",
-   "image": null,
-   "title": {
-    "orig": "Alba Movimentos reúne 14 jornalistas de sete países para cobertura das eleições no Brasil",
-    "it": "Alba Movimentos riunisce 14 giornalisti provenienti da sette paesi per coprire le elezioni in Brasile",
-    "en": "Alba Movimentos brings together 14 journalists from seven countries to cover the elections in Brazil"
-   },
-   "summary": {
-    "orig": "A Alba Movimentos, uma articulação continental de movimentos sociais e populares, traz 14 jornalistas de sete países para a cobertura do segundo turno das eleições presidenciais no Brasil. São repórteres e editores da Argentina, Venezuela, Chile, Uruguai, México, Estados Unidos…",
-    "it": "Alba Movimentos, organizzazione continentale di movimenti sociali e popolari, porta 14 giornalisti provenienti da sette paesi per coprire il secondo turno delle elezioni presidenziali in Brasile. Sono giornalisti ed editori provenienti da Argentina, Venezuela, Cile, Uruguay, Messico, Stati Uniti...",
-    "en": "Alba Movimentos, a continental organization of social and popular movements, brings 14 journalists from seven countries to cover the second round of the presidential elections in Brazil. They are reporters and editors from Argentina, Venezuela, Chile, Uruguay, Mexico, the United States..."
-   }
-  },
-  {
-   "id": "64b2585c4bf06070",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/colunista/observatorio-das-metropoles-nucleo-sao-paulo/2026/10/23/descobrindo-um-santo-para-cobrir-o-outro-para-suprir-falta-dagua-em-guaruja-sabesp-desvia-agua-de-santos-e-sao-vicente/",
-   "date": "2026-10-23T20:43:19+00:00",
-   "image": null,
-   "title": {
-    "orig": "Descobrindo um santo para cobrir o outro: para suprir falta d’água em Guarujá, Sabesp desvia água de Santos e São Vicente",
-    "it": "Scoprire un santo per coprirne un altro: per superare la carenza d'acqua a Guarujá, Sabesp devia l'acqua da Santos e São Vicente",
-    "en": "Discovering one saint to cover another: to overcome water shortages in Guarujá, Sabesp diverts water from Santos and São Vicente"
-   },
-   "summary": {
-    "orig": "A Sabesp, maior empresa de saneamento básico do Brasil, que passou ao controle privado em 2024 por iniciativa do governo Tarcísio de Freitas, adota estratégia equivocada e irresponsável ao desviar mais água do abastecimento da Ilha de São Vicente, onde ficam as sedes dos…",
-    "it": "Sabesp, la più grande azienda di servizi igienico-sanitari di base del Brasile, passata sotto il controllo privato nel 2024 su iniziativa del governo Tarcísio de Freitas, adotta una strategia sbagliata e irresponsabile deviando più acqua dalla fornitura dell'isola di São Vicente, dove ha sede la...",
-    "en": "Sabesp, the largest basic sanitation company in Brazil, which came under private control in 2024 on the initiative of the Tarcísio de Freitas government, adopts a mistaken and irresponsible strategy by diverting more water from the supply of São Vicente Island, where the headquarters of…"
    }
   },
   {
@@ -9981,26 +10001,6 @@
     "orig": "Denver, CO, On Saturday, October 17, hundreds of community members gathered at Denver’s Lincoln Veterans Memorial Park for No Kings 4. The event, branded as “No Kings: Vote Early,” was one of around 70 similar events planned across the state of Colorado on Saturday. The event…",
     "it": "Denver, CO, sabato 17 ottobre, centinaia di membri della comunità si sono riuniti al Lincoln Veterans Memorial Park di Denver per No Kings 4. L'evento, denominato \"No Kings: Vote Early\", era uno dei circa 70 eventi simili pianificati in tutto lo stato del Colorado sabato. L’evento…",
     "en": "Denver, CO, On Saturday, October 17, hundreds of community members gathered at Denver’s Lincoln Veterans Memorial Park for No Kings 4. The event, branded as “No Kings: Vote Early,” was one of around 70 similar events planned across the state of Colorado on Saturday. The event…"
-   }
-  },
-  {
-   "id": "55f65aff7488fa49",
-   "source": "liberationnews",
-   "name": "Liberation News",
-   "country": "US",
-   "lang": "en",
-   "url": "https://liberationnews.org/the-midterm-curse-proves-the-two-party-system-is-a-dead-end/",
-   "date": "2026-10-21T15:00:56+00:00",
-   "image": "https://liberationnews.org/wp-content/uploads/2026/10/obama-family-center-opening-17-1024x682.webp",
-   "title": {
-    "orig": "The Midterm Curse Proves the Two-Party System is a Dead End",
-    "it": "La maledizione di medio termine dimostra che il sistema bipartitico è un vicolo cieco",
-    "en": "The Midterm Curse Proves the Two-Party System is a Dead End"
-   },
-   "summary": {
-    "orig": "The growing desire across the country to defeat Trump and his billionaire agenda is righteous. But what will a “blue wave” in the midterm elections actually achieve?",
-    "it": "Il desiderio crescente in tutto il Paese di sconfiggere Trump e la sua agenda miliardaria è giusto. Ma cosa porterà effettivamente una “onda blu” alle elezioni di medio termine?",
-    "en": "The growing desire across the country to defeat Trump and his billionaire agenda is righteous. But what will a “blue wave” in the midterm elections actually achieve?"
    }
   }
  ]
