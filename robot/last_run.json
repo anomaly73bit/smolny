@@ -1,17 +1,16 @@
 {
- "run": "2026-10-25T23:22:11+00:00",
- "new": 91,
+ "run": "2026-10-26T05:01:19+00:00",
+ "new": 108,
  "published": 500,
- "pending_translation": 15,
- "sources_ok": 31,
+ "pending_translation": 47,
+ "sources_ok": 32,
  "sources_total": 50,
  "translate_ok": 0,
- "translate_fail": 5,
+ "translate_fail": 3,
  "errors": {
-  "gtx: RuntimeError HTTP 429": 3,
-  "deep_translator: TooManyRequests Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up": 2
+  "gtx: RuntimeError HTTP 429": 2,
+  "deep_translator: TooManyRequests Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up": 1
  },
- "synth_short_text": 2,
  "synth_stopped": "chiave ANTHROPIC_API_KEY non impostata",
  "synth_done": 0,
  "synth_total": 0

@@ -1,7 +1,473 @@
 {
- "updated": "2026-10-25T23:22:11+00:00",
+ "updated": "2026-10-26T05:01:19+00:00",
  "count": 500,
  "items": [
+  {
+   "id": "bbacfbf5bbb99d4d",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/pm-le-minh-hung-hosts-welcome-ceremony-for-polish-counterpart-post168226.html",
+   "date": "2026-10-26T04:27:14+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/jZtiV_e8ynKGTvhE5bc7ezCNK0Wk8qC84Ao9lx6fJ3NJ0xHOG0ZX58rVabwbN0q8/base64.png.avif",
+   "title": {
+    "orig": "PM Le Minh Hung hosts welcome ceremony for Polish counterpart",
+    "en": "PM Le Minh Hung hosts welcome ceremony for Polish counterpart"
+   },
+   "summary": {
+    "orig": "Prime Minister Le Minh Hung presided over an official welcome ceremony in Ha Noi on October 26 morning for his Polish counterpart Donald Tusk, who is paying an official visit to Viet Nam from October 24 to 26. Expanding substantive and effective cooperation between Viet Nam and…",
+    "en": "Prime Minister Le Minh Hung presided over an official welcome ceremony in Ha Noi on October 26 morning for his Polish counterpart Donald Tusk, who is paying an official visit to Viet Nam from October 24 to 26. Expanding substantive and effective cooperation between Viet Nam and…"
+   }
+  },
+  {
+   "id": "ec14f4372286b809",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/great-solidarity-festival-to-strengthen-cohesion-among-vietnamese-communities-in-europe-ambassador-post168223.html",
+   "date": "2026-10-26T03:47:29+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/jZtiV_e8ynKGTvhE5bc7ezCNK0Wk8qC84Ao9lx6fJ3Pj83Hp851YxsTZFkDed5fXySQSFDQGZqVOiB3Oc1V4UQ/hoai-nam-17012024.jpg.avif",
+   "title": {
+    "orig": "Great solidarity festival to strengthen cohesion among Vietnamese communities in Europe: ambassador"
+   },
+   "summary": {
+    "orig": "The first Viet Nam Great National Solidarity Festival in Europe, scheduled to take place in Prague on October 31 and November 1, will strengthen solidarity among Vietnamese communities abroad, honour their contributions and promote friendship between Viet Nam and European…"
+   }
+  },
+  {
+   "id": "6328eb5874a411e5",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/deputies-to-discuss-draft-data-security-law-on-october-26-post168222.html",
+   "date": "2026-10-26T03:38:07+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/jZtiV_e8ynKGTvhE5bc7ezCNK0Wk8qC84Ao9lx6fJ3MeNu6mNCovFHmcjMPc3dEq/chi.jpg.avif",
+   "title": {
+    "orig": "Deputies to discuss draft Data Security Law on October 26"
+   },
+   "summary": {
+    "orig": "Deputies to the 16th National Assembly will discuss a number of bills, including the draft Law on Data Security on October 26 as part of their second sitting. 16th National Assembly commences second session Ha Noi's National Assembly deputies urged to fulfill commitments to…"
+   }
+  },
+  {
+   "id": "29371413f1678b60",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/digitalisation-to-strengthen-marine-governance-post168221.html",
+   "date": "2026-10-26T02:42:30+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/g3B6iUbAxFCLaQj-XKvwKqB6PtwMp9XXDVRnPwcLviOLwArXgGzKa3CrURpdhdrAvxvHu-KteCKVP5Uyh_LDsxVYBURjvkA8iFrEjcElo_HpRD8qN7KfBuHmvz_tt-39D15eB4edQisjRBqqxwRgvy4X2hCXESFsFhAr72v1z98/1790716158590-1454958370600153606-g7270167087667697619-96ce87a769e7bb0f6c6f33863382e890.jpg.avif",
+   "title": {
+    "orig": "Digitalisation to strengthen marine governance"
+   },
+   "summary": {
+    "orig": "From remote sensing, artificial intelligence, big data and the Internet of Things (IoT) to marine robots and digital twins of the ocean, science and technology are transforming how marine resources and environments are surveyed, monitored, forecast and managed. For Viet Nam, the…"
+   }
+  },
+  {
+   "id": "0640028c3a31c54c",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/communication-key-to-removing-ecs-yellow-card-post168220.html",
+   "date": "2026-10-26T02:34:41+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/jZtiV_e8ynKGTvhE5bc7ezCNK0Wk8qC84Ao9lx6fJ3PdnJ04n5Er8Abrszhk1AND6QJcLXlE11FI3o7hZkvp5A/vnanet-iuu2.jpg.avif",
+   "title": {
+    "orig": "Communication key to removing EC's 'yellow card'"
+   },
+   "summary": {
+    "orig": "Ganh Hao Border Guard Station in Ca Mau province is stepping up communication, the use of digital technology and direct assistance to help fishermen comply with fishing regulations, contributing to nationwide efforts to have the European Commission (EC) lift its yellow card on…"
+   }
+  },
+  {
+   "id": "060dd21694e2ff02",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/ninh-binh-hosts-viet-namjapan-buddhist-cultural-exchange-festival-2026-post168218.html",
+   "date": "2026-10-26T02:28:33+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/jZtiV_e8ynKGTvhE5bc7ezCNK0Wk8qC84Ao9lx6fJ3OTvuG29hkDpUTA_YXQBzhH/vnanet-f.jpg.avif",
+   "title": {
+    "orig": "Ninh Binh hosts Viet Nam–Japan Buddhist cultural exchange festival 2026"
+   },
+   "summary": {
+    "orig": "Nearly 1,000 Buddhist monks, nuns and followers and Japanese visitors gathered in the Tam Chuc national tourism site in the northern province of Ninh Binh on October 24-25 for the 2026 Viet Nam–Japan Buddhist Cultural Exchange Festival themed “Prayers beyond borders”. Resources…"
+   }
+  },
+  {
+   "id": "92b8749028be3eb2",
+   "source": "nhandan",
+   "name": "Nhân Dân",
+   "country": "VN",
+   "lang": "en",
+   "url": "https://en.nhandan.vn/semiconductor-training-brought-closer-to-industrial-practice-post168219.html",
+   "date": "2026-10-26T02:27:11+00:00",
+   "image": "https://en-cdn.nhandan.vn/images/g3B6iUbAxFCLaQj-XKvwKroqhh2Md5VOkHwq32xtSll344fyqBUBEXYMx40fBJvo/hinh.png.avif",
+   "title": {
+    "orig": "Semiconductor training brought closer to industrial practice"
+   },
+   "summary": {
+    "orig": "The gap between university education and industrial processes remains a major bottleneck in semiconductor workforce training. Many educational institutions lack laboratories, licences for specialised electronic design tools, and funding to enable students to develop prototype…"
+   }
+  },
+  {
+   "id": "c91752c66ec1c00b",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/sem-provas-flavio-bolsonaro-diz-que-vai-pedir-anulacao-das-eleicoes/",
+   "date": "2026-10-26T02:07:18+00:00",
+   "image": null,
+   "title": {
+    "orig": "Sem provas, Flávio Bolsonaro diz que vai pedir anulação das eleições"
+   },
+   "summary": {
+    "orig": "Agora ex-candidato de extrema direita classificou como 'inexplicável' o resultado Fonte"
+   }
+  },
+  {
+   "id": "81cd9a6ee2d02b3b",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/25/lula-vou-dedicar-24h-por-dia-para-fazer-desse-o-pais-que-todo-mundo-sonha/?utm_source=rss&utm_medium=rss&utm_campaign=lula-vou-dedicar-24h-por-dia-para-fazer-desse-o-pais-que-todo-mundo-sonha",
+   "date": "2026-10-26T02:06:23+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/55611275172_6beb70942e_k-1024x683.jpg",
+   "title": {
+    "orig": "Lula: “Vou dedicar 24h por dia para fazer desse, o país que todo mundo sonha”"
+   },
+   "summary": {
+    "orig": "Em discurso após a vitória, presidente agradeceu aos eleitores, celebrou a defesa da democracia e prometeu ampliar participação popular, políticas sociais e investimentos em educação, saúde e tecnologia"
+   }
+  },
+  {
+   "id": "8bace8e367afa00d",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/noticias/2026/10/25/el-cubano-moinelo-impulsa-al-softbank-en-la-serie-japonesa/",
+   "date": "2026-10-26T01:59:52+00:00",
+   "image": null,
+   "title": {
+    "orig": "El cubano Moinelo impulsa al SoftBank en la serie japonesa"
+   },
+   "summary": {
+    "orig": "Moinelo entregó la pelota con ventaja de 2-0, construida mediante un cuadrangular solitario de Tomoya Masaki en el tercer episodio y un doble impulsor de Yudai Shoji en el cuarto, pero el relevo dejó escapar su posible victoria. The post El cubano Moinelo impulsa al SoftBank en…"
+   }
+  },
+  {
+   "id": "5dfb2625b945b21c",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/lula-fala-pela-1a-vez-apos-vitoria-vamos-mudar-o-jeito-de-governar-vamos-fazer-o-povo-participar-mais/",
+   "date": "2026-10-26T01:55:46+00:00",
+   "image": null,
+   "title": {
+    "orig": "Lula fala pela 1ª vez após vitória: ‘Vamos mudar o jeito de governar, vamos fazer o povo participar mais’"
+   },
+   "summary": {
+    "orig": "Lula celebra vitória com campanha Fonte"
+   }
+  },
+  {
+   "id": "e53802e409b1c53f",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/lideres-estrangeiros-comemoram-reeleicao-de-lula-e-destacam-defesa-da-democracia-fascismo-foi-detido/",
+   "date": "2026-10-26T00:58:16+00:00",
+   "image": null,
+   "title": {
+    "orig": "Líderes estrangeiros comemoram reeleição de Lula e destacam defesa da democracia: ‘Fascismo foi detido’"
+   },
+   "summary": {
+    "orig": "O ex-presidente da Colômbia, Gustavo Petro, reagiu à vitória do presidente Lula no segundo turno das eleições brasileiras neste domingo (25). De acordo com ele, “o fascismo foi detido na América Latina, no Brasil”. “O povo brasileiro, livre, conseguiu conter a onda de bots…"
+   }
+  },
+  {
+   "id": "3a58ad9a9d9d2185",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/vitoria-de-lula-em-minas-gerais-confirma-estado-como-pendulo-das-eleicoes-presidenciais/",
+   "date": "2026-10-26T00:55:10+00:00",
+   "image": null,
+   "title": {
+    "orig": "Vitória de Lula em Minas Gerais confirma estado como ‘pêndulo’ das eleições presidenciais"
+   },
+   "summary": {
+    "orig": "O presidente Luiz Inácio Lula da Silva (PT), reeleito para seu quarto mandato presidencial neste domingo (25), reverteu o resultado do primeiro turno no estado de Minas Gerais. Com 99,68% das urnas apuradas, Lula marcou 50,39% dos votos válidos contra 49,61% do seu rival, Flávio…"
+   }
+  },
+  {
+   "id": "add55a501d49af11",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/reviravolta-chocante-imprensa-internacional-repercute-vitoria-de-lula-contra-flavio-bolsonaro/",
+   "date": "2026-10-26T00:53:02+00:00",
+   "image": null,
+   "title": {
+    "orig": "‘Reviravolta chocante’: imprensa internacional repercute vitória de Lula contra Flávio Bolsonaro"
+   },
+   "summary": {
+    "orig": "'Reviravolta chocante': imprensa internacional repercute vitória de Lula contra Flávio Bolsonaro Fonte"
+   }
+  },
+  {
+   "id": "59d0fb6774560ced",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/pernambuco-reduz-abstencoes-brancos-e-nulos-amplia-votos-de-lula-em-mais-de-500-mil-chegando-a-692-na-sua-terra-natal/",
+   "date": "2026-10-26T00:45:29+00:00",
+   "image": null,
+   "title": {
+    "orig": "Pernambuco reduz abstenções, brancos e nulos, amplia votos de Lula em mais de 500 mil, chegando a 69,2% na sua terra natal"
+   },
+   "summary": {
+    "orig": "Esta é a 3ª maior votação percentual do petista no estado, superado apenas pelas duas votações de 2006 (71% e 78,5%) Fonte"
+   }
+  },
+  {
+   "id": "b4c795c6d43cb75a",
+   "source": "mundoobrero",
+   "name": "Mundo Obrero",
+   "country": "ES",
+   "lang": "es",
+   "url": "https://mundoobrero.es/2026/10/26/lula-derrota-a-la-ultraderecha-y-gana-las-elecciones-en-brasil/",
+   "date": "2026-10-26T00:40:03+00:00",
+   "image": null,
+   "title": {
+    "orig": "Lula derrota a la ultraderecha y gana las elecciones en Brasil"
+   },
+   "summary": {
+    "orig": "Luiz Inácio Lula da Silva ha ganado las elecciones presidenciales de Brasil y revalidado su mandato frente al candidato ultraderechista Flávio Bolsonaro. Con el 100% de los votos escrutados, el actual presidente obtiene el 51,77% de los sufragios, frente al 48,23% de su rival.…"
+   }
+  },
+  {
+   "id": "1a9d9c770d2c9913",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/25/cadu-de-lula-pt-vira-sobre-allyson-uniao-e-e-eleito-governador-do-rio-grande-do-norte/?utm_source=rss&utm_medium=rss&utm_campaign=cadu-de-lula-pt-vira-sobre-allyson-uniao-e-e-eleito-governador-do-rio-grande-do-norte",
+   "date": "2026-10-26T00:37:49+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/859511249_122194194020886171_8498471041094988621_n-1024x682.jpg",
+   "title": {
+    "orig": "Cadu de Lula (PT) vira sobre Allyson (União) e é eleito governador do Rio Grande do Norte"
+   },
+   "summary": {
+    "orig": "Governador eleito reverte vantagem de Allyson no primeiro turno e dará continuidade ao governo de Fátima Bezerra, que abriu mão da disputa ao Senado para apoiar sua candidatura"
+   }
+  },
+  {
+   "id": "b3a17756e4eb0ed1",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/25/lula-supera-flavio-bolsonaro-conquista-vitoria-epica-e-sera-presidente-pela-4a-vez/?utm_source=rss&utm_medium=rss&utm_campaign=lula-supera-flavio-bolsonaro-conquista-vitoria-epica-e-sera-presidente-pela-4a-vez",
+   "date": "2026-10-26T00:31:22+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/55610159864_c1c990d486_o-1024x603.jpg",
+   "title": {
+    "orig": "Lula supera Flávio Bolsonaro, conquista vitória épica e será presidente pela 4ª vez"
+   },
+   "summary": {
+    "orig": "Vitória foi confirmada às 21h09, quando Lula batia Flávio por 51,75% a 48,25% – uma diferença superior a 4,5 milhões de votos. É a sexta vitória da esquerda nas últimas sete disputas presidenciais."
+   }
+  },
+  {
+   "id": "07814ee98507521d",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/lula-faz-510-mil-votos-a-mais-que-no-primeiro-turno-no-parana-e-e-reeleito-presidente/",
+   "date": "2026-10-26T00:22:18+00:00",
+   "image": null,
+   "title": {
+    "orig": "Lula faz 510 mil votos a mais que no primeiro turno no Paraná e é reeleito presidente"
+   },
+   "summary": {
+    "orig": "No Paraná, o presidente Luiz Inácio Lula da Silva (PT) fez 510 mil votos a mais no segundo turno que no primeiro. Com 99% das urnas apuradas no estado, às 21h15 deste domingo (25). Flávio Bolsonaro (PL) registrou 4,2 milhões de votos, 250 mil a mais que a votação de 4 de…"
+   }
+  },
+  {
+   "id": "9f848102f64eb21b",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/25/pazolini-chega-ao-governo-do-espirito-santo-com-5201-dos-votos/?utm_source=rss&utm_medium=rss&utm_campaign=pazolini-chega-ao-governo-do-espirito-santo-com-5201-dos-votos",
+   "date": "2026-10-26T00:21:01+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/New-IMAGE-35.png",
+   "title": {
+    "orig": "Pazolini chega ao governo do Espírito Santo com 52,01% dos votos"
+   },
+   "summary": {
+    "orig": "Com 97,38% das urnas apuradas, ex-prefeito de Vitória supera o governador em exercício; disputa opôs um representante da direita conservadora ao grupo político que administra o estado desde 2019"
+   }
+  },
+  {
+   "id": "677cc1af86e93e43",
+   "source": "cubadebate",
+   "name": "Cubadebate",
+   "country": "CU",
+   "lang": "es",
+   "url": "http://www.cubadebate.cu/noticias/2026/10/25/lula-triunfa-en-el-balotaje-y-tendra-un-cuarto-mandato-al-frente-de-brasil/",
+   "date": "2026-10-26T00:19:58+00:00",
+   "image": null,
+   "title": {
+    "orig": "Lula triunfa en el balotaje y tendrá un cuarto mandato al frente de Brasil"
+   },
+   "summary": {
+    "orig": "El presidente de Brasil, Luiz Inacio Lula da Silva ha derrotado al ultraderecha Flavio Bolsonaro en el balotaje celebrado este domingo. Con más del 93 por ciento de las boletas contabilizadas, el político petista había logrado una ventaja superior a los tres puntos. Lula…"
+   }
+  },
+  {
+   "id": "5491ca2ee23ba322",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/lula-amplia-vantagem-sobre-flavio-bolsonaro-em-todos-os-estados-do-nordeste-regiao-decisiva-para-vitoria-historica/",
+   "date": "2026-10-26T00:19:33+00:00",
+   "image": null,
+   "title": {
+    "orig": "Lula vence em todos os estados do Nordeste e amplia vantagem sobre Flávio Bolsonaro para garantir vitória histórica"
+   },
+   "summary": {
+    "orig": "O presidente Luiz Inácio Lula da Silva (PT) ampliou a vantagem sobre o senador Flávio Bolsonaro (PL) nos nove estados do Nordeste no segundo turno das eleições presidenciais, segundo a apuração do Tribunal Superior Eleitoral (TSE) por volta das 21h deste domingo (25). Lula já…"
+   }
+  },
+  {
+   "id": "a7e00c4f4ef8ae9e",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/cadu-de-lula-pt-e-eleito-governador-do-rio-grande-do-norte/",
+   "date": "2026-10-26T00:14:20+00:00",
+   "image": null,
+   "title": {
+    "orig": "Cadu de Lula (PT) é eleito governador do Rio Grande do Norte"
+   },
+   "summary": {
+    "orig": "O ex-secretário estadual da Fazenda, Cadu de Lula (PT), foi eleito governador do Rio Grande do Norte após receber 50,7% dos votos válidos neste domingo (25) e derrotar em segundo turno o ex-prefeito de Mossoró, Allyson Bezerra (União Brasil), que teve 49,3%. Os votos brancos e…"
+   }
+  },
+  {
+   "id": "c5a315a9c0a4fb53",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/25/mesmo-em-alta-leandro-grass-pt-perde-disputa-para-celina-leao-pp-no-df/?utm_source=rss&utm_medium=rss&utm_campaign=mesmo-em-alta-leandro-grass-pt-perde-disputa-para-celina-leao-pp-no-df",
+   "date": "2026-10-26T00:11:49+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/09/Celina-Grass.png",
+   "title": {
+    "orig": "Mesmo em alta, Leandro Grass (PT) perde disputa para Celina Leão (PP) no DF"
+   },
+   "summary": {
+    "orig": "A disputa se caracterizou pela boa performance do candidato da Federação Brasil da Esperança (PT, PCdoB e PV), que vem ampliando sua votação no Distrito Federal"
+   }
+  },
+  {
+   "id": "0cfd5c1d8f14a472",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/eleitor-foi-mobilizado-pela-comparacao-entre-lula-e-bolsonaro-afirma-cientista-politico/",
+   "date": "2026-10-25T23:59:42+00:00",
+   "image": null,
+   "title": {
+    "orig": "‘Eleitor foi mobilizado pela comparação’ entre Lula e Bolsonaro, afirma cientista político"
+   },
+   "summary": {
+    "orig": "Para o cientista político Paulo Roberto de Souza, esta é uma eleição em que pesou mais a rejeição do que a aprovação aos candidatos: “É muito mais sobre quem você não quer do que sobre quem você quer”, afirma. Por isso, a virada na campanha do Lula (PT) no primeiro para o…"
+   }
+  },
+  {
+   "id": "c3f53466e4964595",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/25/mailza-assis-e-reeleita-governadora-do-acre-com-apoio-bolsonarista/?utm_source=rss&utm_medium=rss&utm_campaign=mailza-assis-e-reeleita-governadora-do-acre-com-apoio-bolsonarista",
+   "date": "2026-10-25T23:54:02+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/mailza-assis-pp-acre-foto-flickr-1024x682-1.webp",
+   "title": {
+    "orig": "Mailza Assis é reeleita governadora do Acre"
+   },
+   "summary": {
+    "orig": "Governadora do PP venceu o senador Alan Rick, do Republicanos, em disputa entre dois nomes alinhados a Flávio Bolsonaro; setores da esquerda criticaram ambos e defenderam oposição ao próximo governo"
+   }
+  },
+  {
+   "id": "9e38043ad4ca3bf6",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/lula-e-reeleito-e-derrota-flavio-bolsonaro-em-virada-historica-projeta-datafolha/",
+   "date": "2026-10-25T23:53:10+00:00",
+   "image": null,
+   "title": {
+    "orig": "Lula é reeleito e derrota Flávio Bolsonaro em virada histórica"
+   },
+   "summary": {
+    "orig": "Pela primeira vez um candidato à presidência larga atrás no primeiro turno e vence o segundo Fonte"
+   }
+  },
+  {
+   "id": "df9841f16e86f245",
+   "source": "brasildefato",
+   "name": "Brasil de Fato",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://www.brasildefato.com.br/2026/10/25/presidente-do-pt-sp-lamenta-falta-de-onibus-transporte-gratuito-serve-para-preservar-a-democracia/",
+   "date": "2026-10-25T23:43:52+00:00",
+   "image": null,
+   "title": {
+    "orig": "Presidente do PT-SP lamenta falta de ônibus: ‘Transporte gratuito serve para preservar a democracia’"
+   },
+   "summary": {
+    "orig": "O deputado federal e presidente estadual do PT-SP, Kiko Celeguim, fez duras críticas à gestão do transporte coletivo durante o dia de votação e aos entraves enfrentados por eleitores para chegar aos locais de pleito. Segundo o parlamentar, os problemas de deslocamento foram…"
+   }
+  },
+  {
+   "id": "8e0a36d585c468ac",
+   "source": "vermelho",
+   "name": "Vermelho",
+   "country": "BR",
+   "lang": "pt",
+   "url": "https://vermelho.org.br/2026/10/25/vicentinho-junior-e-eleito-governador-do-tocantins-no-segundo-turno/?utm_source=rss&utm_medium=rss&utm_campaign=vicentinho-junior-e-eleito-governador-do-tocantins-no-segundo-turno",
+   "date": "2026-10-25T23:25:10+00:00",
+   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/17927094456ada93451cd48_1792709445_3x2_lg.jpg",
+   "title": {
+    "orig": "Vicentinho Júnior é eleito governador do Tocantins no segundo turno"
+   },
+   "summary": {
+    "orig": "Com 83,96% das urnas apuradas, tucano tinha 63,95% dos votos válidos e virou o resultado do primeiro turno, quando Professora Dorinha terminou à frente."
+   }
+  },
   {
    "id": "398462dd556b78cf",
    "source": "vermelho",
@@ -502,6 +968,22 @@
     "orig": "Lluvias intermitentes y muy nutridas en algunas localidades, afectan a esta provincia oriental desde la mañana de ayer, y continúan como la manifestación más notable del fenómeno meteorológico que actualmente afecta al país",
     "it": "Piogge intermittenti e molto forti in alcune località colpiscono da ieri mattina questa provincia orientale e continuano ad essere la manifestazione più notevole del fenomeno meteorologico che attualmente colpisce il Paese.",
     "en": "Intermittent and very heavy rains in some localities have affected this eastern province since yesterday morning, and continue as the most notable manifestation of the meteorological phenomenon that currently affects the country."
+   }
+  },
+  {
+   "id": "5765ae3dd2b0cba1",
+   "source": "mundoobrero",
+   "name": "Mundo Obrero",
+   "country": "ES",
+   "lang": "es",
+   "url": "https://mundoobrero.es/2026/10/25/que-esconden-los-421-000-correos-filtrados-de-la-ultraderecha-alemana/",
+   "date": "2026-10-25T19:08:30+00:00",
+   "image": null,
+   "title": {
+    "orig": "¿Qué esconden los 421.000 correos filtrados de la ultraderecha alemana?"
+   },
+   "summary": {
+    "orig": "Más de 421.000 correos electrónicos, decenas de miles de documentos y casi 300 gigabytes de información interna. La filtración que afecta a Alternativa para Alemania (AfD), el partido de ultraderecha que encabeza los sondeos electorales en el país, ha abierto una investigación…"
    }
   },
   {
@@ -1561,6 +2043,22 @@
    }
   },
   {
+   "id": "9e5ea30dd2b80835",
+   "source": "morningstar",
+   "name": "Morning Star",
+   "country": "GB",
+   "lang": "en",
+   "url": "https://morningstaronline.co.uk/article/green-transition-and-red-tradition-ecology-and-revolution-xis-china",
+   "date": "2026-10-25T15:02:25+00:00",
+   "image": null,
+   "title": {
+    "orig": "Green transition and red tradition: ecology and revolution in Xi’s China"
+   },
+   "summary": {
+    "orig": "China’s drive for ‘ecological civilisation’ is based on a political vision that puts sustainable development ahead of growth at any cost. BEN CHACKO reports"
+   }
+  },
+  {
    "id": "3248127110a93a98",
    "source": "brasildefato",
    "name": "Brasil de Fato",
@@ -1598,6 +2096,22 @@
     "orig": "Fondateur historique de Zebrock, Edgard Garcia fut un militant acharné de l’éducation populaire, un communiste libre qui a toujours su conjuguer engagement politique et artistique. Sa mort, survenue le 24 octobre, nous plonge dans une immense tristesse.",
     "it": "Fondatore storico di Zebrock, Edgard Garcia fu un accanito attivista per l'educazione popolare, un comunista libero che seppe sempre coniugare impegno politico e artistico. La sua morte, avvenuta il 24 ottobre, ci immerge in una tristezza immensa.",
     "en": "Historical founder of Zebrock, Edgard Garcia was a fierce activist for popular education, a free communist who always knew how to combine political and artistic commitment. His death, which occurred on October 24, plunges us into immense sadness."
+   }
+  },
+  {
+   "id": "faf482e6eea2f495",
+   "source": "morningstar",
+   "name": "Morning Star",
+   "country": "GB",
+   "lang": "en",
+   "url": "https://morningstaronline.co.uk/article/question-violence-protests-france-riot-or-rebellion",
+   "date": "2026-10-25T14:35:26+00:00",
+   "image": null,
+   "title": {
+    "orig": "The question of violence: protests in France, riot or rebellion?"
+   },
+   "summary": {
+    "orig": "The unrest in the streets is exposing a widening gulf between the French political Establishment and the people in whose name it governs, says DENNIS BROE"
    }
   },
   {
@@ -2773,26 +3287,6 @@
    }
   },
   {
-   "id": "5c54262ea9fbdae7",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/25/lula-volta-a-vencer-na-china-e-amplia-vantagem-sobre-flavio-bolsonaro-no-segundo-turno/",
-   "date": "2026-10-25T09:32:05+00:00",
-   "image": null,
-   "title": {
-    "orig": "Lula volta a vencer na China e amplia vantagem sobre Flávio Bolsonaro no segundo turno",
-    "it": "Lula vince ancora in Cina e aumenta il vantaggio su Flávio Bolsonaro agli ottavi",
-    "en": "Lula wins again in China and increases advantage over Flávio Bolsonaro in the second round"
-   },
-   "summary": {
-    "orig": "Luiz Inácio Lula da Silva (PT) voltou a vencer entre os brasileiros registrados na China Continental no segundo turno da eleição presidencial, neste domingo (25), com 73,7% dos votos válidos, de acordo com os boletins de urna publicados no final da votação, às 17h, 06h00 do…",
-    "it": "Luiz Inácio Lula da Silva (PT) ha vinto nuovamente tra i brasiliani registrati nella Cina continentale al secondo turno delle elezioni presidenziali, questa domenica (25), con il 73,7% dei voti validi, secondo le schede pubblicate al termine delle votazioni, alle 17:00, 6:00 di...",
-    "en": "Luiz Inácio Lula da Silva (PT) won again among Brazilians registered in Mainland China in the second round of the presidential election, this Sunday (25), with 73.7% of valid votes, according to the ballot papers published at the end of voting, at 5pm, 6am on…"
-   }
-  },
-  {
    "id": "03c8cf0bfcdd3b20",
    "source": "nhandan",
    "name": "Nhân Dân",
@@ -3353,26 +3847,6 @@
    }
   },
   {
-   "id": "40692dc9ea79128e",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/25/lula-ampliou-vitoria-sobre-flavio-bolsonaro-em-quase-10-pontos-na-nova-zelandia-no-segundo-turno/",
-   "date": "2026-10-25T06:30:45+00:00",
-   "image": null,
-   "title": {
-    "orig": "Lula ampliou vitória sobre Flávio Bolsonaro em quase 10 pontos na Nova Zelândia no segundo turno",
-    "it": "Lula ha esteso di quasi 10 punti la sua vittoria su Flávio Bolsonaro in Nuova Zelanda al secondo turno",
-    "en": "Lula extended his victory over Flávio Bolsonaro by almost 10 points in New Zealand in the second round"
-   },
-   "summary": {
-    "orig": "O presidente Luiz Inácio Lula da Silva (PT) ampliou a vitória no segundo turno entre os brasileiros que vivem na Nova Zelândia neste domingo (25). Lula recebeu 418 votos, 80,54% dos válidos, contra 101 votos (19,46%) do senador Flávio Bolsonaro (PL), ou seja, 317 votos a mais. A…",
-    "it": "Il presidente Luiz Inácio Lula da Silva (PT) ha esteso questa domenica la sua vittoria al secondo turno tra i brasiliani residenti in Nuova Zelanda (25). Lula ha ricevuto 418 voti, l'80,54% di quelli validi, contro i 101 voti (19,46%) del senatore Flávio Bolsonaro (PL), cioè 317 voti in più. IL…",
-    "en": "President Luiz Inácio Lula da Silva (PT) extended his victory in the second round among Brazilians living in New Zealand this Sunday (25). Lula received 418 votes, 80.54% of the valid ones, against 101 votes (19.46%) from senator Flávio Bolsonaro (PL), that is, 317 more votes. THE…"
-   }
-  },
-  {
    "id": "5a45696c2e0048e0",
    "source": "contropiano",
    "name": "Contropiano",
@@ -3573,46 +4047,6 @@
    }
   },
   {
-   "id": "c633d85b2c08283c",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/24/no-recife-casal-vitima-da-ditadura-alerta-para-riscos-de-eleicao-de-flavio-bolsonaro/",
-   "date": "2026-10-25T01:27:49+00:00",
-   "image": null,
-   "title": {
-    "orig": "No Recife, casal vítima da ditadura alerta para riscos de eleição de Flávio Bolsonaro",
-    "it": "A Recife, coppie vittime della dittatura avvertono dei rischi dell'elezione di Flávio Bolsonaro",
-    "en": "In Recife, couple victims of the dictatorship warn of risks of Flávio Bolsonaro's election"
-   },
-   "summary": {
-    "orig": "Luciano e Luci Siqueira foram presos, torturados e são referências na luta democrática em Pernambuco Fonte",
-    "it": "Luciano e Luci Siqueira sono stati arrestati, torturati e sono punti di riferimento nella lotta democratica a Pernambuco Source",
-    "en": "Luciano and Luci Siqueira were arrested, tortured and are references in the democratic struggle in Pernambuco Source"
-   }
-  },
-  {
-   "id": "0e7175535c8db491",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/24/ato-final-de-apoio-a-lula-e-leandro-grass-reune-apoiadores-a-2-km-de-manifestacao-pro-bolsonaro-em-brasilia/",
-   "date": "2026-10-25T01:11:56+00:00",
-   "image": null,
-   "title": {
-    "orig": "Ato final de apoio a Lula e Leandro Grass reúne apoiadores a 2 km de manifestação pró-Bolsonaro em Brasília",
-    "it": "L'ultimo atto di sostegno a Lula e Leandro Grass riunisce i sostenitori a 2 km dalla manifestazione pro-Bolsonaro a Brasilia",
-    "en": "Final act of support for Lula and Leandro Grass brings together supporters 2 km from pro-Bolsonaro demonstration in Brasília"
-   },
-   "summary": {
-    "orig": "O ato final de campanha em apoio ao presidente Luiz Inácio Lula da Silva (PT) e ao candidato ao Governo do Distrito Federal, Leandro Grass (PT), reuniu apoiadores neste sábado (24), na região central de Brasília. Com o nome “Bota pra Virar”, a mobilização ocorreu perto do Museu…",
-    "it": "L'atto finale della campagna a sostegno del presidente Luiz Inácio Lula da Silva (PT) e del candidato al governo del Distretto Federale, Leandro Grass (PT), ha riunito sostenitori questo sabato (24), nella regione centrale di Brasilia. Con il nome “Bota pra Virar”, la mobilitazione ha avuto luogo nei pressi del Museo…",
-    "en": "The final act of the campaign in support of President Luiz Inácio Lula da Silva (PT) and the candidate for the Government of the Federal District, Leandro Grass (PT), brought together supporters this Saturday (24), in the central region of Brasília. With the name “Bota pra Virar”, the mobilization took place near the Museum…"
-   }
-  },
-  {
    "id": "a4beec4d7133aa9f",
    "source": "cubadebate",
    "name": "Cubadebate",
@@ -3630,26 +4064,6 @@
     "orig": "El embajador cubano ante la Santa Sede, Leyde Rodríguez Hernández, expresó este sábado su confianza en que la Asamblea General de las Naciones Unidas aprobará, por amplia mayoría, la resolución de rechazo al bloqueo estadounidense contra la isla, en un contexto marcado por el…",
     "it": "L’ambasciatore cubano presso la Santa Sede, Leyde Rodríguez Hernández, ha espresso questo sabato la sua fiducia che l’Assemblea Generale delle Nazioni Unite approverà, a grande maggioranza, la risoluzione che respinge il blocco statunitense contro l’isola, in un contesto segnato da...",
     "en": "The Cuban ambassador to the Holy See, Leyde Rodríguez Hernández, expressed this Saturday his confidence that the United Nations General Assembly will approve, by a large majority, the resolution rejecting the US blockade against the island, in a context marked by…"
-   }
-  },
-  {
-   "id": "65a06bdb50324afa",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/24/lula-encerra-campanha-na-paulista-e-mobiliza-centenas-de-milhares-de-apoiadores/",
-   "date": "2026-10-24T23:11:42+00:00",
-   "image": null,
-   "title": {
-    "orig": "Lula encerra campanha na Paulista e mobiliza centenas de milhares de apoiadores",
-    "it": "Lula conclude la campagna a Paulista e mobilita centinaia di migliaia di sostenitori",
-    "en": "Lula ends campaign in Paulista and mobilizes hundreds of thousands of supporters"
-   },
-   "summary": {
-    "orig": "O presidente Luiz Inácio Lula da Silva (PT) chegou à Avenida Paulista, em São Paulo (SP), por volta das 16h deste sábado (24), para o último ato de sua campanha eleitoral. Recebido por centenas de milhares de apoiadores, o presidente falou rapidamente com a imprensa e seguiu…",
-    "it": "Il presidente Luiz Inácio Lula da Silva (PT) è arrivato nell'Avenida Paulista, a San Paolo (SP), intorno alle 16 di questo sabato (24), per l'ultimo atto della sua campagna elettorale. Accolto da centinaia di migliaia di sostenitori, il presidente ha parlato brevemente alla stampa e ha seguito...",
-    "en": "President Luiz Inácio Lula da Silva (PT) arrived at Avenida Paulista, in São Paulo (SP), at around 4pm this Saturday (24), for the last act of his electoral campaign. Welcomed by hundreds of thousands of supporters, the president spoke briefly to the press and followed…"
    }
   },
   {
@@ -3693,46 +4107,6 @@
    }
   },
   {
-   "id": "722bc359e259cd6b",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/24/lula-e-flavio-bolsonaro-aparecem-empatados-em-nova-pesquisa-atlasintel/",
-   "date": "2026-10-24T22:58:00+00:00",
-   "image": null,
-   "title": {
-    "orig": "Lula e Flávio Bolsonaro aparecem empatados em nova pesquisa AtlasIntel",
-    "it": "Lula e Flávio Bolsonaro appaiono legati nel nuovo sondaggio AtlasIntel",
-    "en": "Lula and Flávio Bolsonaro appear tied in new AtlasIntel survey"
-   },
-   "summary": {
-    "orig": "Levantamento aponta estabilidade no topo e reforça peso da decisão dos indecisos e da abstenção na reta final do pleito Fonte",
-    "it": "Il sondaggio indica stabilità al vertice e rafforza il peso della decisione degli indecisi e dell'astensione nella fase finale delle elezioni Fonte",
-    "en": "Survey points to stability at the top and reinforces the weight of the decision of the undecided and the abstention in the final stretch of the election Source"
-   }
-  },
-  {
-   "id": "feee7baa3a99305e",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/24/quaest-na-vespera-da-eleicao-flavio-bolsonaro-soma-51-dos-votos-validos-e-lula-registra/",
-   "date": "2026-10-24T22:50:16+00:00",
-   "image": null,
-   "title": {
-    "orig": "Quaest: na véspera da eleição, Flávio Bolsonaro soma 51% dos votos válidos e Lula registra",
-    "it": "Quaest: alla vigilia delle elezioni, Flávio Bolsonaro ha ottenuto il 51% dei voti validi e Lula si è iscritto",
-    "en": "Quaest: on the eve of the election, Flávio Bolsonaro received 51% of the valid votes and Lula registered"
-   },
-   "summary": {
-    "orig": "Levantamento indica empate técnico entre os candidatos, que aparecem colados nos votos totais e na pesquisa espontânea Fonte",
-    "it": "Il sondaggio indica un legame tecnico tra i candidati, che appaiono incollati al totale dei voti, e la Fonte del sondaggio spontaneo",
-    "en": "Survey indicates a technical tie between the candidates, who appear glued to the total votes and the spontaneous survey Source"
-   }
-  },
-  {
    "id": "bc20946b3bdfd7c8",
    "source": "sol",
    "name": "soL Haber",
@@ -3750,26 +4124,6 @@
     "orig": "Haber Merkezi Antalya Akseki’deki Gidengelmez Dağı’nda Cengiz Holding’e ait boksit madeni için yaklaşık 60 bin ağaç kesilecek. Kapasite artışına ilişkin ÇED sürecinde karar 9 Kasım’da verilecek. Aynı gün Antalya’da COP31 iklim zirvesi açılıyor. Zirvenin uygulama ortağı da Cengiz…",
     "it": "Centro notizie Circa 60mila alberi saranno abbattuti per la miniera di bauxite appartenente alla Cengiz Holding sul monte Gidengelmez ad Antalya Akseki. La decisione sull'aumento di capacità nel processo di VIA verrà presa il 9 novembre. Lo stesso giorno si aprirà ad Antalya il vertice sul clima COP31. Il partner esecutivo del summit è Cengiz...",
     "en": "News Center Approximately 60 thousand trees will be cut down for the bauxite mine belonging to Cengiz Holding on Gidengelmez Mountain in Antalya Akseki. The decision regarding the capacity increase in the EIA process will be made on November 9. On the same day, the COP31 climate summit opens in Antalya. The implementation partner of the summit is Cengiz…"
-   }
-  },
-  {
-   "id": "3934a01b9710bc4b",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/24/datafolha-flavio-bolsonaro-aparece-com-51-das-intencoes-de-voto-lula-49/",
-   "date": "2026-10-24T22:33:44+00:00",
-   "image": null,
-   "title": {
-    "orig": "Datafolha: Flávio Bolsonaro aparece com 51% das intenções de voto; Lula, 49%",
-    "it": "Datafolha: Flávio Bolsonaro appare con il 51% delle intenzioni di voto; Lula, 49%",
-    "en": "Datafolha: Flávio Bolsonaro appears with 51% of voting intentions; Lula, 49%"
-   },
-   "summary": {
-    "orig": "Pesquisa divulgada neste sábado aponta indecisão até o último momento, com abstenção e voto útil como fatores decisivos Fonte",
-    "it": "Una ricerca pubblicata sabato indica l'indecisione fino all'ultimo momento, con l'astensione e il voto utile come fattori decisivi. Fonte",
-    "en": "Research released this Saturday points to indecision until the last moment, with abstention and useful vote as decisive factors Source"
    }
   },
   {
@@ -3833,26 +4187,6 @@
    }
   },
   {
-   "id": "706508fbae9e4afa",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/24/na-reta-final-do-segundo-turno-campanhas-de-lula-pt-e-flavio-pl-seguem-disputando-as-redes-e-as-ruas-do-ceara/",
-   "date": "2026-10-24T21:54:00+00:00",
-   "image": null,
-   "title": {
-    "orig": "Na reta final do segundo turno, campanhas de Lula (PT) e Flávio (PL) seguem disputando as redes e às ruas do Ceará",
-    "it": "Nella parte finale del girone di ritorno, le campagne di Lula (PT) e Flávio (PL) continuano a competere sulle reti e nelle strade del Ceará",
-    "en": "In the final stretch of the second round, campaigns by Lula (PT) and Flávio (PL) continue to compete on the networks and in the streets of Ceará"
-   },
-   "summary": {
-    "orig": "A disputa pela Presidência da República ganhou novos contornos no Ceará na reta final do segundo turno das eleições presidenciais de 2026. Com estratégias que combinam mobilizações nas ruas, articulação de lideranças políticas e presença nas redes sociais, as campanhas do atual…",
-    "it": "La disputa per la Presidenza della Repubblica ha assunto nuovi contorni nel Ceará nella fase finale del secondo turno delle elezioni presidenziali del 2026. Con strategie che combinano mobilitazioni di piazza, coordinamento dei leader politici e presenza sui social media, le campagne dell’attuale…",
-    "en": "The dispute for the Presidency of the Republic took on new contours in Ceará in the final stretch of the second round of the 2026 presidential elections. With strategies that combine mobilizations on the streets, coordination of political leaders and presence on social media, the campaigns of the current…"
-   }
-  },
-  {
    "id": "9c1bfa8b177f1a47",
    "source": "cubadebate",
    "name": "Cubadebate",
@@ -3873,46 +4207,6 @@
    }
   },
   {
-   "id": "ead5214db68517ea",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/24/parana-tem-mudancas-nos-locais-de-votacao-devido-as-tempestades/",
-   "date": "2026-10-24T21:40:12+00:00",
-   "image": null,
-   "title": {
-    "orig": "Paraná tem mudanças nos locais de votação devido às tempestades",
-    "it": "Il Paraná ha cambiato i seggi elettorali a causa dei temporali",
-    "en": "Paraná has changes to voting locations due to storms"
-   },
-   "summary": {
-    "orig": "Três cidades no Paraná tiveram mudanças emergenciais em locais de votação por conta do forte temporal registrado entre sexta-feira (23) e sábado (24). As alterações foram organizadas pelo Tribunal Regional Eleitoral do Paraná (TRE-PR) para garantir a segurança dos eleitores no…",
-    "it": "Tre città del Paraná hanno subito cambiamenti di emergenza nei seggi elettorali a causa del forte temporale registrato tra venerdì (23) e sabato (24). Le modifiche sono state organizzate dal Tribunale Elettorale Regionale del Paraná (TRE-PR) per garantire la sicurezza degli elettori in...",
-    "en": "Three cities in Paraná had emergency changes to voting locations due to the strong storm recorded between Friday (23) and Saturday (24). The changes were organized by the Regional Electoral Court of Paraná (TRE-PR) to guarantee the safety of voters in…"
-   }
-  },
-  {
-   "id": "23ca797d753daff1",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/2026/10/24/em-ato-final-de-campanha-lula-arrasta-milhares-na-paulista-em-clima-de-emocao-e-defesa-da-democracia/",
-   "date": "2026-10-24T21:31:48+00:00",
-   "image": null,
-   "title": {
-    "orig": "Em ato final de campanha, Lula arrasta milhares na Paulista em clima de emoção e defesa da democracia",
-    "it": "Nell'atto finale della campagna, Lula porta migliaia di persone a Paulista in un clima di commozione e di difesa della democrazia",
-    "en": "In the final act of the campaign, Lula brings thousands to Paulista in an atmosphere of emotion and defense of democracy"
-   },
-   "summary": {
-    "orig": "O ato final da campanha do presidente da República e candidato à reeleição Luiz Inácio Lula da Silva (PT) foi tomado de emoção e sentimento de defesa da democracia na avenida Paulista, em São Paulo (SP), na tarde deste sábado (24). Desde o meio-dia, duas horas antes do início…",
-    "it": "L’atto finale della campagna del Presidente della Repubblica e candidato alla rielezione Luiz Inácio Lula da Silva (PT) è stato pieno di emozione e sentimento di difesa della democrazia in Avenida Paulista, a San Paolo (SP), questo sabato pomeriggio (24). Da mezzogiorno, due ore prima della partenza...",
-    "en": "The final act of the campaign of the President of the Republic and candidate for re-election Luiz Inácio Lula da Silva (PT) was filled with emotion and a feeling of defending democracy on Avenida Paulista, in São Paulo (SP), this Saturday afternoon (24). Since noon, two hours before the start…"
-   }
-  },
-  {
    "id": "c599e24d200a854a",
    "source": "cubadebate",
    "name": "Cubadebate",
@@ -3930,26 +4224,6 @@
     "orig": "Cuba no permitirá importar y comercializar bebidas energizantes con alcohol y extinguirá los registros sanitarios que autorizaban su entrada al país, anunció el Ministerio de Salud Pública y explicó que es una medida de prevención ante los casos de intoxicación asociados al…",
     "it": "Cuba non permetterà l’importazione e la vendita di bevande energetiche contenenti alcol e cancellerà le cartelle cliniche che ne autorizzavano l’ingresso nel paese, ha annunciato il Ministero della Salute Pubblica spiegando che si tratta di una misura preventiva contro i casi di avvelenamento associati a...",
     "en": "Cuba will not allow the import and sale of energy drinks with alcohol and will extinguish the health records that authorized their entry into the country, announced the Ministry of Public Health and explained that it is a preventive measure against cases of poisoning associated with…"
-   }
-  },
-  {
-   "id": "e728afb91f789139",
-   "source": "brasildefato",
-   "name": "Brasil de Fato",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://www.brasildefato.com.br/colunista/pedro-alcantara/2026/10/24/as-cicatrizes-das-maos-que-mudaram-o-brasil/",
-   "date": "2026-10-24T21:20:19+00:00",
-   "image": null,
-   "title": {
-    "orig": "As cicatrizes das mãos que mudaram o Brasil",
-    "it": "Le cicatrici delle mani che hanno cambiato il Brasile",
-    "en": "The scars of the hands that changed Brazil"
-   },
-   "summary": {
-    "orig": "No debate da Globo, Lula foi ofendido pelo seu adversário. Num episódio explícito de capacitismo e preconceito de classe, um homem rico, candidato a presidente da República, zombou de alguém que perdeu um dos dedos das mãos trabalhando numa fábrica em condições precárias. Lula…",
-    "it": "Nel dibattito su Globo Lula si è offeso per il suo avversario. In un esplicito episodio di abilismo e pregiudizio di classe, un uomo ricco, candidato alla presidenza della Repubblica, ha deriso qualcuno che aveva perso un dito lavorando in una fabbrica in condizioni precarie. Calamari…",
-    "en": "In the Globo debate, Lula was offended by his opponent. In an explicit episode of ableism and class prejudice, a rich man, candidate for president of the Republic, mocked someone who lost one of his fingers working in a factory in precarious conditions. Squid…"
    }
   },
   {
@@ -5774,26 +6048,6 @@
    }
   },
   {
-   "id": "d9da35e5db50d919",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/a-foundation-for-enhancing-competitiveness-post168179.html",
-   "date": "2026-10-24T08:31:07+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/jZtiV_e8ynKGTvhE5bc7e6TyR36Cx-JcxHOmzDKwZkUfzf2gb6TWLTFa0MEPWE7H/45.jpg.avif",
-   "title": {
-    "orig": "A foundation for enhancing competitiveness",
-    "it": "Una base per rafforzare la competitività",
-    "en": "A foundation for enhancing competitiveness"
-   },
-   "summary": {
-    "orig": "As input costs rise, quality requirements become more stringent, and competitive pressures intensify, many businesses are seeking ways to boost productivity by investing in technology, accelerating automation, and driving digital transformation. From modern production lines to…",
-    "it": "Con l’aumento dei costi di produzione, i requisiti di qualità che diventano più rigorosi e l’intensificarsi della pressione competitiva, molte aziende cercano modi per aumentare la produttività investendo in tecnologia, accelerando l’automazione e guidando la trasformazione digitale. Dalle moderne linee di produzione a...",
-    "en": "As input costs rise, quality requirements become more stringent, and competitive pressures intensify, many businesses are seeking ways to boost productivity by investing in technology, accelerating automation, and driving digital transformation. From modern production lines to…"
-   }
-  },
-  {
    "id": "e913c9fcfab3812a",
    "source": "cubadebate",
    "name": "Cubadebate",
@@ -5811,26 +6065,6 @@
     "orig": "El acelerado alza de varios precios claves para la vida y la reintroducción de regulaciones estatales de precios en determinadas regiones del país, ha vuelto a poner el tema de la inflación y los topes de precio en el centro del debate económico cubano. The post Sobre el actual…",
     "it": "L’aumento accelerato di alcuni prezzi chiave per la vita e la reintroduzione della regolamentazione statale dei prezzi in alcune regioni del paese hanno riportato ancora una volta la questione dell’inflazione e dei limiti tariffari al centro del dibattito economico cubano. Il post Sulla situazione attuale...",
     "en": "The accelerated rise in several key prices for life and the reintroduction of state price regulations in certain regions of the country has once again put the issue of inflation and price caps at the center of the Cuban economic debate. The post About the current…"
-   }
-  },
-  {
-   "id": "a32563121f85e757",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/sociology-and-social-work-in-response-to-demands-of-digital-era-post168178.html",
-   "date": "2026-10-24T08:26:20+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/T1XfcbzAfRBwivgcxE-PBFe0WbqXQwVkqkelaEHSucSqNHJ9jgV34T6PU_HzpkIS4vw6sCfxCHmuLpP7o2QMtQ/ussh-xa-hoi-hoc-5191.jpg.avif",
-   "title": {
-    "orig": "Sociology and social work in response to demands of digital era",
-    "it": "Sociologia e servizio sociale in risposta alle esigenze dell'era digitale",
-    "en": "Sociology and social work in response to demands of digital era"
-   },
-   "summary": {
-    "orig": "The Faculty of Sociology and Social Work at the University of Social Sciences and Humanities, Viet Nam National University, Ha Noi, held a national scientific conference entitled “Sociology and social work in the digital era and sustainable development” in Ha Noi on October 23.…",
-    "it": "La Facoltà di Sociologia e Servizio Sociale dell'Università di Scienze Sociali e Umanistiche, Università Nazionale del Vietnam, Ha Noi, ha tenuto ad Ha Noi il 23 ottobre una conferenza scientifica nazionale dal titolo “Sociologia e lavoro sociale nell'era digitale e nello sviluppo sostenibile”.…",
-    "en": "The Faculty of Sociology and Social Work at the University of Social Sciences and Humanities, Viet Nam National University, Ha Noi, held a national scientific conference entitled “Sociology and social work in the digital era and sustainable development” in Ha Noi on October 23.…"
    }
   },
   {
@@ -5854,26 +6088,6 @@
    }
   },
   {
-   "id": "3333641979edc5ba",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/japanese-fdi-supports-green-transition-in-viet-nams-manufacturing-sector-post168177.html",
-   "date": "2026-10-24T07:34:56+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/T1XfcbzAfRBwivgcxE-PBFe0WbqXQwVkqkelaEHSucRihUFoSRNWGuo6Pm37P9q6/fdi.jpg.avif",
-   "title": {
-    "orig": "Japanese FDI supports green transition in Viet Nam's manufacturing sector",
-    "it": "Gli investimenti diretti esteri giapponesi sostengono la transizione verde nel settore manifatturiero del Vietnam",
-    "en": "Japanese FDI supports green transition in Viet Nam's manufacturing sector"
-   },
-   "summary": {
-    "orig": "Japanese Foreign Direct Investment (FDI) is strengthening Viet Nam’s manufacturing capacity and accelerating the green transition, as more Japanese companies expand production and adopt sustainable industrial solutions. FDI inflows boost Viet Nam's economic growth Viet Nam ties…",
-    "it": "Gli investimenti diretti esteri (IDE) giapponesi stanno rafforzando la capacità manifatturiera del Vietnam e accelerando la transizione verde, poiché sempre più aziende giapponesi espandono la produzione e adottano soluzioni industriali sostenibili. Gli afflussi di IDE stimolano la crescita economica del Vietnam I legami del Vietnam...",
-    "en": "Japanese Foreign Direct Investment (FDI) is strengthening Viet Nam’s manufacturing capacity and accelerating the green transition, as more Japanese companies expand production and adopt sustainable industrial solutions. FDI inflows boost Viet Nam's economic growth Viet Nam ties…"
-   }
-  },
-  {
    "id": "7a8029f6f6ec4273",
    "source": "kprf",
    "name": "KPRF",
@@ -5891,26 +6105,6 @@
     "orig": "Первый заместитель председателя ЦС СКП-КПСС, депутат Государственной Думы РФ К.К. Тайсаев прокомментировал общественно-политическую ситуацию в Республике Абхазия Читать дальше →",
     "it": "Primo Vicepresidente del Comitato Centrale dell'UPC-PCUS, Deputato della Duma di Stato della Federazione Russa K.K. Taisaev ha commentato la situazione socio-politica nella Repubblica di Abkhazia Leggi di più →",
     "en": "First Deputy Chairman of the Central Committee of the UPC-CPSU, Deputy of the State Duma of the Russian Federation K.K. Taisaev commented on the socio-political situation in the Republic of Abkhazia Read more →"
-   }
-  },
-  {
-   "id": "235eff1960756092",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/banking-sector-steps-up-support-for-innovation-post168176.html",
-   "date": "2026-10-24T06:40:21+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/jWxpRLT3iFTt3QXGhnK8a4X-I616ZO8h3nvwutpiPD_j1xjXQPJ_6TYEjIQsiBwkNQK3TCKkFZeCuNRID9oydA/1ea1841b3e3fbe61e72e.jpg.avif",
-   "title": {
-    "orig": "Banking sector steps up support for innovation",
-    "it": "Il settore bancario rafforza il sostegno all’innovazione",
-    "en": "Banking sector steps up support for innovation"
-   },
-   "summary": {
-    "orig": "Politburo Resolution No. 57-NQ/TW, dated December 22, 2024, identifies the development of science and technology, innovation, and national digital transformation as a top strategic breakthrough. Banks stop processing instant 24/7 transfers for transactions over 500 million VND…",
-    "it": "La Risoluzione del Politburo n. 57-NQ/TW, del 22 dicembre 2024, identifica lo sviluppo della scienza e della tecnologia, dell'innovazione e della trasformazione digitale nazionale come una svolta strategica fondamentale. Le banche smettono di elaborare trasferimenti istantanei 24 ore su 24, 7 giorni su 7, per transazioni superiori a 500 milioni di VND...",
-    "en": "Politburo Resolution No. 57-NQ/TW, dated December 22, 2024, identifies the development of science and technology, innovation, and national digital transformation as a top strategic breakthrough. Banks stop processing instant 24/7 transfers for transactions over 500 million VND…"
    }
   },
   {
@@ -6011,26 +6205,6 @@
     "orig": ". . . . . . . L'articolo I sintomi e le cure su Contropiano .",
     "it": ". . . . . . . L'articolo I sintomi e le cure su Contropiano .",
     "en": ". . . . . . . The article Symptoms and treatments on Contropiano."
-   }
-  },
-  {
-   "id": "6a9ef929f44fe60e",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/viet-nam-and-un-women-strengthen-cooperation-on-gender-equality-and-womens-empowerment-post168175.html",
-   "date": "2026-10-24T06:02:40+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/jWxpRLT3iFTt3QXGhnK8a0SrpEEkCyEbAlJHy4Mz5THj0Yf_MO2TeyOiu1Sf3JkVbsd24fnRp7vXOaYd9gcEKBChudKe2pzo3tPmilFIJUY/hop-tac-bo-noi-vu-ve-phu-nu-voi-un-women.jpg.avif",
-   "title": {
-    "orig": "Viet Nam and UN Women strengthen cooperation on gender equality and women’s empowerment",
-    "it": "Il Vietnam e UN Women rafforzano la cooperazione sulla parità di genere e sull’emancipazione delle donne",
-    "en": "Viet Nam and UN Women strengthen cooperation on gender equality and women’s empowerment"
-   },
-   "summary": {
-    "orig": "Viet Nam’s Ministry of Home Affairs and UN Women have discussed ways to strengthen cooperation on gender equality and women’s empowerment, with a focus on policy implementation, sustainable development and greater international collaboration. Int'l workshop focuses on women's…",
-    "it": "Il Ministero degli Affari Interni del Vietnam e UN Women hanno discusso le modalità per rafforzare la cooperazione sull’uguaglianza di genere e l’emancipazione delle donne, con particolare attenzione all’attuazione delle politiche, allo sviluppo sostenibile e a una maggiore collaborazione internazionale. Il workshop internazionale si concentra sulle donne...",
-    "en": "Viet Nam’s Ministry of Home Affairs and UN Women have discussed ways to strengthen cooperation on gender equality and women’s empowerment, with a focus on policy implementation, sustainable development and greater international collaboration. Int'l workshop focuses on women's…"
    }
   },
   {
@@ -6294,26 +6468,6 @@
    }
   },
   {
-   "id": "f4951d846b9790da",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/in-pictures-spouse-of-general-secretary-and-president-to-lam-visits-hospital-school-model-for-children-in-belgium-post168174.html",
-   "date": "2026-10-24T03:43:03+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/T1XfcbzAfRBwivgcxE-PBFe0WbqXQwVkqkelaEHSucSGhFNrDN_j7O0_9xYU53s3Vzk5vuFLvBwUNjWKcodItnq5bZifUxnM6Ttg3Nx083oJEI-_mVCupj1hVJpagEMHGtoMT4HkUqLsV4O2-MPgKZX0UjeYf0eUEsRUMQRFaAEnTJmAcwFZmVD9kU6HB9vG/vna-potal-phu-nhan-tong-bi-thu-chu-tich-nuoc-tham-mo-hinh-benh-vien-truong-hoc-cho-tre-em-tai-bi-1421.jpg.avif",
-   "title": {
-    "orig": "In Pictures: Spouse of General Secretary and President To Lam visits hospital-school model for children in Belgium",
-    "it": "Nelle immagini: La moglie del Segretario Generale e Presidente To Lam visita il modello scuola-ospedale per bambini in Belgio",
-    "en": "In Pictures: Spouse of General Secretary and President To Lam visits hospital-school model for children in Belgium"
-   },
-   "summary": {
-    "orig": "On October 22, 2026 (local time), Madam Ngo Phuong Ly, spouse of General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam, visited pediatric patients undergoing treatment at the Queen Fabiola Children’s University Hospital (HUDERF). The top…",
-    "it": "Il 22 ottobre 2026 (ora locale), la signora Ngo Phuong Ly, moglie del segretario generale del Comitato Centrale del Partito Comunista del Vietnam e presidente To Lam, ha visitato i pazienti pediatrici in cura presso l'ospedale universitario pediatrico Queen Fabiola (HUDERF). La parte superiore…",
-    "en": "On October 22, 2026 (local time), Madam Ngo Phuong Ly, spouse of General Secretary of the Communist Party of Viet Nam Central Committee and President To Lam, visited pediatric patients undergoing treatment at the Queen Fabiola Children’s University Hospital (HUDERF). The top…"
-   }
-  },
-  {
    "id": "0acf4f7f20ed07dd",
    "source": "cubadebate",
    "name": "Cubadebate",
@@ -6331,26 +6485,6 @@
     "orig": "Dos superpetroleros explotaron al chocar con minas marinas en la parte sur del estrecho de Ormuz, informó el Cuerpo de la Guardia Revolucionaria Islámica (CGRI) de Irán, que precisó que las embarcaciones transportaban más de 4,5 millones de barriles de petróleo crudo. Las…",
     "it": "Due superpetroliere sono esplose quando si sono scontrate con mine marine nella parte meridionale dello Stretto di Hormuz, ha riferito il Corpo delle Guardie rivoluzionarie islamiche iraniane (IRGC), secondo cui le navi trasportavano più di 4,5 milioni di barili di petrolio greggio. IL…",
     "en": "Two supertankers exploded when they collided with sea mines in the southern part of the Strait of Hormuz, reported Iran's Islamic Revolutionary Guard Corps (IRGC), which said the vessels were carrying more than 4.5 million barrels of crude oil. The…"
-   }
-  },
-  {
-   "id": "9f2fd62979561ac6",
-   "source": "nhandan",
-   "name": "Nhân Dân",
-   "country": "VN",
-   "lang": "en",
-   "url": "https://en.nhandan.vn/photos-party-general-secretary-and-state-president-to-lam-meets-with-belgian-senate-speaker-house-president-post168173.html",
-   "date": "2026-10-24T03:40:15+00:00",
-   "image": "https://en-cdn.nhandan.vn/images/jWxpRLT3iFTt3QXGhnK8a0u9h5y0oKZay6Ql5cdNR1DdcJjRLVsJTqAeljz7ThGhOfY3IMs9b_v5qXP5vmOyYRE4PzXItu6DrSuliGsgxhG7fWeaSutb7gm526M1ztt5BjIoGQJWCkBU7yFIs6nnPckciKxuM-zkfZNgrUxfsNQ/vna-potal-tong-bi-thu-chu-tich-nuoc-hoi-kien-chu-tich-ha-vien-va-chu-tich-thuong-vien-bi-4294.jpg.avif",
-   "title": {
-    "orig": "[Photos] Party General Secretary and State President To Lam meets with Belgian Senate Speaker, House President",
-    "it": "[Foto] Il segretario generale del partito e presidente dello Stato To Lam incontra il presidente del Senato belga e il presidente della Camera",
-    "en": "[Photos] Party General Secretary and State President To Lam meets with Belgian Senate Speaker, House President"
-   },
-   "summary": {
-    "orig": "Continuing his official visit to Belgium, Party General Secretary and State President To Lam met with Speaker of the Senate Vincent Blondel and President of the House of Representatives Peter De Roover in Brussels on the afternoon of October 23, 2026 (local time). Top Vietnamese…",
-    "it": "Proseguendo la sua visita ufficiale in Belgio, il segretario generale del partito e presidente dello Stato To Lam ha incontrato a Bruxelles nel pomeriggio del 23 ottobre 2026 (ora locale) il presidente del Senato Vincent Blondel e il presidente della Camera dei rappresentanti Peter De Roover. I migliori vietnamiti…",
-    "en": "Continuing his official visit to Belgium, Party General Secretary and State President To Lam met with Speaker of the Senate Vincent Blondel and President of the House of Representatives Peter De Roover in Brussels on the afternoon of October 23, 2026 (local time). Top Vietnamese…"
    }
   },
   {
@@ -6950,46 +7084,6 @@
    }
   },
   {
-   "id": "31d65ac80279ff11",
-   "source": "vermelho",
-   "name": "Vermelho",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://vermelho.org.br/2026/10/23/manifestacoes-em-apoio-a-lula-continuam-as-vesperas-do-2o-turno/?utm_source=rss&utm_medium=rss&utm_campaign=manifestacoes-em-apoio-a-lula-continuam-as-vesperas-do-2o-turno",
-   "date": "2026-10-23T19:48:10+00:00",
-   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/IMG_f4befda1-1a10-4780-856b-c1cd6646bcc3-1024x613.webp",
-   "title": {
-    "orig": "Manifestações em apoio a Lula continuam às vésperas do 2º turno",
-    "it": "Alla vigilia del 2° turno continuano le manifestazioni a sostegno di Lula",
-    "en": "Demonstrations in support of Lula continue on the eve of the 2nd round"
-   },
-   "summary": {
-    "orig": "Atos que ganharam as ruas após o primeiro turno reuniram milhares de pessoas e devem continuar mobilizando a população nesses dias",
-    "it": "Gli atti scesi in piazza dopo il primo round hanno riunito migliaia di persone e dovrebbero continuare a mobilitare la popolazione in questi giorni",
-    "en": "Acts that took to the streets after the first round brought together thousands of people and should continue mobilizing the population these days"
-   }
-  },
-  {
-   "id": "b0b1d5e468d55306",
-   "source": "vermelho",
-   "name": "Vermelho",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://vermelho.org.br/2026/10/23/bispos-fazem-alerta-aos-catolicos-nao-elejam-flavio-bolsonaro/?utm_source=rss&utm_medium=rss&utm_campaign=bispos-fazem-alerta-aos-catolicos-nao-elejam-flavio-bolsonaro",
-   "date": "2026-10-23T19:46:27+00:00",
-   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/55588654040_a50e94829c_c-1.jpg",
-   "title": {
-    "orig": "Bispos fazem alerta aos católicos: não elejam Flávio Bolsonaro",
-    "it": "I vescovi avvertono i cattolici: non eleggete Flávio Bolsonaro",
-    "en": "Bishops warn Catholics: do not elect Flávio Bolsonaro"
-   },
-   "summary": {
-    "orig": "Em carta aberta, 47 bispos e arcebispos alertam que Flávio ameaça a democracia, os direitos sociais e a soberania do Brasil e convocam católicos a defender a Constituição",
-    "it": "In una lettera aperta, 47 vescovi e arcivescovi avvertono che Flávio minaccia la democrazia, i diritti sociali e la sovranità in Brasile e invitano i cattolici a difendere la Costituzione",
-    "en": "In an open letter, 47 bishops and archbishops warn that Flávio threatens democracy, social rights and sovereignty in Brazil and call on Catholics to defend the Constitution"
-   }
-  },
-  {
    "id": "836137c69078f099",
    "source": "cubadebate",
    "name": "Cubadebate",
@@ -7010,66 +7104,6 @@
    }
   },
   {
-   "id": "c381e281c83f47b2",
-   "source": "vermelho",
-   "name": "Vermelho",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://vermelho.org.br/2026/10/23/globo-limita-manobras-de-flavio-e-muda-regras-para-debate-com-lula/?utm_source=rss&utm_medium=rss&utm_campaign=globo-limita-manobras-de-flavio-e-muda-regras-para-debate-com-lula",
-   "date": "2026-10-23T19:09:45+00:00",
-   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-23-070344.jpg",
-   "title": {
-    "orig": "Globo limita manobras de Flávio e muda regras para debate com Lula",
-    "it": "Globo limita le manovre di Flávio e cambia le regole del confronto con Lula",
-    "en": "Globo limits Flávio's maneuvers and changes rules for debate with Lula"
-   },
-   "summary": {
-    "orig": "Após Flávio se posicionar atrás de Lula na Band, emissora restringe circulação nos três primeiros blocos e aposta em confronto centrado em propostas",
-    "it": "Dopo che Flávio si è posizionato dietro Lula su Band, l'emittente limita la diffusione nei primi tre blocchi e scommette su un confronto centrato sulle proposte",
-    "en": "After Flávio positioned himself behind Lula on Band, the broadcaster restricts circulation in the first three blocks and bets on a confrontation centered on proposals"
-   }
-  },
-  {
-   "id": "1c6c8fcd7f8c2297",
-   "source": "vermelho",
-   "name": "Vermelho",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://vermelho.org.br/2026/10/23/no-tse-floriano-de-azevedo-impede-kassio-nunes-de-suspender-exercito-de-lula/?utm_source=rss&utm_medium=rss&utm_campaign=no-tse-floriano-de-azevedo-impede-kassio-nunes-de-suspender-exercito-de-lula",
-   "date": "2026-10-23T19:07:27+00:00",
-   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/Kassio-Nunes.jpg",
-   "title": {
-    "orig": "No TSE, Floriano de Azevedo impede Kássio Nunes de suspender “Exército de Lula”",
-    "it": "Al TSE, Floriano de Azevedo impedisce a Kássio Nunes di sospendere “L’Esercito di Lula”",
-    "en": "At the TSE, Floriano de Azevedo prevents Kássio Nunes from suspending “Lula’s Army”"
-   },
-   "summary": {
-    "orig": "Na decisão, Floriano de Azevedo considerou haver razões para campanha de Lula temer uma nova medida contra o canal antes da votação",
-    "it": "Nella decisione, Floriano de Azevedo ha ritenuto che ci fossero ragioni perché la campagna di Lula temesse un nuovo provvedimento contro il canale prima del voto",
-    "en": "In the decision, Floriano de Azevedo considered that there were reasons for Lula's campaign to fear a new measure against the channel before the vote"
-   }
-  },
-  {
-   "id": "f4ecff55b26f1cf3",
-   "source": "vermelho",
-   "name": "Vermelho",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://vermelho.org.br/2026/10/23/lula-encerra-campanha-com-atos-em-copacabana-e-na-paulista-neste-sabado-24/?utm_source=rss&utm_medium=rss&utm_campaign=lula-encerra-campanha-com-atos-em-copacabana-e-na-paulista-neste-sabado-24",
-   "date": "2026-10-23T19:02:28+00:00",
-   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/lula-poa_Foto-Ricardo-Stuckert-1024x683.jpg",
-   "title": {
-    "orig": "Lula encerra campanha com atos em Copacabana e na Paulista neste sábado (24)",
-    "it": "Lula conclude la campagna con eventi a Copacabana e Paulista questo sabato (24)",
-    "en": "Lula ends campaign with events in Copacabana and Paulista this Saturday (24)"
-   },
-   "summary": {
-    "orig": "Com caminhadas que prometem lotar quarteirões, presidente estará nas capitais fluminense e paulista para fechar sua última campanha",
-    "it": "Con passeggiate che promettono di riempire i blocchi, il presidente sarà nelle capitali di Rio de Janeiro e San Paolo per chiudere la sua ultima campagna",
-    "en": "With walks that promise to fill blocks, the president will be in the capitals of Rio de Janeiro and São Paulo to close his last campaign"
-   }
-  },
-  {
    "id": "4bf76f4e92ea7356",
    "source": "cubadebate",
    "name": "Cubadebate",
@@ -7087,26 +7121,6 @@
     "orig": "El Rector y otras autoridades académicas de la Universidad de las Artes comparecerán este viernes en la Mesa Redonda para conversar sobre las cinco décadas de esta prestigiosa institución de la educación superior y la cultura cubanas. The post Hoy en la Mesa Redonda: Universidad…",
     "it": "Il Rettore e altre autorità accademiche dell'Università delle Arti parteciperanno questo venerdì alla Tavola Rotonda per parlare dei cinque decenni di questa prestigiosa istituzione di educazione superiore e cultura cubana. Il post Oggi alla Tavola Rotonda: Università…",
     "en": "The Rector and other academic authorities of the University of the Arts will appear this Friday at the Round Table to talk about the five decades of this prestigious institution of Cuban higher education and culture. The post Today at the Round Table: University…"
-   }
-  },
-  {
-   "id": "4f89d44c85691fa5",
-   "source": "vermelho",
-   "name": "Vermelho",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://vermelho.org.br/2026/10/23/associacao-de-juristas-acionam-corregedoria-contra-suspensao-do-canal-exercito-do-lula/?utm_source=rss&utm_medium=rss&utm_campaign=associacao-de-juristas-acionam-corregedoria-contra-suspensao-do-canal-exercito-do-lula",
-   "date": "2026-10-23T18:25:05+00:00",
-   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/Screenshot_2026-10-23-14-08-02-802_com.google.android.googlequicksearchbox-edit-1024x547.jpg",
-   "title": {
-    "orig": "Associação de juristas aciona corregedoria contra suspensão do canal ‘Exército do Lula’",
-    "it": "L'associazione dei giuristi fa causa al dipartimento degli affari interni contro la sospensione del canale \"L'Esercito di Lula\"",
-    "en": "Association of jurists sues internal affairs department against suspension of the channel ‘Lula’s Army’"
-   },
-   "summary": {
-    "orig": "ABJD aponta risco à liberdade de expressão e cita minuta com restrições ao WhatsApp",
-    "it": "ABJD sottolinea il rischio per la libertà di espressione e cita una bozza con restrizioni su WhatsApp",
-    "en": "ABJD points out risk to freedom of expression and cites draft with restrictions on WhatsApp"
    }
   },
   {
@@ -7183,26 +7197,6 @@
     "orig": "Desde su inauguración en 2025, el vivero forestal tecnificado El Congo, ubicado en la comunidad de San Francisco, en el municipio de Manzanillo, produce posturas para reforestar manglares y cuencas de intervención del proyecto Mi Costa",
     "it": "Dalla sua inaugurazione nel 2025, il vivaio tecnico forestale El Congo, situato nella comunità di San Francisco, nel comune di Manzanillo, produce piante per il rimboschimento di mangrovie e bacini di intervento del progetto Mi Costa",
     "en": "Since its inauguration in 2025, the El Congo technical forestry nursery, located in the community of San Francisco, in the municipality of Manzanillo, produces plants to reforest mangroves and intervention basins of the Mi Costa project"
-   }
-  },
-  {
-   "id": "1279021271610a45",
-   "source": "vermelho",
-   "name": "Vermelho",
-   "country": "BR",
-   "lang": "pt",
-   "url": "https://vermelho.org.br/2026/10/23/contra-a-motosserra-de-milei-e-o-tesouraco-de-flavio-bora-lula/?utm_source=rss&utm_medium=rss&utm_campaign=contra-a-motosserra-de-milei-e-o-tesouraco-de-flavio-bora-lula",
-   "date": "2026-10-23T18:06:42+00:00",
-   "image": "https://vermelho.org.br/wp-content/uploads/2026/10/stella-calloni-ok-1024x576.png",
-   "title": {
-    "orig": "Contra a motosserra de Milei e o tesouraço de Flávio, Bora Lula!",
-    "it": "Contro la motosega di Milei e le forbici di Flávio, forza Lula!",
-    "en": "Against Milei's chainsaw and Flávio's scissors, let's go Lula!"
-   },
-   "summary": {
-    "orig": "A conclamação é de Stella Calloni, renomada jornalista argentina. Ela diz que os dois querem entregar nossos países, privatizar tudo, e ser governos fantoches dos EUA e de Israel",
-    "it": "La chiamata arriva da Stella Calloni, nota giornalista argentina. Dice che entrambi vogliono consegnare i nostri paesi, privatizzare tutto ed essere governi fantoccio degli Stati Uniti e di Israele",
-    "en": "The call comes from Stella Calloni, renowned Argentine journalist. She says they both want to hand over our countries, privatize everything, and be puppet governments of the US and Israel"
    }
   },
   {
@@ -7406,26 +7400,6 @@
    }
   },
   {
-   "id": "c394841a762f821f",
-   "source": "cubadebate",
-   "name": "Cubadebate",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.cubadebate.cu/noticias/2026/10/23/presidente-de-cuba-llama-a-los-agricultores-a-elevar-la-movilizacion-consciente-para-hacer-producir-la-tierra/",
-   "date": "2026-10-23T15:32:44+00:00",
-   "image": null,
-   "title": {
-    "orig": "Presidente de Cuba llama a los agricultores a elevar la movilización consciente para hacer producir la tierra",
-    "it": "Il Presidente di Cuba invita gli agricoltori ad aumentare la mobilitazione consapevole affinché la terra produca",
-    "en": "President of Cuba calls on farmers to increase conscious mobilization to make the land produce"
-   },
-   "summary": {
-    "orig": "En diálogo con militantes y dirigentes de la agricultura, el mandatario cubano, Miguel Díaz-Canel Bermúdez, aseguró que entre todas las prioridades, hemos definido que la estabilidad del Sistema Electroenergético Nacional y la soberanía alimentaria son dos de las cosas en que…",
-    "it": "In dialogo con attivisti e leader agricoli, il presidente cubano, Miguel Díaz-Canel Bermúdez, ha assicurato che tra tutte le priorità, abbiamo definito che la stabilità del Sistema Elettroenergetico Nazionale e la sovranità alimentare sono due delle cose in cui...",
-    "en": "In dialogue with agricultural activists and leaders, the Cuban president, Miguel Díaz-Canel Bermúdez, assured that among all the priorities, we have defined that the stability of the National Electroenergy System and food sovereignty are two of the things in which…"
-   }
-  },
-  {
    "id": "dd33884f7e176edd",
    "source": "fightback",
    "name": "Fight Back! News",
@@ -7543,26 +7517,6 @@
     "orig": "Izquierda Unida ha denunciado el uso de la inteligencia artificial (IA) que está haciendo el Partido Popular en sus redes sociales durante la precampaña electoral. La formación considera que estas prácticas son «vergonzosas» y peligrosas para la verdad y la información que…",
     "it": "Izquierda Unida ha denunciato l'uso dell'intelligenza artificiale (AI) che il Partito Popolare sta facendo sui suoi social network durante la campagna preelettorale. La formazione ritiene che tali pratiche siano “vergognose” e pericolose per la verità e l'informazione che...",
     "en": "Izquierda Unida has denounced the use of artificial intelligence (AI) that the Popular Party is making on its social networks during the pre-election campaign. The training considers that these practices are \"shameful\" and dangerous for the truth and the information that..."
-   }
-  },
-  {
-   "id": "f31dc12c44de0a50",
-   "source": "cubadebate",
-   "name": "Cubadebate",
-   "country": "CU",
-   "lang": "es",
-   "url": "http://www.cubadebate.cu/noticias/2026/10/23/cuba-extiende-invitacion-al-papa-leon-xiv-para-que-visite-la-isla/",
-   "date": "2026-10-23T14:40:30+00:00",
-   "image": null,
-   "title": {
-    "orig": "Cuba extiende invitación al papa León XIV para que visite la isla",
-    "it": "Cuba invita Papa Leone XIV a visitare l'isola",
-    "en": "Cuba extends invitation to Pope Leo XIV to visit the island"
-   },
-   "summary": {
-    "orig": "El embajador de Cuba ante la Santa Sede, Leyde Ernesto Rodríguez Hernández, destacó el papel de la Iglesia Católica en los esfuerzos para poner fin al bloqueo de Estados Unidos contra su país y recordó la preocupación del papa León XIV, en febrero pasado, ante el aumento de las…",
-    "it": "L’ambasciatore cubano presso la Santa Sede, Leyde Ernesto Rodríguez Hernández, ha sottolineato il ruolo della Chiesa cattolica negli sforzi per porre fine al blocco degli Stati Uniti contro il suo paese e ha ricordato la preoccupazione di Papa Leone XIV, lo scorso febbraio, riguardo all’aumento...",
-    "en": "The Cuban ambassador to the Holy See, Leyde Ernesto Rodríguez Hernández, highlighted the role of the Catholic Church in the efforts to end the United States blockade against his country and recalled the concern of Pope Leo XIV, last February, regarding the increase in..."
    }
   },
   {
@@ -9526,46 +9480,6 @@
    }
   },
   {
-   "id": "7bf85fe66b0c56d5",
-   "source": "morningstar",
-   "name": "Morning Star",
-   "country": "GB",
-   "lang": "en",
-   "url": "https://morningstaronline.co.uk/article/nfl-players-union-demands-probe-hurts-blood-clot-case",
-   "date": "2026-10-22T13:53:27+00:00",
-   "image": null,
-   "title": {
-    "orig": "NFL players’ union demands probe into Hurts blood clot case",
-    "it": "Il sindacato dei giocatori della NFL chiede di indagare sul caso di coaguli di sangue di Hurts",
-    "en": "NFL players’ union demands probe into Hurts blood clot case"
-   },
-   "summary": {
-    "orig": "The NFL Players Association has called for an investigation into the Philadelphia Eagles’ handling of Jalen Hurts’s blood clots, with Commissioner Roger Goodell saying on Wednesday the league welcomes the probe. Goodell said in his news conference at the end of the NFL’s annual…",
-    "it": "La NFL Players Association ha chiesto un'indagine sulla gestione dei coaguli di sangue di Jalen Hurts da parte dei Philadelphia Eagles, con il commissario Roger Goodell che ha affermato mercoledì che la lega accoglie con favore l'indagine. Goodell ha detto nella sua conferenza stampa alla fine dell'annuale della NFL...",
-    "en": "The NFL Players Association has called for an investigation into the Philadelphia Eagles’ handling of Jalen Hurts’s blood clots, with Commissioner Roger Goodell saying on Wednesday the league welcomes the probe. Goodell said in his news conference at the end of the NFL’s annual…"
-   }
-  },
-  {
-   "id": "0431e0716a89f1cc",
-   "source": "morningstar",
-   "name": "Morning Star",
-   "country": "GB",
-   "lang": "en",
-   "url": "https://morningstaronline.co.uk/article/train-drivers-union-slams-flynns-failure-palestine-occupation-profiteers",
-   "date": "2026-10-22T13:51:03+00:00",
-   "image": null,
-   "title": {
-    "orig": "Train drivers' union slams Flynn’s failure on Palestine occupation profiteers",
-    "it": "Il sindacato dei macchinisti critica il fallimento di Flynn contro i profittatori dell’occupazione palestinese",
-    "en": "Train drivers' union slams Flynn’s failure on Palestine occupation profiteers"
-   },
-   "summary": {
-    "orig": "TRAIN drivers’ union Aslef have slammed transport secretary Stephen Flynn’s failure to exclude a firm operating in Israel’s illegal settlements from bidding to build new ScotRail trains. The announcement of the shortlist to build ScotRail’s new suburban train fleet caused uproar…",
-    "it": "Il sindacato dei macchinisti Aslef ha criticato il fallimento del segretario ai trasporti Stephen Flynn nell’escludere un’azienda che opera negli insediamenti illegali di Israele dalla gara per costruire nuovi treni ScotRail. L’annuncio della rosa dei candidati per costruire la nuova flotta di treni suburbani di ScotRail ha suscitato scalpore…",
-    "en": "TRAIN drivers’ union Aslef have slammed transport secretary Stephen Flynn’s failure to exclude a firm operating in Israel’s illegal settlements from bidding to build new ScotRail trains. The announcement of the shortlist to build ScotRail’s new suburban train fleet caused uproar…"
-   }
-  },
-  {
    "id": "6db9d51165d93375",
    "source": "mundoobrero",
    "name": "Mundo Obrero",
@@ -9903,46 +9817,6 @@
     "orig": "En byggnadsarbetare föll igår onsdag från hög höjd på Stegras stora stålverksbygge i Boden. Idag bekräftar polisen att mannen avlidit. En anmälan gällande vållande till annans död genom arbetsmiljöbrott har upprättats. Mannen var i 65-årsåldern och kom från ett annat europeiskt…",
     "it": "Ieri mercoledì un operaio edile è caduto da una grande altezza nella grande acciaieria di Stegra a Boden. Oggi la polizia conferma che l'uomo è morto. È stata redatta una denuncia per aver causato la morte di un'altra persona a causa di violazioni dell'ambiente di lavoro. L’uomo aveva 65 anni e veniva da un altro europeo…",
     "en": "A construction worker fell yesterday Wednesday from a great height at Stegra's large steel mill construction in Boden. Today, the police confirm that the man has died. A report regarding causing the death of another through work environment violations has been drawn up. The man was 65 years old and came from another European…"
-   }
-  },
-  {
-   "id": "b49e0152316108ce",
-   "source": "mundoobrero",
-   "name": "Mundo Obrero",
-   "country": "ES",
-   "lang": "es",
-   "url": "https://mundoobrero.es/2026/10/22/argentina-y-el-candombe/",
-   "date": "2026-10-22T10:11:39+00:00",
-   "image": "https://i0.wp.com/mundoobrero.es/wp-content/uploads/2026/10/candombe_uruguayo.jpg?fit=960%2C640&ssl=1",
-   "title": {
-    "orig": "Argentina y el candombe",
-    "it": "Argentina e candombe",
-    "en": "Argentina and candombe"
-   },
-   "summary": {
-    "orig": "“Y si yo fuera negro?, ¿no me hubieran querido igual?, ¿qué hubiera pasado?”Diego A. Maradona Más allá del mero hecho de perder o ganar, un mundial de fútbol es también un evento geopolítico de primer orden, ahí la presencia insistente de Donald Trump y sus contubernios con la…",
-    "it": "\"E se fossi nero? Non mi avrebbero amato allo stesso modo? Cosa sarebbe successo?\" Diego A. Maradona Al di là del semplice fatto di perdere o vincere, un Mondiale di calcio è anche un evento geopolitico di prim'ordine, da qui l'insistente presenza di Donald Trump e la sua collusione con...",
-    "en": "“And if I were black? Would they not have loved me the same? What would have happened?”Diego A. Maradona Beyond the mere fact of losing or winning, a soccer World Cup is also a geopolitical event of the first order, hence the insistent presence of Donald Trump and his collusion with…"
-   }
-  },
-  {
-   "id": "ad0a08addfba3b3a",
-   "source": "proletaren",
-   "name": "Proletären",
-   "country": "SE",
-   "lang": "sv",
-   "url": "https://proletaren.se/artikel/notis-odlingsforetag-far-bota-250-000-efter-arbetsplatsolycka-med-livshotande-skador/",
-   "date": "2026-10-22T09:10:52+00:00",
-   "image": "https://cdn.proletaren.se/wp-content/uploads/2026/10/potatis-1024x576.png",
-   "title": {
-    "orig": "Odlingsföretag får böta 250.000 efter allvarlig olycka med sorteringsmaskin",
-    "it": "Azienda di coltivazione multata di 250.000 euro dopo un grave incidente con una calibratrice",
-    "en": "Cultivation company fined 250,000 after serious accident with sorting machine"
-   },
-   "summary": {
-    "orig": "Bjälbo Trädgård, ett odlingsföretag i Östergötlands län, tvingas betala en företagsbot på 250.000 kronor, efter en arbetsplatsolycka där en anställd fick livshotande skador. Arbetstagaren jobbade vid en nyinstallerad sorteringsmaskin och avlägsnade en potatis som hade fastnat…",
-    "it": "Bjälbo Trädgård, un'azienda di coltivazione nella contea di Östergötland, è costretta a pagare una multa aziendale di 250.000 corone svedesi, dopo un incidente sul lavoro in cui un dipendente ha riportato lesioni mortali. L'operaio stava lavorando ad una calibratrice appena installata e ha rimosso una patata che si era attaccata...",
-    "en": "Bjälbo Trädgård, a cultivation company in Östergötland county, is forced to pay a corporate fine of SEK 250,000, after a workplace accident in which an employee suffered life-threatening injuries. The worker was working at a newly installed sorting machine and removed a potato that had stuck…"
    }
   }
  ]
