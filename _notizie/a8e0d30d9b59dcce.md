@@ -2,7 +2,7 @@
 layout: "article"
 lang: "it"
 nid: "a8e0d30d9b59dcce"
-title: "Deputado federal eleito Pedro Rousseff sofre acidente de carro na Fernão Dias"
+title: "Il deputato federale eletto Pedro Rousseff subisce un incidente stradale a Fernão Dias"
 orig_title: "Deputado federal eleito Pedro Rousseff sofre acidente de carro na Fernão Dias"
 date: "2026-10-25T20:57:00+00:00"
 source: "brasildefato"
@@ -12,7 +12,7 @@ orig_lang: "pt"
 orig_url: "https://www.brasildefato.com.br/2026/10/25/deputado-federal-eleito-pedro-rousseff-sofre-acidente-de-carro-na-fernao-dias/"
 image: null
 paragraphs: null
-excerpt_text: "O deputado federal Pedro Rousseff (PT-MG) sofreu um acidente neste domingo (25) na Rodovia Fernão Dias. A informação foi publicada por sua assessoria nas redes sociais, com uma foto do automóvel amassado. Não há detalhes sobre seu estado de saúde. Segundo a nota, o parlamentar…"
+excerpt_text: "Il deputato federale Pedro Rousseff (PT-MG) ha avuto un incidente questa domenica (25) sulla Rodovia Fernão Dias. L'informazione è stata pubblicata dal suo ufficio sui social, con una foto dell'auto schiacciata. Non ci sono dettagli sul suo stato di salute. Secondo la nota, il parlamentare..."
 alt: "/en/news/a8e0d30d9b59dcce/"
 sitemap: false
 ---
