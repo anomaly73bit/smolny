@@ -36,7 +36,6 @@ jobs:
       - name: Raccolta e traduzione
         env:
           # nei giri lanciati a mano o da un push si riprovano anche le fonti in errore
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SMOLNY_RETRY_ALL: ${{ github.event_name != 'schedule' && '1' || '' }}
         run: python robot/smolny.py
 
