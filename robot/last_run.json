@@ -1,14 +1,13 @@
 {
- "run": "2026-10-26T20:38:47+00:00",
- "new": 171,
+ "run": "2026-10-27T00:37:09+00:00",
+ "new": 108,
  "published": 500,
  "pending_translation": 0,
- "sources_ok": 30,
+ "sources_ok": 29,
  "sources_total": 50,
- "translate_ok": 163,
+ "translate_ok": 71,
  "translate_fail": 0,
  "errors": {},
- "synth_short_text": 1,
  "synth_stopped": "chiave ANTHROPIC_API_KEY non impostata",
  "synth_done": 0,
  "synth_total": 0
